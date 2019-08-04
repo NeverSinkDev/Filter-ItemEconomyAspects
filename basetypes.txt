@@ -1,1 +1,5758 @@
-{"Opal Ring":[{"Name":"Opal Ring","BaseType":"Opal Ring","Special":"Elder","Aspects":[]}],"War Plate":[{"Name":"War Plate","BaseType":"War Plate","Special":"Shaper","Aspects":[]}],"Bone Helmet":[{"Name":"Bone Helmet","BaseType":"Bone Helmet","Special":"Elder","Aspects":[]}],"Fingerless Silk Gloves":[{"Name":"Fingerless Silk Gloves","BaseType":"Fingerless Silk Gloves","Special":"Shaper","Aspects":[]}],"Crystal Belt":[{"Name":"Crystal Belt","BaseType":"Crystal Belt","Special":"Shaper","Aspects":[]}],"Two-Toned Boots":[{"Name":"Two-Toned Boots","BaseType":"Two-Toned Boots","Special":"Shaper","Aspects":[]}],"Opal Sceptre":[{"Name":"Opal Sceptre","BaseType":"Opal Sceptre","Special":"Shaper","Aspects":[]}],"Driftwood Wand":[{"Name":"Driftwood Wand","BaseType":"Driftwood Wand","Special":null,"Aspects":[]}],"Void Sceptre":[{"Name":"Void Sceptre","BaseType":"Void Sceptre","Special":"Shaper","Aspects":[]}],"Marble Amulet":[{"Name":"Marble Amulet","BaseType":"Marble Amulet","Special":"Elder","Aspects":[]}],"Reaver Axe":[{"Name":"Reaver Axe","BaseType":"Reaver Axe","Special":null,"Aspects":[]}],"Prismatic Ring":[{"Name":"Prismatic Ring","BaseType":"Prismatic Ring","Special":"Shaper","Aspects":[]}],"Steel Ring":[{"Name":"Steel Ring","BaseType":"Steel Ring","Special":"Elder","Aspects":[]}],"Profane Wand":[{"Name":"Profane Wand","BaseType":"Profane Wand","Special":"Shaper","Aspects":[]}],"Dream Mace":[{"Name":"Dream Mace","BaseType":"Dream Mace","Special":"Shaper","Aspects":[]}],"Ironscale Gauntlets":[{"Name":"Ironscale Gauntlets","BaseType":"Ironscale Gauntlets","Special":"Elder","Aspects":[]}],"Totemic Maul":[{"Name":"Totemic Maul","BaseType":"Totemic Maul","Special":"Shaper","Aspects":[]}],"Short Bow":[{"Name":"Short Bow","BaseType":"Short Bow","Special":"Elder","Aspects":[]}],"Astral Plate":[{"Name":"Astral Plate","BaseType":"Astral Plate","Special":"Elder","Aspects":[]}],"Scarlet Raiment":[{"Name":"Scarlet Raiment","BaseType":"Scarlet Raiment","Special":"Shaper","Aspects":[]}],"Rawhide Boots":[{"Name":"Rawhide Boots","BaseType":"Rawhide Boots","Special":null,"Aspects":[]}],"Fishscale Gauntlets":[{"Name":"Fishscale Gauntlets","BaseType":"Fishscale Gauntlets","Special":"Shaper","Aspects":[]}],"Hubris Circlet":[{"Name":"Hubris Circlet","BaseType":"Hubris Circlet","Special":"Shaper","Aspects":[]}],"Tricorne":[{"Name":"Tricorne","BaseType":"Tricorne","Special":null,"Aspects":[]}],"Opal Wand":[{"Name":"Opal Wand","BaseType":"Opal Wand","Special":"Shaper","Aspects":[]}],"Pagan Wand":[{"Name":"Pagan Wand","BaseType":"Pagan Wand","Special":"Shaper","Aspects":[]}],"Wyrm Mace":[{"Name":"Wyrm Mace","BaseType":"Wyrm Mace","Special":"Shaper","Aspects":[]}],"Wrapped Boots":[{"Name":"Wrapped Boots","BaseType":"Wrapped Boots","Special":"Elder","Aspects":[]}],"Driftwood Sceptre":[{"Name":"Driftwood Sceptre","BaseType":"Driftwood Sceptre","Special":null,"Aspects":[]}],"Vaal Sceptre":[{"Name":"Vaal Sceptre","BaseType":"Vaal Sceptre","Special":"Shaper","Aspects":[]}],"Blue Pearl Amulet":[{"Name":"Blue Pearl Amulet","BaseType":"Blue Pearl Amulet","Special":"Shaper","Aspects":[]}],"Gripped Gloves":[{"Name":"Gripped Gloves","BaseType":"Gripped Gloves","Special":"Shaper","Aspects":[]}],"Grove Bow":[{"Name":"Grove Bow","BaseType":"Grove Bow","Special":"Elder","Aspects":[]}],"Sorcerer Boots":[{"Name":"Sorcerer Boots","BaseType":"Sorcerer Boots","Special":"Shaper","Aspects":[]}],"Quartz Wand":[{"Name":"Quartz Wand","BaseType":"Quartz Wand","Special":"Elder","Aspects":[]}],"Rawhide Gloves":[{"Name":"Rawhide Gloves","BaseType":"Rawhide Gloves","Special":null,"Aspects":[]}],"Reflex Bow":[{"Name":"Reflex Bow","BaseType":"Reflex Bow","Special":null,"Aspects":[]}],"Ceremonial Mace":[{"Name":"Ceremonial Mace","BaseType":"Ceremonial Mace","Special":"Shaper","Aspects":[]}],"Sparkling Claw":[{"Name":"Sparkling Claw","BaseType":"Sparkling Claw","Special":"Shaper","Aspects":[]}],"Sambar Sceptre":[{"Name":"Sambar Sceptre","BaseType":"Sambar Sceptre","Special":"Shaper","Aspects":[]}],"Imp Dagger":[{"Name":"Imp Dagger","BaseType":"Imp Dagger","Special":null,"Aspects":[]}],"Spiked Gloves":[{"Name":"Spiked Gloves","BaseType":"Spiked Gloves","Special":"Elder","Aspects":[]}],"Vile Staff":[{"Name":"Vile Staff","BaseType":"Vile Staff","Special":null,"Aspects":[]}],"Prong Dagger":[{"Name":"Prong Dagger","BaseType":"Prong Dagger","Special":"Shaper","Aspects":[]}],"Dusk Blade":[{"Name":"Dusk Blade","BaseType":"Dusk Blade","Special":"Shaper","Aspects":[]}],"Soldier Helmet":[{"Name":"Soldier Helmet","BaseType":"Soldier Helmet","Special":"Elder","Aspects":[]}],"Abyssal Sceptre":[{"Name":"Abyssal Sceptre","BaseType":"Abyssal Sceptre","Special":"Shaper","Aspects":[]}],"Titanium Spirit Shield":[{"Name":"Titanium Spirit Shield","BaseType":"Titanium Spirit Shield","Special":"Shaper","Aspects":[]}],"Carnal Sceptre":[{"Name":"Carnal Sceptre","BaseType":"Carnal Sceptre","Special":"Shaper","Aspects":[]}],"Platinum Kris":[{"Name":"Platinum Kris","BaseType":"Platinum Kris","Special":"Shaper","Aspects":[]}],"Leather Belt":[{"Name":"Leather Belt","BaseType":"Leather Belt","Special":"Shaper","Aspects":[]}],"Shadow Sceptre":[{"Name":"Shadow Sceptre","BaseType":"Shadow Sceptre","Special":"Elder","Aspects":[]}],"Crystal Sceptre":[{"Name":"Crystal Sceptre","BaseType":"Crystal Sceptre","Special":"Shaper","Aspects":[]}],"Shadow Axe":[{"Name":"Shadow Axe","BaseType":"Shadow Axe","Special":"Shaper","Aspects":[]}],"Ceremonial Kite Shield":[{"Name":"Ceremonial Kite Shield","BaseType":"Ceremonial Kite Shield","Special":"Elder","Aspects":[]}],"Great Helmet":[{"Name":"Great Helmet","BaseType":"Great Helmet","Special":null,"Aspects":[]}],"Horned Sceptre":[{"Name":"Horned Sceptre","BaseType":"Horned Sceptre","Special":"Elder","Aspects":[]}],"Visored Sallet":[{"Name":"Visored Sallet","BaseType":"Visored Sallet","Special":"Elder","Aspects":[]}],"Full Chainmail":[{"Name":"Full Chainmail","BaseType":"Full Chainmail","Special":null,"Aspects":[]}],"Primordial Staff":[{"Name":"Primordial Staff","BaseType":"Primordial Staff","Special":null,"Aspects":[]}],"Engraved Greatsword":[{"Name":"Engraved Greatsword","BaseType":"Engraved Greatsword","Special":null,"Aspects":[]}],"Alloyed Spiked Shield":[{"Name":"Alloyed Spiked Shield","BaseType":"Alloyed Spiked Shield","Special":"Shaper","Aspects":[]}],"Thief's Garb":[{"Name":"Thief's Garb","BaseType":"Thief's Garb","Special":"Elder","Aspects":[]}],"War Sword":[{"Name":"War Sword","BaseType":"War Sword","Special":"Elder","Aspects":[]}],"Infantry Brigandine":[{"Name":"Infantry Brigandine","BaseType":"Infantry Brigandine","Special":null,"Aspects":[]}],"Rusted Hatchet":[{"Name":"Rusted Hatchet","BaseType":"Rusted Hatchet","Special":"Shaper","Aspects":[]}],"Studded Round Shield":[{"Name":"Studded Round Shield","BaseType":"Studded Round Shield","Special":"Elder","Aspects":[]}],"Stone Hammer":[{"Name":"Stone Hammer","BaseType":"Stone Hammer","Special":"Elder","Aspects":[]}],"Wool Shoes":[{"Name":"Wool Shoes","BaseType":"Wool Shoes","Special":null,"Aspects":[]}],"Bronze Sceptre":[{"Name":"Bronze Sceptre","BaseType":"Bronze Sceptre","Special":null,"Aspects":[]}],"Broad Axe":[{"Name":"Broad Axe","BaseType":"Broad Axe","Special":"Elder","Aspects":[]}],"Leather Cap":[{"Name":"Leather Cap","BaseType":"Leather Cap","Special":"Shaper","Aspects":[]}],"Iron Staff":[{"Name":"Iron Staff","BaseType":"Iron Staff","Special":"Shaper","Aspects":[]}],"Clasped Boots":[{"Name":"Clasped Boots","BaseType":"Clasped Boots","Special":null,"Aspects":[]}],"Cone Helmet":[{"Name":"Cone Helmet","BaseType":"Cone Helmet","Special":null,"Aspects":[]}],"Heathen Wand":[{"Name":"Heathen Wand","BaseType":"Heathen Wand","Special":"Shaper","Aspects":[]}],"Copper Kris":[{"Name":"Copper Kris","BaseType":"Copper Kris","Special":"Shaper","Aspects":[]}],"Ezomyte Axe":[{"Name":"Ezomyte Axe","BaseType":"Ezomyte Axe","Special":"Elder","Aspects":[]}],"Quartz Sceptre":[{"Name":"Quartz Sceptre","BaseType":"Quartz Sceptre","Special":"Shaper","Aspects":[]}],"Iron Circlet":[{"Name":"Iron Circlet","BaseType":"Iron Circlet","Special":"Elder","Aspects":[]}],"Boarding Axe":[{"Name":"Boarding Axe","BaseType":"Boarding Axe","Special":null,"Aspects":[]}],"Thorn Rapier":[{"Name":"Thorn Rapier","BaseType":"Thorn Rapier","Special":"Shaper","Aspects":[]}],"Platinum Sceptre":[{"Name":"Platinum Sceptre","BaseType":"Platinum Sceptre","Special":"Shaper","Aspects":[]}],"Stiletto":[{"Name":"Stiletto","BaseType":"Stiletto","Special":"Shaper","Aspects":[]}],"Golden Kris":[{"Name":"Golden Kris","BaseType":"Golden Kris","Special":"Shaper","Aspects":[]}],"Onyx Amulet":[{"Name":"Onyx Amulet","BaseType":"Onyx Amulet","Special":"Shaper","Aspects":[]}],"Silk Slippers":[{"Name":"Silk Slippers","BaseType":"Silk Slippers","Special":"Shaper","Aspects":[]}],"Wild Leather":[{"Name":"Wild Leather","BaseType":"Wild Leather","Special":"Shaper","Aspects":[]}],"Ringmail Gloves":[{"Name":"Ringmail Gloves","BaseType":"Ringmail Gloves","Special":"Elder","Aspects":[]}],"Jagged Maul":[{"Name":"Jagged Maul","BaseType":"Jagged Maul","Special":"Elder","Aspects":[]}],"Buckskin Tunic":[{"Name":"Buckskin Tunic","BaseType":"Buckskin Tunic","Special":null,"Aspects":[]}],"Wool Gloves":[{"Name":"Wool Gloves","BaseType":"Wool Gloves","Special":"Shaper","Aspects":[]}],"Fir Round Shield":[{"Name":"Fir Round Shield","BaseType":"Fir Round Shield","Special":"Elder","Aspects":[]}],"Fright Maul":[{"Name":"Fright Maul","BaseType":"Fright Maul","Special":null,"Aspects":[]}],"Carved Wand":[{"Name":"Carved Wand","BaseType":"Carved Wand","Special":null,"Aspects":[]}],"Composite Bow":[{"Name":"Composite Bow","BaseType":"Composite Bow","Special":"Shaper","Aspects":[]}],"Prophecy Wand":[{"Name":"Prophecy Wand","BaseType":"Prophecy Wand","Special":"Shaper","Aspects":[]}],"Goathide Gloves":[{"Name":"Goathide Gloves","BaseType":"Goathide Gloves","Special":"Shaper","Aspects":[]}],"Crude Bow":[{"Name":"Crude Bow","BaseType":"Crude Bow","Special":"Shaper","Aspects":[]}],"Ochre Sceptre":[{"Name":"Ochre Sceptre","BaseType":"Ochre Sceptre","Special":"Shaper","Aspects":[]}],"Sorcerer Gloves":[{"Name":"Sorcerer Gloves","BaseType":"Sorcerer Gloves","Special":"Shaper","Aspects":[]}],"Arcanist Slippers":[{"Name":"Arcanist Slippers","BaseType":"Arcanist Slippers","Special":"Shaper","Aspects":[]}],"Ritual Sceptre":[{"Name":"Ritual Sceptre","BaseType":"Ritual Sceptre","Special":null,"Aspects":[]}],"Oak Buckler":[{"Name":"Oak Buckler","BaseType":"Oak Buckler","Special":null,"Aspects":[]}],"Battered Foil":[{"Name":"Battered Foil","BaseType":"Battered Foil","Special":"Shaper","Aspects":[]}],"Agate Amulet":[{"Name":"Agate Amulet","BaseType":"Agate Amulet","Special":"Shaper","Aspects":[]}],"Buckskin Tower Shield":[{"Name":"Buckskin Tower Shield","BaseType":"Buckskin Tower Shield","Special":"Shaper","Aspects":[]}],"Sabre":[{"Name":"Sabre","BaseType":"Sabre","Special":"Shaper","Aspects":[]}],"Plague Mask":[{"Name":"Plague Mask","BaseType":"Plague Mask","Special":"Elder","Aspects":[]}],"Sledgehammer":[{"Name":"Sledgehammer","BaseType":"Sledgehammer","Special":"Shaper","Aspects":[]}],"Deerskin Boots":[{"Name":"Deerskin Boots","BaseType":"Deerskin Boots","Special":null,"Aspects":[]}],"Royal Burgonet":[{"Name":"Royal Burgonet","BaseType":"Royal Burgonet","Special":"Elder","Aspects":[]}],"Iron Greaves":[{"Name":"Iron Greaves","BaseType":"Iron Greaves","Special":null,"Aspects":[]}],"Crescent Staff":[{"Name":"Crescent Staff","BaseType":"Crescent Staff","Special":"Shaper","Aspects":[]}],"Plated Greaves":[{"Name":"Plated Greaves","BaseType":"Plated Greaves","Special":"Shaper","Aspects":[]}],"Vine Circlet":[{"Name":"Vine Circlet","BaseType":"Vine Circlet","Special":"Elder","Aspects":[]}],"Steelscale Boots":[{"Name":"Steelscale Boots","BaseType":"Steelscale Boots","Special":"Shaper","Aspects":[]}],"Vaal Regalia":[{"Name":"Vaal Regalia","BaseType":"Vaal Regalia","Special":"Shaper","Aspects":[]}],"Steel Greaves":[{"Name":"Steel Greaves","BaseType":"Steel Greaves","Special":null,"Aspects":[]}],"Tornado Wand":[{"Name":"Tornado Wand","BaseType":"Tornado Wand","Special":"Shaper","Aspects":[]}],"Jingling Spirit Shield":[{"Name":"Jingling Spirit Shield","BaseType":"Jingling Spirit Shield","Special":null,"Aspects":[]}],"Waxed Garb":[{"Name":"Waxed Garb","BaseType":"Waxed Garb","Special":null,"Aspects":[]}],"Hammered Buckler":[{"Name":"Hammered Buckler","BaseType":"Hammered Buckler","Special":null,"Aspects":[]}],"Stag Sceptre":[{"Name":"Stag Sceptre","BaseType":"Stag Sceptre","Special":"Shaper","Aspects":[]}],"Citrine Amulet":[{"Name":"Citrine Amulet","BaseType":"Citrine Amulet","Special":"Shaper","Aspects":[]}],"Mahogany Tower Shield":[{"Name":"Mahogany Tower Shield","BaseType":"Mahogany Tower Shield","Special":"Shaper","Aspects":[]}],"Bronze Gauntlets":[{"Name":"Bronze Gauntlets","BaseType":"Bronze Gauntlets","Special":"Elder","Aspects":[]}],"Petrified Club":[{"Name":"Petrified Club","BaseType":"Petrified Club","Special":"Shaper","Aspects":[]}],"Gold Amulet":[{"Name":"Gold Amulet","BaseType":"Gold Amulet","Special":"Shaper","Aspects":[]}],"Royal Bow":[{"Name":"Royal Bow","BaseType":"Royal Bow","Special":"Shaper","Aspects":[]}],"Lapis Amulet":[{"Name":"Lapis Amulet","BaseType":"Lapis Amulet","Special":"Shaper","Aspects":[]}],"Sallet":[{"Name":"Sallet","BaseType":"Sallet","Special":"Shaper","Aspects":[]}],"Jagged Foil":[{"Name":"Jagged Foil","BaseType":"Jagged Foil","Special":"Shaper","Aspects":[]}],"Great Mallet":[{"Name":"Great Mallet","BaseType":"Great Mallet","Special":"Shaper","Aspects":[]}],"Deerskin Gloves":[{"Name":"Deerskin Gloves","BaseType":"Deerskin Gloves","Special":"Elder","Aspects":[]}],"Jasper Chopper":[{"Name":"Jasper Chopper","BaseType":"Jasper Chopper","Special":"Elder","Aspects":[]}],"Recurve Bow":[{"Name":"Recurve Bow","BaseType":"Recurve Bow","Special":"Elder","Aspects":[]}],"Full Leather":[{"Name":"Full Leather","BaseType":"Full Leather","Special":null,"Aspects":[]}],"Battered Helm":[{"Name":"Battered Helm","BaseType":"Battered Helm","Special":null,"Aspects":[]}],"Barbute Helmet":[{"Name":"Barbute Helmet","BaseType":"Barbute Helmet","Special":"Elder","Aspects":[]}],"Long Staff":[{"Name":"Long Staff","BaseType":"Long Staff","Special":"Shaper","Aspects":[]}],"Turquoise Amulet":[{"Name":"Turquoise Amulet","BaseType":"Turquoise Amulet","Special":"Shaper","Aspects":[]}],"Ambusher":[{"Name":"Ambusher","BaseType":"Ambusher","Special":"Shaper","Aspects":[]}],"Jade Amulet":[{"Name":"Jade Amulet","BaseType":"Jade Amulet","Special":"Shaper","Aspects":[]}],"Tarnished Spirit Shield":[{"Name":"Tarnished Spirit Shield","BaseType":"Tarnished Spirit Shield","Special":"Shaper","Aspects":[]}],"Dagger Axe":[{"Name":"Dagger Axe","BaseType":"Dagger Axe","Special":"Shaper","Aspects":[]}],"Bone Spirit Shield":[{"Name":"Bone Spirit Shield","BaseType":"Bone Spirit Shield","Special":"Elder","Aspects":[]}],"Ornate Spiked Shield":[{"Name":"Ornate Spiked Shield","BaseType":"Ornate Spiked Shield","Special":null,"Aspects":[]}],"Sapphire Ring":[{"Name":"Sapphire Ring","BaseType":"Sapphire Ring","Special":"Shaper","Aspects":[]}],"Amber Amulet":[{"Name":"Amber Amulet","BaseType":"Amber Amulet","Special":"Shaper","Aspects":[]}],"Spiraled Wand":[{"Name":"Spiraled Wand","BaseType":"Spiraled Wand","Special":"Shaper","Aspects":[]}],"Flaying Knife":[{"Name":"Flaying Knife","BaseType":"Flaying Knife","Special":"Elder","Aspects":[]}],"Bronzescale Gauntlets":[{"Name":"Bronzescale Gauntlets","BaseType":"Bronzescale Gauntlets","Special":"Elder","Aspects":[]}],"Paua Amulet":[{"Name":"Paua Amulet","BaseType":"Paua Amulet","Special":"Shaper","Aspects":[]}],"Eclipse Staff":[{"Name":"Eclipse Staff","BaseType":"Eclipse Staff","Special":"Shaper","Aspects":[]}],"Mind Cage":[{"Name":"Mind Cage","BaseType":"Mind Cage","Special":"Shaper","Aspects":[]}],"Leather Hood":[{"Name":"Leather Hood","BaseType":"Leather Hood","Special":"Shaper","Aspects":[]}],"Coral Amulet":[{"Name":"Coral Amulet","BaseType":"Coral Amulet","Special":"Shaper","Aspects":[]}],"Slink Gloves":[{"Name":"Slink Gloves","BaseType":"Slink Gloves","Special":"Shaper","Aspects":[]}],"Redwood Spiked Shield":[{"Name":"Redwood Spiked Shield","BaseType":"Redwood Spiked Shield","Special":"Elder","Aspects":[]}],"Iron Sceptre":[{"Name":"Iron Sceptre","BaseType":"Iron Sceptre","Special":"Shaper","Aspects":[]}],"Full Plate":[{"Name":"Full Plate","BaseType":"Full Plate","Special":"Elder","Aspects":[]}],"Twig Spirit Shield":[{"Name":"Twig Spirit Shield","BaseType":"Twig Spirit Shield","Special":null,"Aspects":[]}],"Two-Handed Sword":[{"Name":"Two-Handed Sword","BaseType":"Two-Handed Sword","Special":"Elder","Aspects":[]}],"Slink Boots":[{"Name":"Slink Boots","BaseType":"Slink Boots","Special":"Shaper","Aspects":[]}],"Bone Armour":[{"Name":"Bone Armour","BaseType":"Bone Armour","Special":null,"Aspects":[]}],"Engraved Hatchet":[{"Name":"Engraved Hatchet","BaseType":"Engraved Hatchet","Special":"Shaper","Aspects":[]}],"Riveted Boots":[{"Name":"Riveted Boots","BaseType":"Riveted Boots","Special":null,"Aspects":[]}],"Burnished Spiked Shield":[{"Name":"Burnished Spiked Shield","BaseType":"Burnished Spiked Shield","Special":"Elder","Aspects":[]}],"Iron Mask":[{"Name":"Iron Mask","BaseType":"Iron Mask","Special":"Elder","Aspects":[]}],"Carving Knife":[{"Name":"Carving Knife","BaseType":"Carving Knife","Special":"Shaper","Aspects":[]}],"Imbued Wand":[{"Name":"Imbued Wand","BaseType":"Imbued Wand","Special":"Shaper","Aspects":[]}],"Lion Pelt":[{"Name":"Lion Pelt","BaseType":"Lion Pelt","Special":"Shaper","Aspects":[]}],"Pinnacle Tower Shield":[{"Name":"Pinnacle Tower Shield","BaseType":"Pinnacle Tower Shield","Special":"Shaper","Aspects":[]}],"Copper Tower Shield":[{"Name":"Copper Tower Shield","BaseType":"Copper Tower Shield","Special":"Shaper","Aspects":[]}],"Spiny Maul":[{"Name":"Spiny Maul","BaseType":"Spiny Maul","Special":"Elder","Aspects":[]}],"Ringmail Boots":[{"Name":"Ringmail Boots","BaseType":"Ringmail Boots","Special":null,"Aspects":[]}],"Steel Gauntlets":[{"Name":"Steel Gauntlets","BaseType":"Steel Gauntlets","Special":null,"Aspects":[]}],"Wyrmbone Rapier":[{"Name":"Wyrmbone Rapier","BaseType":"Wyrmbone Rapier","Special":"Elder","Aspects":[]}],"Goat's Horn":[{"Name":"Goat's Horn","BaseType":"Goat's Horn","Special":null,"Aspects":[]}],"Curved Blade":[{"Name":"Curved Blade","BaseType":"Curved Blade","Special":"Shaper","Aspects":[]}],"Ezomyte Spiked Shield":[{"Name":"Ezomyte Spiked Shield","BaseType":"Ezomyte Spiked Shield","Special":null,"Aspects":[]}],"Solar Maul":[{"Name":"Solar Maul","BaseType":"Solar Maul","Special":"Elder","Aspects":[]}],"Spine Bow":[{"Name":"Spine Bow","BaseType":"Spine Bow","Special":null,"Aspects":[]}],"Basket Rapier":[{"Name":"Basket Rapier","BaseType":"Basket Rapier","Special":"Shaper","Aspects":[]}],"Antique Greaves":[{"Name":"Antique Greaves","BaseType":"Antique Greaves","Special":"Shaper","Aspects":[]}],"Harmonic Spirit Shield":[{"Name":"Harmonic Spirit Shield","BaseType":"Harmonic Spirit Shield","Special":"Shaper","Aspects":[]}],"Two-Stone Ring":[{"Name":"Two-Stone Ring","BaseType":"Two-Stone Ring","Special":"Elder","Aspects":[]}],"Eternal Burgonet":[{"Name":"Eternal Burgonet","BaseType":"Eternal Burgonet","Special":"Elder","Aspects":[]}],"Poignard":[{"Name":"Poignard","BaseType":"Poignard","Special":"Shaper","Aspects":[]}],"Diamond Ring":[{"Name":"Diamond Ring","BaseType":"Diamond Ring","Special":"Elder","Aspects":[]}],"Eelskin Tunic":[{"Name":"Eelskin Tunic","BaseType":"Eelskin Tunic","Special":"Elder","Aspects":[]}],"Lacquered Buckler":[{"Name":"Lacquered Buckler","BaseType":"Lacquered Buckler","Special":"Elder","Aspects":[]}],"Baselard":[{"Name":"Baselard","BaseType":"Baselard","Special":"Elder","Aspects":[]}],"Woodful Staff":[{"Name":"Woodful Staff","BaseType":"Woodful Staff","Special":"Elder","Aspects":[]}],"Royal Staff":[{"Name":"Royal Staff","BaseType":"Royal Staff","Special":"Elder","Aspects":[]}],"Spectral Axe":[{"Name":"Spectral Axe","BaseType":"Spectral Axe","Special":null,"Aspects":[]}],"Bronze Tower Shield":[{"Name":"Bronze Tower Shield","BaseType":"Bronze Tower Shield","Special":null,"Aspects":[]}],"Mesh Boots":[{"Name":"Mesh Boots","BaseType":"Mesh Boots","Special":"Shaper","Aspects":[]}],"Ornate Mace":[{"Name":"Ornate Mace","BaseType":"Ornate Mace","Special":null,"Aspects":[]}],"Colossal Tower Shield":[{"Name":"Colossal Tower Shield","BaseType":"Colossal Tower Shield","Special":"Elder","Aspects":[]}],"Gilded Sallet":[{"Name":"Gilded Sallet","BaseType":"Gilded Sallet","Special":null,"Aspects":[]}],"Stealth Boots":[{"Name":"Stealth Boots","BaseType":"Stealth Boots","Special":"Shaper","Aspects":[]}],"Imperial Bow":[{"Name":"Imperial Bow","BaseType":"Imperial Bow","Special":"Shaper","Aspects":[]}],"War Hammer":[{"Name":"War Hammer","BaseType":"War Hammer","Special":"Shaper","Aspects":[]}],"Wrist Chopper":[{"Name":"Wrist Chopper","BaseType":"Wrist Chopper","Special":"Shaper","Aspects":[]}],"Searching Eye Jewel":[{"Name":"Searching Eye Jewel","BaseType":"Searching Eye Jewel","Special":null,"Aspects":[]}],"Torture Cage":[{"Name":"Torture Cage","BaseType":"Torture Cage","Special":"Elder","Aspects":[]}],"Ancient Sword":[{"Name":"Ancient Sword","BaseType":"Ancient Sword","Special":"Shaper","Aspects":[]}],"Vanguard Belt":[{"Name":"Vanguard Belt","BaseType":"Vanguard Belt","Special":"Elder","Aspects":[]}],"Gavel":[{"Name":"Gavel","BaseType":"Gavel","Special":"Shaper","Aspects":[]}],"Deicide Mask":[{"Name":"Deicide Mask","BaseType":"Deicide Mask","Special":"Shaper","Aspects":[]}],"Cabalist Regalia":[{"Name":"Cabalist Regalia","BaseType":"Cabalist Regalia","Special":"Elder","Aspects":[]}],"Arena Plate":[{"Name":"Arena Plate","BaseType":"Arena Plate","Special":"Elder","Aspects":[]}],"Festival Mask":[{"Name":"Festival Mask","BaseType":"Festival Mask","Special":"Elder","Aspects":[]}],"Karui Maul":[{"Name":"Karui Maul","BaseType":"Karui Maul","Special":null,"Aspects":[]}],"Boot Knife":[{"Name":"Boot Knife","BaseType":"Boot Knife","Special":"Shaper","Aspects":[]}],"Fencer Helm":[{"Name":"Fencer Helm","BaseType":"Fencer Helm","Special":null,"Aspects":[]}],"Velvet Gloves":[{"Name":"Velvet Gloves","BaseType":"Velvet Gloves","Special":"Shaper","Aspects":[]}],"Silk Robe":[{"Name":"Silk Robe","BaseType":"Silk Robe","Special":"Shaper","Aspects":[]}],"Painted Tower Shield":[{"Name":"Painted Tower Shield","BaseType":"Painted Tower Shield","Special":"Elder","Aspects":[]}],"Topaz Ring":[{"Name":"Topaz Ring","BaseType":"Topaz Ring","Special":"Elder","Aspects":[]}],"Jewelled Foil":[{"Name":"Jewelled Foil","BaseType":"Jewelled Foil","Special":"Shaper","Aspects":[]}],"Silk Gloves":[{"Name":"Silk Gloves","BaseType":"Silk Gloves","Special":"Shaper","Aspects":[]}],"Sovereign Spiked Shield":[{"Name":"Sovereign Spiked Shield","BaseType":"Sovereign Spiked Shield","Special":null,"Aspects":[]}],"Bronzescale Boots":[{"Name":"Bronzescale Boots","BaseType":"Bronzescale Boots","Special":"Elder","Aspects":[]}],"Linden Kite Shield":[{"Name":"Linden Kite Shield","BaseType":"Linden Kite Shield","Special":"Elder","Aspects":[]}],"Leatherscale Boots":[{"Name":"Leatherscale Boots","BaseType":"Leatherscale Boots","Special":null,"Aspects":[]}],"Shabby Jerkin":[{"Name":"Shabby Jerkin","BaseType":"Shabby Jerkin","Special":"Elder","Aspects":[]}],"Murder Mitts":[{"Name":"Murder Mitts","BaseType":"Murder Mitts","Special":"Shaper","Aspects":[]}],"Coral Ring":[{"Name":"Coral Ring","BaseType":"Coral Ring","Special":"Elder","Aspects":[]}],"Baroque Round Shield":[{"Name":"Baroque Round Shield","BaseType":"Baroque Round Shield","Special":null,"Aspects":[]}],"Faun's Horn":[{"Name":"Faun's Horn","BaseType":"Faun's Horn","Special":"Shaper","Aspects":[]}],"Karui Sceptre":[{"Name":"Karui Sceptre","BaseType":"Karui Sceptre","Special":"Shaper","Aspects":[]}],"Lead Sceptre":[{"Name":"Lead Sceptre","BaseType":"Lead Sceptre","Special":"Shaper","Aspects":[]}],"Prophet Crown":[{"Name":"Prophet Crown","BaseType":"Prophet Crown","Special":null,"Aspects":[]}],"Tyrant's Sekhem":[{"Name":"Tyrant's Sekhem","BaseType":"Tyrant's Sekhem","Special":"Shaper","Aspects":[]}],"Sekhem":[{"Name":"Sekhem","BaseType":"Sekhem","Special":"Shaper","Aspects":[]}],"Skean":[{"Name":"Skean","BaseType":"Skean","Special":"Shaper","Aspects":[]}],"Vaal Buckler":[{"Name":"Vaal Buckler","BaseType":"Vaal Buckler","Special":"Elder","Aspects":[]}],"Death Bow":[{"Name":"Death Bow","BaseType":"Death Bow","Special":null,"Aspects":[]}],"Spectral Sword":[{"Name":"Spectral Sword","BaseType":"Spectral Sword","Special":"Shaper","Aspects":[]}],"Strapped Boots":[{"Name":"Strapped Boots","BaseType":"Strapped Boots","Special":null,"Aspects":[]}],"Steel Kite Shield":[{"Name":"Steel Kite Shield","BaseType":"Steel Kite Shield","Special":"Shaper","Aspects":[]}],"Lordly Plate":[{"Name":"Lordly Plate","BaseType":"Lordly Plate","Special":"Shaper","Aspects":[]}],"Thresher Claw":[{"Name":"Thresher Claw","BaseType":"Thresher Claw","Special":"Shaper","Aspects":[]}],"Brass Spirit Shield":[{"Name":"Brass Spirit Shield","BaseType":"Brass Spirit Shield","Special":null,"Aspects":[]}],"Sadist Garb":[{"Name":"Sadist Garb","BaseType":"Sadist Garb","Special":"Shaper","Aspects":[]}],"Blood Sceptre":[{"Name":"Blood Sceptre","BaseType":"Blood Sceptre","Special":"Shaper","Aspects":[]}],"Crystal Wand":[{"Name":"Crystal Wand","BaseType":"Crystal Wand","Special":"Shaper","Aspects":[]}],"Demon Dagger":[{"Name":"Demon Dagger","BaseType":"Demon Dagger","Special":"Shaper","Aspects":[]}],"Ruby Ring":[{"Name":"Ruby Ring","BaseType":"Ruby Ring","Special":"Elder","Aspects":[]}],"Royal Sceptre":[{"Name":"Royal Sceptre","BaseType":"Royal Sceptre","Special":"Shaper","Aspects":[]}],"Crusader Chainmail":[{"Name":"Crusader Chainmail","BaseType":"Crusader Chainmail","Special":"Elder","Aspects":[]}],"Piledriver":[{"Name":"Piledriver","BaseType":"Piledriver","Special":"Elder","Aspects":[]}],"Demon's Horn":[{"Name":"Demon's Horn","BaseType":"Demon's Horn","Special":"Shaper","Aspects":[]}],"Sai":[{"Name":"Sai","BaseType":"Sai","Special":"Shaper","Aspects":[]}],"Riveted Gloves":[{"Name":"Riveted Gloves","BaseType":"Riveted Gloves","Special":"Shaper","Aspects":[]}],"Hypnotic Eye Jewel":[{"Name":"Hypnotic Eye Jewel","BaseType":"Hypnotic Eye Jewel","Special":null,"Aspects":[]}],"Cutlass":[{"Name":"Cutlass","BaseType":"Cutlass","Special":"Elder","Aspects":[]}],"Compound Spiked Shield":[{"Name":"Compound Spiked Shield","BaseType":"Compound Spiked Shield","Special":"Elder","Aspects":[]}],"Bone Bow":[{"Name":"Bone Bow","BaseType":"Bone Bow","Special":"Elder","Aspects":[]}],"War Buckler":[{"Name":"War Buckler","BaseType":"War Buckler","Special":null,"Aspects":[]}],"Grinning Fetish":[{"Name":"Grinning Fetish","BaseType":"Grinning Fetish","Special":"Shaper","Aspects":[]}],"Moon Staff":[{"Name":"Moon Staff","BaseType":"Moon Staff","Special":"Shaper","Aspects":[]}],"Full Scale Armour":[{"Name":"Full Scale Armour","BaseType":"Full Scale Armour","Special":"Shaper","Aspects":[]}],"Cat's Paw":[{"Name":"Cat's Paw","BaseType":"Cat's Paw","Special":"Shaper","Aspects":[]}],"Walnut Spirit Shield":[{"Name":"Walnut Spirit Shield","BaseType":"Walnut Spirit Shield","Special":null,"Aspects":[]}],"Silken Garb":[{"Name":"Silken Garb","BaseType":"Silken Garb","Special":"Shaper","Aspects":[]}],"Crusader Helmet":[{"Name":"Crusader Helmet","BaseType":"Crusader Helmet","Special":null,"Aspects":[]}],"Raven Mask":[{"Name":"Raven Mask","BaseType":"Raven Mask","Special":null,"Aspects":[]}],"Bladed Mace":[{"Name":"Bladed Mace","BaseType":"Bladed Mace","Special":"Shaper","Aspects":[]}],"Gilded Axe":[{"Name":"Gilded Axe","BaseType":"Gilded Axe","Special":"Elder","Aspects":[]}],"Primitive Staff":[{"Name":"Primitive Staff","BaseType":"Primitive Staff","Special":"Shaper","Aspects":[]}],"Goathide Boots":[{"Name":"Goathide Boots","BaseType":"Goathide Boots","Special":"Shaper","Aspects":[]}],"Oiled Coat":[{"Name":"Oiled Coat","BaseType":"Oiled Coat","Special":"Shaper","Aspects":[]}],"Padded Jacket":[{"Name":"Padded Jacket","BaseType":"Padded Jacket","Special":"Elder","Aspects":[]}],"Barbed Club":[{"Name":"Barbed Club","BaseType":"Barbed Club","Special":"Elder","Aspects":[]}],"Tribal Circlet":[{"Name":"Tribal Circlet","BaseType":"Tribal Circlet","Special":"Elder","Aspects":[]}],"Jasper Axe":[{"Name":"Jasper Axe","BaseType":"Jasper Axe","Special":"Shaper","Aspects":[]}],"Engraved Wand":[{"Name":"Engraved Wand","BaseType":"Engraved Wand","Special":"Shaper","Aspects":[]}],"Desert Brigandine":[{"Name":"Desert Brigandine","BaseType":"Desert Brigandine","Special":"Shaper","Aspects":[]}],"Arcanist Gloves":[{"Name":"Arcanist Gloves","BaseType":"Arcanist Gloves","Special":"Shaper","Aspects":[]}],"Reinforced Kite Shield":[{"Name":"Reinforced Kite Shield","BaseType":"Reinforced Kite Shield","Special":"Shaper","Aspects":[]}],"Unset Ring":[{"Name":"Unset Ring","BaseType":"Unset Ring","Special":"Elder","Aspects":[]}],"Mage's Vestment":[{"Name":"Mage's Vestment","BaseType":"Mage's Vestment","Special":"Shaper","Aspects":[]}],"Ezomyte Tower Shield":[{"Name":"Ezomyte Tower Shield","BaseType":"Ezomyte Tower Shield","Special":"Shaper","Aspects":[]}],"Glorious Plate":[{"Name":"Glorious Plate","BaseType":"Glorious Plate","Special":"Elder","Aspects":[]}],"Skinning Knife":[{"Name":"Skinning Knife","BaseType":"Skinning Knife","Special":null,"Aspects":[]}],"Conjurer Boots":[{"Name":"Conjurer Boots","BaseType":"Conjurer Boots","Special":"Shaper","Aspects":[]}],"Battle Plate":[{"Name":"Battle Plate","BaseType":"Battle Plate","Special":"Shaper","Aspects":[]}],"Decorative Axe":[{"Name":"Decorative Axe","BaseType":"Decorative Axe","Special":"Shaper","Aspects":[]}],"Sage Wand":[{"Name":"Sage Wand","BaseType":"Sage Wand","Special":"Shaper","Aspects":[]}],"Battle Hammer":[{"Name":"Battle Hammer","BaseType":"Battle Hammer","Special":"Elder","Aspects":[]}],"Sundering Axe":[{"Name":"Sundering Axe","BaseType":"Sundering Axe","Special":"Shaper","Aspects":[]}],"Fiend Dagger":[{"Name":"Fiend Dagger","BaseType":"Fiend Dagger","Special":"Shaper","Aspects":[]}],"Nubuck Boots":[{"Name":"Nubuck Boots","BaseType":"Nubuck Boots","Special":"Elder","Aspects":[]}],"Variscite Blade":[{"Name":"Variscite Blade","BaseType":"Variscite Blade","Special":"Shaper","Aspects":[]}],"Crusader Buckler":[{"Name":"Crusader Buckler","BaseType":"Crusader Buckler","Special":"Elder","Aspects":[]}],"Mesh Gloves":[{"Name":"Mesh Gloves","BaseType":"Mesh Gloves","Special":"Elder","Aspects":[]}],"Sun Leather":[{"Name":"Sun Leather","BaseType":"Sun Leather","Special":null,"Aspects":[]}],"Supreme Spiked Shield":[{"Name":"Supreme Spiked Shield","BaseType":"Supreme Spiked Shield","Special":"Shaper","Aspects":[]}],"Spike-Point Arrow Quiver":[{"Name":"Spike-Point Arrow Quiver","BaseType":"Spike-Point Arrow Quiver","Special":"Shaper","Aspects":[]}],"Ezomyte Burgonet":[{"Name":"Ezomyte Burgonet","BaseType":"Ezomyte Burgonet","Special":"Elder","Aspects":[]}],"Mosaic Kite Shield":[{"Name":"Mosaic Kite Shield","BaseType":"Mosaic Kite Shield","Special":"Elder","Aspects":[]}],"Iron Ring":[{"Name":"Iron Ring","BaseType":"Iron Ring","Special":"Shaper","Aspects":[]}],"Omen Wand":[{"Name":"Omen Wand","BaseType":"Omen Wand","Special":"Shaper","Aspects":[]}],"Ebony Tower Shield":[{"Name":"Ebony Tower Shield","BaseType":"Ebony Tower Shield","Special":null,"Aspects":[]}],"Spiny Round Shield":[{"Name":"Spiny Round Shield","BaseType":"Spiny Round Shield","Special":"Shaper","Aspects":[]}],"Latticed Ringmail":[{"Name":"Latticed Ringmail","BaseType":"Latticed Ringmail","Special":"Elder","Aspects":[]}],"Throat Stabber":[{"Name":"Throat Stabber","BaseType":"Throat Stabber","Special":null,"Aspects":[]}],"Legion Sword":[{"Name":"Legion Sword","BaseType":"Legion Sword","Special":"Elder","Aspects":[]}],"Eelskin Boots":[{"Name":"Eelskin Boots","BaseType":"Eelskin Boots","Special":"Elder","Aspects":[]}],"Field Lamellar":[{"Name":"Field Lamellar","BaseType":"Field Lamellar","Special":"Shaper","Aspects":[]}],"Close Helmet":[{"Name":"Close Helmet","BaseType":"Close Helmet","Special":"Elder","Aspects":[]}],"Reaver Helmet":[{"Name":"Reaver Helmet","BaseType":"Reaver Helmet","Special":"Elder","Aspects":[]}],"Footman Sword":[{"Name":"Footman Sword","BaseType":"Footman Sword","Special":"Elder","Aspects":[]}],"Full Ringmail":[{"Name":"Full Ringmail","BaseType":"Full Ringmail","Special":null,"Aspects":[]}],"Hellion's Paw":[{"Name":"Hellion's Paw","BaseType":"Hellion's Paw","Special":null,"Aspects":[]}],"Iron Gauntlets":[{"Name":"Iron Gauntlets","BaseType":"Iron Gauntlets","Special":"Elder","Aspects":[]}],"Timeworn Claw":[{"Name":"Timeworn Claw","BaseType":"Timeworn Claw","Special":"Elder","Aspects":[]}],"Scare Mask":[{"Name":"Scare Mask","BaseType":"Scare Mask","Special":"Shaper","Aspects":[]}],"Painted Buckler":[{"Name":"Painted Buckler","BaseType":"Painted Buckler","Special":"Elder","Aspects":[]}],"Antique Rapier":[{"Name":"Antique Rapier","BaseType":"Antique Rapier","Special":null,"Aspects":[]}],"Sacrificial Garb":[{"Name":"Sacrificial Garb","BaseType":"Sacrificial Garb","Special":null,"Aspects":[]}],"Copper Plate":[{"Name":"Copper Plate","BaseType":"Copper Plate","Special":"Shaper","Aspects":[]}],"Grappler":[{"Name":"Grappler","BaseType":"Grappler","Special":"Shaper","Aspects":[]}],"Assassin's Boots":[{"Name":"Assassin's Boots","BaseType":"Assassin's Boots","Special":"Shaper","Aspects":[]}],"Serpent Wand":[{"Name":"Serpent Wand","BaseType":"Serpent Wand","Special":"Shaper","Aspects":[]}],"Wolf Pelt":[{"Name":"Wolf Pelt","BaseType":"Wolf Pelt","Special":"Shaper","Aspects":[]}],"Highland Blade":[{"Name":"Highland Blade","BaseType":"Highland Blade","Special":"Elder","Aspects":[]}],"Fright Claw":[{"Name":"Fright Claw","BaseType":"Fright Claw","Special":"Elder","Aspects":[]}],"Meatgrinder":[{"Name":"Meatgrinder","BaseType":"Meatgrinder","Special":"Shaper","Aspects":[]}],"Elegant Foil":[{"Name":"Elegant Foil","BaseType":"Elegant Foil","Special":"Elder","Aspects":[]}],"Decurve Bow":[{"Name":"Decurve Bow","BaseType":"Decurve Bow","Special":null,"Aspects":[]}],"Eternal Sword":[{"Name":"Eternal Sword","BaseType":"Eternal Sword","Special":"Elder","Aspects":[]}],"Murder Boots":[{"Name":"Murder Boots","BaseType":"Murder Boots","Special":"Shaper","Aspects":[]}],"Ranger Bow":[{"Name":"Ranger Bow","BaseType":"Ranger Bow","Special":"Elder","Aspects":[]}],"Burnished Foil":[{"Name":"Burnished Foil","BaseType":"Burnished Foil","Special":null,"Aspects":[]}],"Soldier's Brigandine":[{"Name":"Soldier's Brigandine","BaseType":"Soldier's Brigandine","Special":"Shaper","Aspects":[]}],"Chain Boots":[{"Name":"Chain Boots","BaseType":"Chain Boots","Special":null,"Aspects":[]}],"Compound Bow":[{"Name":"Compound Bow","BaseType":"Compound Bow","Special":null,"Aspects":[]}],"Holy Chainmail":[{"Name":"Holy Chainmail","BaseType":"Holy Chainmail","Special":"Elder","Aspects":[]}],"Ironscale Boots":[{"Name":"Ironscale Boots","BaseType":"Ironscale Boots","Special":"Elder","Aspects":[]}],"Tomahawk":[{"Name":"Tomahawk","BaseType":"Tomahawk","Special":"Elder","Aspects":[]}],"Moonstone Ring":[{"Name":"Moonstone Ring","BaseType":"Moonstone Ring","Special":"Elder","Aspects":[]}],"Elder Sword":[{"Name":"Elder Sword","BaseType":"Elder Sword","Special":"Shaper","Aspects":[]}],"Exquisite Blade":[{"Name":"Exquisite Blade","BaseType":"Exquisite Blade","Special":"Shaper","Aspects":[]}],"Enameled Buckler":[{"Name":"Enameled Buckler","BaseType":"Enameled Buckler","Special":"Shaper","Aspects":[]}],"Etched Kite Shield":[{"Name":"Etched Kite Shield","BaseType":"Etched Kite Shield","Special":"Elder","Aspects":[]}],"Wrapped Mitts":[{"Name":"Wrapped Mitts","BaseType":"Wrapped Mitts","Special":"Shaper","Aspects":[]}],"Coiled Staff":[{"Name":"Coiled Staff","BaseType":"Coiled Staff","Special":"Elder","Aspects":[]}],"Strapped Mitts":[{"Name":"Strapped Mitts","BaseType":"Strapped Mitts","Special":null,"Aspects":[]}],"Branded Kite Shield":[{"Name":"Branded Kite Shield","BaseType":"Branded Kite Shield","Special":null,"Aspects":[]}],"Battle Sword":[{"Name":"Battle Sword","BaseType":"Battle Sword","Special":"Shaper","Aspects":[]}],"Carnal Armour":[{"Name":"Carnal Armour","BaseType":"Carnal Armour","Special":"Shaper","Aspects":[]}],"Lathi":[{"Name":"Lathi","BaseType":"Lathi","Special":"Elder","Aspects":[]}],"Scholar Boots":[{"Name":"Scholar Boots","BaseType":"Scholar Boots","Special":"Shaper","Aspects":[]}],"Cardinal Round Shield":[{"Name":"Cardinal Round Shield","BaseType":"Cardinal Round Shield","Special":"Shaper","Aspects":[]}],"Splendid Round Shield":[{"Name":"Splendid Round Shield","BaseType":"Splendid Round Shield","Special":"Shaper","Aspects":[]}],"Steelwood Bow":[{"Name":"Steelwood Bow","BaseType":"Steelwood Bow","Special":"Shaper","Aspects":[]}],"Timber Axe":[{"Name":"Timber Axe","BaseType":"Timber Axe","Special":"Elder","Aspects":[]}],"Lion Sword":[{"Name":"Lion Sword","BaseType":"Lion Sword","Special":"Shaper","Aspects":[]}],"Sage's Robe":[{"Name":"Sage's Robe","BaseType":"Sage's Robe","Special":"Shaper","Aspects":[]}],"Dragon Mace":[{"Name":"Dragon Mace","BaseType":"Dragon Mace","Special":"Elder","Aspects":[]}],"Smallsword":[{"Name":"Smallsword","BaseType":"Smallsword","Special":null,"Aspects":[]}],"Champion Kite Shield":[{"Name":"Champion Kite Shield","BaseType":"Champion Kite Shield","Special":"Elder","Aspects":[]}],"Courtesan Sword":[{"Name":"Courtesan Sword","BaseType":"Courtesan Sword","Special":null,"Aspects":[]}],"Silken Hood":[{"Name":"Silken Hood","BaseType":"Silken Hood","Special":"Elder","Aspects":[]}],"Samite Helmet":[{"Name":"Samite Helmet","BaseType":"Samite Helmet","Special":"Elder","Aspects":[]}],"Imperial Claw":[{"Name":"Imperial Claw","BaseType":"Imperial Claw","Special":"Shaper","Aspects":[]}],"Sharktooth Claw":[{"Name":"Sharktooth Claw","BaseType":"Sharktooth Claw","Special":"Elder","Aspects":[]}],"Titan Gauntlets":[{"Name":"Titan Gauntlets","BaseType":"Titan Gauntlets","Special":"Elder","Aspects":[]}],"Vaal Axe":[{"Name":"Vaal Axe","BaseType":"Vaal Axe","Special":"Elder","Aspects":[]}],"Archon Kite Shield":[{"Name":"Archon Kite Shield","BaseType":"Archon Kite Shield","Special":"Shaper","Aspects":[]}],"Amethyst Ring":[{"Name":"Amethyst Ring","BaseType":"Amethyst Ring","Special":"Elder","Aspects":[]}],"Golden Mask":[{"Name":"Golden Mask","BaseType":"Golden Mask","Special":"Elder","Aspects":[]}],"Samite Slippers":[{"Name":"Samite Slippers","BaseType":"Samite Slippers","Special":"Shaper","Aspects":[]}],"Butcher Knife":[{"Name":"Butcher Knife","BaseType":"Butcher Knife","Special":"Shaper","Aspects":[]}],"Nightmare Bascinet":[{"Name":"Nightmare Bascinet","BaseType":"Nightmare Bascinet","Special":"Elder","Aspects":[]}],"Imperial Skean":[{"Name":"Imperial Skean","BaseType":"Imperial Skean","Special":"Shaper","Aspects":[]}],"Praetor Crown":[{"Name":"Praetor Crown","BaseType":"Praetor Crown","Special":"Elder","Aspects":[]}],"Lithe Blade":[{"Name":"Lithe Blade","BaseType":"Lithe Blade","Special":"Elder","Aspects":[]}],"Stealth Gloves":[{"Name":"Stealth Gloves","BaseType":"Stealth Gloves","Special":"Shaper","Aspects":[]}],"Wyrmscale Doublet":[{"Name":"Wyrmscale Doublet","BaseType":"Wyrmscale Doublet","Special":"Elder","Aspects":[]}],"Gouger":[{"Name":"Gouger","BaseType":"Gouger","Special":"Elder","Aspects":[]}],"Steelscale Gauntlets":[{"Name":"Steelscale Gauntlets","BaseType":"Steelscale Gauntlets","Special":"Elder","Aspects":[]}],"Sinner Tricorne":[{"Name":"Sinner Tricorne","BaseType":"Sinner Tricorne","Special":"Elder","Aspects":[]}],"Infernal Sword":[{"Name":"Infernal Sword","BaseType":"Infernal Sword","Special":"Shaper","Aspects":[]}],"Reinforced Greaves":[{"Name":"Reinforced Greaves","BaseType":"Reinforced Greaves","Special":"Shaper","Aspects":[]}],"Scale Doublet":[{"Name":"Scale Doublet","BaseType":"Scale Doublet","Special":"Shaper","Aspects":[]}],"Double Claw":[{"Name":"Double Claw","BaseType":"Double Claw","Special":"Shaper","Aspects":[]}],"Scarlet Round Shield":[{"Name":"Scarlet Round Shield","BaseType":"Scarlet Round Shield","Special":null,"Aspects":[]}],"Reinforced Tower Shield":[{"Name":"Reinforced Tower Shield","BaseType":"Reinforced Tower Shield","Special":"Elder","Aspects":[]}],"Corroded Tower Shield":[{"Name":"Corroded Tower Shield","BaseType":"Corroded Tower Shield","Special":"Shaper","Aspects":[]}],"Scholar's Robe":[{"Name":"Scholar's Robe","BaseType":"Scholar's Robe","Special":null,"Aspects":[]}],"Butcher Sword":[{"Name":"Butcher Sword","BaseType":"Butcher Sword","Special":"Shaper","Aspects":[]}],"Chainmail Doublet":[{"Name":"Chainmail Doublet","BaseType":"Chainmail Doublet","Special":"Shaper","Aspects":[]}],"War Axe":[{"Name":"War Axe","BaseType":"War Axe","Special":null,"Aspects":[]}],"Pine Buckler":[{"Name":"Pine Buckler","BaseType":"Pine Buckler","Special":null,"Aspects":[]}],"Rusted Coif":[{"Name":"Rusted Coif","BaseType":"Rusted Coif","Special":"Shaper","Aspects":[]}],"Brass Maul":[{"Name":"Brass Maul","BaseType":"Brass Maul","Special":null,"Aspects":[]}],"Oiled Vest":[{"Name":"Oiled Vest","BaseType":"Oiled Vest","Special":null,"Aspects":[]}],"Murderous Eye Jewel":[{"Name":"Murderous Eye Jewel","BaseType":"Murderous Eye Jewel","Special":null,"Aspects":[]}],"Crusader Boots":[{"Name":"Crusader Boots","BaseType":"Crusader Boots","Special":"Shaper","Aspects":[]}],"Silken Wrap":[{"Name":"Silken Wrap","BaseType":"Silken Wrap","Special":"Shaper","Aspects":[]}],"Penetrating Arrow Quiver":[{"Name":"Penetrating Arrow Quiver","BaseType":"Penetrating Arrow Quiver","Special":"Shaper","Aspects":[]}],"Imperial Maul":[{"Name":"Imperial Maul","BaseType":"Imperial Maul","Special":"Elder","Aspects":[]}],"Nubuck Gloves":[{"Name":"Nubuck Gloves","BaseType":"Nubuck Gloves","Special":"Shaper","Aspects":[]}],"Behemoth Mace":[{"Name":"Behemoth Mace","BaseType":"Behemoth Mace","Special":"Shaper","Aspects":[]}],"Ghastly Eye Jewel":[{"Name":"Ghastly Eye Jewel","BaseType":"Ghastly Eye Jewel","Special":null,"Aspects":[]}],"Cedar Tower Shield":[{"Name":"Cedar Tower Shield","BaseType":"Cedar Tower Shield","Special":"Elder","Aspects":[]}],"Ambush Boots":[{"Name":"Ambush Boots","BaseType":"Ambush Boots","Special":"Shaper","Aspects":[]}],"Gladius":[{"Name":"Gladius","BaseType":"Gladius","Special":"Shaper","Aspects":[]}],"Elegant Ringmail":[{"Name":"Elegant Ringmail","BaseType":"Elegant Ringmail","Special":"Shaper","Aspects":[]}],"Plated Gauntlets":[{"Name":"Plated Gauntlets","BaseType":"Plated Gauntlets","Special":null,"Aspects":[]}],"Conquest Chainmail":[{"Name":"Conquest Chainmail","BaseType":"Conquest Chainmail","Special":"Elder","Aspects":[]}],"Dragonscale Gauntlets":[{"Name":"Dragonscale Gauntlets","BaseType":"Dragonscale Gauntlets","Special":"Shaper","Aspects":[]}],"Fleshripper":[{"Name":"Fleshripper","BaseType":"Fleshripper","Special":"Elder","Aspects":[]}],"Talon Axe":[{"Name":"Talon Axe","BaseType":"Talon Axe","Special":"Shaper","Aspects":[]}],"Sleek Coat":[{"Name":"Sleek Coat","BaseType":"Sleek Coat","Special":null,"Aspects":[]}],"Vaal Greatsword":[{"Name":"Vaal Greatsword","BaseType":"Vaal Greatsword","Special":"Elder","Aspects":[]}],"Chest Splitter":[{"Name":"Chest Splitter","BaseType":"Chest Splitter","Special":null,"Aspects":[]}],"Royal Skean":[{"Name":"Royal Skean","BaseType":"Royal Skean","Special":"Shaper","Aspects":[]}],"Midnight Blade":[{"Name":"Midnight Blade","BaseType":"Midnight Blade","Special":null,"Aspects":[]}],"Layered Kite Shield":[{"Name":"Layered Kite Shield","BaseType":"Layered Kite Shield","Special":"Elder","Aspects":[]}],"Double Axe":[{"Name":"Double Axe","BaseType":"Double Axe","Special":null,"Aspects":[]}],"Sharkskin Gloves":[{"Name":"Sharkskin Gloves","BaseType":"Sharkskin Gloves","Special":"Shaper","Aspects":[]}],"Vaal Spirit Shield":[{"Name":"Vaal Spirit Shield","BaseType":"Vaal Spirit Shield","Special":"Shaper","Aspects":[]}],"Gladiator Helmet":[{"Name":"Gladiator Helmet","BaseType":"Gladiator Helmet","Special":"Elder","Aspects":[]}],"Trapper Boots":[{"Name":"Trapper Boots","BaseType":"Trapper Boots","Special":"Shaper","Aspects":[]}],"Shagreen Boots":[{"Name":"Shagreen Boots","BaseType":"Shagreen Boots","Special":"Shaper","Aspects":[]}],"Samite Gloves":[{"Name":"Samite Gloves","BaseType":"Samite Gloves","Special":"Shaper","Aspects":[]}],"Trisula":[{"Name":"Trisula","BaseType":"Trisula","Special":"Shaper","Aspects":[]}],"Mirrored Spiked Shield":[{"Name":"Mirrored Spiked Shield","BaseType":"Mirrored Spiked Shield","Special":"Shaper","Aspects":[]}],"Headsman Axe":[{"Name":"Headsman Axe","BaseType":"Headsman Axe","Special":"Shaper","Aspects":[]}],"Boot Blade":[{"Name":"Boot Blade","BaseType":"Boot Blade","Special":"Shaper","Aspects":[]}],"Ivory Spirit Shield":[{"Name":"Ivory Spirit Shield","BaseType":"Ivory Spirit Shield","Special":"Shaper","Aspects":[]}],"Glorious Leather":[{"Name":"Glorious Leather","BaseType":"Glorious Leather","Special":"Shaper","Aspects":[]}],"Girded Tower Shield":[{"Name":"Girded Tower Shield","BaseType":"Girded Tower Shield","Special":null,"Aspects":[]}],"Gilded Buckler":[{"Name":"Gilded Buckler","BaseType":"Gilded Buckler","Special":"Shaper","Aspects":[]}],"Secutor Helm":[{"Name":"Secutor Helm","BaseType":"Secutor Helm","Special":"Elder","Aspects":[]}],"Fossilised Spirit Shield":[{"Name":"Fossilised Spirit Shield","BaseType":"Fossilised Spirit Shield","Special":"Shaper","Aspects":[]}],"Great Crown":[{"Name":"Great Crown","BaseType":"Great Crown","Special":"Elder","Aspects":[]}],"Embroidered Gloves":[{"Name":"Embroidered Gloves","BaseType":"Embroidered Gloves","Special":"Shaper","Aspects":[]}],"Pig-Faced Bascinet":[{"Name":"Pig-Faced Bascinet","BaseType":"Pig-Faced Bascinet","Special":"Elder","Aspects":[]}],"Pecoraro":[{"Name":"Pecoraro","BaseType":"Pecoraro","Special":null,"Aspects":[]}],"Two-Point Arrow Quiver":[{"Name":"Two-Point Arrow Quiver","BaseType":"Two-Point Arrow Quiver","Special":null,"Aspects":[]}],"Arming Axe":[{"Name":"Arming Axe","BaseType":"Arming Axe","Special":"Shaper","Aspects":[]}],"Silken Vest":[{"Name":"Silken Vest","BaseType":"Silken Vest","Special":null,"Aspects":[]}],"Goathide Buckler":[{"Name":"Goathide Buckler","BaseType":"Goathide Buckler","Special":"Shaper","Aspects":[]}],"Lacquered Helmet":[{"Name":"Lacquered Helmet","BaseType":"Lacquered Helmet","Special":"Elder","Aspects":[]}],"Elegant Round Shield":[{"Name":"Elegant Round Shield","BaseType":"Elegant Round Shield","Special":"Shaper","Aspects":[]}],"Ezomyte Blade":[{"Name":"Ezomyte Blade","BaseType":"Ezomyte Blade","Special":null,"Aspects":[]}],"Clasped Mitts":[{"Name":"Clasped Mitts","BaseType":"Clasped Mitts","Special":"Shaper","Aspects":[]}],"Siege Helmet":[{"Name":"Siege Helmet","BaseType":"Siege Helmet","Special":"Elder","Aspects":[]}],"Callous Mask":[{"Name":"Callous Mask","BaseType":"Callous Mask","Special":"Elder","Aspects":[]}],"Zealot Helmet":[{"Name":"Zealot Helmet","BaseType":"Zealot Helmet","Special":"Elder","Aspects":[]}],"Tiger Hook":[{"Name":"Tiger Hook","BaseType":"Tiger Hook","Special":"Shaper","Aspects":[]}],"Crusader Gloves":[{"Name":"Crusader Gloves","BaseType":"Crusader Gloves","Special":"Shaper","Aspects":[]}],"Vaal Greaves":[{"Name":"Vaal Greaves","BaseType":"Vaal Greaves","Special":"Shaper","Aspects":[]}],"Quilted Jacket":[{"Name":"Quilted Jacket","BaseType":"Quilted Jacket","Special":"Shaper","Aspects":[]}],"Legion Hammer":[{"Name":"Legion Hammer","BaseType":"Legion Hammer","Special":null,"Aspects":[]}],"Necromancer Circlet":[{"Name":"Necromancer Circlet","BaseType":"Necromancer Circlet","Special":"Elder","Aspects":[]}],"Serpentscale Boots":[{"Name":"Serpentscale Boots","BaseType":"Serpentscale Boots","Special":"Shaper","Aspects":[]}],"Serrated Arrow Quiver":[{"Name":"Serrated Arrow Quiver","BaseType":"Serrated Arrow Quiver","Special":null,"Aspects":[]}],"Shackled Boots":[{"Name":"Shackled Boots","BaseType":"Shackled Boots","Special":"Elder","Aspects":[]}],"Maelström Staff":[{"Name":"Maelström Staff","BaseType":"Maelström Staff","Special":"Elder","Aspects":[]}],"Frontier Leather":[{"Name":"Frontier Leather","BaseType":"Frontier Leather","Special":"Elder","Aspects":[]}],"Assassin Bow":[{"Name":"Assassin Bow","BaseType":"Assassin Bow","Special":"Elder","Aspects":[]}],"Steelhead":[{"Name":"Steelhead","BaseType":"Steelhead","Special":"Shaper","Aspects":[]}],"Gladiator Plate":[{"Name":"Gladiator Plate","BaseType":"Gladiator Plate","Special":"Elder","Aspects":[]}],"Bronze Plate":[{"Name":"Bronze Plate","BaseType":"Bronze Plate","Special":"Elder","Aspects":[]}],"Gemini Claw":[{"Name":"Gemini Claw","BaseType":"Gemini Claw","Special":"Elder","Aspects":[]}],"Judgement Staff":[{"Name":"Judgement Staff","BaseType":"Judgement Staff","Special":"Shaper","Aspects":[]}],"Ezomyte Dagger":[{"Name":"Ezomyte Dagger","BaseType":"Ezomyte Dagger","Special":"Shaper","Aspects":[]}],"Labrys":[{"Name":"Labrys","BaseType":"Labrys","Special":"Elder","Aspects":[]}],"Yew Spirit Shield":[{"Name":"Yew Spirit Shield","BaseType":"Yew Spirit Shield","Special":null,"Aspects":[]}],"Blinder":[{"Name":"Blinder","BaseType":"Blinder","Special":"Shaper","Aspects":[]}],"Morning Star":[{"Name":"Morning Star","BaseType":"Morning Star","Special":null,"Aspects":[]}],"Etched Hatchet":[{"Name":"Etched Hatchet","BaseType":"Etched Hatchet","Special":null,"Aspects":[]}],"Bastard Sword":[{"Name":"Bastard Sword","BaseType":"Bastard Sword","Special":"Shaper","Aspects":[]}],"Ambush Mitts":[{"Name":"Ambush Mitts","BaseType":"Ambush Mitts","Special":null,"Aspects":[]}],"Aventail Helmet":[{"Name":"Aventail Helmet","BaseType":"Aventail Helmet","Special":"Shaper","Aspects":[]}],"Trapper Mitts":[{"Name":"Trapper Mitts","BaseType":"Trapper Mitts","Special":"Shaper","Aspects":[]}],"Eelskin Gloves":[{"Name":"Eelskin Gloves","BaseType":"Eelskin Gloves","Special":"Shaper","Aspects":[]}],"Ivory Bow":[{"Name":"Ivory Bow","BaseType":"Ivory Bow","Special":"Elder","Aspects":[]}],"Satin Slippers":[{"Name":"Satin Slippers","BaseType":"Satin Slippers","Special":null,"Aspects":[]}],"Elegant Sword":[{"Name":"Elegant Sword","BaseType":"Elegant Sword","Special":"Elder","Aspects":[]}],"Sharktooth Arrow Quiver":[{"Name":"Sharktooth Arrow Quiver","BaseType":"Sharktooth Arrow Quiver","Special":"Shaper","Aspects":[]}],"Varnished Coat":[{"Name":"Varnished Coat","BaseType":"Varnished Coat","Special":"Elder","Aspects":[]}],"Exquisite Leather":[{"Name":"Exquisite Leather","BaseType":"Exquisite Leather","Special":"Shaper","Aspects":[]}],"Gutting Knife":[{"Name":"Gutting Knife","BaseType":"Gutting Knife","Special":"Shaper","Aspects":[]}],"Slaughter Knife":[{"Name":"Slaughter Knife","BaseType":"Slaughter Knife","Special":"Shaper","Aspects":[]}],"Crimson Round Shield":[{"Name":"Crimson Round Shield","BaseType":"Crimson Round Shield","Special":null,"Aspects":[]}],"Vaal Mask":[{"Name":"Vaal Mask","BaseType":"Vaal Mask","Special":"Elder","Aspects":[]}],"Imperial Buckler":[{"Name":"Imperial Buckler","BaseType":"Imperial Buckler","Special":"Elder","Aspects":[]}],"Broadhead Arrow Quiver":[{"Name":"Broadhead Arrow Quiver","BaseType":"Broadhead Arrow Quiver","Special":"Shaper","Aspects":[]}],"Serrated Foil":[{"Name":"Serrated Foil","BaseType":"Serrated Foil","Special":"Shaper","Aspects":[]}],"Abyssal Axe":[{"Name":"Abyssal Axe","BaseType":"Abyssal Axe","Special":null,"Aspects":[]}],"Battle Buckler":[{"Name":"Battle Buckler","BaseType":"Battle Buckler","Special":null,"Aspects":[]}],"Maple Round Shield":[{"Name":"Maple Round Shield","BaseType":"Maple Round Shield","Special":null,"Aspects":[]}],"Satin Gloves":[{"Name":"Satin Gloves","BaseType":"Satin Gloves","Special":null,"Aspects":[]}],"Laminated Kite Shield":[{"Name":"Laminated Kite Shield","BaseType":"Laminated Kite Shield","Special":"Shaper","Aspects":[]}],"Ceremonial Axe":[{"Name":"Ceremonial Axe","BaseType":"Ceremonial Axe","Special":null,"Aspects":[]}],"Corrugated Buckler":[{"Name":"Corrugated Buckler","BaseType":"Corrugated Buckler","Special":"Shaper","Aspects":[]}],"Plated Maul":[{"Name":"Plated Maul","BaseType":"Plated Maul","Special":null,"Aspects":[]}],"Despot Axe":[{"Name":"Despot Axe","BaseType":"Despot Axe","Special":"Shaper","Aspects":[]}],"Tiger Sword":[{"Name":"Tiger Sword","BaseType":"Tiger Sword","Special":"Shaper","Aspects":[]}],"Shagreen Tower Shield":[{"Name":"Shagreen Tower Shield","BaseType":"Shagreen Tower Shield","Special":null,"Aspects":[]}],"Vaal Hatchet":[{"Name":"Vaal Hatchet","BaseType":"Vaal Hatchet","Special":null,"Aspects":[]}],"Bone Circlet":[{"Name":"Bone Circlet","BaseType":"Bone Circlet","Special":"Shaper","Aspects":[]}],"Graceful Sword":[{"Name":"Graceful Sword","BaseType":"Graceful Sword","Special":"Shaper","Aspects":[]}],"Rock Breaker":[{"Name":"Rock Breaker","BaseType":"Rock Breaker","Special":"Shaper","Aspects":[]}],"Spiked Round Shield":[{"Name":"Spiked Round Shield","BaseType":"Spiked Round Shield","Special":null,"Aspects":[]}],"Golden Buckler":[{"Name":"Golden Buckler","BaseType":"Golden Buckler","Special":"Elder","Aspects":[]}],"Hussar Brigandine":[{"Name":"Hussar Brigandine","BaseType":"Hussar Brigandine","Special":"Shaper","Aspects":[]}],"Teak Round Shield":[{"Name":"Teak Round Shield","BaseType":"Teak Round Shield","Special":null,"Aspects":[]}],"Magistrate Crown":[{"Name":"Magistrate Crown","BaseType":"Magistrate Crown","Special":"Elder","Aspects":[]}],"Fire Arrow Quiver":[{"Name":"Fire Arrow Quiver","BaseType":"Fire Arrow Quiver","Special":null,"Aspects":[]}],"Tiger's Paw":[{"Name":"Tiger's Paw","BaseType":"Tiger's Paw","Special":null,"Aspects":[]}],"Shagreen Gloves":[{"Name":"Shagreen Gloves","BaseType":"Shagreen Gloves","Special":"Shaper","Aspects":[]}],"Blunt Arrow Quiver":[{"Name":"Blunt Arrow Quiver","BaseType":"Blunt Arrow Quiver","Special":null,"Aspects":[]}],"Zodiac Leather":[{"Name":"Zodiac Leather","BaseType":"Zodiac Leather","Special":"Elder","Aspects":[]}],"Phantom Mace":[{"Name":"Phantom Mace","BaseType":"Phantom Mace","Special":null,"Aspects":[]}],"Butcher Axe":[{"Name":"Butcher Axe","BaseType":"Butcher Axe","Special":"Shaper","Aspects":[]}],"Quarterstaff":[{"Name":"Quarterstaff","BaseType":"Quarterstaff","Special":"Shaper","Aspects":[]}],"Occultist's Vestment":[{"Name":"Occultist's Vestment","BaseType":"Occultist's Vestment","Special":"Elder","Aspects":[]}],"Ornate Ringmail":[{"Name":"Ornate Ringmail","BaseType":"Ornate Ringmail","Special":null,"Aspects":[]}],"Golden Plate":[{"Name":"Golden Plate","BaseType":"Golden Plate","Special":"Elder","Aspects":[]}],"Conjurer Gloves":[{"Name":"Conjurer Gloves","BaseType":"Conjurer Gloves","Special":"Shaper","Aspects":[]}],"Gold Ring":[{"Name":"Gold Ring","BaseType":"Gold Ring","Special":"Elder","Aspects":[]}],"Antique Gauntlets":[{"Name":"Antique Gauntlets","BaseType":"Antique Gauntlets","Special":"Shaper","Aspects":[]}],"Highborn Bow":[{"Name":"Highborn Bow","BaseType":"Highborn Bow","Special":"Shaper","Aspects":[]}],"Ezomyte Staff":[{"Name":"Ezomyte Staff","BaseType":"Ezomyte Staff","Special":"Shaper","Aspects":[]}],"Sharkskin Boots":[{"Name":"Sharkskin Boots","BaseType":"Sharkskin Boots","Special":"Shaper","Aspects":[]}],"Velvet Slippers":[{"Name":"Velvet Slippers","BaseType":"Velvet Slippers","Special":"Elder","Aspects":[]}],"Solaris Circlet":[{"Name":"Solaris Circlet","BaseType":"Solaris Circlet","Special":"Shaper","Aspects":[]}],"Fancy Foil":[{"Name":"Fancy Foil","BaseType":"Fancy Foil","Special":"Shaper","Aspects":[]}],"Hydrascale Gauntlets":[{"Name":"Hydrascale Gauntlets","BaseType":"Hydrascale Gauntlets","Special":"Shaper","Aspects":[]}],"Imperial Staff":[{"Name":"Imperial Staff","BaseType":"Imperial Staff","Special":"Elder","Aspects":[]}],"Heavy Belt":[{"Name":"Heavy Belt","BaseType":"Heavy Belt","Special":"Elder","Aspects":[]}],"Harbinger Bow":[{"Name":"Harbinger Bow","BaseType":"Harbinger Bow","Special":"Shaper","Aspects":[]}],"Harlequin Mask":[{"Name":"Harlequin Mask","BaseType":"Harlequin Mask","Special":"Elder","Aspects":[]}],"Chiming Spirit Shield":[{"Name":"Chiming Spirit Shield","BaseType":"Chiming Spirit Shield","Special":"Elder","Aspects":[]}],"Regicide Mask":[{"Name":"Regicide Mask","BaseType":"Regicide Mask","Special":"Elder","Aspects":[]}],"Titan Greaves":[{"Name":"Titan Greaves","BaseType":"Titan Greaves","Special":"Elder","Aspects":[]}],"Paua Ring":[{"Name":"Paua Ring","BaseType":"Paua Ring","Special":"Elder","Aspects":[]}],"Fluted Bascinet":[{"Name":"Fluted Bascinet","BaseType":"Fluted Bascinet","Special":"Shaper","Aspects":[]}],"Assassin's Mitts":[{"Name":"Assassin's Mitts","BaseType":"Assassin's Mitts","Special":"Shaper","Aspects":[]}],"Thorium Spirit Shield":[{"Name":"Thorium Spirit Shield","BaseType":"Thorium Spirit Shield","Special":"Shaper","Aspects":[]}],"Thicket Bow":[{"Name":"Thicket Bow","BaseType":"Thicket Bow","Special":"Elder","Aspects":[]}],"Maraketh Bow":[{"Name":"Maraketh Bow","BaseType":"Maraketh Bow","Special":"Shaper","Aspects":[]}],"Carnal Mitts":[{"Name":"Carnal Mitts","BaseType":"Carnal Mitts","Special":"Shaper","Aspects":[]}],"Auric Mace":[{"Name":"Auric Mace","BaseType":"Auric Mace","Special":"Shaper","Aspects":[]}],"Chain Belt":[{"Name":"Chain Belt","BaseType":"Chain Belt","Special":"Shaper","Aspects":[]}],"Crested Tower Shield":[{"Name":"Crested Tower Shield","BaseType":"Crested Tower Shield","Special":"Shaper","Aspects":[]}],"Noble Tricorne":[{"Name":"Noble Tricorne","BaseType":"Noble Tricorne","Special":"Elder","Aspects":[]}],"Rustic Sash":[{"Name":"Rustic Sash","BaseType":"Rustic Sash","Special":"Shaper","Aspects":[]}],"Assassin's Garb":[{"Name":"Assassin's Garb","BaseType":"Assassin's Garb","Special":"Shaper","Aspects":[]}],"Legion Boots":[{"Name":"Legion Boots","BaseType":"Legion Boots","Special":"Shaper","Aspects":[]}],"Steel Circlet":[{"Name":"Steel Circlet","BaseType":"Steel Circlet","Special":"Elder","Aspects":[]}],"Goliath Greaves":[{"Name":"Goliath Greaves","BaseType":"Goliath Greaves","Special":"Shaper","Aspects":[]}],"Lacquered Garb":[{"Name":"Lacquered Garb","BaseType":"Lacquered Garb","Special":"Elder","Aspects":[]}],"Majestic Plate":[{"Name":"Majestic Plate","BaseType":"Majestic Plate","Special":"Elder","Aspects":[]}],"Hydrascale Boots":[{"Name":"Hydrascale Boots","BaseType":"Hydrascale Boots","Special":"Shaper","Aspects":[]}],"Military Staff":[{"Name":"Military Staff","BaseType":"Military Staff","Special":null,"Aspects":[]}],"Widowsilk Robe":[{"Name":"Widowsilk Robe","BaseType":"Widowsilk Robe","Special":"Shaper","Aspects":[]}],"Coronal Leather":[{"Name":"Coronal Leather","BaseType":"Coronal Leather","Special":"Shaper","Aspects":[]}],"Hunter Hood":[{"Name":"Hunter Hood","BaseType":"Hunter Hood","Special":"Shaper","Aspects":[]}],"Blood Raiment":[{"Name":"Blood Raiment","BaseType":"Blood Raiment","Special":"Shaper","Aspects":[]}],"Wyrmscale Boots":[{"Name":"Wyrmscale Boots","BaseType":"Wyrmscale Boots","Special":"Shaper","Aspects":[]}],"Vaal Rapier":[{"Name":"Vaal Rapier","BaseType":"Vaal Rapier","Special":"Elder","Aspects":[]}],"Destroyer Regalia":[{"Name":"Destroyer Regalia","BaseType":"Destroyer Regalia","Special":"Shaper","Aspects":[]}],"Saint's Hauberk":[{"Name":"Saint's Hauberk","BaseType":"Saint's Hauberk","Special":"Shaper","Aspects":[]}],"Colosseum Plate":[{"Name":"Colosseum Plate","BaseType":"Colosseum Plate","Special":"Elder","Aspects":[]}],"Ursine Pelt":[{"Name":"Ursine Pelt","BaseType":"Ursine Pelt","Special":"Elder","Aspects":[]}],"Serpentscale Gauntlets":[{"Name":"Serpentscale Gauntlets","BaseType":"Serpentscale Gauntlets","Special":"Shaper","Aspects":[]}],"Pernarch":[{"Name":"Pernarch","BaseType":"Pernarch","Special":"Shaper","Aspects":[]}],"Carnal Boots":[{"Name":"Carnal Boots","BaseType":"Carnal Boots","Special":"Shaper","Aspects":[]}],"Spiraled Foil":[{"Name":"Spiraled Foil","BaseType":"Spiraled Foil","Special":"Shaper","Aspects":[]}],"Ancient Spirit Shield":[{"Name":"Ancient Spirit Shield","BaseType":"Ancient Spirit Shield","Special":"Elder","Aspects":[]}],"Goliath Gauntlets":[{"Name":"Goliath Gauntlets","BaseType":"Goliath Gauntlets","Special":"Shaper","Aspects":[]}],"Royal Axe":[{"Name":"Royal Axe","BaseType":"Royal Axe","Special":"Shaper","Aspects":[]}],"Gut Ripper":[{"Name":"Gut Ripper","BaseType":"Gut Ripper","Special":"Shaper","Aspects":[]}],"Zealot Boots":[{"Name":"Zealot Boots","BaseType":"Zealot Boots","Special":"Shaper","Aspects":[]}],"Full Wyrmscale":[{"Name":"Full Wyrmscale","BaseType":"Full Wyrmscale","Special":"Elder","Aspects":[]}],"Ancient Greaves":[{"Name":"Ancient Greaves","BaseType":"Ancient Greaves","Special":"Shaper","Aspects":[]}],"Wraith Sword":[{"Name":"Wraith Sword","BaseType":"Wraith Sword","Special":"Elder","Aspects":[]}],"Sniper Bow":[{"Name":"Sniper Bow","BaseType":"Sniper Bow","Special":"Elder","Aspects":[]}],"Full Dragonscale":[{"Name":"Full Dragonscale","BaseType":"Full Dragonscale","Special":"Shaper","Aspects":[]}],"Angelic Kite Shield":[{"Name":"Angelic Kite Shield","BaseType":"Angelic Kite Shield","Special":"Elder","Aspects":[]}],"Lunaris Circlet":[{"Name":"Lunaris Circlet","BaseType":"Lunaris Circlet","Special":"Shaper","Aspects":[]}],"Wraith Axe":[{"Name":"Wraith Axe","BaseType":"Wraith Axe","Special":null,"Aspects":[]}],"Coronal Maul":[{"Name":"Coronal Maul","BaseType":"Coronal Maul","Special":"Shaper","Aspects":[]}],"Ironwood Buckler":[{"Name":"Ironwood Buckler","BaseType":"Ironwood Buckler","Special":null,"Aspects":[]}],"Polished Spiked Shield":[{"Name":"Polished Spiked Shield","BaseType":"Polished Spiked Shield","Special":"Shaper","Aspects":[]}],"Spiked Bundle":[{"Name":"Spiked Bundle","BaseType":"Spiked Bundle","Special":"Shaper","Aspects":[]}],"Void Axe":[{"Name":"Void Axe","BaseType":"Void Axe","Special":null,"Aspects":[]}],"Ornate Sword":[{"Name":"Ornate Sword","BaseType":"Ornate Sword","Special":"Shaper","Aspects":[]}],"Hook Sword":[{"Name":"Hook Sword","BaseType":"Hook Sword","Special":null,"Aspects":[]}],"Jade Hatchet":[{"Name":"Jade Hatchet","BaseType":"Jade Hatchet","Special":"Elder","Aspects":[]}],"Chain Gloves":[{"Name":"Chain Gloves","BaseType":"Chain Gloves","Special":null,"Aspects":[]}],"Gnarled Branch":[{"Name":"Gnarled Branch","BaseType":"Gnarled Branch","Special":"Shaper","Aspects":[]}],"Copper Sword":[{"Name":"Copper Sword","BaseType":"Copper Sword","Special":"Elder","Aspects":[]}],"Noble Claw":[{"Name":"Noble Claw","BaseType":"Noble Claw","Special":"Shaper","Aspects":[]}],"Eye Gouger":[{"Name":"Eye Gouger","BaseType":"Eye Gouger","Special":"Shaper","Aspects":[]}],"Soldier Boots":[{"Name":"Soldier Boots","BaseType":"Soldier Boots","Special":"Shaper","Aspects":[]}],"Spidersilk Robe":[{"Name":"Spidersilk Robe","BaseType":"Spidersilk Robe","Special":"Elder","Aspects":[]}],"Zealot Gloves":[{"Name":"Zealot Gloves","BaseType":"Zealot Gloves","Special":"Shaper","Aspects":[]}],"Sun Plate":[{"Name":"Sun Plate","BaseType":"Sun Plate","Special":null,"Aspects":[]}],"Serpentine Staff":[{"Name":"Serpentine Staff","BaseType":"Serpentine Staff","Special":"Shaper","Aspects":[]}],"Cloth Belt":[{"Name":"Cloth Belt","BaseType":"Cloth Belt","Special":"Shaper","Aspects":[]}],"Estoc":[{"Name":"Estoc","BaseType":"Estoc","Special":"Elder","Aspects":[]}],"Vaal Blade":[{"Name":"Vaal Blade","BaseType":"Vaal Blade","Special":null,"Aspects":[]}],"Flanged Mace":[{"Name":"Flanged Mace","BaseType":"Flanged Mace","Special":"Shaper","Aspects":[]}],"Nightmare Mace":[{"Name":"Nightmare Mace","BaseType":"Nightmare Mace","Special":"Elder","Aspects":[]}],"Conjurer's Vestment":[{"Name":"Conjurer's Vestment","BaseType":"Conjurer's Vestment","Special":"Shaper","Aspects":[]}],"Twin Claw":[{"Name":"Twin Claw","BaseType":"Twin Claw","Special":"Elder","Aspects":[]}],"Vaal Gauntlets":[{"Name":"Vaal Gauntlets","BaseType":"Vaal Gauntlets","Special":"Shaper","Aspects":[]}],"Dragonscale Boots":[{"Name":"Dragonscale Boots","BaseType":"Dragonscale Boots","Special":"Shaper","Aspects":[]}],"Wyrmscale Gauntlets":[{"Name":"Wyrmscale Gauntlets","BaseType":"Wyrmscale Gauntlets","Special":"Shaper","Aspects":[]}],"Commander's Brigandine":[{"Name":"Commander's Brigandine","BaseType":"Commander's Brigandine","Special":"Shaper","Aspects":[]}],"Twilight Blade":[{"Name":"Twilight Blade","BaseType":"Twilight Blade","Special":"Shaper","Aspects":[]}],"Soldier Gloves":[{"Name":"Soldier Gloves","BaseType":"Soldier Gloves","Special":"Shaper","Aspects":[]}],"Terror Maul":[{"Name":"Terror Maul","BaseType":"Terror Maul","Special":"Elder","Aspects":[]}],"Crimson Raiment":[{"Name":"Crimson Raiment","BaseType":"Crimson Raiment","Special":"Shaper","Aspects":[]}],"Headman's Sword":[{"Name":"Headman's Sword","BaseType":"Headman's Sword","Special":null,"Aspects":[]}],"Highborn Staff":[{"Name":"Highborn Staff","BaseType":"Highborn Staff","Special":"Shaper","Aspects":[]}],"Dread Maul":[{"Name":"Dread Maul","BaseType":"Dread Maul","Special":"Shaper","Aspects":[]}],"Stygian Vise":[{"Name":"Stygian Vise","BaseType":"Stygian Vise","Special":null,"Aspects":[]}],"Ancient Gauntlets":[{"Name":"Ancient Gauntlets","BaseType":"Ancient Gauntlets","Special":"Shaper","Aspects":[]}],"Studded Belt":[{"Name":"Studded Belt","BaseType":"Studded Belt","Special":"Shaper","Aspects":[]}],"Ancestral Club":[{"Name":"Ancestral Club","BaseType":"Ancestral Club","Special":"Shaper","Aspects":[]}],"Necromancer Silks":[{"Name":"Necromancer Silks","BaseType":"Necromancer Silks","Special":"Shaper","Aspects":[]}],"Legion Gloves":[{"Name":"Legion Gloves","BaseType":"Legion Gloves","Special":"Shaper","Aspects":[]}],"Apex Rapier":[{"Name":"Apex Rapier","BaseType":"Apex Rapier","Special":"Shaper","Aspects":[]}],"Harpy Rapier":[{"Name":"Harpy Rapier","BaseType":"Harpy Rapier","Special":"Shaper","Aspects":[]}],"Dragoon Sword":[{"Name":"Dragoon Sword","BaseType":"Dragoon Sword","Special":"Elder","Aspects":[]}],"Saintly Chainmail":[{"Name":"Saintly Chainmail","BaseType":"Saintly Chainmail","Special":"Shaper","Aspects":[]}],"Tempered Foil":[{"Name":"Tempered Foil","BaseType":"Tempered Foil","Special":"Elder","Aspects":[]}],"Primeval Rapier":[{"Name":"Primeval Rapier","BaseType":"Primeval Rapier","Special":"Elder","Aspects":[]}],"Foul Staff":[{"Name":"Foul Staff","BaseType":"Foul Staff","Special":"Shaper","Aspects":[]}],"Colossus Mallet":[{"Name":"Colossus Mallet","BaseType":"Colossus Mallet","Special":null,"Aspects":[]}],"Jade Chopper":[{"Name":"Jade Chopper","BaseType":"Jade Chopper","Special":"Shaper","Aspects":[]}],"Longsword":[{"Name":"Longsword","BaseType":"Longsword","Special":"Elder","Aspects":[]}],"Light Brigandine":[{"Name":"Light Brigandine","BaseType":"Light Brigandine","Special":"Shaper","Aspects":[]}],"Tenderizer":[{"Name":"Tenderizer","BaseType":"Tenderizer","Special":"Elder","Aspects":[]}],"Dragonbone Rapier":[{"Name":"Dragonbone Rapier","BaseType":"Dragonbone Rapier","Special":"Elder","Aspects":[]}],"Crusader Plate":[{"Name":"Crusader Plate","BaseType":"Crusader Plate","Special":"Elder","Aspects":[]}],"Chain Hauberk":[{"Name":"Chain Hauberk","BaseType":"Chain Hauberk","Special":"Elder","Aspects":[]}],"Savant's Robe":[{"Name":"Savant's Robe","BaseType":"Savant's Robe","Special":"Elder","Aspects":[]}],"Vaal Claw":[{"Name":"Vaal Claw","BaseType":"Vaal Claw","Special":"Elder","Aspects":[]}],"General's Brigandine":[{"Name":"General's Brigandine","BaseType":"General's Brigandine","Special":"Elder","Aspects":[]}],"Lacewood Spirit Shield":[{"Name":"Lacewood Spirit Shield","BaseType":"Lacewood Spirit Shield","Special":"Shaper","Aspects":[]}],"Alder Spiked Shield":[{"Name":"Alder Spiked Shield","BaseType":"Alder Spiked Shield","Special":"Shaper","Aspects":[]}],"Noble Axe":[{"Name":"Noble Axe","BaseType":"Noble Axe","Special":"Elder","Aspects":[]}],"Runic Hatchet":[{"Name":"Runic Hatchet","BaseType":"Runic Hatchet","Special":"Shaper","Aspects":[]}],"Gemstone Sword":[{"Name":"Gemstone Sword","BaseType":"Gemstone Sword","Special":"Shaper","Aspects":[]}],"Infernal Axe":[{"Name":"Infernal Axe","BaseType":"Infernal Axe","Special":"Shaper","Aspects":[]}],"Devout Chainmail":[{"Name":"Devout Chainmail","BaseType":"Devout Chainmail","Special":"Shaper","Aspects":[]}],"Sentinel Jacket":[{"Name":"Sentinel Jacket","BaseType":"Sentinel Jacket","Special":"Shaper","Aspects":[]}],"Prehistoric Claw":[{"Name":"Prehistoric Claw","BaseType":"Prehistoric Claw","Special":"Shaper","Aspects":[]}],"Triumphant Lamellar":[{"Name":"Triumphant Lamellar","BaseType":"Triumphant Lamellar","Special":"Elder","Aspects":[]}],"Decimation Bow":[{"Name":"Decimation Bow","BaseType":"Decimation Bow","Special":"Shaper","Aspects":[]}],"Cobalt Jewel":[{"Name":"Cobalt Jewel","BaseType":"Cobalt Jewel","Special":null,"Aspects":[]}],"Viridian Jewel":[{"Name":"Viridian Jewel","BaseType":"Viridian Jewel","Special":null,"Aspects":[]}],"Great White Claw":[{"Name":"Great White Claw","BaseType":"Great White Claw","Special":null,"Aspects":[]}],"Battle Lamellar":[{"Name":"Battle Lamellar","BaseType":"Battle Lamellar","Special":"Shaper","Aspects":[]}],"Loricated Ringmail":[{"Name":"Loricated Ringmail","BaseType":"Loricated Ringmail","Special":"Elder","Aspects":[]}],"Siege Axe":[{"Name":"Siege Axe","BaseType":"Siege Axe","Special":"Elder","Aspects":[]}],"Karui Chopper":[{"Name":"Karui Chopper","BaseType":"Karui Chopper","Special":null,"Aspects":[]}],"Destiny Leather":[{"Name":"Destiny Leather","BaseType":"Destiny Leather","Special":"Elder","Aspects":[]}],"Eagle Claw":[{"Name":"Eagle Claw","BaseType":"Eagle Claw","Special":"Shaper","Aspects":[]}],"Cutthroat's Garb":[{"Name":"Cutthroat's Garb","BaseType":"Cutthroat's Garb","Special":"Elder","Aspects":[]}],"Crypt Armour":[{"Name":"Crypt Armour","BaseType":"Crypt Armour","Special":"Shaper","Aspects":[]}],"Corsair Sword":[{"Name":"Corsair Sword","BaseType":"Corsair Sword","Special":"Shaper","Aspects":[]}],"Reaver Sword":[{"Name":"Reaver Sword","BaseType":"Reaver Sword","Special":"Shaper","Aspects":[]}],"Karui Axe":[{"Name":"Karui Axe","BaseType":"Karui Axe","Special":null,"Aspects":[]}],"Iron Hat":[{"Name":"Iron Hat","BaseType":"Iron Hat","Special":"Shaper","Aspects":[]}],"Dragonscale Doublet":[{"Name":"Dragonscale Doublet","BaseType":"Dragonscale Doublet","Special":"Elder","Aspects":[]}],"Sharkskin Tunic":[{"Name":"Sharkskin Tunic","BaseType":"Sharkskin Tunic","Special":"Elder","Aspects":[]}],"Citadel Bow":[{"Name":"Citadel Bow","BaseType":"Citadel Bow","Special":"Elder","Aspects":[]}],"Terror Claw":[{"Name":"Terror Claw","BaseType":"Terror Claw","Special":"Shaper","Aspects":[]}],"Crimson Jewel":[{"Name":"Crimson Jewel","BaseType":"Crimson Jewel","Special":null,"Aspects":[]}],"Plank Kite Shield":[{"Name":"Plank Kite Shield","BaseType":"Plank Kite Shield","Special":"Elder","Aspects":[]}],"Etched Greatsword":[{"Name":"Etched Greatsword","BaseType":"Etched Greatsword","Special":"Elder","Aspects":[]}],"Tribal Club":[{"Name":"Tribal Club","BaseType":"Tribal Club","Special":"Shaper","Aspects":[]}],"Long Bow":[{"Name":"Long Bow","BaseType":"Long Bow","Special":null,"Aspects":[]}],"Strapped Leather":[{"Name":"Strapped Leather","BaseType":"Strapped Leather","Special":"Elder","Aspects":[]}],"Driftwood Spiked Shield":[{"Name":"Driftwood Spiked Shield","BaseType":"Driftwood Spiked Shield","Special":"Elder","Aspects":[]}],"Cleaver":[{"Name":"Cleaver","BaseType":"Cleaver","Special":"Elder","Aspects":[]}],"Broad Sword":[{"Name":"Broad Sword","BaseType":"Broad Sword","Special":"Shaper","Aspects":[]}],"Rusted Spike":[{"Name":"Rusted Spike","BaseType":"Rusted Spike","Special":"Shaper","Aspects":[]}],"Timeless Jewel":[{"Name":"Timeless Jewel","BaseType":"Timeless Jewel","Special":null,"Aspects":[]}],"Plate Vest":[{"Name":"Plate Vest","BaseType":"Plate Vest","Special":"Elder","Aspects":[]}],"Spiked Club":[{"Name":"Spiked Club","BaseType":"Spiked Club","Special":null,"Aspects":[]}],"Ringmail Coat":[{"Name":"Ringmail Coat","BaseType":"Ringmail Coat","Special":"Elder","Aspects":[]}],"Rawhide Tower Shield":[{"Name":"Rawhide Tower Shield","BaseType":"Rawhide Tower Shield","Special":"Shaper","Aspects":[]}],"Chainmail Tunic":[{"Name":"Chainmail Tunic","BaseType":"Chainmail Tunic","Special":null,"Aspects":[]}],"Rotted Round Shield":[{"Name":"Rotted Round Shield","BaseType":"Rotted Round Shield","Special":"Shaper","Aspects":[]}],"Whalebone Rapier":[{"Name":"Whalebone Rapier","BaseType":"Whalebone Rapier","Special":"Shaper","Aspects":["{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"ExclusiveBaseAspect\",\"Color\":\"#FF696969\"}"]}],"Chestplate":[{"Name":"Chestplate","BaseType":"Chestplate","Special":null,"Aspects":[]}],"Darkwood Sceptre":[{"Name":"Darkwood Sceptre","BaseType":"Darkwood Sceptre","Special":"Elder","Aspects":[]}],"Awl":[{"Name":"Awl","BaseType":"Awl","Special":"Shaper","Aspects":[]}],"Poleaxe":[{"Name":"Poleaxe","BaseType":"Poleaxe","Special":null,"Aspects":[]}],"Mallet":[{"Name":"Mallet","BaseType":"Mallet","Special":"Shaper","Aspects":[]}],"Corroded Blade":[{"Name":"Corroded Blade","BaseType":"Corroded Blade","Special":"Elder","Aspects":[]}],"Driftwood Club":[{"Name":"Driftwood Club","BaseType":"Driftwood Club","Special":"Shaper","Aspects":[]}],"Splintered Tower Shield":[{"Name":"Splintered Tower Shield","BaseType":"Splintered Tower Shield","Special":"Shaper","Aspects":[]}],"Chainmail Vest":[{"Name":"Chainmail Vest","BaseType":"Chainmail Vest","Special":null,"Aspects":[]}]}
+{
+  "Opal Ring": [
+    {
+      "Name": "Opal Ring",
+      "BaseType": "Opal Ring",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "War Plate": [
+    {
+      "Name": "War Plate",
+      "BaseType": "War Plate",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Bone Helmet": [
+    {
+      "Name": "Bone Helmet",
+      "BaseType": "Bone Helmet",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Fingerless Silk Gloves": [
+    {
+      "Name": "Fingerless Silk Gloves",
+      "BaseType": "Fingerless Silk Gloves",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Crystal Belt": [
+    {
+      "Name": "Crystal Belt",
+      "BaseType": "Crystal Belt",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Two-Toned Boots": [
+    {
+      "Name": "Two-Toned Boots",
+      "BaseType": "Two-Toned Boots",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Opal Sceptre": [
+    {
+      "Name": "Opal Sceptre",
+      "BaseType": "Opal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Driftwood Wand": [
+    {
+      "Name": "Driftwood Wand",
+      "BaseType": "Driftwood Wand",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Void Sceptre": [
+    {
+      "Name": "Void Sceptre",
+      "BaseType": "Void Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Marble Amulet": [
+    {
+      "Name": "Marble Amulet",
+      "BaseType": "Marble Amulet",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Reaver Axe": [
+    {
+      "Name": "Reaver Axe",
+      "BaseType": "Reaver Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Prismatic Ring": [
+    {
+      "Name": "Prismatic Ring",
+      "BaseType": "Prismatic Ring",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Steel Ring": [
+    {
+      "Name": "Steel Ring",
+      "BaseType": "Steel Ring",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Profane Wand": [
+    {
+      "Name": "Profane Wand",
+      "BaseType": "Profane Wand",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Dream Mace": [
+    {
+      "Name": "Dream Mace",
+      "BaseType": "Dream Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ironscale Gauntlets": [
+    {
+      "Name": "Ironscale Gauntlets",
+      "BaseType": "Ironscale Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Totemic Maul": [
+    {
+      "Name": "Totemic Maul",
+      "BaseType": "Totemic Maul",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Short Bow": [
+    {
+      "Name": "Short Bow",
+      "BaseType": "Short Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Astral Plate": [
+    {
+      "Name": "Astral Plate",
+      "BaseType": "Astral Plate",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Scarlet Raiment": [
+    {
+      "Name": "Scarlet Raiment",
+      "BaseType": "Scarlet Raiment",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Rawhide Boots": [
+    {
+      "Name": "Rawhide Boots",
+      "BaseType": "Rawhide Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Fishscale Gauntlets": [
+    {
+      "Name": "Fishscale Gauntlets",
+      "BaseType": "Fishscale Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Hubris Circlet": [
+    {
+      "Name": "Hubris Circlet",
+      "BaseType": "Hubris Circlet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tricorne": [
+    {
+      "Name": "Tricorne",
+      "BaseType": "Tricorne",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Opal Wand": [
+    {
+      "Name": "Opal Wand",
+      "BaseType": "Opal Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Pagan Wand": [
+    {
+      "Name": "Pagan Wand",
+      "BaseType": "Pagan Wand",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Wyrm Mace": [
+    {
+      "Name": "Wyrm Mace",
+      "BaseType": "Wyrm Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wrapped Boots": [
+    {
+      "Name": "Wrapped Boots",
+      "BaseType": "Wrapped Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Driftwood Sceptre": [
+    {
+      "Name": "Driftwood Sceptre",
+      "BaseType": "Driftwood Sceptre",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vaal Sceptre": [
+    {
+      "Name": "Vaal Sceptre",
+      "BaseType": "Vaal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Blue Pearl Amulet": [
+    {
+      "Name": "Blue Pearl Amulet",
+      "BaseType": "Blue Pearl Amulet",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Gripped Gloves": [
+    {
+      "Name": "Gripped Gloves",
+      "BaseType": "Gripped Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Grove Bow": [
+    {
+      "Name": "Grove Bow",
+      "BaseType": "Grove Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sorcerer Boots": [
+    {
+      "Name": "Sorcerer Boots",
+      "BaseType": "Sorcerer Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Quartz Wand": [
+    {
+      "Name": "Quartz Wand",
+      "BaseType": "Quartz Wand",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Rawhide Gloves": [
+    {
+      "Name": "Rawhide Gloves",
+      "BaseType": "Rawhide Gloves",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Reflex Bow": [
+    {
+      "Name": "Reflex Bow",
+      "BaseType": "Reflex Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Ceremonial Mace": [
+    {
+      "Name": "Ceremonial Mace",
+      "BaseType": "Ceremonial Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sparkling Claw": [
+    {
+      "Name": "Sparkling Claw",
+      "BaseType": "Sparkling Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sambar Sceptre": [
+    {
+      "Name": "Sambar Sceptre",
+      "BaseType": "Sambar Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Imp Dagger": [
+    {
+      "Name": "Imp Dagger",
+      "BaseType": "Imp Dagger",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Spiked Gloves": [
+    {
+      "Name": "Spiked Gloves",
+      "BaseType": "Spiked Gloves",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"AtlasBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Vile Staff": [
+    {
+      "Name": "Vile Staff",
+      "BaseType": "Vile Staff",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Prong Dagger": [
+    {
+      "Name": "Prong Dagger",
+      "BaseType": "Prong Dagger",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Dusk Blade": [
+    {
+      "Name": "Dusk Blade",
+      "BaseType": "Dusk Blade",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Soldier Helmet": [
+    {
+      "Name": "Soldier Helmet",
+      "BaseType": "Soldier Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Abyssal Sceptre": [
+    {
+      "Name": "Abyssal Sceptre",
+      "BaseType": "Abyssal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Titanium Spirit Shield": [
+    {
+      "Name": "Titanium Spirit Shield",
+      "BaseType": "Titanium Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Carnal Sceptre": [
+    {
+      "Name": "Carnal Sceptre",
+      "BaseType": "Carnal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Platinum Kris": [
+    {
+      "Name": "Platinum Kris",
+      "BaseType": "Platinum Kris",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Leather Belt": [
+    {
+      "Name": "Leather Belt",
+      "BaseType": "Leather Belt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Shadow Sceptre": [
+    {
+      "Name": "Shadow Sceptre",
+      "BaseType": "Shadow Sceptre",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Crystal Sceptre": [
+    {
+      "Name": "Crystal Sceptre",
+      "BaseType": "Crystal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Shadow Axe": [
+    {
+      "Name": "Shadow Axe",
+      "BaseType": "Shadow Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ceremonial Kite Shield": [
+    {
+      "Name": "Ceremonial Kite Shield",
+      "BaseType": "Ceremonial Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Great Helmet": [
+    {
+      "Name": "Great Helmet",
+      "BaseType": "Great Helmet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Horned Sceptre": [
+    {
+      "Name": "Horned Sceptre",
+      "BaseType": "Horned Sceptre",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Visored Sallet": [
+    {
+      "Name": "Visored Sallet",
+      "BaseType": "Visored Sallet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Full Chainmail": [
+    {
+      "Name": "Full Chainmail",
+      "BaseType": "Full Chainmail",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Primordial Staff": [
+    {
+      "Name": "Primordial Staff",
+      "BaseType": "Primordial Staff",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Engraved Greatsword": [
+    {
+      "Name": "Engraved Greatsword",
+      "BaseType": "Engraved Greatsword",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Alloyed Spiked Shield": [
+    {
+      "Name": "Alloyed Spiked Shield",
+      "BaseType": "Alloyed Spiked Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Thief's Garb": [
+    {
+      "Name": "Thief's Garb",
+      "BaseType": "Thief's Garb",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "War Sword": [
+    {
+      "Name": "War Sword",
+      "BaseType": "War Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Infantry Brigandine": [
+    {
+      "Name": "Infantry Brigandine",
+      "BaseType": "Infantry Brigandine",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Rusted Hatchet": [
+    {
+      "Name": "Rusted Hatchet",
+      "BaseType": "Rusted Hatchet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Studded Round Shield": [
+    {
+      "Name": "Studded Round Shield",
+      "BaseType": "Studded Round Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Stone Hammer": [
+    {
+      "Name": "Stone Hammer",
+      "BaseType": "Stone Hammer",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Wool Shoes": [
+    {
+      "Name": "Wool Shoes",
+      "BaseType": "Wool Shoes",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bronze Sceptre": [
+    {
+      "Name": "Bronze Sceptre",
+      "BaseType": "Bronze Sceptre",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Broad Axe": [
+    {
+      "Name": "Broad Axe",
+      "BaseType": "Broad Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Leather Cap": [
+    {
+      "Name": "Leather Cap",
+      "BaseType": "Leather Cap",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Iron Staff": [
+    {
+      "Name": "Iron Staff",
+      "BaseType": "Iron Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Clasped Boots": [
+    {
+      "Name": "Clasped Boots",
+      "BaseType": "Clasped Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cone Helmet": [
+    {
+      "Name": "Cone Helmet",
+      "BaseType": "Cone Helmet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Heathen Wand": [
+    {
+      "Name": "Heathen Wand",
+      "BaseType": "Heathen Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Copper Kris": [
+    {
+      "Name": "Copper Kris",
+      "BaseType": "Copper Kris",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Axe": [
+    {
+      "Name": "Ezomyte Axe",
+      "BaseType": "Ezomyte Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Quartz Sceptre": [
+    {
+      "Name": "Quartz Sceptre",
+      "BaseType": "Quartz Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Iron Circlet": [
+    {
+      "Name": "Iron Circlet",
+      "BaseType": "Iron Circlet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Boarding Axe": [
+    {
+      "Name": "Boarding Axe",
+      "BaseType": "Boarding Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Thorn Rapier": [
+    {
+      "Name": "Thorn Rapier",
+      "BaseType": "Thorn Rapier",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Platinum Sceptre": [
+    {
+      "Name": "Platinum Sceptre",
+      "BaseType": "Platinum Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Stiletto": [
+    {
+      "Name": "Stiletto",
+      "BaseType": "Stiletto",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Golden Kris": [
+    {
+      "Name": "Golden Kris",
+      "BaseType": "Golden Kris",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Onyx Amulet": [
+    {
+      "Name": "Onyx Amulet",
+      "BaseType": "Onyx Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Silk Slippers": [
+    {
+      "Name": "Silk Slippers",
+      "BaseType": "Silk Slippers",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wild Leather": [
+    {
+      "Name": "Wild Leather",
+      "BaseType": "Wild Leather",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ringmail Gloves": [
+    {
+      "Name": "Ringmail Gloves",
+      "BaseType": "Ringmail Gloves",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Jagged Maul": [
+    {
+      "Name": "Jagged Maul",
+      "BaseType": "Jagged Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Buckskin Tunic": [
+    {
+      "Name": "Buckskin Tunic",
+      "BaseType": "Buckskin Tunic",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Wool Gloves": [
+    {
+      "Name": "Wool Gloves",
+      "BaseType": "Wool Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Fir Round Shield": [
+    {
+      "Name": "Fir Round Shield",
+      "BaseType": "Fir Round Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Fright Maul": [
+    {
+      "Name": "Fright Maul",
+      "BaseType": "Fright Maul",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Carved Wand": [
+    {
+      "Name": "Carved Wand",
+      "BaseType": "Carved Wand",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Composite Bow": [
+    {
+      "Name": "Composite Bow",
+      "BaseType": "Composite Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Prophecy Wand": [
+    {
+      "Name": "Prophecy Wand",
+      "BaseType": "Prophecy Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Goathide Gloves": [
+    {
+      "Name": "Goathide Gloves",
+      "BaseType": "Goathide Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crude Bow": [
+    {
+      "Name": "Crude Bow",
+      "BaseType": "Crude Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ochre Sceptre": [
+    {
+      "Name": "Ochre Sceptre",
+      "BaseType": "Ochre Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sorcerer Gloves": [
+    {
+      "Name": "Sorcerer Gloves",
+      "BaseType": "Sorcerer Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Arcanist Slippers": [
+    {
+      "Name": "Arcanist Slippers",
+      "BaseType": "Arcanist Slippers",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ritual Sceptre": [
+    {
+      "Name": "Ritual Sceptre",
+      "BaseType": "Ritual Sceptre",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Oak Buckler": [
+    {
+      "Name": "Oak Buckler",
+      "BaseType": "Oak Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Battered Foil": [
+    {
+      "Name": "Battered Foil",
+      "BaseType": "Battered Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Agate Amulet": [
+    {
+      "Name": "Agate Amulet",
+      "BaseType": "Agate Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Buckskin Tower Shield": [
+    {
+      "Name": "Buckskin Tower Shield",
+      "BaseType": "Buckskin Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sabre": [
+    {
+      "Name": "Sabre",
+      "BaseType": "Sabre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Plague Mask": [
+    {
+      "Name": "Plague Mask",
+      "BaseType": "Plague Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sledgehammer": [
+    {
+      "Name": "Sledgehammer",
+      "BaseType": "Sledgehammer",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Deerskin Boots": [
+    {
+      "Name": "Deerskin Boots",
+      "BaseType": "Deerskin Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Royal Burgonet": [
+    {
+      "Name": "Royal Burgonet",
+      "BaseType": "Royal Burgonet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Iron Greaves": [
+    {
+      "Name": "Iron Greaves",
+      "BaseType": "Iron Greaves",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Crescent Staff": [
+    {
+      "Name": "Crescent Staff",
+      "BaseType": "Crescent Staff",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Plated Greaves": [
+    {
+      "Name": "Plated Greaves",
+      "BaseType": "Plated Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vine Circlet": [
+    {
+      "Name": "Vine Circlet",
+      "BaseType": "Vine Circlet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Steelscale Boots": [
+    {
+      "Name": "Steelscale Boots",
+      "BaseType": "Steelscale Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vaal Regalia": [
+    {
+      "Name": "Vaal Regalia",
+      "BaseType": "Vaal Regalia",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Steel Greaves": [
+    {
+      "Name": "Steel Greaves",
+      "BaseType": "Steel Greaves",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Tornado Wand": [
+    {
+      "Name": "Tornado Wand",
+      "BaseType": "Tornado Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Jingling Spirit Shield": [
+    {
+      "Name": "Jingling Spirit Shield",
+      "BaseType": "Jingling Spirit Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Waxed Garb": [
+    {
+      "Name": "Waxed Garb",
+      "BaseType": "Waxed Garb",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Hammered Buckler": [
+    {
+      "Name": "Hammered Buckler",
+      "BaseType": "Hammered Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Stag Sceptre": [
+    {
+      "Name": "Stag Sceptre",
+      "BaseType": "Stag Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Citrine Amulet": [
+    {
+      "Name": "Citrine Amulet",
+      "BaseType": "Citrine Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Mahogany Tower Shield": [
+    {
+      "Name": "Mahogany Tower Shield",
+      "BaseType": "Mahogany Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Bronze Gauntlets": [
+    {
+      "Name": "Bronze Gauntlets",
+      "BaseType": "Bronze Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Petrified Club": [
+    {
+      "Name": "Petrified Club",
+      "BaseType": "Petrified Club",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gold Amulet": [
+    {
+      "Name": "Gold Amulet",
+      "BaseType": "Gold Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Royal Bow": [
+    {
+      "Name": "Royal Bow",
+      "BaseType": "Royal Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lapis Amulet": [
+    {
+      "Name": "Lapis Amulet",
+      "BaseType": "Lapis Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sallet": [
+    {
+      "Name": "Sallet",
+      "BaseType": "Sallet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Jagged Foil": [
+    {
+      "Name": "Jagged Foil",
+      "BaseType": "Jagged Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Great Mallet": [
+    {
+      "Name": "Great Mallet",
+      "BaseType": "Great Mallet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Deerskin Gloves": [
+    {
+      "Name": "Deerskin Gloves",
+      "BaseType": "Deerskin Gloves",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Jasper Chopper": [
+    {
+      "Name": "Jasper Chopper",
+      "BaseType": "Jasper Chopper",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Recurve Bow": [
+    {
+      "Name": "Recurve Bow",
+      "BaseType": "Recurve Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Full Leather": [
+    {
+      "Name": "Full Leather",
+      "BaseType": "Full Leather",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Battered Helm": [
+    {
+      "Name": "Battered Helm",
+      "BaseType": "Battered Helm",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Barbute Helmet": [
+    {
+      "Name": "Barbute Helmet",
+      "BaseType": "Barbute Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Long Staff": [
+    {
+      "Name": "Long Staff",
+      "BaseType": "Long Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Turquoise Amulet": [
+    {
+      "Name": "Turquoise Amulet",
+      "BaseType": "Turquoise Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ambusher": [
+    {
+      "Name": "Ambusher",
+      "BaseType": "Ambusher",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Jade Amulet": [
+    {
+      "Name": "Jade Amulet",
+      "BaseType": "Jade Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tarnished Spirit Shield": [
+    {
+      "Name": "Tarnished Spirit Shield",
+      "BaseType": "Tarnished Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dagger Axe": [
+    {
+      "Name": "Dagger Axe",
+      "BaseType": "Dagger Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Bone Spirit Shield": [
+    {
+      "Name": "Bone Spirit Shield",
+      "BaseType": "Bone Spirit Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ornate Spiked Shield": [
+    {
+      "Name": "Ornate Spiked Shield",
+      "BaseType": "Ornate Spiked Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Sapphire Ring": [
+    {
+      "Name": "Sapphire Ring",
+      "BaseType": "Sapphire Ring",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Amber Amulet": [
+    {
+      "Name": "Amber Amulet",
+      "BaseType": "Amber Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spiraled Wand": [
+    {
+      "Name": "Spiraled Wand",
+      "BaseType": "Spiraled Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Flaying Knife": [
+    {
+      "Name": "Flaying Knife",
+      "BaseType": "Flaying Knife",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Bronzescale Gauntlets": [
+    {
+      "Name": "Bronzescale Gauntlets",
+      "BaseType": "Bronzescale Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Paua Amulet": [
+    {
+      "Name": "Paua Amulet",
+      "BaseType": "Paua Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Eclipse Staff": [
+    {
+      "Name": "Eclipse Staff",
+      "BaseType": "Eclipse Staff",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Mind Cage": [
+    {
+      "Name": "Mind Cage",
+      "BaseType": "Mind Cage",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Leather Hood": [
+    {
+      "Name": "Leather Hood",
+      "BaseType": "Leather Hood",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Coral Amulet": [
+    {
+      "Name": "Coral Amulet",
+      "BaseType": "Coral Amulet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Slink Gloves": [
+    {
+      "Name": "Slink Gloves",
+      "BaseType": "Slink Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Redwood Spiked Shield": [
+    {
+      "Name": "Redwood Spiked Shield",
+      "BaseType": "Redwood Spiked Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Iron Sceptre": [
+    {
+      "Name": "Iron Sceptre",
+      "BaseType": "Iron Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Full Plate": [
+    {
+      "Name": "Full Plate",
+      "BaseType": "Full Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Twig Spirit Shield": [
+    {
+      "Name": "Twig Spirit Shield",
+      "BaseType": "Twig Spirit Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Two-Handed Sword": [
+    {
+      "Name": "Two-Handed Sword",
+      "BaseType": "Two-Handed Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Slink Boots": [
+    {
+      "Name": "Slink Boots",
+      "BaseType": "Slink Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Bone Armour": [
+    {
+      "Name": "Bone Armour",
+      "BaseType": "Bone Armour",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Engraved Hatchet": [
+    {
+      "Name": "Engraved Hatchet",
+      "BaseType": "Engraved Hatchet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Riveted Boots": [
+    {
+      "Name": "Riveted Boots",
+      "BaseType": "Riveted Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Burnished Spiked Shield": [
+    {
+      "Name": "Burnished Spiked Shield",
+      "BaseType": "Burnished Spiked Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Iron Mask": [
+    {
+      "Name": "Iron Mask",
+      "BaseType": "Iron Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Carving Knife": [
+    {
+      "Name": "Carving Knife",
+      "BaseType": "Carving Knife",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Imbued Wand": [
+    {
+      "Name": "Imbued Wand",
+      "BaseType": "Imbued Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lion Pelt": [
+    {
+      "Name": "Lion Pelt",
+      "BaseType": "Lion Pelt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Pinnacle Tower Shield": [
+    {
+      "Name": "Pinnacle Tower Shield",
+      "BaseType": "Pinnacle Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Copper Tower Shield": [
+    {
+      "Name": "Copper Tower Shield",
+      "BaseType": "Copper Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spiny Maul": [
+    {
+      "Name": "Spiny Maul",
+      "BaseType": "Spiny Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ringmail Boots": [
+    {
+      "Name": "Ringmail Boots",
+      "BaseType": "Ringmail Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Steel Gauntlets": [
+    {
+      "Name": "Steel Gauntlets",
+      "BaseType": "Steel Gauntlets",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Wyrmbone Rapier": [
+    {
+      "Name": "Wyrmbone Rapier",
+      "BaseType": "Wyrmbone Rapier",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Goat's Horn": [
+    {
+      "Name": "Goat's Horn",
+      "BaseType": "Goat's Horn",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Curved Blade": [
+    {
+      "Name": "Curved Blade",
+      "BaseType": "Curved Blade",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Ezomyte Spiked Shield": [
+    {
+      "Name": "Ezomyte Spiked Shield",
+      "BaseType": "Ezomyte Spiked Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Solar Maul": [
+    {
+      "Name": "Solar Maul",
+      "BaseType": "Solar Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Spine Bow": [
+    {
+      "Name": "Spine Bow",
+      "BaseType": "Spine Bow",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Basket Rapier": [
+    {
+      "Name": "Basket Rapier",
+      "BaseType": "Basket Rapier",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Antique Greaves": [
+    {
+      "Name": "Antique Greaves",
+      "BaseType": "Antique Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Harmonic Spirit Shield": [
+    {
+      "Name": "Harmonic Spirit Shield",
+      "BaseType": "Harmonic Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Two-Stone Ring": [
+    {
+      "Name": "Two-Stone Ring",
+      "BaseType": "Two-Stone Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Eternal Burgonet": [
+    {
+      "Name": "Eternal Burgonet",
+      "BaseType": "Eternal Burgonet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Poignard": [
+    {
+      "Name": "Poignard",
+      "BaseType": "Poignard",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Diamond Ring": [
+    {
+      "Name": "Diamond Ring",
+      "BaseType": "Diamond Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Eelskin Tunic": [
+    {
+      "Name": "Eelskin Tunic",
+      "BaseType": "Eelskin Tunic",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Lacquered Buckler": [
+    {
+      "Name": "Lacquered Buckler",
+      "BaseType": "Lacquered Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Baselard": [
+    {
+      "Name": "Baselard",
+      "BaseType": "Baselard",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Woodful Staff": [
+    {
+      "Name": "Woodful Staff",
+      "BaseType": "Woodful Staff",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Royal Staff": [
+    {
+      "Name": "Royal Staff",
+      "BaseType": "Royal Staff",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Spectral Axe": [
+    {
+      "Name": "Spectral Axe",
+      "BaseType": "Spectral Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bronze Tower Shield": [
+    {
+      "Name": "Bronze Tower Shield",
+      "BaseType": "Bronze Tower Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Mesh Boots": [
+    {
+      "Name": "Mesh Boots",
+      "BaseType": "Mesh Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ornate Mace": [
+    {
+      "Name": "Ornate Mace",
+      "BaseType": "Ornate Mace",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Colossal Tower Shield": [
+    {
+      "Name": "Colossal Tower Shield",
+      "BaseType": "Colossal Tower Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Gilded Sallet": [
+    {
+      "Name": "Gilded Sallet",
+      "BaseType": "Gilded Sallet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Stealth Boots": [
+    {
+      "Name": "Stealth Boots",
+      "BaseType": "Stealth Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Imperial Bow": [
+    {
+      "Name": "Imperial Bow",
+      "BaseType": "Imperial Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "War Hammer": [
+    {
+      "Name": "War Hammer",
+      "BaseType": "War Hammer",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wrist Chopper": [
+    {
+      "Name": "Wrist Chopper",
+      "BaseType": "Wrist Chopper",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Searching Eye Jewel": [
+    {
+      "Name": "Searching Eye Jewel",
+      "BaseType": "Searching Eye Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Torture Cage": [
+    {
+      "Name": "Torture Cage",
+      "BaseType": "Torture Cage",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ancient Sword": [
+    {
+      "Name": "Ancient Sword",
+      "BaseType": "Ancient Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vanguard Belt": [
+    {
+      "Name": "Vanguard Belt",
+      "BaseType": "Vanguard Belt",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Gavel": [
+    {
+      "Name": "Gavel",
+      "BaseType": "Gavel",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Deicide Mask": [
+    {
+      "Name": "Deicide Mask",
+      "BaseType": "Deicide Mask",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cabalist Regalia": [
+    {
+      "Name": "Cabalist Regalia",
+      "BaseType": "Cabalist Regalia",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Arena Plate": [
+    {
+      "Name": "Arena Plate",
+      "BaseType": "Arena Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Festival Mask": [
+    {
+      "Name": "Festival Mask",
+      "BaseType": "Festival Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Karui Maul": [
+    {
+      "Name": "Karui Maul",
+      "BaseType": "Karui Maul",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Boot Knife": [
+    {
+      "Name": "Boot Knife",
+      "BaseType": "Boot Knife",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Fencer Helm": [
+    {
+      "Name": "Fencer Helm",
+      "BaseType": "Fencer Helm",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Velvet Gloves": [
+    {
+      "Name": "Velvet Gloves",
+      "BaseType": "Velvet Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Silk Robe": [
+    {
+      "Name": "Silk Robe",
+      "BaseType": "Silk Robe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Painted Tower Shield": [
+    {
+      "Name": "Painted Tower Shield",
+      "BaseType": "Painted Tower Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Topaz Ring": [
+    {
+      "Name": "Topaz Ring",
+      "BaseType": "Topaz Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Jewelled Foil": [
+    {
+      "Name": "Jewelled Foil",
+      "BaseType": "Jewelled Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Silk Gloves": [
+    {
+      "Name": "Silk Gloves",
+      "BaseType": "Silk Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sovereign Spiked Shield": [
+    {
+      "Name": "Sovereign Spiked Shield",
+      "BaseType": "Sovereign Spiked Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bronzescale Boots": [
+    {
+      "Name": "Bronzescale Boots",
+      "BaseType": "Bronzescale Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Linden Kite Shield": [
+    {
+      "Name": "Linden Kite Shield",
+      "BaseType": "Linden Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Leatherscale Boots": [
+    {
+      "Name": "Leatherscale Boots",
+      "BaseType": "Leatherscale Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Shabby Jerkin": [
+    {
+      "Name": "Shabby Jerkin",
+      "BaseType": "Shabby Jerkin",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Murder Mitts": [
+    {
+      "Name": "Murder Mitts",
+      "BaseType": "Murder Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Coral Ring": [
+    {
+      "Name": "Coral Ring",
+      "BaseType": "Coral Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Baroque Round Shield": [
+    {
+      "Name": "Baroque Round Shield",
+      "BaseType": "Baroque Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Faun's Horn": [
+    {
+      "Name": "Faun's Horn",
+      "BaseType": "Faun's Horn",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Karui Sceptre": [
+    {
+      "Name": "Karui Sceptre",
+      "BaseType": "Karui Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lead Sceptre": [
+    {
+      "Name": "Lead Sceptre",
+      "BaseType": "Lead Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Prophet Crown": [
+    {
+      "Name": "Prophet Crown",
+      "BaseType": "Prophet Crown",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Tyrant's Sekhem": [
+    {
+      "Name": "Tyrant's Sekhem",
+      "BaseType": "Tyrant's Sekhem",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sekhem": [
+    {
+      "Name": "Sekhem",
+      "BaseType": "Sekhem",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Skean": [
+    {
+      "Name": "Skean",
+      "BaseType": "Skean",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vaal Buckler": [
+    {
+      "Name": "Vaal Buckler",
+      "BaseType": "Vaal Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Death Bow": [
+    {
+      "Name": "Death Bow",
+      "BaseType": "Death Bow",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Spectral Sword": [
+    {
+      "Name": "Spectral Sword",
+      "BaseType": "Spectral Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Strapped Boots": [
+    {
+      "Name": "Strapped Boots",
+      "BaseType": "Strapped Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Steel Kite Shield": [
+    {
+      "Name": "Steel Kite Shield",
+      "BaseType": "Steel Kite Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lordly Plate": [
+    {
+      "Name": "Lordly Plate",
+      "BaseType": "Lordly Plate",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Thresher Claw": [
+    {
+      "Name": "Thresher Claw",
+      "BaseType": "Thresher Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Brass Spirit Shield": [
+    {
+      "Name": "Brass Spirit Shield",
+      "BaseType": "Brass Spirit Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Sadist Garb": [
+    {
+      "Name": "Sadist Garb",
+      "BaseType": "Sadist Garb",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Blood Sceptre": [
+    {
+      "Name": "Blood Sceptre",
+      "BaseType": "Blood Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crystal Wand": [
+    {
+      "Name": "Crystal Wand",
+      "BaseType": "Crystal Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Demon Dagger": [
+    {
+      "Name": "Demon Dagger",
+      "BaseType": "Demon Dagger",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ruby Ring": [
+    {
+      "Name": "Ruby Ring",
+      "BaseType": "Ruby Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Royal Sceptre": [
+    {
+      "Name": "Royal Sceptre",
+      "BaseType": "Royal Sceptre",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crusader Chainmail": [
+    {
+      "Name": "Crusader Chainmail",
+      "BaseType": "Crusader Chainmail",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Piledriver": [
+    {
+      "Name": "Piledriver",
+      "BaseType": "Piledriver",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Demon's Horn": [
+    {
+      "Name": "Demon's Horn",
+      "BaseType": "Demon's Horn",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sai": [
+    {
+      "Name": "Sai",
+      "BaseType": "Sai",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Riveted Gloves": [
+    {
+      "Name": "Riveted Gloves",
+      "BaseType": "Riveted Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Hypnotic Eye Jewel": [
+    {
+      "Name": "Hypnotic Eye Jewel",
+      "BaseType": "Hypnotic Eye Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cutlass": [
+    {
+      "Name": "Cutlass",
+      "BaseType": "Cutlass",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Compound Spiked Shield": [
+    {
+      "Name": "Compound Spiked Shield",
+      "BaseType": "Compound Spiked Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Bone Bow": [
+    {
+      "Name": "Bone Bow",
+      "BaseType": "Bone Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "War Buckler": [
+    {
+      "Name": "War Buckler",
+      "BaseType": "War Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Grinning Fetish": [
+    {
+      "Name": "Grinning Fetish",
+      "BaseType": "Grinning Fetish",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Moon Staff": [
+    {
+      "Name": "Moon Staff",
+      "BaseType": "Moon Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Full Scale Armour": [
+    {
+      "Name": "Full Scale Armour",
+      "BaseType": "Full Scale Armour",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cat's Paw": [
+    {
+      "Name": "Cat's Paw",
+      "BaseType": "Cat's Paw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Walnut Spirit Shield": [
+    {
+      "Name": "Walnut Spirit Shield",
+      "BaseType": "Walnut Spirit Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Silken Garb": [
+    {
+      "Name": "Silken Garb",
+      "BaseType": "Silken Garb",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crusader Helmet": [
+    {
+      "Name": "Crusader Helmet",
+      "BaseType": "Crusader Helmet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Raven Mask": [
+    {
+      "Name": "Raven Mask",
+      "BaseType": "Raven Mask",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bladed Mace": [
+    {
+      "Name": "Bladed Mace",
+      "BaseType": "Bladed Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gilded Axe": [
+    {
+      "Name": "Gilded Axe",
+      "BaseType": "Gilded Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Primitive Staff": [
+    {
+      "Name": "Primitive Staff",
+      "BaseType": "Primitive Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Goathide Boots": [
+    {
+      "Name": "Goathide Boots",
+      "BaseType": "Goathide Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Oiled Coat": [
+    {
+      "Name": "Oiled Coat",
+      "BaseType": "Oiled Coat",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Padded Jacket": [
+    {
+      "Name": "Padded Jacket",
+      "BaseType": "Padded Jacket",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Barbed Club": [
+    {
+      "Name": "Barbed Club",
+      "BaseType": "Barbed Club",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Tribal Circlet": [
+    {
+      "Name": "Tribal Circlet",
+      "BaseType": "Tribal Circlet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Jasper Axe": [
+    {
+      "Name": "Jasper Axe",
+      "BaseType": "Jasper Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Engraved Wand": [
+    {
+      "Name": "Engraved Wand",
+      "BaseType": "Engraved Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Desert Brigandine": [
+    {
+      "Name": "Desert Brigandine",
+      "BaseType": "Desert Brigandine",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Arcanist Gloves": [
+    {
+      "Name": "Arcanist Gloves",
+      "BaseType": "Arcanist Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Reinforced Kite Shield": [
+    {
+      "Name": "Reinforced Kite Shield",
+      "BaseType": "Reinforced Kite Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Unset Ring": [
+    {
+      "Name": "Unset Ring",
+      "BaseType": "Unset Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Mage's Vestment": [
+    {
+      "Name": "Mage's Vestment",
+      "BaseType": "Mage's Vestment",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Tower Shield": [
+    {
+      "Name": "Ezomyte Tower Shield",
+      "BaseType": "Ezomyte Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Glorious Plate": [
+    {
+      "Name": "Glorious Plate",
+      "BaseType": "Glorious Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Skinning Knife": [
+    {
+      "Name": "Skinning Knife",
+      "BaseType": "Skinning Knife",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Conjurer Boots": [
+    {
+      "Name": "Conjurer Boots",
+      "BaseType": "Conjurer Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Battle Plate": [
+    {
+      "Name": "Battle Plate",
+      "BaseType": "Battle Plate",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Decorative Axe": [
+    {
+      "Name": "Decorative Axe",
+      "BaseType": "Decorative Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sage Wand": [
+    {
+      "Name": "Sage Wand",
+      "BaseType": "Sage Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Battle Hammer": [
+    {
+      "Name": "Battle Hammer",
+      "BaseType": "Battle Hammer",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sundering Axe": [
+    {
+      "Name": "Sundering Axe",
+      "BaseType": "Sundering Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Fiend Dagger": [
+    {
+      "Name": "Fiend Dagger",
+      "BaseType": "Fiend Dagger",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Nubuck Boots": [
+    {
+      "Name": "Nubuck Boots",
+      "BaseType": "Nubuck Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Variscite Blade": [
+    {
+      "Name": "Variscite Blade",
+      "BaseType": "Variscite Blade",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crusader Buckler": [
+    {
+      "Name": "Crusader Buckler",
+      "BaseType": "Crusader Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Mesh Gloves": [
+    {
+      "Name": "Mesh Gloves",
+      "BaseType": "Mesh Gloves",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sun Leather": [
+    {
+      "Name": "Sun Leather",
+      "BaseType": "Sun Leather",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Supreme Spiked Shield": [
+    {
+      "Name": "Supreme Spiked Shield",
+      "BaseType": "Supreme Spiked Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spike-Point Arrow Quiver": [
+    {
+      "Name": "Spike-Point Arrow Quiver",
+      "BaseType": "Spike-Point Arrow Quiver",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Burgonet": [
+    {
+      "Name": "Ezomyte Burgonet",
+      "BaseType": "Ezomyte Burgonet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Mosaic Kite Shield": [
+    {
+      "Name": "Mosaic Kite Shield",
+      "BaseType": "Mosaic Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Iron Ring": [
+    {
+      "Name": "Iron Ring",
+      "BaseType": "Iron Ring",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Omen Wand": [
+    {
+      "Name": "Omen Wand",
+      "BaseType": "Omen Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ebony Tower Shield": [
+    {
+      "Name": "Ebony Tower Shield",
+      "BaseType": "Ebony Tower Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Spiny Round Shield": [
+    {
+      "Name": "Spiny Round Shield",
+      "BaseType": "Spiny Round Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Latticed Ringmail": [
+    {
+      "Name": "Latticed Ringmail",
+      "BaseType": "Latticed Ringmail",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Throat Stabber": [
+    {
+      "Name": "Throat Stabber",
+      "BaseType": "Throat Stabber",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Legion Sword": [
+    {
+      "Name": "Legion Sword",
+      "BaseType": "Legion Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Eelskin Boots": [
+    {
+      "Name": "Eelskin Boots",
+      "BaseType": "Eelskin Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Field Lamellar": [
+    {
+      "Name": "Field Lamellar",
+      "BaseType": "Field Lamellar",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Close Helmet": [
+    {
+      "Name": "Close Helmet",
+      "BaseType": "Close Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Reaver Helmet": [
+    {
+      "Name": "Reaver Helmet",
+      "BaseType": "Reaver Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Footman Sword": [
+    {
+      "Name": "Footman Sword",
+      "BaseType": "Footman Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Full Ringmail": [
+    {
+      "Name": "Full Ringmail",
+      "BaseType": "Full Ringmail",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Hellion's Paw": [
+    {
+      "Name": "Hellion's Paw",
+      "BaseType": "Hellion's Paw",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Iron Gauntlets": [
+    {
+      "Name": "Iron Gauntlets",
+      "BaseType": "Iron Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Timeworn Claw": [
+    {
+      "Name": "Timeworn Claw",
+      "BaseType": "Timeworn Claw",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Scare Mask": [
+    {
+      "Name": "Scare Mask",
+      "BaseType": "Scare Mask",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Painted Buckler": [
+    {
+      "Name": "Painted Buckler",
+      "BaseType": "Painted Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Antique Rapier": [
+    {
+      "Name": "Antique Rapier",
+      "BaseType": "Antique Rapier",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Sacrificial Garb": [
+    {
+      "Name": "Sacrificial Garb",
+      "BaseType": "Sacrificial Garb",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Copper Plate": [
+    {
+      "Name": "Copper Plate",
+      "BaseType": "Copper Plate",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Grappler": [
+    {
+      "Name": "Grappler",
+      "BaseType": "Grappler",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Assassin's Boots": [
+    {
+      "Name": "Assassin's Boots",
+      "BaseType": "Assassin's Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Serpent Wand": [
+    {
+      "Name": "Serpent Wand",
+      "BaseType": "Serpent Wand",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wolf Pelt": [
+    {
+      "Name": "Wolf Pelt",
+      "BaseType": "Wolf Pelt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Highland Blade": [
+    {
+      "Name": "Highland Blade",
+      "BaseType": "Highland Blade",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Fright Claw": [
+    {
+      "Name": "Fright Claw",
+      "BaseType": "Fright Claw",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Meatgrinder": [
+    {
+      "Name": "Meatgrinder",
+      "BaseType": "Meatgrinder",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Elegant Foil": [
+    {
+      "Name": "Elegant Foil",
+      "BaseType": "Elegant Foil",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Decurve Bow": [
+    {
+      "Name": "Decurve Bow",
+      "BaseType": "Decurve Bow",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Eternal Sword": [
+    {
+      "Name": "Eternal Sword",
+      "BaseType": "Eternal Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Murder Boots": [
+    {
+      "Name": "Murder Boots",
+      "BaseType": "Murder Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ranger Bow": [
+    {
+      "Name": "Ranger Bow",
+      "BaseType": "Ranger Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Burnished Foil": [
+    {
+      "Name": "Burnished Foil",
+      "BaseType": "Burnished Foil",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Soldier's Brigandine": [
+    {
+      "Name": "Soldier's Brigandine",
+      "BaseType": "Soldier's Brigandine",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Chain Boots": [
+    {
+      "Name": "Chain Boots",
+      "BaseType": "Chain Boots",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Compound Bow": [
+    {
+      "Name": "Compound Bow",
+      "BaseType": "Compound Bow",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Holy Chainmail": [
+    {
+      "Name": "Holy Chainmail",
+      "BaseType": "Holy Chainmail",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ironscale Boots": [
+    {
+      "Name": "Ironscale Boots",
+      "BaseType": "Ironscale Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Tomahawk": [
+    {
+      "Name": "Tomahawk",
+      "BaseType": "Tomahawk",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Moonstone Ring": [
+    {
+      "Name": "Moonstone Ring",
+      "BaseType": "Moonstone Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Elder Sword": [
+    {
+      "Name": "Elder Sword",
+      "BaseType": "Elder Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Exquisite Blade": [
+    {
+      "Name": "Exquisite Blade",
+      "BaseType": "Exquisite Blade",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Enameled Buckler": [
+    {
+      "Name": "Enameled Buckler",
+      "BaseType": "Enameled Buckler",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Etched Kite Shield": [
+    {
+      "Name": "Etched Kite Shield",
+      "BaseType": "Etched Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Wrapped Mitts": [
+    {
+      "Name": "Wrapped Mitts",
+      "BaseType": "Wrapped Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Coiled Staff": [
+    {
+      "Name": "Coiled Staff",
+      "BaseType": "Coiled Staff",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Strapped Mitts": [
+    {
+      "Name": "Strapped Mitts",
+      "BaseType": "Strapped Mitts",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Branded Kite Shield": [
+    {
+      "Name": "Branded Kite Shield",
+      "BaseType": "Branded Kite Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Battle Sword": [
+    {
+      "Name": "Battle Sword",
+      "BaseType": "Battle Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Carnal Armour": [
+    {
+      "Name": "Carnal Armour",
+      "BaseType": "Carnal Armour",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lathi": [
+    {
+      "Name": "Lathi",
+      "BaseType": "Lathi",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Scholar Boots": [
+    {
+      "Name": "Scholar Boots",
+      "BaseType": "Scholar Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cardinal Round Shield": [
+    {
+      "Name": "Cardinal Round Shield",
+      "BaseType": "Cardinal Round Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Splendid Round Shield": [
+    {
+      "Name": "Splendid Round Shield",
+      "BaseType": "Splendid Round Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Steelwood Bow": [
+    {
+      "Name": "Steelwood Bow",
+      "BaseType": "Steelwood Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Timber Axe": [
+    {
+      "Name": "Timber Axe",
+      "BaseType": "Timber Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Lion Sword": [
+    {
+      "Name": "Lion Sword",
+      "BaseType": "Lion Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sage's Robe": [
+    {
+      "Name": "Sage's Robe",
+      "BaseType": "Sage's Robe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dragon Mace": [
+    {
+      "Name": "Dragon Mace",
+      "BaseType": "Dragon Mace",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Smallsword": [
+    {
+      "Name": "Smallsword",
+      "BaseType": "Smallsword",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Champion Kite Shield": [
+    {
+      "Name": "Champion Kite Shield",
+      "BaseType": "Champion Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Courtesan Sword": [
+    {
+      "Name": "Courtesan Sword",
+      "BaseType": "Courtesan Sword",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Silken Hood": [
+    {
+      "Name": "Silken Hood",
+      "BaseType": "Silken Hood",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Samite Helmet": [
+    {
+      "Name": "Samite Helmet",
+      "BaseType": "Samite Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Imperial Claw": [
+    {
+      "Name": "Imperial Claw",
+      "BaseType": "Imperial Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sharktooth Claw": [
+    {
+      "Name": "Sharktooth Claw",
+      "BaseType": "Sharktooth Claw",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Titan Gauntlets": [
+    {
+      "Name": "Titan Gauntlets",
+      "BaseType": "Titan Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Vaal Axe": [
+    {
+      "Name": "Vaal Axe",
+      "BaseType": "Vaal Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Archon Kite Shield": [
+    {
+      "Name": "Archon Kite Shield",
+      "BaseType": "Archon Kite Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Amethyst Ring": [
+    {
+      "Name": "Amethyst Ring",
+      "BaseType": "Amethyst Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Golden Mask": [
+    {
+      "Name": "Golden Mask",
+      "BaseType": "Golden Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Samite Slippers": [
+    {
+      "Name": "Samite Slippers",
+      "BaseType": "Samite Slippers",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Butcher Knife": [
+    {
+      "Name": "Butcher Knife",
+      "BaseType": "Butcher Knife",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Nightmare Bascinet": [
+    {
+      "Name": "Nightmare Bascinet",
+      "BaseType": "Nightmare Bascinet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Imperial Skean": [
+    {
+      "Name": "Imperial Skean",
+      "BaseType": "Imperial Skean",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Praetor Crown": [
+    {
+      "Name": "Praetor Crown",
+      "BaseType": "Praetor Crown",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Lithe Blade": [
+    {
+      "Name": "Lithe Blade",
+      "BaseType": "Lithe Blade",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Stealth Gloves": [
+    {
+      "Name": "Stealth Gloves",
+      "BaseType": "Stealth Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wyrmscale Doublet": [
+    {
+      "Name": "Wyrmscale Doublet",
+      "BaseType": "Wyrmscale Doublet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Gouger": [
+    {
+      "Name": "Gouger",
+      "BaseType": "Gouger",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Steelscale Gauntlets": [
+    {
+      "Name": "Steelscale Gauntlets",
+      "BaseType": "Steelscale Gauntlets",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sinner Tricorne": [
+    {
+      "Name": "Sinner Tricorne",
+      "BaseType": "Sinner Tricorne",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Infernal Sword": [
+    {
+      "Name": "Infernal Sword",
+      "BaseType": "Infernal Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Reinforced Greaves": [
+    {
+      "Name": "Reinforced Greaves",
+      "BaseType": "Reinforced Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Scale Doublet": [
+    {
+      "Name": "Scale Doublet",
+      "BaseType": "Scale Doublet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Double Claw": [
+    {
+      "Name": "Double Claw",
+      "BaseType": "Double Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Scarlet Round Shield": [
+    {
+      "Name": "Scarlet Round Shield",
+      "BaseType": "Scarlet Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Reinforced Tower Shield": [
+    {
+      "Name": "Reinforced Tower Shield",
+      "BaseType": "Reinforced Tower Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Corroded Tower Shield": [
+    {
+      "Name": "Corroded Tower Shield",
+      "BaseType": "Corroded Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Scholar's Robe": [
+    {
+      "Name": "Scholar's Robe",
+      "BaseType": "Scholar's Robe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Butcher Sword": [
+    {
+      "Name": "Butcher Sword",
+      "BaseType": "Butcher Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Chainmail Doublet": [
+    {
+      "Name": "Chainmail Doublet",
+      "BaseType": "Chainmail Doublet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "War Axe": [
+    {
+      "Name": "War Axe",
+      "BaseType": "War Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Pine Buckler": [
+    {
+      "Name": "Pine Buckler",
+      "BaseType": "Pine Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Rusted Coif": [
+    {
+      "Name": "Rusted Coif",
+      "BaseType": "Rusted Coif",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Brass Maul": [
+    {
+      "Name": "Brass Maul",
+      "BaseType": "Brass Maul",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Oiled Vest": [
+    {
+      "Name": "Oiled Vest",
+      "BaseType": "Oiled Vest",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Murderous Eye Jewel": [
+    {
+      "Name": "Murderous Eye Jewel",
+      "BaseType": "Murderous Eye Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Crusader Boots": [
+    {
+      "Name": "Crusader Boots",
+      "BaseType": "Crusader Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Silken Wrap": [
+    {
+      "Name": "Silken Wrap",
+      "BaseType": "Silken Wrap",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Penetrating Arrow Quiver": [
+    {
+      "Name": "Penetrating Arrow Quiver",
+      "BaseType": "Penetrating Arrow Quiver",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Imperial Maul": [
+    {
+      "Name": "Imperial Maul",
+      "BaseType": "Imperial Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Nubuck Gloves": [
+    {
+      "Name": "Nubuck Gloves",
+      "BaseType": "Nubuck Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Behemoth Mace": [
+    {
+      "Name": "Behemoth Mace",
+      "BaseType": "Behemoth Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ghastly Eye Jewel": [
+    {
+      "Name": "Ghastly Eye Jewel",
+      "BaseType": "Ghastly Eye Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cedar Tower Shield": [
+    {
+      "Name": "Cedar Tower Shield",
+      "BaseType": "Cedar Tower Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ambush Boots": [
+    {
+      "Name": "Ambush Boots",
+      "BaseType": "Ambush Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gladius": [
+    {
+      "Name": "Gladius",
+      "BaseType": "Gladius",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Elegant Ringmail": [
+    {
+      "Name": "Elegant Ringmail",
+      "BaseType": "Elegant Ringmail",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Plated Gauntlets": [
+    {
+      "Name": "Plated Gauntlets",
+      "BaseType": "Plated Gauntlets",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Conquest Chainmail": [
+    {
+      "Name": "Conquest Chainmail",
+      "BaseType": "Conquest Chainmail",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Dragonscale Gauntlets": [
+    {
+      "Name": "Dragonscale Gauntlets",
+      "BaseType": "Dragonscale Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Fleshripper": [
+    {
+      "Name": "Fleshripper",
+      "BaseType": "Fleshripper",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Talon Axe": [
+    {
+      "Name": "Talon Axe",
+      "BaseType": "Talon Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sleek Coat": [
+    {
+      "Name": "Sleek Coat",
+      "BaseType": "Sleek Coat",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vaal Greatsword": [
+    {
+      "Name": "Vaal Greatsword",
+      "BaseType": "Vaal Greatsword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Chest Splitter": [
+    {
+      "Name": "Chest Splitter",
+      "BaseType": "Chest Splitter",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Royal Skean": [
+    {
+      "Name": "Royal Skean",
+      "BaseType": "Royal Skean",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Midnight Blade": [
+    {
+      "Name": "Midnight Blade",
+      "BaseType": "Midnight Blade",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Layered Kite Shield": [
+    {
+      "Name": "Layered Kite Shield",
+      "BaseType": "Layered Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Double Axe": [
+    {
+      "Name": "Double Axe",
+      "BaseType": "Double Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Sharkskin Gloves": [
+    {
+      "Name": "Sharkskin Gloves",
+      "BaseType": "Sharkskin Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vaal Spirit Shield": [
+    {
+      "Name": "Vaal Spirit Shield",
+      "BaseType": "Vaal Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gladiator Helmet": [
+    {
+      "Name": "Gladiator Helmet",
+      "BaseType": "Gladiator Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Trapper Boots": [
+    {
+      "Name": "Trapper Boots",
+      "BaseType": "Trapper Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Shagreen Boots": [
+    {
+      "Name": "Shagreen Boots",
+      "BaseType": "Shagreen Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Samite Gloves": [
+    {
+      "Name": "Samite Gloves",
+      "BaseType": "Samite Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Trisula": [
+    {
+      "Name": "Trisula",
+      "BaseType": "Trisula",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Mirrored Spiked Shield": [
+    {
+      "Name": "Mirrored Spiked Shield",
+      "BaseType": "Mirrored Spiked Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Headsman Axe": [
+    {
+      "Name": "Headsman Axe",
+      "BaseType": "Headsman Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Boot Blade": [
+    {
+      "Name": "Boot Blade",
+      "BaseType": "Boot Blade",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ivory Spirit Shield": [
+    {
+      "Name": "Ivory Spirit Shield",
+      "BaseType": "Ivory Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Glorious Leather": [
+    {
+      "Name": "Glorious Leather",
+      "BaseType": "Glorious Leather",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Girded Tower Shield": [
+    {
+      "Name": "Girded Tower Shield",
+      "BaseType": "Girded Tower Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Gilded Buckler": [
+    {
+      "Name": "Gilded Buckler",
+      "BaseType": "Gilded Buckler",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Secutor Helm": [
+    {
+      "Name": "Secutor Helm",
+      "BaseType": "Secutor Helm",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Fossilised Spirit Shield": [
+    {
+      "Name": "Fossilised Spirit Shield",
+      "BaseType": "Fossilised Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Great Crown": [
+    {
+      "Name": "Great Crown",
+      "BaseType": "Great Crown",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Embroidered Gloves": [
+    {
+      "Name": "Embroidered Gloves",
+      "BaseType": "Embroidered Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Pig-Faced Bascinet": [
+    {
+      "Name": "Pig-Faced Bascinet",
+      "BaseType": "Pig-Faced Bascinet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Pecoraro": [
+    {
+      "Name": "Pecoraro",
+      "BaseType": "Pecoraro",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Two-Point Arrow Quiver": [
+    {
+      "Name": "Two-Point Arrow Quiver",
+      "BaseType": "Two-Point Arrow Quiver",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Arming Axe": [
+    {
+      "Name": "Arming Axe",
+      "BaseType": "Arming Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Silken Vest": [
+    {
+      "Name": "Silken Vest",
+      "BaseType": "Silken Vest",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Goathide Buckler": [
+    {
+      "Name": "Goathide Buckler",
+      "BaseType": "Goathide Buckler",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lacquered Helmet": [
+    {
+      "Name": "Lacquered Helmet",
+      "BaseType": "Lacquered Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Elegant Round Shield": [
+    {
+      "Name": "Elegant Round Shield",
+      "BaseType": "Elegant Round Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Blade": [
+    {
+      "Name": "Ezomyte Blade",
+      "BaseType": "Ezomyte Blade",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Clasped Mitts": [
+    {
+      "Name": "Clasped Mitts",
+      "BaseType": "Clasped Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Siege Helmet": [
+    {
+      "Name": "Siege Helmet",
+      "BaseType": "Siege Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Callous Mask": [
+    {
+      "Name": "Callous Mask",
+      "BaseType": "Callous Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Zealot Helmet": [
+    {
+      "Name": "Zealot Helmet",
+      "BaseType": "Zealot Helmet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Tiger Hook": [
+    {
+      "Name": "Tiger Hook",
+      "BaseType": "Tiger Hook",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crusader Gloves": [
+    {
+      "Name": "Crusader Gloves",
+      "BaseType": "Crusader Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vaal Greaves": [
+    {
+      "Name": "Vaal Greaves",
+      "BaseType": "Vaal Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Quilted Jacket": [
+    {
+      "Name": "Quilted Jacket",
+      "BaseType": "Quilted Jacket",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Legion Hammer": [
+    {
+      "Name": "Legion Hammer",
+      "BaseType": "Legion Hammer",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Necromancer Circlet": [
+    {
+      "Name": "Necromancer Circlet",
+      "BaseType": "Necromancer Circlet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Serpentscale Boots": [
+    {
+      "Name": "Serpentscale Boots",
+      "BaseType": "Serpentscale Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Serrated Arrow Quiver": [
+    {
+      "Name": "Serrated Arrow Quiver",
+      "BaseType": "Serrated Arrow Quiver",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Shackled Boots": [
+    {
+      "Name": "Shackled Boots",
+      "BaseType": "Shackled Boots",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Maelström Staff": [
+    {
+      "Name": "Maelström Staff",
+      "BaseType": "Maelström Staff",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Frontier Leather": [
+    {
+      "Name": "Frontier Leather",
+      "BaseType": "Frontier Leather",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Assassin Bow": [
+    {
+      "Name": "Assassin Bow",
+      "BaseType": "Assassin Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Steelhead": [
+    {
+      "Name": "Steelhead",
+      "BaseType": "Steelhead",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gladiator Plate": [
+    {
+      "Name": "Gladiator Plate",
+      "BaseType": "Gladiator Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Bronze Plate": [
+    {
+      "Name": "Bronze Plate",
+      "BaseType": "Bronze Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Gemini Claw": [
+    {
+      "Name": "Gemini Claw",
+      "BaseType": "Gemini Claw",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Judgement Staff": [
+    {
+      "Name": "Judgement Staff",
+      "BaseType": "Judgement Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Dagger": [
+    {
+      "Name": "Ezomyte Dagger",
+      "BaseType": "Ezomyte Dagger",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Labrys": [
+    {
+      "Name": "Labrys",
+      "BaseType": "Labrys",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Yew Spirit Shield": [
+    {
+      "Name": "Yew Spirit Shield",
+      "BaseType": "Yew Spirit Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Blinder": [
+    {
+      "Name": "Blinder",
+      "BaseType": "Blinder",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Morning Star": [
+    {
+      "Name": "Morning Star",
+      "BaseType": "Morning Star",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Etched Hatchet": [
+    {
+      "Name": "Etched Hatchet",
+      "BaseType": "Etched Hatchet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bastard Sword": [
+    {
+      "Name": "Bastard Sword",
+      "BaseType": "Bastard Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ambush Mitts": [
+    {
+      "Name": "Ambush Mitts",
+      "BaseType": "Ambush Mitts",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Aventail Helmet": [
+    {
+      "Name": "Aventail Helmet",
+      "BaseType": "Aventail Helmet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Trapper Mitts": [
+    {
+      "Name": "Trapper Mitts",
+      "BaseType": "Trapper Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Eelskin Gloves": [
+    {
+      "Name": "Eelskin Gloves",
+      "BaseType": "Eelskin Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ivory Bow": [
+    {
+      "Name": "Ivory Bow",
+      "BaseType": "Ivory Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Satin Slippers": [
+    {
+      "Name": "Satin Slippers",
+      "BaseType": "Satin Slippers",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Elegant Sword": [
+    {
+      "Name": "Elegant Sword",
+      "BaseType": "Elegant Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sharktooth Arrow Quiver": [
+    {
+      "Name": "Sharktooth Arrow Quiver",
+      "BaseType": "Sharktooth Arrow Quiver",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Varnished Coat": [
+    {
+      "Name": "Varnished Coat",
+      "BaseType": "Varnished Coat",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Exquisite Leather": [
+    {
+      "Name": "Exquisite Leather",
+      "BaseType": "Exquisite Leather",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gutting Knife": [
+    {
+      "Name": "Gutting Knife",
+      "BaseType": "Gutting Knife",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Slaughter Knife": [
+    {
+      "Name": "Slaughter Knife",
+      "BaseType": "Slaughter Knife",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crimson Round Shield": [
+    {
+      "Name": "Crimson Round Shield",
+      "BaseType": "Crimson Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vaal Mask": [
+    {
+      "Name": "Vaal Mask",
+      "BaseType": "Vaal Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Imperial Buckler": [
+    {
+      "Name": "Imperial Buckler",
+      "BaseType": "Imperial Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Broadhead Arrow Quiver": [
+    {
+      "Name": "Broadhead Arrow Quiver",
+      "BaseType": "Broadhead Arrow Quiver",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Serrated Foil": [
+    {
+      "Name": "Serrated Foil",
+      "BaseType": "Serrated Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Abyssal Axe": [
+    {
+      "Name": "Abyssal Axe",
+      "BaseType": "Abyssal Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Battle Buckler": [
+    {
+      "Name": "Battle Buckler",
+      "BaseType": "Battle Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Maple Round Shield": [
+    {
+      "Name": "Maple Round Shield",
+      "BaseType": "Maple Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Satin Gloves": [
+    {
+      "Name": "Satin Gloves",
+      "BaseType": "Satin Gloves",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Laminated Kite Shield": [
+    {
+      "Name": "Laminated Kite Shield",
+      "BaseType": "Laminated Kite Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ceremonial Axe": [
+    {
+      "Name": "Ceremonial Axe",
+      "BaseType": "Ceremonial Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Corrugated Buckler": [
+    {
+      "Name": "Corrugated Buckler",
+      "BaseType": "Corrugated Buckler",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Plated Maul": [
+    {
+      "Name": "Plated Maul",
+      "BaseType": "Plated Maul",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Despot Axe": [
+    {
+      "Name": "Despot Axe",
+      "BaseType": "Despot Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tiger Sword": [
+    {
+      "Name": "Tiger Sword",
+      "BaseType": "Tiger Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Shagreen Tower Shield": [
+    {
+      "Name": "Shagreen Tower Shield",
+      "BaseType": "Shagreen Tower Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vaal Hatchet": [
+    {
+      "Name": "Vaal Hatchet",
+      "BaseType": "Vaal Hatchet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bone Circlet": [
+    {
+      "Name": "Bone Circlet",
+      "BaseType": "Bone Circlet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Graceful Sword": [
+    {
+      "Name": "Graceful Sword",
+      "BaseType": "Graceful Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Rock Breaker": [
+    {
+      "Name": "Rock Breaker",
+      "BaseType": "Rock Breaker",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spiked Round Shield": [
+    {
+      "Name": "Spiked Round Shield",
+      "BaseType": "Spiked Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Golden Buckler": [
+    {
+      "Name": "Golden Buckler",
+      "BaseType": "Golden Buckler",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Hussar Brigandine": [
+    {
+      "Name": "Hussar Brigandine",
+      "BaseType": "Hussar Brigandine",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Teak Round Shield": [
+    {
+      "Name": "Teak Round Shield",
+      "BaseType": "Teak Round Shield",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Magistrate Crown": [
+    {
+      "Name": "Magistrate Crown",
+      "BaseType": "Magistrate Crown",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Fire Arrow Quiver": [
+    {
+      "Name": "Fire Arrow Quiver",
+      "BaseType": "Fire Arrow Quiver",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Tiger's Paw": [
+    {
+      "Name": "Tiger's Paw",
+      "BaseType": "Tiger's Paw",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Shagreen Gloves": [
+    {
+      "Name": "Shagreen Gloves",
+      "BaseType": "Shagreen Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Blunt Arrow Quiver": [
+    {
+      "Name": "Blunt Arrow Quiver",
+      "BaseType": "Blunt Arrow Quiver",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Zodiac Leather": [
+    {
+      "Name": "Zodiac Leather",
+      "BaseType": "Zodiac Leather",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Phantom Mace": [
+    {
+      "Name": "Phantom Mace",
+      "BaseType": "Phantom Mace",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Butcher Axe": [
+    {
+      "Name": "Butcher Axe",
+      "BaseType": "Butcher Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Quarterstaff": [
+    {
+      "Name": "Quarterstaff",
+      "BaseType": "Quarterstaff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Occultist's Vestment": [
+    {
+      "Name": "Occultist's Vestment",
+      "BaseType": "Occultist's Vestment",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ornate Ringmail": [
+    {
+      "Name": "Ornate Ringmail",
+      "BaseType": "Ornate Ringmail",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Golden Plate": [
+    {
+      "Name": "Golden Plate",
+      "BaseType": "Golden Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Conjurer Gloves": [
+    {
+      "Name": "Conjurer Gloves",
+      "BaseType": "Conjurer Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gold Ring": [
+    {
+      "Name": "Gold Ring",
+      "BaseType": "Gold Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Antique Gauntlets": [
+    {
+      "Name": "Antique Gauntlets",
+      "BaseType": "Antique Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Highborn Bow": [
+    {
+      "Name": "Highborn Bow",
+      "BaseType": "Highborn Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Staff": [
+    {
+      "Name": "Ezomyte Staff",
+      "BaseType": "Ezomyte Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sharkskin Boots": [
+    {
+      "Name": "Sharkskin Boots",
+      "BaseType": "Sharkskin Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Velvet Slippers": [
+    {
+      "Name": "Velvet Slippers",
+      "BaseType": "Velvet Slippers",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Solaris Circlet": [
+    {
+      "Name": "Solaris Circlet",
+      "BaseType": "Solaris Circlet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Fancy Foil": [
+    {
+      "Name": "Fancy Foil",
+      "BaseType": "Fancy Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Hydrascale Gauntlets": [
+    {
+      "Name": "Hydrascale Gauntlets",
+      "BaseType": "Hydrascale Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Imperial Staff": [
+    {
+      "Name": "Imperial Staff",
+      "BaseType": "Imperial Staff",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Heavy Belt": [
+    {
+      "Name": "Heavy Belt",
+      "BaseType": "Heavy Belt",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Harbinger Bow": [
+    {
+      "Name": "Harbinger Bow",
+      "BaseType": "Harbinger Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Harlequin Mask": [
+    {
+      "Name": "Harlequin Mask",
+      "BaseType": "Harlequin Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Chiming Spirit Shield": [
+    {
+      "Name": "Chiming Spirit Shield",
+      "BaseType": "Chiming Spirit Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Regicide Mask": [
+    {
+      "Name": "Regicide Mask",
+      "BaseType": "Regicide Mask",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Titan Greaves": [
+    {
+      "Name": "Titan Greaves",
+      "BaseType": "Titan Greaves",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Paua Ring": [
+    {
+      "Name": "Paua Ring",
+      "BaseType": "Paua Ring",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Fluted Bascinet": [
+    {
+      "Name": "Fluted Bascinet",
+      "BaseType": "Fluted Bascinet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Assassin's Mitts": [
+    {
+      "Name": "Assassin's Mitts",
+      "BaseType": "Assassin's Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Thorium Spirit Shield": [
+    {
+      "Name": "Thorium Spirit Shield",
+      "BaseType": "Thorium Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Thicket Bow": [
+    {
+      "Name": "Thicket Bow",
+      "BaseType": "Thicket Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Maraketh Bow": [
+    {
+      "Name": "Maraketh Bow",
+      "BaseType": "Maraketh Bow",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Carnal Mitts": [
+    {
+      "Name": "Carnal Mitts",
+      "BaseType": "Carnal Mitts",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Auric Mace": [
+    {
+      "Name": "Auric Mace",
+      "BaseType": "Auric Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Chain Belt": [
+    {
+      "Name": "Chain Belt",
+      "BaseType": "Chain Belt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crested Tower Shield": [
+    {
+      "Name": "Crested Tower Shield",
+      "BaseType": "Crested Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Noble Tricorne": [
+    {
+      "Name": "Noble Tricorne",
+      "BaseType": "Noble Tricorne",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Rustic Sash": [
+    {
+      "Name": "Rustic Sash",
+      "BaseType": "Rustic Sash",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Assassin's Garb": [
+    {
+      "Name": "Assassin's Garb",
+      "BaseType": "Assassin's Garb",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Legion Boots": [
+    {
+      "Name": "Legion Boots",
+      "BaseType": "Legion Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Steel Circlet": [
+    {
+      "Name": "Steel Circlet",
+      "BaseType": "Steel Circlet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Goliath Greaves": [
+    {
+      "Name": "Goliath Greaves",
+      "BaseType": "Goliath Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Lacquered Garb": [
+    {
+      "Name": "Lacquered Garb",
+      "BaseType": "Lacquered Garb",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Majestic Plate": [
+    {
+      "Name": "Majestic Plate",
+      "BaseType": "Majestic Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Hydrascale Boots": [
+    {
+      "Name": "Hydrascale Boots",
+      "BaseType": "Hydrascale Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Military Staff": [
+    {
+      "Name": "Military Staff",
+      "BaseType": "Military Staff",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Widowsilk Robe": [
+    {
+      "Name": "Widowsilk Robe",
+      "BaseType": "Widowsilk Robe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Coronal Leather": [
+    {
+      "Name": "Coronal Leather",
+      "BaseType": "Coronal Leather",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Hunter Hood": [
+    {
+      "Name": "Hunter Hood",
+      "BaseType": "Hunter Hood",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Blood Raiment": [
+    {
+      "Name": "Blood Raiment",
+      "BaseType": "Blood Raiment",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wyrmscale Boots": [
+    {
+      "Name": "Wyrmscale Boots",
+      "BaseType": "Wyrmscale Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Vaal Rapier": [
+    {
+      "Name": "Vaal Rapier",
+      "BaseType": "Vaal Rapier",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Destroyer Regalia": [
+    {
+      "Name": "Destroyer Regalia",
+      "BaseType": "Destroyer Regalia",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Saint's Hauberk": [
+    {
+      "Name": "Saint's Hauberk",
+      "BaseType": "Saint's Hauberk",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Colosseum Plate": [
+    {
+      "Name": "Colosseum Plate",
+      "BaseType": "Colosseum Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ursine Pelt": [
+    {
+      "Name": "Ursine Pelt",
+      "BaseType": "Ursine Pelt",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Serpentscale Gauntlets": [
+    {
+      "Name": "Serpentscale Gauntlets",
+      "BaseType": "Serpentscale Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Pernarch": [
+    {
+      "Name": "Pernarch",
+      "BaseType": "Pernarch",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Carnal Boots": [
+    {
+      "Name": "Carnal Boots",
+      "BaseType": "Carnal Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spiraled Foil": [
+    {
+      "Name": "Spiraled Foil",
+      "BaseType": "Spiraled Foil",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ancient Spirit Shield": [
+    {
+      "Name": "Ancient Spirit Shield",
+      "BaseType": "Ancient Spirit Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Goliath Gauntlets": [
+    {
+      "Name": "Goliath Gauntlets",
+      "BaseType": "Goliath Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Royal Axe": [
+    {
+      "Name": "Royal Axe",
+      "BaseType": "Royal Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gut Ripper": [
+    {
+      "Name": "Gut Ripper",
+      "BaseType": "Gut Ripper",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Zealot Boots": [
+    {
+      "Name": "Zealot Boots",
+      "BaseType": "Zealot Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Full Wyrmscale": [
+    {
+      "Name": "Full Wyrmscale",
+      "BaseType": "Full Wyrmscale",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Ancient Greaves": [
+    {
+      "Name": "Ancient Greaves",
+      "BaseType": "Ancient Greaves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wraith Sword": [
+    {
+      "Name": "Wraith Sword",
+      "BaseType": "Wraith Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sniper Bow": [
+    {
+      "Name": "Sniper Bow",
+      "BaseType": "Sniper Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Full Dragonscale": [
+    {
+      "Name": "Full Dragonscale",
+      "BaseType": "Full Dragonscale",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Angelic Kite Shield": [
+    {
+      "Name": "Angelic Kite Shield",
+      "BaseType": "Angelic Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Lunaris Circlet": [
+    {
+      "Name": "Lunaris Circlet",
+      "BaseType": "Lunaris Circlet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wraith Axe": [
+    {
+      "Name": "Wraith Axe",
+      "BaseType": "Wraith Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Coronal Maul": [
+    {
+      "Name": "Coronal Maul",
+      "BaseType": "Coronal Maul",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ironwood Buckler": [
+    {
+      "Name": "Ironwood Buckler",
+      "BaseType": "Ironwood Buckler",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Polished Spiked Shield": [
+    {
+      "Name": "Polished Spiked Shield",
+      "BaseType": "Polished Spiked Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spiked Bundle": [
+    {
+      "Name": "Spiked Bundle",
+      "BaseType": "Spiked Bundle",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Void Axe": [
+    {
+      "Name": "Void Axe",
+      "BaseType": "Void Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Ornate Sword": [
+    {
+      "Name": "Ornate Sword",
+      "BaseType": "Ornate Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Hook Sword": [
+    {
+      "Name": "Hook Sword",
+      "BaseType": "Hook Sword",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Jade Hatchet": [
+    {
+      "Name": "Jade Hatchet",
+      "BaseType": "Jade Hatchet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Chain Gloves": [
+    {
+      "Name": "Chain Gloves",
+      "BaseType": "Chain Gloves",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Gnarled Branch": [
+    {
+      "Name": "Gnarled Branch",
+      "BaseType": "Gnarled Branch",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Copper Sword": [
+    {
+      "Name": "Copper Sword",
+      "BaseType": "Copper Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Noble Claw": [
+    {
+      "Name": "Noble Claw",
+      "BaseType": "Noble Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Eye Gouger": [
+    {
+      "Name": "Eye Gouger",
+      "BaseType": "Eye Gouger",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Soldier Boots": [
+    {
+      "Name": "Soldier Boots",
+      "BaseType": "Soldier Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Spidersilk Robe": [
+    {
+      "Name": "Spidersilk Robe",
+      "BaseType": "Spidersilk Robe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Zealot Gloves": [
+    {
+      "Name": "Zealot Gloves",
+      "BaseType": "Zealot Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sun Plate": [
+    {
+      "Name": "Sun Plate",
+      "BaseType": "Sun Plate",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Serpentine Staff": [
+    {
+      "Name": "Serpentine Staff",
+      "BaseType": "Serpentine Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cloth Belt": [
+    {
+      "Name": "Cloth Belt",
+      "BaseType": "Cloth Belt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Estoc": [
+    {
+      "Name": "Estoc",
+      "BaseType": "Estoc",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Vaal Blade": [
+    {
+      "Name": "Vaal Blade",
+      "BaseType": "Vaal Blade",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Flanged Mace": [
+    {
+      "Name": "Flanged Mace",
+      "BaseType": "Flanged Mace",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Nightmare Mace": [
+    {
+      "Name": "Nightmare Mace",
+      "BaseType": "Nightmare Mace",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Conjurer's Vestment": [
+    {
+      "Name": "Conjurer's Vestment",
+      "BaseType": "Conjurer's Vestment",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Twin Claw": [
+    {
+      "Name": "Twin Claw",
+      "BaseType": "Twin Claw",
+      "Special": "Elder",
+      "Aspects": [
+        "{\"Group\":\"ItemProperties\",\"Type\":4,\"Name\":\"SpecialImplicitAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Vaal Gauntlets": [
+    {
+      "Name": "Vaal Gauntlets",
+      "BaseType": "Vaal Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dragonscale Boots": [
+    {
+      "Name": "Dragonscale Boots",
+      "BaseType": "Dragonscale Boots",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Wyrmscale Gauntlets": [
+    {
+      "Name": "Wyrmscale Gauntlets",
+      "BaseType": "Wyrmscale Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Commander's Brigandine": [
+    {
+      "Name": "Commander's Brigandine",
+      "BaseType": "Commander's Brigandine",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Twilight Blade": [
+    {
+      "Name": "Twilight Blade",
+      "BaseType": "Twilight Blade",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Soldier Gloves": [
+    {
+      "Name": "Soldier Gloves",
+      "BaseType": "Soldier Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Terror Maul": [
+    {
+      "Name": "Terror Maul",
+      "BaseType": "Terror Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Crimson Raiment": [
+    {
+      "Name": "Crimson Raiment",
+      "BaseType": "Crimson Raiment",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Headman's Sword": [
+    {
+      "Name": "Headman's Sword",
+      "BaseType": "Headman's Sword",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Highborn Staff": [
+    {
+      "Name": "Highborn Staff",
+      "BaseType": "Highborn Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dread Maul": [
+    {
+      "Name": "Dread Maul",
+      "BaseType": "Dread Maul",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Stygian Vise": [
+    {
+      "Name": "Stygian Vise",
+      "BaseType": "Stygian Vise",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Ancient Gauntlets": [
+    {
+      "Name": "Ancient Gauntlets",
+      "BaseType": "Ancient Gauntlets",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Studded Belt": [
+    {
+      "Name": "Studded Belt",
+      "BaseType": "Studded Belt",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Ancestral Club": [
+    {
+      "Name": "Ancestral Club",
+      "BaseType": "Ancestral Club",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Necromancer Silks": [
+    {
+      "Name": "Necromancer Silks",
+      "BaseType": "Necromancer Silks",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Legion Gloves": [
+    {
+      "Name": "Legion Gloves",
+      "BaseType": "Legion Gloves",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Apex Rapier": [
+    {
+      "Name": "Apex Rapier",
+      "BaseType": "Apex Rapier",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Harpy Rapier": [
+    {
+      "Name": "Harpy Rapier",
+      "BaseType": "Harpy Rapier",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dragoon Sword": [
+    {
+      "Name": "Dragoon Sword",
+      "BaseType": "Dragoon Sword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Saintly Chainmail": [
+    {
+      "Name": "Saintly Chainmail",
+      "BaseType": "Saintly Chainmail",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tempered Foil": [
+    {
+      "Name": "Tempered Foil",
+      "BaseType": "Tempered Foil",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Primeval Rapier": [
+    {
+      "Name": "Primeval Rapier",
+      "BaseType": "Primeval Rapier",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Foul Staff": [
+    {
+      "Name": "Foul Staff",
+      "BaseType": "Foul Staff",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Colossus Mallet": [
+    {
+      "Name": "Colossus Mallet",
+      "BaseType": "Colossus Mallet",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Jade Chopper": [
+    {
+      "Name": "Jade Chopper",
+      "BaseType": "Jade Chopper",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Longsword": [
+    {
+      "Name": "Longsword",
+      "BaseType": "Longsword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Light Brigandine": [
+    {
+      "Name": "Light Brigandine",
+      "BaseType": "Light Brigandine",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tenderizer": [
+    {
+      "Name": "Tenderizer",
+      "BaseType": "Tenderizer",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Dragonbone Rapier": [
+    {
+      "Name": "Dragonbone Rapier",
+      "BaseType": "Dragonbone Rapier",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Crusader Plate": [
+    {
+      "Name": "Crusader Plate",
+      "BaseType": "Crusader Plate",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Chain Hauberk": [
+    {
+      "Name": "Chain Hauberk",
+      "BaseType": "Chain Hauberk",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Savant's Robe": [
+    {
+      "Name": "Savant's Robe",
+      "BaseType": "Savant's Robe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Vaal Claw": [
+    {
+      "Name": "Vaal Claw",
+      "BaseType": "Vaal Claw",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "General's Brigandine": [
+    {
+      "Name": "General's Brigandine",
+      "BaseType": "General's Brigandine",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Lacewood Spirit Shield": [
+    {
+      "Name": "Lacewood Spirit Shield",
+      "BaseType": "Lacewood Spirit Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Alder Spiked Shield": [
+    {
+      "Name": "Alder Spiked Shield",
+      "BaseType": "Alder Spiked Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Noble Axe": [
+    {
+      "Name": "Noble Axe",
+      "BaseType": "Noble Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Runic Hatchet": [
+    {
+      "Name": "Runic Hatchet",
+      "BaseType": "Runic Hatchet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Gemstone Sword": [
+    {
+      "Name": "Gemstone Sword",
+      "BaseType": "Gemstone Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Infernal Axe": [
+    {
+      "Name": "Infernal Axe",
+      "BaseType": "Infernal Axe",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Devout Chainmail": [
+    {
+      "Name": "Devout Chainmail",
+      "BaseType": "Devout Chainmail",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Sentinel Jacket": [
+    {
+      "Name": "Sentinel Jacket",
+      "BaseType": "Sentinel Jacket",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Prehistoric Claw": [
+    {
+      "Name": "Prehistoric Claw",
+      "BaseType": "Prehistoric Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Triumphant Lamellar": [
+    {
+      "Name": "Triumphant Lamellar",
+      "BaseType": "Triumphant Lamellar",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Decimation Bow": [
+    {
+      "Name": "Decimation Bow",
+      "BaseType": "Decimation Bow",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cobalt Jewel": [
+    {
+      "Name": "Cobalt Jewel",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Viridian Jewel": [
+    {
+      "Name": "Viridian Jewel",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Great White Claw": [
+    {
+      "Name": "Great White Claw",
+      "BaseType": "Great White Claw",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Battle Lamellar": [
+    {
+      "Name": "Battle Lamellar",
+      "BaseType": "Battle Lamellar",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Loricated Ringmail": [
+    {
+      "Name": "Loricated Ringmail",
+      "BaseType": "Loricated Ringmail",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Siege Axe": [
+    {
+      "Name": "Siege Axe",
+      "BaseType": "Siege Axe",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Karui Chopper": [
+    {
+      "Name": "Karui Chopper",
+      "BaseType": "Karui Chopper",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Destiny Leather": [
+    {
+      "Name": "Destiny Leather",
+      "BaseType": "Destiny Leather",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Eagle Claw": [
+    {
+      "Name": "Eagle Claw",
+      "BaseType": "Eagle Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Cutthroat's Garb": [
+    {
+      "Name": "Cutthroat's Garb",
+      "BaseType": "Cutthroat's Garb",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Crypt Armour": [
+    {
+      "Name": "Crypt Armour",
+      "BaseType": "Crypt Armour",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Corsair Sword": [
+    {
+      "Name": "Corsair Sword",
+      "BaseType": "Corsair Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Reaver Sword": [
+    {
+      "Name": "Reaver Sword",
+      "BaseType": "Reaver Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Karui Axe": [
+    {
+      "Name": "Karui Axe",
+      "BaseType": "Karui Axe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Iron Hat": [
+    {
+      "Name": "Iron Hat",
+      "BaseType": "Iron Hat",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Dragonscale Doublet": [
+    {
+      "Name": "Dragonscale Doublet",
+      "BaseType": "Dragonscale Doublet",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Sharkskin Tunic": [
+    {
+      "Name": "Sharkskin Tunic",
+      "BaseType": "Sharkskin Tunic",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Citadel Bow": [
+    {
+      "Name": "Citadel Bow",
+      "BaseType": "Citadel Bow",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Terror Claw": [
+    {
+      "Name": "Terror Claw",
+      "BaseType": "Terror Claw",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Crimson Jewel": [
+    {
+      "Name": "Crimson Jewel",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Plank Kite Shield": [
+    {
+      "Name": "Plank Kite Shield",
+      "BaseType": "Plank Kite Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Etched Greatsword": [
+    {
+      "Name": "Etched Greatsword",
+      "BaseType": "Etched Greatsword",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Tribal Club": [
+    {
+      "Name": "Tribal Club",
+      "BaseType": "Tribal Club",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Long Bow": [
+    {
+      "Name": "Long Bow",
+      "BaseType": "Long Bow",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Strapped Leather": [
+    {
+      "Name": "Strapped Leather",
+      "BaseType": "Strapped Leather",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Driftwood Spiked Shield": [
+    {
+      "Name": "Driftwood Spiked Shield",
+      "BaseType": "Driftwood Spiked Shield",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Cleaver": [
+    {
+      "Name": "Cleaver",
+      "BaseType": "Cleaver",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Broad Sword": [
+    {
+      "Name": "Broad Sword",
+      "BaseType": "Broad Sword",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Rusted Spike": [
+    {
+      "Name": "Rusted Spike",
+      "BaseType": "Rusted Spike",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Timeless Jewel": [
+    {
+      "Name": "Timeless Jewel",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Color\":\"#FF696969\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Plate Vest": [
+    {
+      "Name": "Plate Vest",
+      "BaseType": "Plate Vest",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Spiked Club": [
+    {
+      "Name": "Spiked Club",
+      "BaseType": "Spiked Club",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Ringmail Coat": [
+    {
+      "Name": "Ringmail Coat",
+      "BaseType": "Ringmail Coat",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Rawhide Tower Shield": [
+    {
+      "Name": "Rawhide Tower Shield",
+      "BaseType": "Rawhide Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Chainmail Tunic": [
+    {
+      "Name": "Chainmail Tunic",
+      "BaseType": "Chainmail Tunic",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Rotted Round Shield": [
+    {
+      "Name": "Rotted Round Shield",
+      "BaseType": "Rotted Round Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Whalebone Rapier": [
+    {
+      "Name": "Whalebone Rapier",
+      "BaseType": "Whalebone Rapier",
+      "Special": "Shaper",
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":4,\"Name\":\"ExclusiveBaseAspect\",\"Color\":\"#FF696969\"}"
+      ]
+    }
+  ],
+  "Chestplate": [
+    {
+      "Name": "Chestplate",
+      "BaseType": "Chestplate",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Darkwood Sceptre": [
+    {
+      "Name": "Darkwood Sceptre",
+      "BaseType": "Darkwood Sceptre",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Awl": [
+    {
+      "Name": "Awl",
+      "BaseType": "Awl",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Poleaxe": [
+    {
+      "Name": "Poleaxe",
+      "BaseType": "Poleaxe",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Mallet": [
+    {
+      "Name": "Mallet",
+      "BaseType": "Mallet",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Corroded Blade": [
+    {
+      "Name": "Corroded Blade",
+      "BaseType": "Corroded Blade",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ],
+  "Driftwood Club": [
+    {
+      "Name": "Driftwood Club",
+      "BaseType": "Driftwood Club",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Splintered Tower Shield": [
+    {
+      "Name": "Splintered Tower Shield",
+      "BaseType": "Splintered Tower Shield",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Chainmail Vest": [
+    {
+      "Name": "Chainmail Vest",
+      "BaseType": "Chainmail Vest",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Driftwood Maul": [
+    {
+      "Name": "Driftwood Maul",
+      "BaseType": "Driftwood Maul",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Woodsplitter": [
+    {
+      "Name": "Woodsplitter",
+      "BaseType": "Woodsplitter",
+      "Special": "Shaper",
+      "Aspects": []
+    }
+  ],
+  "Tribal Maul": [
+    {
+      "Name": "Tribal Maul",
+      "BaseType": "Tribal Maul",
+      "Special": "Elder",
+      "Aspects": []
+    }
+  ]
+}
