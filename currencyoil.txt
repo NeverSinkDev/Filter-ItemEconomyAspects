@@ -1,0 +1,122 @@
+{
+  "Golden Oil": [
+    {
+      "Name": "Golden Oil",
+      "BaseType": "Golden Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":172.14,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Silver Oil": [
+    {
+      "Name": "Silver Oil",
+      "BaseType": "Silver Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":54.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Opalescent Oil": [
+    {
+      "Name": "Opalescent Oil",
+      "BaseType": "Opalescent Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":24.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Black Oil": [
+    {
+      "Name": "Black Oil",
+      "BaseType": "Black Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Crimson Oil": [
+    {
+      "Name": "Crimson Oil",
+      "BaseType": "Crimson Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Violet Oil": [
+    {
+      "Name": "Violet Oil",
+      "BaseType": "Violet Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Azure Oil": [
+    {
+      "Name": "Azure Oil",
+      "BaseType": "Azure Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Teal Oil": [
+    {
+      "Name": "Teal Oil",
+      "BaseType": "Teal Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Sepia Oil": [
+    {
+      "Name": "Sepia Oil",
+      "BaseType": "Sepia Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Verdant Oil": [
+    {
+      "Name": "Verdant Oil",
+      "BaseType": "Verdant Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Clear Oil": [
+    {
+      "Name": "Clear Oil",
+      "BaseType": "Clear Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Amber Oil": [
+    {
+      "Name": "Amber Oil",
+      "BaseType": "Amber Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ]
+}
