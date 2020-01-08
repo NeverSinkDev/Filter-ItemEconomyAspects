@@ -2180,8 +2180,10 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2262,7 +2264,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2404,7 +2407,10 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"FarmableOrbAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2425,9 +2431,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2598,7 +2606,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"PoorDiviAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],

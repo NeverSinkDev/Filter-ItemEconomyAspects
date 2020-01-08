@@ -157,12 +157,28 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Master Cartographer's Sextant",
+      "BaseType": "Master Cartographer's Sextant",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Journeyman Cartographer's Sextant": [
     {
       "Name": "Journeyman Cartographer's Sextant",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Journeyman Cartographer's Sextant",
+      "BaseType": "Journeyman Cartographer's Sextant",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -193,6 +209,14 @@
     {
       "Name": "Apprentice Cartographer's Sextant",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Apprentice Cartographer's Sextant",
+      "BaseType": "Apprentice Cartographer's Sextant",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -476,6 +500,156 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Hunter's Exalted Orb": [
+    {
+      "Name": "Hunter's Exalted Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":317.65,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Warlord's Exalted Orb": [
+    {
+      "Name": "Warlord's Exalted Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":235.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Awakener's Orb": [
+    {
+      "Name": "Awakener's Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":225.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Crusader's Exalted Orb": [
+    {
+      "Name": "Crusader's Exalted Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":170.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Redeemer's Exalted Orb": [
+    {
+      "Name": "Redeemer's Exalted Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":160.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Prismatic Catalyst": [
+    {
+      "Name": "Prismatic Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":12.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fertile Catalyst": [
+    {
+      "Name": "Fertile Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":10.28,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Tempering Catalyst": [
+    {
+      "Name": "Tempering Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Awakened Sextant": [
+    {
+      "Name": "Awakened Sextant",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.95,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Turbulent Catalyst": [
+    {
+      "Name": "Turbulent Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.89,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Intrinsic Catalyst": [
+    {
+      "Name": "Intrinsic Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.68,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Abrasive Catalyst": [
+    {
+      "Name": "Abrasive Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.93,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Imbued Catalyst": [
+    {
+      "Name": "Imbued Catalyst",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.83,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Prime Sextant": [
+    {
+      "Name": "Prime Sextant",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.58,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Simple Sextant": [
+    {
+      "Name": "Simple Sextant",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.26,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]

@@ -1,0 +1,652 @@
+{
+  "Chayula's Pure Breachstone": [
+    {
+      "Name": "Chayula's Pure Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":226.53,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Maraketh Emblem": [
+    {
+      "Name": "Timeless Maraketh Emblem",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":203.53,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Chayula's Breachstone": [
+    {
+      "Name": "Chayula's Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":154.36,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Shape": [
+    {
+      "Name": "Fragment of Shape",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":141.37,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Uul-Netol's Pure Breachstone": [
+    {
+      "Name": "Uul-Netol's Pure Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":139.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Knowledge": [
+    {
+      "Name": "Fragment of Knowledge",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":133.57,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Templar Emblem": [
+    {
+      "Name": "Timeless Templar Emblem",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":125.01,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Chayula's Enriched Breachstone": [
+    {
+      "Name": "Chayula's Enriched Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":109.98,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Tul's Pure Breachstone": [
+    {
+      "Name": "Tul's Pure Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":104.88,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Chayula's Charged Breachstone": [
+    {
+      "Name": "Chayula's Charged Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":94.98,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of the Minotaur": [
+    {
+      "Name": "Fragment of the Minotaur",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":47.26,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Uul-Netol's Enriched Breachstone": [
+    {
+      "Name": "Uul-Netol's Enriched Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":43.47,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Vaal Emblem": [
+    {
+      "Name": "Timeless Vaal Emblem",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":41.15,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Xoph's Pure Breachstone": [
+    {
+      "Name": "Xoph's Pure Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.06,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Esh's Pure Breachstone": [
+    {
+      "Name": "Esh's Pure Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.01,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of the Chimera": [
+    {
+      "Name": "Fragment of the Chimera",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":39.82,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Eradication": [
+    {
+      "Name": "Fragment of Eradication",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":38.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of the Phoenix": [
+    {
+      "Name": "Fragment of the Phoenix",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":37.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Tul's Enriched Breachstone": [
+    {
+      "Name": "Tul's Enriched Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.65,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of the Hydra": [
+    {
+      "Name": "Fragment of the Hydra",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Terror": [
+    {
+      "Name": "Fragment of Terror",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":27.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Emptiness": [
+    {
+      "Name": "Fragment of Emptiness",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.94,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Enslavement": [
+    {
+      "Name": "Fragment of Enslavement",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.14,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Purification": [
+    {
+      "Name": "Fragment of Purification",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":25.4,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Fragment of Constriction": [
+    {
+      "Name": "Fragment of Constriction",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":24.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}"
+      ]
+    }
+  ],
+  "Uul-Netol's Charged Breachstone": [
+    {
+      "Name": "Uul-Netol's Charged Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.57,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Esh's Enriched Breachstone": [
+    {
+      "Name": "Esh's Enriched Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Xoph's Enriched Breachstone": [
+    {
+      "Name": "Xoph's Enriched Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":19.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Tul's Breachstone": [
+    {
+      "Name": "Tul's Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.41,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Eternal Emblem": [
+    {
+      "Name": "Timeless Eternal Emblem",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.19,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Karui Emblem": [
+    {
+      "Name": "Timeless Karui Emblem",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.78,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Tul's Charged Breachstone": [
+    {
+      "Name": "Tul's Charged Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.11,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Uul-Netol's Breachstone": [
+    {
+      "Name": "Uul-Netol's Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":16.27,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Inya's Key": [
+    {
+      "Name": "Inya's Key",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.69,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Mortal Ignorance": [
+    {
+      "Name": "Mortal Ignorance",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Xoph's Charged Breachstone": [
+    {
+      "Name": "Xoph's Charged Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Yriel's Key": [
+    {
+      "Name": "Yriel's Key",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":9.13,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Volkuur's Key": [
+    {
+      "Name": "Volkuur's Key",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":8.34,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Mortal Hope": [
+    {
+      "Name": "Mortal Hope",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.72,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Eber's Key": [
+    {
+      "Name": "Eber's Key",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.11,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Esh's Charged Breachstone": [
+    {
+      "Name": "Esh's Charged Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Mortal Rage": [
+    {
+      "Name": "Mortal Rage",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Xoph's Breachstone": [
+    {
+      "Name": "Xoph's Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Esh's Breachstone": [
+    {
+      "Name": "Esh's Breachstone",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.44,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Divine Vessel": [
+    {
+      "Name": "Divine Vessel",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Mortal Grief": [
+    {
+      "Name": "Mortal Grief",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.77,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Maraketh Splinter": [
+    {
+      "Name": "Timeless Maraketh Splinter",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Timeless Templar Splinter": [
+    {
+      "Name": "Timeless Templar Splinter",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.4,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Offering to the Goddess": [
+    {
+      "Name": "Offering to the Goddess",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.25,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}"
+      ]
+    }
+  ],
+  "Sacrifice at Midnight": [
+    {
+      "Name": "Sacrifice at Midnight",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"FloorFragmentsAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Sacrifice at Noon": [
+    {
+      "Name": "Sacrifice at Noon",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Sacrifice at Dawn": [
+    {
+      "Name": "Sacrifice at Dawn",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Sacrifice at Dusk": [
+    {
+      "Name": "Sacrifice at Dusk",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+      ]
+    }
+  ],
+  "Timeless Vaal Splinter": [
+    {
+      "Name": "Timeless Vaal Splinter",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Timeless Karui Splinter": [
+    {
+      "Name": "Timeless Karui Splinter",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Timeless Eternal Empire Splinter": [
+    {
+      "Name": "Timeless Eternal Empire Splinter",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+      ]
+    }
+  ]
+}
