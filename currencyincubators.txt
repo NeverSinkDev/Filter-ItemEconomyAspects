@@ -1,1 +1,271 @@
-{"Geomancer's Incubator":[{"Name":"Geomancer's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":39.07,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Time-Lost Incubator":[{"Name":"Time-Lost Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":33.92,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Eldritch Incubator":[{"Name":"Eldritch Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":29.08,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Thaumaturge's Incubator":[{"Name":"Thaumaturge's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Obscured Incubator":[{"Name":"Obscured Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Otherworldly Incubator":[{"Name":"Otherworldly Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Decadent Incubator":[{"Name":"Decadent Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Celestial Jeweller's Incubator":[{"Name":"Celestial Jeweller's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.88,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Celestial Armoursmith's Incubator":[{"Name":"Celestial Armoursmith's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Foreboding Incubator":[{"Name":"Foreboding Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Celestial Blacksmith's Incubator":[{"Name":"Celestial Blacksmith's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Ornate Incubator":[{"Name":"Ornate Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Infused Incubator":[{"Name":"Infused Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Skittering Incubator":[{"Name":"Skittering Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Singular Incubator":[{"Name":"Singular Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Primal Incubator":[{"Name":"Primal Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Enchanted Incubator":[{"Name":"Enchanted Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Fine Incubator":[{"Name":"Fine Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Cartographer's Incubator":[{"Name":"Cartographer's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Diviner's Incubator":[{"Name":"Diviner's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Fossilised Incubator":[{"Name":"Fossilised Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Mysterious Incubator":[{"Name":"Mysterious Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Fragmented Incubator":[{"Name":"Fragmented Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Abyssal Incubator":[{"Name":"Abyssal Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.87,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Gemcutter's Incubator":[{"Name":"Gemcutter's Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}],"Whispering Incubator":[{"Name":"Whispering Incubator","BaseType":null,"Special":null,"Aspects":["{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"Color\":\"#FF696969\",\"Type\":0}"]}]}
+{
+  "Geomancer's Incubator": [
+    {
+      "Name": "Geomancer's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":39.07,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Time-Lost Incubator": [
+    {
+      "Name": "Time-Lost Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":33.92,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Eldritch Incubator": [
+    {
+      "Name": "Eldritch Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":29.08,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Eldritch Incubator",
+      "BaseType": "Eldritch Incubator",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":29.08,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Thaumaturge's Incubator": [
+    {
+      "Name": "Thaumaturge's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Obscured Incubator": [
+    {
+      "Name": "Obscured Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Otherworldly Incubator": [
+    {
+      "Name": "Otherworldly Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Decadent Incubator": [
+    {
+      "Name": "Decadent Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Celestial Jeweller's Incubator": [
+    {
+      "Name": "Celestial Jeweller's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.88,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Celestial Armoursmith's Incubator": [
+    {
+      "Name": "Celestial Armoursmith's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Foreboding Incubator": [
+    {
+      "Name": "Foreboding Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Celestial Blacksmith's Incubator": [
+    {
+      "Name": "Celestial Blacksmith's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Ornate Incubator": [
+    {
+      "Name": "Ornate Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Infused Incubator": [
+    {
+      "Name": "Infused Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Skittering Incubator": [
+    {
+      "Name": "Skittering Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Singular Incubator": [
+    {
+      "Name": "Singular Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Primal Incubator": [
+    {
+      "Name": "Primal Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Enchanted Incubator": [
+    {
+      "Name": "Enchanted Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fine Incubator": [
+    {
+      "Name": "Fine Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Cartographer's Incubator": [
+    {
+      "Name": "Cartographer's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Diviner's Incubator": [
+    {
+      "Name": "Diviner's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fossilised Incubator": [
+    {
+      "Name": "Fossilised Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Mysterious Incubator": [
+    {
+      "Name": "Mysterious Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fragmented Incubator": [
+    {
+      "Name": "Fragmented Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Abyssal Incubator": [
+    {
+      "Name": "Abyssal Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.87,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gemcutter's Incubator": [
+    {
+      "Name": "Gemcutter's Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Whispering Incubator": [
+    {
+      "Name": "Whispering Incubator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ]
+}
