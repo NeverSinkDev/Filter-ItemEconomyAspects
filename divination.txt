@@ -464,7 +464,7 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":7.85,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}"
       ]
     }
   ],
@@ -523,8 +523,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
-        "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"SingleCardAspect\"}"
+        "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"SingleCardAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
       ]
     },
     {
@@ -654,7 +654,7 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"FarmableOrbAspect\"}"
       ]
     }
   ],
@@ -891,7 +891,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}"
       ]
     }
   ],
@@ -1047,7 +1048,7 @@
       "Aspects": [
         "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"LargeDeckAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.88,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}"
       ]
     }
   ],
@@ -1358,7 +1359,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}"
       ]
     }
   ],
