@@ -7902,7 +7902,10 @@
       "Name": "Duskdawn",
       "BaseType": "MaelstrÃ¶m Staff",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Disintegrator",
