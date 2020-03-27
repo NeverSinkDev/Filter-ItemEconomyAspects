@@ -2723,7 +2723,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":281.64,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2807,8 +2807,7 @@
       "BaseType": "Glorious Plate",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":166.43,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":166.43,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -3038,7 +3037,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":47.39,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":47.39,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     },
     {
@@ -3446,7 +3446,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     },
     {
@@ -6660,7 +6661,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":80.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":80.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     },
     {
@@ -6669,7 +6671,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":71.4,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":71.4,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     },
     {
@@ -6678,7 +6681,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     },
     {

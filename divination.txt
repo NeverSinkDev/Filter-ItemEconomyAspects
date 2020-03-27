@@ -476,7 +476,9 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":10.06,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}"
       ]
     }
   ],
@@ -1047,7 +1049,9 @@
       "Aspects": [
         "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"LargeDeckAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.88,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":2,\"Name\":\"PreventHidingAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
