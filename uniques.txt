@@ -737,7 +737,7 @@
       "BaseType": "Gavel",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
@@ -2734,7 +2734,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":256.04,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     },
     {
@@ -3356,7 +3356,7 @@
       "BaseType": "Callous Mask Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":16.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -3365,7 +3365,7 @@
       "BaseType": "Callous Mask Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":8.01,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -3374,7 +3374,7 @@
       "BaseType": "Callous Mask Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.47,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
@@ -3888,7 +3888,7 @@
       "BaseType": "Archon Kite Shield Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -3897,7 +3897,7 @@
       "BaseType": "Archon Kite Shield Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -3906,7 +3906,7 @@
       "BaseType": "Archon Kite Shield Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -3915,7 +3915,7 @@
       "BaseType": "Archon Kite Shield Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.91,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
@@ -4390,7 +4390,7 @@
       "BaseType": "Blunt Arrow Quiver Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4399,7 +4399,7 @@
       "BaseType": "Blunt Arrow Quiver Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4408,7 +4408,7 @@
       "BaseType": "Blunt Arrow Quiver Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
@@ -5481,7 +5481,8 @@
       "BaseType": "Wool Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6270,7 +6271,7 @@
       "BaseType": "Amber Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
@@ -6915,7 +6916,7 @@
       "BaseType": "Unset Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -7129,7 +7130,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7140,7 +7142,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
@@ -7453,7 +7455,7 @@
       "BaseType": "Cloth Belt Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -7462,7 +7464,7 @@
       "BaseType": "Cloth Belt Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":2.4,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
@@ -7752,7 +7754,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-08T10:40:23.4133847+02:00\",\"HanadlingPrice\":6050.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7945,7 +7947,7 @@
       "BaseType": "MaelstrÃ¶m Staff",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"IgnoreAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     },

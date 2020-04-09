@@ -1,1 +1,212 @@
-{"Chateau Map":[{"Name":"The Perandus Manor","BaseType":"Chateau Map","Special":null,"Aspects":[]}],"Maze Map":[{"Name":"Doryani's Machinarium","BaseType":"Maze Map","Special":null,"Aspects":[]}],"Harbinger Map":[{"Name":"The Beachhead","BaseType":"Harbinger Map","Special":"T15","Aspects":[]}],"Museum Map":[{"Name":"The Putrid Cloister","BaseType":"Museum Map","Special":null,"Aspects":[]}],"Courtyard Map":[{"Name":"The Vinktar Square","BaseType":"Courtyard Map","Special":null,"Aspects":[]}],"Shore Map":[{"Name":"Mao Kun","BaseType":"Shore Map","Special":null,"Aspects":[]}],"Vaal Pyramid Map":[{"Name":"Vaults of Atziri","BaseType":"Vaal Pyramid Map","Special":null,"Aspects":[]}],"Moon Temple Map":[{"Name":"The Twilight Temple","BaseType":"Moon Temple Map","Special":null,"Aspects":[]}],"Temple Map":[{"Name":"Poorjoy's Asylum","BaseType":"Temple Map","Special":null,"Aspects":[]}],"Promenade Map":[{"Name":"Hall of Grandmasters","BaseType":"Promenade Map","Special":null,"Aspects":[]}],"Bone Crypt Map":[{"Name":"Olmec's Sanctum","BaseType":"Bone Crypt Map","Special":null,"Aspects":[]}],"Cemetery Map":[{"Name":"Hallowed Ground","BaseType":"Cemetery Map","Special":null,"Aspects":[]}],"Underground River Map":[{"Name":"Caer Blaidd, Wolfpack's Den","BaseType":"Underground River Map","Special":null,"Aspects":[]}],"Necropolis Map":[{"Name":"Death and Taxes","BaseType":"Necropolis Map","Special":null,"Aspects":[]}],"Underground Sea Map":[{"Name":"Oba's Cursed Trove","BaseType":"Underground Sea Map","Special":null,"Aspects":[]}],"Overgrown Shrine Map":[{"Name":"Acton's Nightmare","BaseType":"Overgrown Shrine Map","Special":null,"Aspects":[]}],"Cursed Crypt Map":[{"Name":"The Coward's Trial","BaseType":"Cursed Crypt Map","Special":null,"Aspects":[]}],"Atoll Map":[{"Name":"Maelström of Chaos","BaseType":"Atoll Map","Special":null,"Aspects":[]}],"Dunes Map":[{"Name":"Pillars of Arun","BaseType":"Dunes Map","Special":null,"Aspects":[]}],"Strand Map":[{"Name":"Whakawairua Tuahu","BaseType":"Strand Map","Special":null,"Aspects":[]}]}
+{
+  "Chateau Map": [
+    {
+      "Name": "The Perandus Manor",
+      "BaseType": "Chateau Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Maze Map": [
+    {
+      "Name": "Doryani's Machinarium",
+      "BaseType": "Maze Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Harbinger Map": [
+    {
+      "Name": "The Beachhead",
+      "BaseType": "Harbinger Map",
+      "Special": "T15",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Museum Map": [
+    {
+      "Name": "The Putrid Cloister",
+      "BaseType": "Museum Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Courtyard Map": [
+    {
+      "Name": "The Vinktar Square",
+      "BaseType": "Courtyard Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Shore Map": [
+    {
+      "Name": "Mao Kun",
+      "BaseType": "Shore Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vaal Pyramid Map": [
+    {
+      "Name": "Vaults of Atziri",
+      "BaseType": "Vaal Pyramid Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Moon Temple Map": [
+    {
+      "Name": "The Twilight Temple",
+      "BaseType": "Moon Temple Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Temple Map": [
+    {
+      "Name": "Poorjoy's Asylum",
+      "BaseType": "Temple Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Promenade Map": [
+    {
+      "Name": "Hall of Grandmasters",
+      "BaseType": "Promenade Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Bone Crypt Map": [
+    {
+      "Name": "Olmec's Sanctum",
+      "BaseType": "Bone Crypt Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cemetery Map": [
+    {
+      "Name": "Hallowed Ground",
+      "BaseType": "Cemetery Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Underground River Map": [
+    {
+      "Name": "Caer Blaidd, Wolfpack's Den",
+      "BaseType": "Underground River Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Necropolis Map": [
+    {
+      "Name": "Death and Taxes",
+      "BaseType": "Necropolis Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Underground Sea Map": [
+    {
+      "Name": "Oba's Cursed Trove",
+      "BaseType": "Underground Sea Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Overgrown Shrine Map": [
+    {
+      "Name": "Acton's Nightmare",
+      "BaseType": "Overgrown Shrine Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cursed Crypt Map": [
+    {
+      "Name": "The Coward's Trial",
+      "BaseType": "Cursed Crypt Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Atoll Map": [
+    {
+      "Name": "Maelström of Chaos",
+      "BaseType": "Atoll Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Dunes Map": [
+    {
+      "Name": "Pillars of Arun",
+      "BaseType": "Dunes Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Strand Map": [
+    {
+      "Name": "Whakawairua Tuahu",
+      "BaseType": "Strand Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Relic Chambers Map": [
+    {
+      "Name": "Cortex",
+      "BaseType": "Relic Chambers Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Park Map": [
+    {
+      "Name": "Twisted Distant Memory",
+      "BaseType": "Park Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Siege Map": [
+    {
+      "Name": "Altered Distant Memory",
+      "BaseType": "Siege Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Basilica Map": [
+    {
+      "Name": "Rewritten Distant Memory",
+      "BaseType": "Basilica Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Courthouse Map": [
+    {
+      "Name": "Augmented Distant Memory",
+      "BaseType": "Courthouse Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ]
+}
