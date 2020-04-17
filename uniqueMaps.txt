@@ -4,7 +4,9 @@
       "Name": "The Perandus Manor",
       "BaseType": "Chateau Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Maze Map": [
@@ -174,7 +176,9 @@
       "Name": "Cortex",
       "BaseType": "Relic Chambers Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Park Map": [

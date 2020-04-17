@@ -201,7 +201,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":4.89,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -258,7 +259,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -270,7 +272,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -282,7 +285,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":2.93,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -505,7 +509,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"MapUpgradeProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
