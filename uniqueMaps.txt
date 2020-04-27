@@ -23,7 +23,9 @@
       "BaseType": "Harbinger Map",
       "Special": "T15",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -33,7 +35,8 @@
       "BaseType": "Museum Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -50,7 +53,10 @@
       "Name": "Mao Kun",
       "BaseType": "Shore Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Vaal Pyramid Map": [
@@ -58,7 +64,9 @@
       "Name": "Vaults of Atziri",
       "BaseType": "Vaal Pyramid Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Moon Temple Map": [
@@ -67,7 +75,8 @@
       "BaseType": "Moon Temple Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -77,7 +86,8 @@
       "BaseType": "Temple Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -86,7 +96,10 @@
       "Name": "Hall of Grandmasters",
       "BaseType": "Promenade Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Bone Crypt Map": [
@@ -94,7 +107,9 @@
       "Name": "Olmec's Sanctum",
       "BaseType": "Bone Crypt Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Cemetery Map": [
@@ -102,7 +117,9 @@
       "Name": "Hallowed Ground",
       "BaseType": "Cemetery Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Underground River Map": [
@@ -111,7 +128,8 @@
       "BaseType": "Underground River Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -120,7 +138,10 @@
       "Name": "Death and Taxes",
       "BaseType": "Necropolis Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Underground Sea Map": [
@@ -128,7 +149,9 @@
       "Name": "Oba's Cursed Trove",
       "BaseType": "Underground Sea Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Overgrown Shrine Map": [
@@ -136,7 +159,9 @@
       "Name": "Acton's Nightmare",
       "BaseType": "Overgrown Shrine Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Cursed Crypt Map": [
@@ -144,7 +169,9 @@
       "Name": "The Coward's Trial",
       "BaseType": "Cursed Crypt Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Atoll Map": [
@@ -152,7 +179,9 @@
       "Name": "Maelström of Chaos",
       "BaseType": "Atoll Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Dunes Map": [
@@ -160,7 +189,9 @@
       "Name": "Pillars of Arun",
       "BaseType": "Dunes Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Strand Map": [
@@ -168,7 +199,9 @@
       "Name": "Whakawairua Tuahu",
       "BaseType": "Strand Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Relic Chambers Map": [
