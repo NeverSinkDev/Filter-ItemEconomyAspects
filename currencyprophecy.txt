@@ -2171,8 +2171,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":0.45,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemUpgradeProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":0.45,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
