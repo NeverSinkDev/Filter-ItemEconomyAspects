@@ -64,7 +64,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemUpgradeProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemUpgradeProphecyAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -308,7 +309,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemDropProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemDropProphecyAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -1991,7 +1993,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemUpgradeProphecyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ItemUpgradeProphecyAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],

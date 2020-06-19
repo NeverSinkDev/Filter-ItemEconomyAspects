@@ -46,8 +46,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":45.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
       ]
     }
   ],
@@ -216,8 +215,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}"
       ]
     }
   ],
@@ -434,8 +433,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.14,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}"
       ]
     }
   ],
@@ -481,8 +479,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
