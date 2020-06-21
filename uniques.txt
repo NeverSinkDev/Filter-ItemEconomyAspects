@@ -477,6 +477,16 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}"
       ]
+    },
+    {
+      "Name": "The Surging Thoughts",
+      "BaseType": "Legion Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
     }
   ],
   "Imperial Claw": [
@@ -2044,6 +2054,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Wings of Entropy",
+      "BaseType": "Ezomyte Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Infernal Axe": [
@@ -3592,6 +3610,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Shattered Divinity",
+      "BaseType": "Blunt Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Pinnacle Tower Shield": [
@@ -4848,6 +4875,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Fleshcrafter",
+      "BaseType": "Necromancer Silks",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Wool Shoes": [
@@ -5456,8 +5491,14 @@
       "Name": "Rearguard",
       "BaseType": "Broadhead Arrow Quiver",
       "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Scorpion's Call",
+      "BaseType": "Broadhead Arrow Quiver",
+      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6473,6 +6514,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Storm Secret",
+      "BaseType": "Topaz Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7524,6 +7573,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Retaliation Charm",
+      "BaseType": "Citrine Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Iron Ring": [
@@ -7888,6 +7945,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Doryani's Prototype",
+      "BaseType": "Saint's Hauberk",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Mesh Gloves": [
@@ -8010,6 +8075,66 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    }
+  ],
+  "Imperial Staff Piece": [
+    {
+      "Name": "First Piece of Brutality",
+      "BaseType": "Imperial Staff Piece",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Second Piece of Brutality",
+      "BaseType": "Imperial Staff Piece",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Third Piece of Brutality",
+      "BaseType": "Imperial Staff Piece",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Legion Sword Piece": [
+    {
+      "Name": "Second Piece of the Arcane",
+      "BaseType": "Legion Sword Piece",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "First Piece of the Arcane",
+      "BaseType": "Legion Sword Piece",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Third Piece of the Arcane",
+      "BaseType": "Legion Sword Piece",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Eelskin Gloves": [
+    {
+      "Name": "Great Old One's Tentacles",
+      "BaseType": "Eelskin Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Steel Kite Shield": [
+    {
+      "Name": "Emperor's Vigilance",
+      "BaseType": "Steel Kite Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]
