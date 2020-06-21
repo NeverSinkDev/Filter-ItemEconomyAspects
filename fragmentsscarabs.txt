@@ -427,5 +427,49 @@
       "Special": null,
       "Aspects": []
     }
+  ],
+  "Craicic Lure": [
+    {
+      "Name": "Craicic Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fenumal Lure": [
+    {
+      "Name": "Fenumal Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Saqawine Lure": [
+    {
+      "Name": "Saqawine Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Farric Lure": [
+    {
+      "Name": "Farric Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
   ]
 }
