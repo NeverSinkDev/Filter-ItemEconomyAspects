@@ -5,7 +5,8 @@
       "BaseType": "Chateau Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -27,6 +28,12 @@
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Infused Beachhead",
+      "BaseType": "Harbinger Map",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Museum Map": [
@@ -45,7 +52,9 @@
       "Name": "The Vinktar Square",
       "BaseType": "Courtyard Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Shore Map": [
@@ -219,7 +228,9 @@
       "Name": "Twisted Distant Memory",
       "BaseType": "Park Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Siege Map": [
@@ -227,7 +238,9 @@
       "Name": "Altered Distant Memory",
       "BaseType": "Siege Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Basilica Map": [
@@ -235,7 +248,9 @@
       "Name": "Rewritten Distant Memory",
       "BaseType": "Basilica Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Courthouse Map": [
@@ -243,7 +258,9 @@
       "Name": "Augmented Distant Memory",
       "BaseType": "Courthouse Map",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
     }
   ]
 }
