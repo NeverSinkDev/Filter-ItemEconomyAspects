@@ -36,6 +36,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Duskdawn",
+      "BaseType": "Maelström Staff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Cutlass": [
@@ -75,6 +83,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Twyzel",
+      "BaseType": "Sage Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -123,6 +139,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Windripper",
+      "BaseType": "Imperial Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -184,6 +208,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Dreamfeather",
+      "BaseType": "Eternal Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -264,6 +296,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Oro's Sacrifice",
+      "BaseType": "Infernal Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -456,6 +496,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.45,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Iron Commander",
+      "BaseType": "Death Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Legion Sword": [
@@ -536,6 +584,14 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":8.62,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Paradoxica",
+      "BaseType": "Vaal Rapier",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -654,6 +710,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Soul Taker",
+      "BaseType": "Siege Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -939,6 +1003,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Fulcrum",
+      "BaseType": "Ezomyte Staff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "War Hammer": [
@@ -988,6 +1061,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Tulfall",
+      "BaseType": "Tornado Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1065,6 +1146,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Harvest",
+      "BaseType": "Jasper Chopper",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Great Mallet": [
@@ -1094,6 +1183,14 @@
       "Aspects": [
         "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyMaterialAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Trypanon",
+      "BaseType": "Great Mallet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1237,6 +1334,23 @@
       "Aspects": [
         "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyMaterialAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Fencoil",
+      "BaseType": "Gnarled Branch",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Blood Thorn",
+      "BaseType": "Gnarled Branch",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -1383,6 +1497,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Quill Rain",
+      "BaseType": "Short Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Harbinger Bow": [
@@ -1421,6 +1543,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Bitterdream",
+      "BaseType": "Shadow Sceptre",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "War Sword": [
@@ -1430,6 +1560,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Tempestuous Steel",
+      "BaseType": "War Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -1510,6 +1648,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Nebulis",
+      "BaseType": "Void Sceptre",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1593,6 +1739,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.98,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Heartbreaker",
+      "BaseType": "Royal Skean",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Spine Bow": [
@@ -1630,6 +1784,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Advancing Fortress",
+      "BaseType": "Gut Ripper",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Vaal Claw": [
@@ -1647,6 +1809,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Allure",
+      "BaseType": "Vaal Claw",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1779,6 +1949,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Infractem",
+      "BaseType": "Decimation Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Elder Sword": [
@@ -1788,6 +1966,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Innsbury Edge",
+      "BaseType": "Elder Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1822,6 +2008,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Kongor's Undying Rage",
+      "BaseType": "Terror Maul",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Nailed Fist": [
@@ -1831,6 +2025,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Last Resort",
+      "BaseType": "Nailed Fist",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1851,6 +2053,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Midnight Bargain",
+      "BaseType": "Engraved Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -1940,6 +2150,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Iron Mass",
+      "BaseType": "Gladius",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Tiger Sword": [
@@ -2010,6 +2229,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Ungil's Gauche",
+      "BaseType": "Boot Knife",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Antique Rapier": [
@@ -2041,6 +2268,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Hidden Blade",
+      "BaseType": "Ambusher",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Throat Stabber": [
@@ -2062,6 +2298,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Earendel's Embrace",
+      "BaseType": "Grinning Fetish",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Ezomyte Axe": [
@@ -2079,6 +2323,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Wings of Entropy",
+      "BaseType": "Ezomyte Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -2201,6 +2453,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Frostbreath",
+      "BaseType": "Ornate Mace",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Poleaxe": [
@@ -2322,6 +2582,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Bloodplay",
+      "BaseType": "Stiletto",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Dread Maul": [
@@ -2390,6 +2658,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Sorrow of the Divine",
+      "BaseType": "Sulphur Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -2525,6 +2801,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Rumi's Concoction",
+      "BaseType": "Granite Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Amethyst Flask": [
@@ -2556,6 +2840,14 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Lavianga's Spirit",
+      "BaseType": "Sanctified Mana Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -2639,6 +2931,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Farrul's Fur",
+      "BaseType": "Triumphant Lamellar",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Rawhide Boots": [
@@ -2690,6 +2990,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Atziri's Acuity",
+      "BaseType": "Vaal Gauntlets",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -2812,6 +3120,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Eternity Shroud",
+      "BaseType": "Blood Raiment",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Sacrificial Garb": [
@@ -2845,6 +3161,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Voidwalker",
+      "BaseType": "Murder Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Glorious Plate": [
@@ -2863,6 +3187,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Kaom's Heart",
+      "BaseType": "Glorious Plate",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -2883,6 +3215,23 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Shroud of the Lightless",
+      "BaseType": "Carnal Armour",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1317.41,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Restless Ward",
+      "BaseType": "Carnal Armour",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -3021,6 +3370,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Forbidden Shako",
+      "BaseType": "Great Crown",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Magistrate Crown": [
@@ -3143,6 +3500,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Loreweave",
+      "BaseType": "Elegant Ringmail",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Ezomyte Tower Shield": [
@@ -3235,6 +3600,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":35.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Maloney's Mechanism",
+      "BaseType": "Ornate Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -3514,6 +3887,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Red Trail",
+      "BaseType": "Titan Greaves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Wyrmscale Doublet": [
@@ -3614,6 +3995,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Perfect Form",
+      "BaseType": "Zodiac Leather",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -3841,6 +4230,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Tukohama's Fortress",
+      "BaseType": "Ebony Tower Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Iron Circlet": [
@@ -3979,6 +4376,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Inya's Epiphany",
+      "BaseType": "Arcanist Slippers",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -4121,6 +4526,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Stampede",
+      "BaseType": "Assassin's Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Varnished Coat": [
@@ -4131,6 +4544,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Admiral",
+      "BaseType": "Varnished Coat",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -4372,6 +4793,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Grip of the Council",
+      "BaseType": "Arcanist Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Exquisite Leather": [
@@ -4464,6 +4893,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Soul Strike",
+      "BaseType": "Spike-Point Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Coronal Leather": [
@@ -4527,6 +4964,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Volkuur's Guidance",
+      "BaseType": "Zealot Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -4660,6 +5105,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Abyssus",
+      "BaseType": "Ezomyte Burgonet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Sinner Tricorne": [
@@ -4679,6 +5132,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Alpha's Howl",
+      "BaseType": "Sinner Tricorne",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -4709,6 +5170,15 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Blunderbore",
+      "BaseType": "Astral Plate",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -4787,6 +5257,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Leer Cast",
+      "BaseType": "Festival Mask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -4980,6 +5458,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Allelopathy",
+      "BaseType": "Sorcerer Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -5259,6 +5745,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Font of Thunder",
+      "BaseType": "Mirrored Spiked Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Crusader Helmet": [
@@ -5290,6 +5784,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Alberon's Warpath",
+      "BaseType": "Soldier Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -5549,7 +6051,9 @@
       "Name": "Rearguard",
       "BaseType": "Broadhead Arrow Quiver",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Scorpion's Call",
@@ -5728,6 +6232,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Willclash",
+      "BaseType": "Golden Mask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Murder Mitts": [
@@ -5805,6 +6317,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Victario's Charity",
+      "BaseType": "Laminated Kite Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Full Scale Armour": [
@@ -5877,6 +6397,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Expedition's End",
+      "BaseType": "Sentinel Jacket",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Sage's Robe": [
@@ -5923,6 +6452,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Kalisa's Grace",
+      "BaseType": "Samite Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -5983,6 +6520,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Three-step Assault",
+      "BaseType": "Shagreen Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -6065,6 +6610,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Ambu's Charge",
+      "BaseType": "Crusader Chainmail",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Silk Slippers": [
@@ -6076,6 +6629,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Bones of Ullr",
+      "BaseType": "Silk Slippers",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Great Helmet": [
@@ -6085,6 +6646,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.23,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Veil of the Night",
+      "BaseType": "Great Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -6137,6 +6706,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Lioneye's Paws",
+      "BaseType": "Bronzescale Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -6280,6 +6857,22 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Headhunter",
+      "BaseType": "Leather Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Pyroshock Clasp",
+      "BaseType": "Leather Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Paua Amulet": [
@@ -6317,6 +6910,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Atziri's Foible",
+      "BaseType": "Paua Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -6381,6 +6982,22 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Hyrri's Truth",
+      "BaseType": "Jade Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Karui Ward",
+      "BaseType": "Jade Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -6788,6 +7405,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Emberwake",
+      "BaseType": "Ruby Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Gold Ring": [
@@ -6807,6 +7432,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Highwayman",
+      "BaseType": "Gold Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6893,6 +7526,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Tasalio's Sign",
+      "BaseType": "Sapphire Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Agate Amulet": [
@@ -6972,6 +7613,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Ephemeral Bond",
+      "BaseType": "Lapis Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7081,6 +7730,22 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Voideye",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Malachai's Artifice",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -7200,6 +7865,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Siegebreaker",
+      "BaseType": "Heavy Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Gold Amulet": [
@@ -7254,6 +7927,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Winterheart",
+      "BaseType": "Gold Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -7482,6 +8163,23 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Soul Tether",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Druggery",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Rustic Sash": [
@@ -7519,6 +8217,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Prismweave",
+      "BaseType": "Rustic Sash",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -7773,6 +8479,23 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Fated End",
+      "BaseType": "Paua Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":13.65,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Doedre's Damning",
+      "BaseType": "Paua Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Steel Ring": [
@@ -8000,7 +8723,9 @@
       "Name": "Demigod's Immortality",
       "BaseType": "Golden Visage",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Golden Flame": [
@@ -8022,6 +8747,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Cold Iron Point",
+      "BaseType": "Ezomyte Dagger",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -8119,6 +8852,14 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Replica Mistwall",
+      "BaseType": "Lacquered Buckler",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
     }
   ],
   "Fossilised Spirit Shield": [
@@ -8150,20 +8891,25 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
       "Name": "Disintegrator",
       "BaseType": "MaelstrÃ¶m Staff",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Taryn's Shiver",
       "BaseType": "MaelstrÃ¶m Staff",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Two-Toned Boots": [
@@ -8182,19 +8928,25 @@
       "Name": "First Piece of Brutality",
       "BaseType": "Imperial Staff Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Second Piece of Brutality",
       "BaseType": "Imperial Staff Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Third Piece of Brutality",
       "BaseType": "Imperial Staff Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Legion Sword Piece": [
@@ -8202,19 +8954,25 @@
       "Name": "Second Piece of the Arcane",
       "BaseType": "Legion Sword Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "First Piece of the Arcane",
       "BaseType": "Legion Sword Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     },
     {
       "Name": "Third Piece of the Arcane",
       "BaseType": "Legion Sword Piece",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Eelskin Gloves": [
@@ -8234,6 +8992,58 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Butcher Axe": [
+    {
+      "Name": "Actum",
+      "BaseType": "Butcher Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fluted Bascinet": [
+    {
+      "Name": "Crest of Desire",
+      "BaseType": "Fluted Bascinet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Crimson Round Shield": [
+    {
+      "Name": "Shattershard",
+      "BaseType": "Crimson Round Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Slink Gloves": [
+    {
+      "Name": "Mercenary's Lot",
+      "BaseType": "Slink Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Teak Round Shield": [
+    {
+      "Name": "The Ghastly Theatre",
+      "BaseType": "Teak Round Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ]

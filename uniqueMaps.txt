@@ -201,6 +201,12 @@
       "Aspects": [
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Replica Pillars of Arun",
+      "BaseType": "Dunes Map",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Strand Map": [
