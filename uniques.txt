@@ -4551,7 +4551,8 @@
       "BaseType": "Varnished Coat",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -5751,7 +5752,8 @@
       "BaseType": "Mirrored Spiked Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":10.33,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6238,7 +6240,8 @@
       "BaseType": "Golden Mask",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6863,7 +6866,8 @@
       "BaseType": "Leather Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":827.3,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -6871,7 +6875,8 @@
       "BaseType": "Leather Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7439,7 +7444,8 @@
       "BaseType": "Gold Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7620,7 +7626,8 @@
       "BaseType": "Lapis Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7793,6 +7800,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Bated Breath",
+      "BaseType": "Chain Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
     }
   ],
@@ -9023,7 +9038,8 @@
       "BaseType": "Crimson Round Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -9033,7 +9049,8 @@
       "BaseType": "Slink Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -9043,7 +9060,19 @@
       "BaseType": "Teak Round Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Bone Helmet": [
+    {
+      "Name": "Maw of Mischief",
+      "BaseType": "Bone Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}"
       ]
     }
   ]
