@@ -114,7 +114,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"AlchemyButtomAspect\"}"
       ]
     }
@@ -246,8 +245,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"SilverBottomAspect\"}"
       ]
     }
   ],
@@ -272,8 +271,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"SilverBottomAspect\"}"
       ]
     }
   ],
@@ -729,6 +728,54 @@
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}"
+      ]
+    }
+  ],
+  "Tempering Orb": [
+    {
+      "Name": "Tempering Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Tailoring Orb": [
+    {
+      "Name": "Tailoring Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Prime Regrading Lens": [
+    {
+      "Name": "Prime Regrading Lens",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Secondary Regrading Lens": [
+    {
+      "Name": "Secondary Regrading Lens",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
       ]
     }
   ]
