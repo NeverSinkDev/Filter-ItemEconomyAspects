@@ -2899,7 +2899,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2428.27,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}"
+        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     },
     {
