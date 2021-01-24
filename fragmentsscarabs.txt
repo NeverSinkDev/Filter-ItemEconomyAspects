@@ -417,7 +417,9 @@
       "Name": "Polished Metamorph Scarab",
       "BaseType": null,
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Rusted Metamorph Scarab": [
@@ -425,7 +427,9 @@
       "Name": "Rusted Metamorph Scarab",
       "BaseType": null,
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Craicic Lure": [
@@ -469,6 +473,146 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Reliquary Scarab": [
+    {
+      "Name": "Winged Reliquary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":35.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Divination Scarab": [
+    {
+      "Name": "Winged Divination Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":29.35,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Ambush Scarab": [
+    {
+      "Name": "Winged Ambush Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":22.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Legion Scarab": [
+    {
+      "Name": "Winged Legion Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Harbinger Scarab": [
+    {
+      "Name": "Winged Harbinger Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Sulphite Scarab": [
+    {
+      "Name": "Winged Sulphite Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":14.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Breach Scarab": [
+    {
+      "Name": "Winged Breach Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":14.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Cartography Scarab": [
+    {
+      "Name": "Winged Cartography Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Bestiary Scarab": [
+    {
+      "Name": "Winged Bestiary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Metamorph Scarab": [
+    {
+      "Name": "Winged Metamorph Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Perandus Scarab": [
+    {
+      "Name": "Winged Perandus Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Elder Scarab": [
+    {
+      "Name": "Winged Elder Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Torment Scarab": [
+    {
+      "Name": "Winged Torment Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Shaper Scarab": [
+    {
+      "Name": "Winged Shaper Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]

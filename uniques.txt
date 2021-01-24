@@ -2277,6 +2277,16 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Goblinedge",
+      "BaseType": "Ambusher",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}"
+      ]
     }
   ],
   "Throat Stabber": [
@@ -2971,6 +2981,16 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Doppelgänger Guise",
+      "BaseType": "Sadist Garb",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}"
       ]
     }
   ],
@@ -4983,6 +5003,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
+    },
+    {
+      "Name": "Hand of the Fervent",
+      "BaseType": "Zealot Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
     }
   ],
   "Cardinal Round Shield": [
@@ -5513,6 +5542,17 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Viridi's Veil",
+      "BaseType": "Praetor Crown",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     }
   ],
@@ -7765,6 +7805,15 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
       ]
+    },
+    {
+      "Name": "Rotblood Promise",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
     }
   ],
   "Chain Belt": [
@@ -7908,6 +7957,15 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Survivor's Guilt",
+      "BaseType": "Heavy Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
     }
   ],
@@ -8214,6 +8272,36 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Arn's Anguish",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Olesya's Delight",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Graven's Secret",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
       ]
     }
   ],
@@ -8570,6 +8658,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Blackflame",
+      "BaseType": "Amethyst Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -9090,6 +9186,48 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Ancient Skull",
+      "BaseType": "Bone Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
+      ]
+    }
+  ],
+  "Wyrmscale Boots": [
+    {
+      "Name": "Legacy of Fury",
+      "BaseType": "Wyrmscale Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonEventDropAspect\"}"
+      ]
+    }
+  ],
+  "Samnite Helmet": [
+    {
+      "Name": "Hrimnor's Resolve",
+      "BaseType": "Samnite Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Sovereign Spiked Shield": [
+    {
+      "Name": "Qotra's Regulator",
+      "BaseType": "Sovereign Spiked Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]

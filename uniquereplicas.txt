@@ -1,0 +1,819 @@
+{
+  "Maelström Staff": [
+    {
+      "Name": "Replica Duskdawn",
+      "BaseType": "Maelström Staff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Vaal Rapier": [
+    {
+      "Name": "Replica Paradoxica",
+      "BaseType": "Vaal Rapier",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Infernal Sword": [
+    {
+      "Name": "Replica Oro's Sacrifice",
+      "BaseType": "Infernal Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Siege Axe": [
+    {
+      "Name": "Replica Soul Taker",
+      "BaseType": "Siege Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Void Sceptre": [
+    {
+      "Name": "Replica Nebulis",
+      "BaseType": "Void Sceptre",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Terror Maul": [
+    {
+      "Name": "Replica Kongor's Undying Rage",
+      "BaseType": "Terror Maul",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Death Bow": [
+    {
+      "Name": "Replica Iron Commander",
+      "BaseType": "Death Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ezomyte Dagger": [
+    {
+      "Name": "Replica Cold Iron Point",
+      "BaseType": "Ezomyte Dagger",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Imperial Bow": [
+    {
+      "Name": "Replica Windripper",
+      "BaseType": "Imperial Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Great Mallet": [
+    {
+      "Name": "Replica Trypanon",
+      "BaseType": "Great Mallet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sage Wand": [
+    {
+      "Name": "Replica Twyzel",
+      "BaseType": "Sage Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Gnarled Branch": [
+    {
+      "Name": "Replica Fencoil",
+      "BaseType": "Gnarled Branch",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Blood Thorn",
+      "BaseType": "Gnarled Branch",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Engraved Wand": [
+    {
+      "Name": "Replica Midnight Bargain",
+      "BaseType": "Engraved Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Eternal Sword": [
+    {
+      "Name": "Replica Dreamfeather",
+      "BaseType": "Eternal Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ornate Mace": [
+    {
+      "Name": "Replica Frostbreath",
+      "BaseType": "Ornate Mace",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Tornado Wand": [
+    {
+      "Name": "Replica Tulfall",
+      "BaseType": "Tornado Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Elder Sword": [
+    {
+      "Name": "Replica Innsbury Edge",
+      "BaseType": "Elder Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Shadow Sceptre": [
+    {
+      "Name": "Replica Bitterdream",
+      "BaseType": "Shadow Sceptre",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Short Bow": [
+    {
+      "Name": "Replica Quill Rain",
+      "BaseType": "Short Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Vaal Claw": [
+    {
+      "Name": "Replica Allure",
+      "BaseType": "Vaal Claw",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Jasper Chopper": [
+    {
+      "Name": "Replica Harvest",
+      "BaseType": "Jasper Chopper",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "War Sword": [
+    {
+      "Name": "Replica Tempestuous Steel",
+      "BaseType": "War Sword",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Grinning Fetish": [
+    {
+      "Name": "Replica Earendel's Embrace",
+      "BaseType": "Grinning Fetish",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Royal Skean": [
+    {
+      "Name": "Replica Heartbreaker",
+      "BaseType": "Royal Skean",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ezomyte Axe": [
+    {
+      "Name": "Replica Wings of Entropy",
+      "BaseType": "Ezomyte Axe",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Decimation Bow": [
+    {
+      "Name": "Replica Infractem",
+      "BaseType": "Decimation Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Boot Knife": [
+    {
+      "Name": "Replica Ungil's Gauche",
+      "BaseType": "Boot Knife",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Nailed Fist": [
+    {
+      "Name": "Replica Last Resort",
+      "BaseType": "Nailed Fist",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Gut Ripper": [
+    {
+      "Name": "Replica Advancing Fortress",
+      "BaseType": "Gut Ripper",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Stiletto": [
+    {
+      "Name": "Replica Bloodplay",
+      "BaseType": "Stiletto",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sulphur Flask": [
+    {
+      "Name": "Replica Sorrow of the Divine",
+      "BaseType": "Sulphur Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Granite Flask": [
+    {
+      "Name": "Replica Rumi's Concoction",
+      "BaseType": "Granite Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sanctified Mana Flask": [
+    {
+      "Name": "Replica Lavianga's Spirit",
+      "BaseType": "Sanctified Mana Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Triumphant Lamellar": [
+    {
+      "Name": "Replica Farrul's Fur",
+      "BaseType": "Triumphant Lamellar",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Carnal Armour": [
+    {
+      "Name": "Replica Shroud of the Lightless",
+      "BaseType": "Carnal Armour",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1317.41,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Replica Restless Ward",
+      "BaseType": "Carnal Armour",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Blood Raiment": [
+    {
+      "Name": "Replica Eternity Shroud",
+      "BaseType": "Blood Raiment",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Soldier Boots": [
+    {
+      "Name": "Replica Alberon's Warpath",
+      "BaseType": "Soldier Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ornate Quiver": [
+    {
+      "Name": "Replica Maloney's Mechanism",
+      "BaseType": "Ornate Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sinner Tricorne": [
+    {
+      "Name": "Replica Alpha's Howl",
+      "BaseType": "Sinner Tricorne",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Arcanist Gloves": [
+    {
+      "Name": "Replica Grip of the Council",
+      "BaseType": "Arcanist Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Vaal Gauntlets": [
+    {
+      "Name": "Replica Atziri's Acuity",
+      "BaseType": "Vaal Gauntlets",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Titan Greaves": [
+    {
+      "Name": "Replica Red Trail",
+      "BaseType": "Titan Greaves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Elegant Ringmail": [
+    {
+      "Name": "Replica Loreweave",
+      "BaseType": "Elegant Ringmail",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Lacquered Buckler": [
+    {
+      "Name": "Replica Mistwall",
+      "BaseType": "Lacquered Buckler",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Great Crown": [
+    {
+      "Name": "Replica Forbidden Shako",
+      "BaseType": "Great Crown",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Glorious Plate": [
+    {
+      "Name": "Replica Kaom's Heart",
+      "BaseType": "Glorious Plate",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Assassin's Boots": [
+    {
+      "Name": "Replica Stampede",
+      "BaseType": "Assassin's Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Murder Boots": [
+    {
+      "Name": "Replica Voidwalker",
+      "BaseType": "Murder Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ezomyte Burgonet": [
+    {
+      "Name": "Replica Abyssus",
+      "BaseType": "Ezomyte Burgonet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ebony Tower Shield": [
+    {
+      "Name": "Replica Tukohama's Fortress",
+      "BaseType": "Ebony Tower Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Zodiac Leather": [
+    {
+      "Name": "Replica Perfect Form",
+      "BaseType": "Zodiac Leather",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Arcanist Slippers": [
+    {
+      "Name": "Replica Inya's Epiphany",
+      "BaseType": "Arcanist Slippers",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Zealot Gloves": [
+    {
+      "Name": "Replica Volkuur's Guidance",
+      "BaseType": "Zealot Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Laminated Kite Shield": [
+    {
+      "Name": "Replica Victario's Charity",
+      "BaseType": "Laminated Kite Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Bronzescale Boots": [
+    {
+      "Name": "Replica Lioneye's Paws",
+      "BaseType": "Bronzescale Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Crusader Chainmail": [
+    {
+      "Name": "Replica Ambu's Charge",
+      "BaseType": "Crusader Chainmail",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Silk Slippers": [
+    {
+      "Name": "Replica Bones of Ullr",
+      "BaseType": "Silk Slippers",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Samite Gloves": [
+    {
+      "Name": "Replica Kalisa's Grace",
+      "BaseType": "Samite Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Shagreen Boots": [
+    {
+      "Name": "Replica Three-step Assault",
+      "BaseType": "Shagreen Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Festival Mask": [
+    {
+      "Name": "Replica Leer Cast",
+      "BaseType": "Festival Mask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Spike-Point Arrow Quiver": [
+    {
+      "Name": "Replica Soul Strike",
+      "BaseType": "Spike-Point Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Great Helmet": [
+    {
+      "Name": "Replica Veil of the Night",
+      "BaseType": "Great Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sorcerer Gloves": [
+    {
+      "Name": "Replica Allelopathy",
+      "BaseType": "Sorcerer Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Leather Belt": [
+    {
+      "Name": "Replica Headhunter",
+      "BaseType": "Leather Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":827.3,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Cloth Belt": [
+    {
+      "Name": "Replica Soul Tether",
+      "BaseType": "Cloth Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Jade Amulet": [
+    {
+      "Name": "Replica Hyrri's Truth",
+      "BaseType": "Jade Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Karui Ward",
+      "BaseType": "Jade Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Unset Ring": [
+    {
+      "Name": "Replica Malachai's Artifice",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Replica Voideye",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Sapphire Ring": [
+    {
+      "Name": "Replica Tasalio's Sign",
+      "BaseType": "Sapphire Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Chain Belt": [
+    {
+      "Name": "Replica Bated Breath",
+      "BaseType": "Chain Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Paua Amulet": [
+    {
+      "Name": "Replica Atziri's Foible",
+      "BaseType": "Paua Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Ruby Ring": [
+    {
+      "Name": "Replica Emberwake",
+      "BaseType": "Ruby Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Gold Amulet": [
+    {
+      "Name": "Replica Winterheart",
+      "BaseType": "Gold Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Heavy Belt": [
+    {
+      "Name": "Replica Siegebreaker",
+      "BaseType": "Heavy Belt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Rustic Sash": [
+    {
+      "Name": "Replica Prismweave",
+      "BaseType": "Rustic Sash",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    }
+  ],
+  "Paua Ring": [
+    {
+      "Name": "Replica Doedre's Damning",
+      "BaseType": "Paua Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Relic Chambers Map": [
+    {
+      "Name": "Replica Cortex",
+      "BaseType": "Relic Chambers Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Temple Map": [
+    {
+      "Name": "Replica Poorjoy's Asylum",
+      "BaseType": "Temple Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Dunes Map": [
+    {
+      "Name": "Replica Pillars of Arun",
+      "BaseType": "Dunes Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ]
+}

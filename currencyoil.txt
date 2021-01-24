@@ -122,5 +122,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
+  ],
+  "Indigo Oil": [
+    {
+      "Name": "Indigo Oil",
+      "BaseType": "Indigo Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
   ]
 }

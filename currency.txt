@@ -824,5 +824,53 @@
       "Special": null,
       "Aspects": []
     }
+  ],
+  "Maven's Orb": [
+    {
+      "Name": "Maven's Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Elevated Sextant": [
+    {
+      "Name": "Elevated Sextant",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Orb of Unmaking": [
+    {
+      "Name": "Orb of Unmaking",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    }
+  ],
+  "Ritual Vessel": [
+    {
+      "Name": "Ritual Vessel",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"AlchemyButtomAspect\"}"
+      ]
+    }
   ]
 }
