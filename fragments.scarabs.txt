@@ -1,0 +1,619 @@
+{
+  "Gilded Sulphite Scarab": [
+    {
+      "Name": "Gilded Sulphite Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":65.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Bestiary Scarab": [
+    {
+      "Name": "Gilded Bestiary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":60.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Sulphite Scarab": [
+    {
+      "Name": "Polished Sulphite Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":48.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Sulphite Scarab": [
+    {
+      "Name": "Rusted Sulphite Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Divination Scarab": [
+    {
+      "Name": "Gilded Divination Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Bestiary Scarab": [
+    {
+      "Name": "Polished Bestiary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":38.29,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Perandus Scarab": [
+    {
+      "Name": "Gilded Perandus Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Ambush Scarab": [
+    {
+      "Name": "Gilded Ambush Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":19.93,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Divination Scarab": [
+    {
+      "Name": "Polished Divination Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":18.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Cartography Scarab": [
+    {
+      "Name": "Gilded Cartography Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":17.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Harbinger Scarab": [
+    {
+      "Name": "Gilded Harbinger Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Torment Scarab": [
+    {
+      "Name": "Gilded Torment Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Perandus Scarab": [
+    {
+      "Name": "Polished Perandus Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Breach Scarab": [
+    {
+      "Name": "Gilded Breach Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Ambush Scarab": [
+    {
+      "Name": "Polished Ambush Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Bestiary Scarab": [
+    {
+      "Name": "Rusted Bestiary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":6.03,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Cartography Scarab": [
+    {
+      "Name": "Polished Cartography Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Harbinger Scarab": [
+    {
+      "Name": "Polished Harbinger Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Elder Scarab": [
+    {
+      "Name": "Gilded Elder Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Cartography Scarab": [
+    {
+      "Name": "Rusted Cartography Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Divination Scarab": [
+    {
+      "Name": "Rusted Divination Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Perandus Scarab": [
+    {
+      "Name": "Rusted Perandus Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Shaper Scarab": [
+    {
+      "Name": "Gilded Shaper Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Reliquary Scarab": [
+    {
+      "Name": "Gilded Reliquary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Ambush Scarab": [
+    {
+      "Name": "Rusted Ambush Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Harbinger Scarab": [
+    {
+      "Name": "Rusted Harbinger Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Breach Scarab": [
+    {
+      "Name": "Polished Breach Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Torment Scarab": [
+    {
+      "Name": "Polished Torment Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":1.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Elder Scarab": [
+    {
+      "Name": "Polished Elder Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Reliquary Scarab": [
+    {
+      "Name": "Polished Reliquary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Torment Scarab": [
+    {
+      "Name": "Rusted Torment Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Reliquary Scarab": [
+    {
+      "Name": "Rusted Reliquary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Elder Scarab": [
+    {
+      "Name": "Rusted Elder Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Breach Scarab": [
+    {
+      "Name": "Rusted Breach Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Shaper Scarab": [
+    {
+      "Name": "Rusted Shaper Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Shaper Scarab": [
+    {
+      "Name": "Polished Shaper Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Legion Scarab": [
+    {
+      "Name": "Gilded Legion Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Legion Scarab": [
+    {
+      "Name": "Polished Legion Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Legion Scarab": [
+    {
+      "Name": "Rusted Legion Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Gilded Metamorph Scarab": [
+    {
+      "Name": "Gilded Metamorph Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polished Metamorph Scarab": [
+    {
+      "Name": "Polished Metamorph Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Rusted Metamorph Scarab": [
+    {
+      "Name": "Rusted Metamorph Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Craicic Lure": [
+    {
+      "Name": "Craicic Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fenumal Lure": [
+    {
+      "Name": "Fenumal Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Saqawine Lure": [
+    {
+      "Name": "Saqawine Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Farric Lure": [
+    {
+      "Name": "Farric Lure",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Reliquary Scarab": [
+    {
+      "Name": "Winged Reliquary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":35.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Divination Scarab": [
+    {
+      "Name": "Winged Divination Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":29.35,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Ambush Scarab": [
+    {
+      "Name": "Winged Ambush Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":22.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Legion Scarab": [
+    {
+      "Name": "Winged Legion Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Harbinger Scarab": [
+    {
+      "Name": "Winged Harbinger Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Sulphite Scarab": [
+    {
+      "Name": "Winged Sulphite Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":14.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Breach Scarab": [
+    {
+      "Name": "Winged Breach Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":14.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Cartography Scarab": [
+    {
+      "Name": "Winged Cartography Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Bestiary Scarab": [
+    {
+      "Name": "Winged Bestiary Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Metamorph Scarab": [
+    {
+      "Name": "Winged Metamorph Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Perandus Scarab": [
+    {
+      "Name": "Winged Perandus Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Elder Scarab": [
+    {
+      "Name": "Winged Elder Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Torment Scarab": [
+    {
+      "Name": "Winged Torment Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Winged Shaper Scarab": [
+    {
+      "Name": "Winged Shaper Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ]
+}
