@@ -4113,5 +4113,153 @@
         "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\"}"
       ]
     }
+  ],
+  "Deadly Joy": [
+    {
+      "Name": "Deadly Joy",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+      ]
+    }
+  ],
+  "Luminous Trove": [
+    {
+      "Name": "Luminous Trove",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Winter's Embrace": [
+    {
+      "Name": "Winter's Embrace",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "The Eternal War": [
+    {
+      "Name": "The Eternal War",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Broken Promises": [
+    {
+      "Name": "Broken Promises",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Enthusiasts": [
+    {
+      "Name": "The Enthusiasts",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Hook": [
+    {
+      "Name": "The Hook",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "A Modest Request": [
+    {
+      "Name": "A Modest Request",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Brush, Paint and Palette": [
+    {
+      "Name": "Brush, Paint and Palette",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Shortcut": [
+    {
+      "Name": "The Shortcut",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Prejudice": [
+    {
+      "Name": "Prejudice",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "The Adventuring Spirit": [
+    {
+      "Name": "The Adventuring Spirit",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Card Sharp": [
+    {
+      "Name": "The Card Sharp",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}"
+      ]
+    }
+  ],
+  "Sambodhi's Wisdom": [
+    {
+      "Name": "Sambodhi's Wisdom",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
   ]
 }

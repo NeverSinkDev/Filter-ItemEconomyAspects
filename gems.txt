@@ -924,7 +924,9 @@
       "Name": "Blood Magic Support",
       "BaseType": null,
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Animate Weapon": [
@@ -1964,6 +1966,12 @@
       "Name": "Magma Orb",
       "BaseType": null,
       "Special": "21/20c",
+      "Aspects": []
+    },
+    {
+      "Name": "Magma Orb",
+      "BaseType": "Magma Orb",
+      "Special": null,
       "Aspects": []
     }
   ],
@@ -3540,6 +3548,30 @@
       "Name": "Detonate Mines",
       "BaseType": null,
       "Special": "1",
+      "Aspects": []
+    }
+  ],
+  "Rolling Magma": [
+    {
+      "Name": "Rolling Magma",
+      "BaseType": null,
+      "Special": "20/23c",
+      "Aspects": []
+    }
+  ],
+  "Trinity Support": [
+    {
+      "Name": "Trinity Support",
+      "BaseType": null,
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Hydrosphere": [
+    {
+      "Name": "Hydrosphere",
+      "BaseType": null,
+      "Special": "21/20c",
       "Aspects": []
     }
   ]

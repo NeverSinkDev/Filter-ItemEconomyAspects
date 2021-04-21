@@ -267,6 +267,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Yaomac's Accord",
+      "BaseType": "Vaal Sceptre",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Infernal Sword": [
@@ -334,6 +342,14 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Atziri's Rule",
+      "BaseType": "Judgement Staff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Midnight Blade": [
@@ -376,6 +392,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":16.89,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Story of the Vaal",
+      "BaseType": "Gemstone Sword",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Jewelled Foil": [
@@ -1399,6 +1421,14 @@
         "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyMaterialAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Relic of the Pact",
+      "BaseType": "Spiraled Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Hellion's Paw": [
@@ -1857,7 +1887,8 @@
       "BaseType": "Rock Breaker",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2361,7 +2392,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2432,6 +2464,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Cane of Kulemak",
+      "BaseType": "Serpentine Staff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2572,6 +2612,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Searing Touch",
+      "BaseType": "Long Staff",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Awl": [
@@ -2867,7 +2913,8 @@
       "BaseType": "Hallowed Hybrid Flask",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -3090,6 +3137,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Apep's Slumber",
+      "BaseType": "Vaal Spirit Shield",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Occultist's Vestment": [
@@ -3441,6 +3494,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"BossDropAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Mask of the Spirit Drinker",
+      "BaseType": "Magistrate Crown",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Callous Mask": [
@@ -3571,6 +3630,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Architect's Hand",
+      "BaseType": "Ambush Mitts",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Widowsilk Robe": [
@@ -3621,6 +3686,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Dance of the Offered",
+      "BaseType": "Carnal Boots",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Ornate Quiver": [
@@ -4705,6 +4776,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Hateforge",
+      "BaseType": "Ancient Gauntlets",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Thorium Spirit Shield": [
@@ -5781,7 +5860,8 @@
       "BaseType": "Conjurer Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6111,6 +6191,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Steelworm",
+      "BaseType": "Broadhead Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -6559,6 +6647,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Scales of Justice",
+      "BaseType": "Chiming Spirit Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Shagreen Boots": [
@@ -6576,6 +6672,14 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"Type\":1,\"Name\":\"ReplicaAspect\"}"
+      ]
+    },
+    {
+      "Name": "Temptation Step",
+      "BaseType": "Shagreen Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -7814,6 +7918,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"LeagueDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Triumvirate Authority",
+      "BaseType": "Unset Ring",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Chain Belt": [
@@ -8924,7 +9034,8 @@
       "BaseType": "Mesh Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -9119,6 +9230,14 @@
   "Steel Kite Shield": [
     {
       "Name": "Emperor's Vigilance",
+      "BaseType": "Steel Kite Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Mahuxotl's Machination",
       "BaseType": "Steel Kite Shield",
       "Special": null,
       "Aspects": [

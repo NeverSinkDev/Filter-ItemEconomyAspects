@@ -202,8 +202,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":4.89,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
       ]
     }
   ],
@@ -260,8 +259,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
       ]
     }
   ],
@@ -273,8 +271,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}"
       ]
     }
   ],
@@ -286,8 +283,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":2.93,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"LastInChainProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TimelessProphecyAspect\"}"
       ]
     }
   ],
@@ -546,6 +542,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Day of Sacrifice III",
+      "BaseType": "Day of Sacrifice III",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Day of Sacrifice IV": [
@@ -663,6 +667,15 @@
     {
       "Name": "Path of Betrayal",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"CheapProphecyAspect\"}"
+      ]
+    },
+    {
+      "Name": "Path of Betrayal",
+      "BaseType": "Path of Betrayal",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1790,6 +1803,15 @@
     {
       "Name": "Echoes of Witchcraft",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":0.61,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"CheapProphecyAspect\"}"
+      ]
+    },
+    {
+      "Name": "Echoes of Witchcraft",
+      "BaseType": "Echoes of Witchcraft",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-07-12T11:51:01.4808765+02:00\",\"HanadlingPrice\":0.61,\"Name\":\"HandledAspect\",\"Type\":0}",

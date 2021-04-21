@@ -132,5 +132,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
+  ],
+  "Tainted Oil": [
+    {
+      "Name": "Tainted Oil",
+      "BaseType": "Tainted Oil",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
   ]
 }
