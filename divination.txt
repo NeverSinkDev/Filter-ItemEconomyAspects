@@ -1251,7 +1251,8 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\"}"
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],

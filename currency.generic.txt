@@ -623,6 +623,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Scroll of Wisdom",
+      "BaseType": "Scroll of Wisdom",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Hunter's Exalted Orb": [
