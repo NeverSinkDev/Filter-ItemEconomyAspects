@@ -4139,7 +4139,10 @@
       "Name": "Luminous Trove",
       "BaseType": null,
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+      ]
     }
   ],
   "Winter's Embrace": [
@@ -4271,6 +4274,132 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\"}"
+      ]
+    }
+  ],
+  "The Offspring": [
+    {
+      "Name": "The Offspring",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Dementophobia": [
+    {
+      "Name": "Dementophobia",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Ambitious Obsession": [
+    {
+      "Name": "Ambitious Obsession",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Lachrymal Necrosis": [
+    {
+      "Name": "Lachrymal Necrosis",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Mind's Eyes": [
+    {
+      "Name": "The Mind's Eyes",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Terrible Secret of Space": [
+    {
+      "Name": "Terrible Secret of Space",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Price of Prescience": [
+    {
+      "Name": "The Price of Prescience",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Emptiness": [
+    {
+      "Name": "The Emptiness",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Costly Curio": [
+    {
+      "Name": "Costly Curio",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "The Last Supper": [
+    {
+      "Name": "The Last Supper",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "A Sea of Blue": [
+    {
+      "Name": "A Sea of Blue",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Blessing of Moosh": [
+    {
+      "Name": "The Blessing of Moosh",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
       ]
     }
   ]

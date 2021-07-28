@@ -2595,7 +2595,9 @@
       "Name": "The Searing Touch",
       "BaseType": "Long Staff",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Awl": [
@@ -9218,7 +9220,113 @@
       "Name": "Demigod's Authority",
       "BaseType": "Golden Blade",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Iron Flask": [
+    {
+      "Name": "Olroth's Resolve",
+      "BaseType": "Iron Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":198.36,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Starlight Chalice",
+      "BaseType": "Iron Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":123.58,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Vorana's Preparation",
+      "BaseType": "Iron Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    },
+    {
+      "Name": "Elixir of the Unbroken Circle",
+      "BaseType": "Iron Flask",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Crown": [
+    {
+      "Name": "Cadigan's Crown",
+      "BaseType": "Runic Crown",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":166.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Sabatons": [
+    {
+      "Name": "Vorana's March",
+      "BaseType": "Runic Sabatons",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":23.92,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Sollerets": [
+    {
+      "Name": "Olroth's Charge",
+      "BaseType": "Runic Sollerets",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Helm": [
+    {
+      "Name": "Faithguard",
+      "BaseType": "Runic Helm",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Gages": [
+    {
+      "Name": "Nightgrip",
+      "BaseType": "Runic Gages",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Runic Gauntlets": [
+    {
+      "Name": "Medved's Challenge",
+      "BaseType": "Runic Gauntlets",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
     }
   ]
 }
