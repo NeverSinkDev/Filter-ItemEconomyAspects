@@ -222,7 +222,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -239,8 +240,7 @@
       "BaseType": "Vaal Axe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -1068,8 +1068,7 @@
       "BaseType": "Tornado Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -1866,8 +1865,7 @@
       "BaseType": "Rock Breaker",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -1993,8 +1991,7 @@
       "BaseType": "Karui Chopper",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2116,7 +2113,8 @@
       "BaseType": "Demon's Horn",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2225,7 +2223,8 @@
       "BaseType": "Military Staff",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -2408,7 +2407,8 @@
       "BaseType": "Vaal Hatchet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -3642,7 +3642,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -4666,7 +4667,8 @@
       "BaseType": "Stealth Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -4686,7 +4688,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -4767,7 +4770,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -5116,7 +5120,8 @@
       "BaseType": "Mind Cage",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -5803,7 +5808,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -6204,7 +6210,8 @@
       "BaseType": "Assassin's Mitts",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -7538,7 +7545,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
@@ -8953,7 +8961,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     },
     {
