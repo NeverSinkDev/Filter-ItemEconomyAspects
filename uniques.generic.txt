@@ -4793,6 +4793,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
+    },
+    {
+      "Name": "Gravebind",
+      "BaseType": "Hydrascale Gauntlets",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Raven Mask": [
@@ -7968,6 +7974,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
       ]
+    },
+    {
+      "Name": "Mageblood",
+      "BaseType": "Heavy Belt",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Gold Amulet": [
@@ -9342,6 +9354,37 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-08-01T21:09:57.9746272+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Elegant Round Shield": [
+    {
+      "Name": "The Squire",
+      "BaseType": "Elegant Round Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Oppressor",
+      "BaseType": "Elegant Round Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Unset Amulet": [
+    {
+      "Name": "Uul-Netol's Vow",
+      "BaseType": "Unset Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ]

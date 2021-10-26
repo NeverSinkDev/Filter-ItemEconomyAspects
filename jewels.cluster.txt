@@ -4,9 +4,7 @@
       "Name": "Aura Effect",
       "BaseType": "Medium Cluster Jewel:Aura Effect",
       "Special": "6 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9378399+02:00\",\"HanadlingPrice\":720.12,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Large Cluster Jewel:Minion Damage": [
@@ -44,9 +42,7 @@
       "Name": "Damage over Time Multiplier",
       "BaseType": "Medium Cluster Jewel:Damage over Time Multiplier",
       "Special": "4 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9378399+02:00\",\"HanadlingPrice\":170.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Large Cluster Jewel:Mace and Staff Damage": [
@@ -174,9 +170,7 @@
       "Name": "Chaos Damage over Time Multiplier",
       "BaseType": "Medium Cluster Jewel:Chaos Damage over Time Multiplier",
       "Special": "4 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Medium Cluster Jewel:Flask Duration": [
@@ -224,9 +218,7 @@
       "Name": "Curse Effect",
       "BaseType": "Medium Cluster Jewel:Curse Effect",
       "Special": "4 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Medium Cluster Jewel:Effect of Non-Damaging Ailments": [
@@ -354,9 +346,7 @@
       "Name": "Chance to Dodge Attacks",
       "BaseType": "Small Cluster Jewel:Chance to Dodge Attacks",
       "Special": "3 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Medium Cluster Jewel:Cold Damage over Time Multiplier": [
@@ -364,9 +354,7 @@
       "Name": "Cold Damage over Time Multiplier",
       "BaseType": "Medium Cluster Jewel:Cold Damage over Time Multiplier",
       "Special": "5 passives",
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Medium Cluster Jewel:Trap and Mine Damage": [
@@ -456,6 +444,76 @@
       "Special": "2 passives",
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Large Cluster Jewel:Attack Damage while holding a Shield": [
+    {
+      "Name": "Attack Damage while holding a Shield",
+      "BaseType": "Large Cluster Jewel:Attack Damage while holding a Shield",
+      "Special": "12",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Medium Cluster Jewel:Damage over Time": [
+    {
+      "Name": "Damage over Time",
+      "BaseType": "Medium Cluster Jewel:Damage over Time",
+      "Special": "4",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Medium Cluster Jewel:Fire Damage over Time": [
+    {
+      "Name": "Fire Damage over Time",
+      "BaseType": "Medium Cluster Jewel:Fire Damage over Time",
+      "Special": "4",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Small Cluster Jewel:Curse Effect": [
+    {
+      "Name": "Curse Effect",
+      "BaseType": "Small Cluster Jewel:Curse Effect",
+      "Special": "2",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Small Cluster Jewel:Reservation Efficiency": [
+    {
+      "Name": "Reservation Efficiency",
+      "BaseType": "Small Cluster Jewel:Reservation Efficiency",
+      "Special": "2",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Large Cluster Jewel:Attack Damage while Dual Wielding": [
+    {
+      "Name": "Attack Damage while Dual Wielding",
+      "BaseType": "Large Cluster Jewel:Attack Damage while Dual Wielding",
+      "Special": "12",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Small Cluster Jewel:Suppres": [
+    {
+      "Name": "Suppres",
+      "BaseType": "Small Cluster Jewel:Suppres",
+      "Special": "2",
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]
