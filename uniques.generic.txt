@@ -3277,6 +3277,17 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Stasis Prison",
+      "BaseType": "Carnal Armour",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
     }
   ],
   "Sorcerer Boots": [
@@ -4798,7 +4809,10 @@
       "Name": "Gravebind",
       "BaseType": "Hydrascale Gauntlets",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
+      ]
     }
   ],
   "Raven Mask": [
@@ -7216,6 +7230,16 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Stranglegasp",
+      "BaseType": "Onyx Amulet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
