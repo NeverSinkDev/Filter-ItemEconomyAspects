@@ -832,10 +832,7 @@
       "Name": "MjÃ¶lner",
       "BaseType": "Gavel",
       "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Crude Bow": [
@@ -7803,7 +7800,6 @@
       "BaseType": "Unset Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -9263,7 +9259,8 @@
       "BaseType": "Golden Blade",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
       ]
     }
   ],
