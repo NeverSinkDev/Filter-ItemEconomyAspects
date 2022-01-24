@@ -472,7 +472,6 @@
       "BaseType": "Long Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":11.97,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -492,7 +491,6 @@
       "BaseType": "Death Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -652,8 +650,7 @@
       "BaseType": "Iron Staff",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -688,7 +685,6 @@
       "BaseType": "Rusted Sword",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -738,8 +734,7 @@
       "BaseType": "Jade Hatchet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.97,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -758,8 +753,7 @@
       "BaseType": "Reaver Sword",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.23,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -786,7 +780,6 @@
       "BaseType": "Royal Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -815,8 +808,7 @@
       "BaseType": "Gavel",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":3.95,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -841,8 +833,7 @@
       "BaseType": "Crude Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -871,7 +862,6 @@
       "BaseType": "Woodsplitter",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -891,8 +881,7 @@
       "BaseType": "Crystal Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -979,7 +968,6 @@
       "BaseType": "Ornate Sword",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -1106,8 +1094,7 @@
       "BaseType": "Cleaver",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":2.83,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}"
       ]
     },
     {
@@ -1173,8 +1160,7 @@
       "BaseType": "Great Mallet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -1245,8 +1231,7 @@
       "BaseType": "Skinning Knife",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.79,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -1276,8 +1261,7 @@
       "BaseType": "Royal Staff",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -1296,8 +1280,7 @@
       "BaseType": "Sledgehammer",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.14,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -1316,8 +1299,8 @@
       "BaseType": "Gnarled Branch",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.13,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.13,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
       ]
     },
     {
@@ -1380,7 +1363,6 @@
       "BaseType": "Spiraled Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -1670,7 +1652,6 @@
       "BaseType": "Brass Maul",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -1690,8 +1671,7 @@
       "BaseType": "Jagged Maul",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -2937,8 +2917,7 @@
       "BaseType": "Golden Buckler",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyMaterialAspect\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     }
   ],
@@ -3395,8 +3374,7 @@
       "BaseType": "Great Crown",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":4.73,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
       ]
     },
     {
@@ -3783,8 +3761,7 @@
       "BaseType": "Reinforced Greaves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -3863,7 +3840,6 @@
       "BaseType": "Leather Hood",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":18.47,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4017,7 +3993,6 @@
       "BaseType": "Tarnished Spirit Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":13.53,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4074,8 +4049,7 @@
       "BaseType": "Velvet Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":10.61,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -4153,7 +4127,6 @@
       "BaseType": "Iron Mask",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4193,8 +4166,7 @@
       "BaseType": "Crusader Plate",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4211,7 +4183,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyMaterialAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -4303,7 +4275,6 @@
       "BaseType": "Iron Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4331,7 +4302,6 @@
       "BaseType": "Sharktooth Arrow Quiver",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4391,8 +4361,7 @@
       "BaseType": "Fire Arrow Quiver",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4411,7 +4380,6 @@
       "BaseType": "Goathide Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -4528,8 +4496,7 @@
       "BaseType": "Plank Kite Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4548,8 +4515,7 @@
       "BaseType": "Clasped Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4616,8 +4582,7 @@
       "BaseType": "Gilded Sallet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4707,8 +4672,7 @@
       "BaseType": "Plate Vest",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4912,8 +4876,7 @@
       "BaseType": "Vine Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -4932,8 +4895,7 @@
       "BaseType": "Scholar Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5068,8 +5030,7 @@
       "BaseType": "Velvet Slippers",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5088,8 +5049,7 @@
       "BaseType": "Wild Leather",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5224,8 +5184,7 @@
       "BaseType": "Serrated Arrow Quiver",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5263,8 +5222,7 @@
       "BaseType": "Iron Hat",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5311,8 +5269,7 @@
       "BaseType": "Painted Buckler",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5462,8 +5419,7 @@
       "BaseType": "War Buckler",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5596,8 +5552,7 @@
       "BaseType": "Ironscale Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -5616,8 +5571,7 @@
       "BaseType": "Latticed Ringmail",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -5647,7 +5601,6 @@
       "BaseType": "Strapped Leather",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -7056,8 +7009,7 @@
       "BaseType": "Jade Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -8026,8 +7978,7 @@
       "BaseType": "Gold Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":3.51,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -8124,8 +8075,7 @@
       "BaseType": "Moonstone Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":6.29,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
@@ -8171,8 +8121,7 @@
       "BaseType": "Coral Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
     {
@@ -8379,7 +8328,6 @@
       "BaseType": "Studded Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -8388,7 +8336,6 @@
       "BaseType": "Studded Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":6.22,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     },
@@ -8546,8 +8493,7 @@
       "BaseType": "Iron Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"ProphecyResultAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
       ]
     },
     {
