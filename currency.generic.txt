@@ -232,8 +232,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.17,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableCurrencyAspect\"}"
       ]
     }
   ],
@@ -423,18 +423,12 @@
       ]
     }
   ],
-  "Silver Coin": [
+  "Eternal Orb": [
     {
-      "Name": "Silver Coin",
+      "Name": "Eternal Orb",
       "BaseType": null,
       "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"StackedCurrencyAspect\"}"
-      ]
+      "Aspects": []
     }
   ],
   "Splinter of Tul": [
@@ -623,6 +617,14 @@
     {
       "Name": "Portal Scroll",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Portal Scroll",
+      "BaseType": "Portal Scroll",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"Type\":0}"

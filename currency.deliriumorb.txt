@@ -159,16 +159,6 @@
       ]
     }
   ],
-  "Portentous Delirium Orb": [
-    {
-      "Name": "Portentous Delirium Orb",
-      "BaseType": "Portentous Delirium Orb",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
   "Primal Delirium Orb": [
     {
       "Name": "Primal Delirium Orb",
