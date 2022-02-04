@@ -409,19 +409,6 @@
       ]
     }
   ],
-  "Inya's Key": [
-    {
-      "Name": "Inya's Key",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.69,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
-      ]
-    }
-  ],
   "Mortal Ignorance": [
     {
       "Name": "Mortal Ignorance",
@@ -446,32 +433,6 @@
       ]
     }
   ],
-  "Yriel's Key": [
-    {
-      "Name": "Yriel's Key",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":9.13,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Volkuur's Key": [
-    {
-      "Name": "Volkuur's Key",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":8.34,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
-      ]
-    }
-  ],
   "Mortal Hope": [
     {
       "Name": "Mortal Hope",
@@ -479,18 +440,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.72,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Eber's Key": [
-    {
-      "Name": "Eber's Key",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.11,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
