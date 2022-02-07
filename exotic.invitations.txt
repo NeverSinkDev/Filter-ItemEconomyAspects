@@ -48,5 +48,63 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
+  ],
+  "Maven's Invitation: The Elderslayers": [
+    {
+      "Name": "Maven's Invitation: The Elderslayers",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Screaming Invitation": [
+    {
+      "Name": "Screaming Invitation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Incandescent Invitation": [
+    {
+      "Name": "Incandescent Invitation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Polaric Invitation": [
+    {
+      "Name": "Polaric Invitation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Maven's Invitation: The Atlas": [
+    {
+      "Name": "Maven's Invitation: The Atlas",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Writhing Invitation": [
+    {
+      "Name": "Writhing Invitation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
   ]
 }

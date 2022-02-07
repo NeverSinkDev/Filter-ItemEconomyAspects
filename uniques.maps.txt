@@ -287,5 +287,57 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":44.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
+  ],
+  "Synthesised Map": [
+    {
+      "Name": "Cortex",
+      "BaseType": "Synthesised Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Altered Distant Memory",
+      "BaseType": "Synthesised Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Twisted Distant Memory",
+      "BaseType": "Synthesised Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Rewritten Distant Memory",
+      "BaseType": "Synthesised Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Haunted Mansion Map": [
+    {
+      "Name": "Augmented Distant Memory",
+      "BaseType": "Haunted Mansion Map",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Primordial Blocks Map": [
+    {
+      "Name": "Oba's Cursed Trove",
+      "BaseType": "Primordial Blocks Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
   ]
 }

@@ -429,6 +429,12 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Eternal Orb",
+      "BaseType": "Eternal Orb",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Splinter of Tul": [
@@ -994,12 +1000,34 @@
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
       ]
+    },
+    {
+      "Name": "Tainted Divine Teardrop",
+      "BaseType": "Tainted Divine Teardrop",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+      ]
     }
   ],
   "Tainted Mythic Orb": [
     {
       "Name": "Tainted Mythic Orb",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    },
+    {
+      "Name": "Tainted Mythic Orb",
+      "BaseType": "Tainted Mythic Orb",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1031,12 +1059,34 @@
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
       ]
+    },
+    {
+      "Name": "Tainted Orb of Fusing",
+      "BaseType": "Tainted Orb of Fusing",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+      ]
     }
   ],
   "Tainted Exalted Orb": [
     {
       "Name": "Tainted Exalted Orb",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+      ]
+    },
+    {
+      "Name": "Tainted Exalted Orb",
+      "BaseType": "Tainted Exalted Orb",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1068,12 +1118,34 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
       ]
+    },
+    {
+      "Name": "Tainted Chromatic Orb",
+      "BaseType": "Tainted Chromatic Orb",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+      ]
     }
   ],
   "Tainted Chaos Orb": [
     {
       "Name": "Tainted Chaos Orb",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+      ]
+    },
+    {
+      "Name": "Tainted Chaos Orb",
+      "BaseType": "Tainted Chaos Orb",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1107,6 +1179,17 @@
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
       ]
+    },
+    {
+      "Name": "Tainted Blacksmith's Whetstone",
+      "BaseType": "Tainted Blacksmith's Whetstone",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+      ]
     }
   ],
   "Tainted Jeweller's Orb": [
@@ -1120,12 +1203,34 @@
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
       ]
+    },
+    {
+      "Name": "Tainted Jeweller's Orb",
+      "BaseType": "Tainted Jeweller's Orb",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+      ]
     }
   ],
   "Tainted Armourer's Scrap": [
     {
       "Name": "Tainted Armourer's Scrap",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+      ]
+    },
+    {
+      "Name": "Tainted Armourer's Scrap",
+      "BaseType": "Tainted Armourer's Scrap",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1247,6 +1352,175 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
+    }
+  ],
+  "Orb of Dominance": [
+    {
+      "Name": "Orb of Dominance",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Eldritch Chaos Orb": [
+    {
+      "Name": "Eldritch Chaos Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
+    }
+  ],
+  "Orb of Conflict": [
+    {
+      "Name": "Orb of Conflict",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Charged Compass": [
+    {
+      "Name": "Charged Compass",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Eldritch Exalted Orb": [
+    {
+      "Name": "Eldritch Exalted Orb",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
+    }
+  ],
+  "Grand Eldritch Ember": [
+    {
+      "Name": "Grand Eldritch Ember",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Oil Extractor": [
+    {
+      "Name": "Oil Extractor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
+    }
+  ],
+  "Exceptional Eldritch Ember": [
+    {
+      "Name": "Exceptional Eldritch Ember",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Eldritch Orb of Annulment": [
+    {
+      "Name": "Eldritch Orb of Annulment",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
+    }
+  ],
+  "Lesser Eldritch Ember": [
+    {
+      "Name": "Lesser Eldritch Ember",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Greater Eldritch Ember": [
+    {
+      "Name": "Greater Eldritch Ember",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Lesser Eldritch Ichor": [
+    {
+      "Name": "Lesser Eldritch Ichor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Greater Eldritch Ichor": [
+    {
+      "Name": "Greater Eldritch Ichor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Grand Eldritch Ichor": [
+    {
+      "Name": "Grand Eldritch Ichor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Exceptional Eldritch Ichor": [
+    {
+      "Name": "Exceptional Eldritch Ichor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Surveyor's Compass": [
+    {
+      "Name": "Surveyor's Compass",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
       ]
     }

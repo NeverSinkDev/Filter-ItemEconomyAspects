@@ -1187,6 +1187,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}"
       ]
+    },
+    {
+      "Name": "The Gluttonous Tide",
+      "BaseType": "Citadel Bow",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
     }
   ],
   "Imperial Maul": [
@@ -4052,6 +4061,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Rearguard",
+      "BaseType": "Blunt Arrow Quiver",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Pinnacle Tower Shield": [
@@ -6337,6 +6352,12 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Dawnbreaker",
+      "BaseType": "Colossal Tower Shield",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Sentinel Jacket": [
@@ -7093,6 +7114,18 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Ashes of the Stars",
+      "BaseType": "Onyx Amulet",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Crystallised Omniscience",
+      "BaseType": "Onyx Amulet",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Topaz Ring": [
@@ -7935,6 +7968,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Polaric Devastation",
+      "BaseType": "Opal Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
     }
   ],
   "Greatwolf Talisman": [
@@ -8691,6 +8733,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\"}"
       ]
+    },
+    {
+      "Name": "Sudden Dawn",
+      "BaseType": "Steel Circlet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
     }
   ],
   "Golden Visage": [
@@ -9215,6 +9266,118 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Quarterstaff": [
+    {
+      "Name": "The Annihilating Light",
+      "BaseType": "Quarterstaff",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Primal Arrow Quiver": [
+    {
+      "Name": "Voidfletcher",
+      "BaseType": "Primal Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Fingerless Silk Gloves": [
+    {
+      "Name": "Black Zenith",
+      "BaseType": "Fingerless Silk Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Spiked Gloves": [
+    {
+      "Name": "Ceaseless Feast",
+      "BaseType": "Spiked Gloves",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Blazing Arrow Quiver": [
+    {
+      "Name": "Blackgleam",
+      "BaseType": "Blazing Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "The Signal Fire",
+      "BaseType": "Blazing Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Special\",\"Type\":1,\"Name\":\"MapBossOnlyDropAspect\"}"
+      ]
+    }
+  ],
+  "Feathered Arrow Quiver": [
+    {
+      "Name": "Saemus' Gift",
+      "BaseType": "Feathered Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Asphyxia's Wrath",
+      "BaseType": "Feathered Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Fugitive Boots": [
+    {
+      "Name": "Inextricable Fate",
+      "BaseType": "Fugitive Boots",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\"}"
+      ]
+    }
+  ],
+  "Heavy Arrow Quiver": [
+    {
+      "Name": "Scorpion's Call",
+      "BaseType": "Heavy Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Vile Arrow Quiver": [
+    {
+      "Name": "Maloney's Nightfall",
+      "BaseType": "Vile Arrow Quiver",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
     }
   ]

@@ -59,6 +59,16 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":150.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
       ]
+    },
+    {
+      "Name": "The Iron Bard",
+      "BaseType": "The Iron Bard",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":150.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+      ]
     }
   ],
   "The Immortal": [
@@ -694,6 +704,16 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Valley of Steel Boxes",
+      "BaseType": "The Valley of Steel Boxes",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"LargeDeckAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Left to Fate": [
@@ -735,6 +755,16 @@
     {
       "Name": "Monochrome",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Monochrome",
+      "BaseType": "Monochrome",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\"}",
@@ -3457,6 +3487,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}"
       ]
+    },
+    {
+      "Name": "The Side Quest",
+      "BaseType": "The Side Quest",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}"
+      ]
     }
   ],
   "More is Never Enough": [
@@ -3651,6 +3690,14 @@
     {
       "Name": "Friendship",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-12-17T19:07:14.5439035+01:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Friendship",
+      "BaseType": "Friendship",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-12-17T19:07:14.5439035+01:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -4257,6 +4304,14 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "The Hook",
+      "BaseType": "The Hook",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
     }
   ],
   "A Modest Request": [
@@ -4330,6 +4385,16 @@
     {
       "Name": "Sambodhi's Wisdom",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\"}"
+      ]
+    },
+    {
+      "Name": "Sambodhi's Wisdom",
+      "BaseType": "Sambodhi's Wisdom",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -4620,6 +4685,145 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Judging Voices": [
+    {
+      "Name": "Judging Voices",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Duality": [
+    {
+      "Name": "Duality",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Silence and Frost": [
+    {
+      "Name": "Silence and Frost",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Imperfect Memories": [
+    {
+      "Name": "Imperfect Memories",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "The One That Got Away": [
+    {
+      "Name": "The One That Got Away",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Justified Ambition": [
+    {
+      "Name": "Justified Ambition",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+      ]
+    }
+  ],
+  "Magnum Opus": [
+    {
+      "Name": "Magnum Opus",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Magma Crab": [
+    {
+      "Name": "The Magma Crab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Bijoux": [
+    {
+      "Name": "Bijoux",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\"}"
+      ]
+    }
+  ],
+  "Misery in Darkness": [
+    {
+      "Name": "Misery in Darkness",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Tireless Extractor": [
+    {
+      "Name": "The Tireless Extractor",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\"}"
+      ]
+    }
+  ],
+  "The Transformation": [
+    {
+      "Name": "The Transformation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
+      ]
+    }
+  ],
+  "Parasitic Passengers": [
+    {
+      "Name": "Parasitic Passengers",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\"}"
       ]
     }
   ]
