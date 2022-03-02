@@ -527,7 +527,9 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -538,8 +540,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.4,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -607,8 +609,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
@@ -619,8 +620,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
@@ -631,8 +631,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
@@ -733,7 +732,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.82,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.82,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -743,7 +745,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -753,7 +757,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.32,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.32,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
@@ -763,7 +768,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.25,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.25,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
@@ -773,7 +779,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
       ]
     }
   ],
