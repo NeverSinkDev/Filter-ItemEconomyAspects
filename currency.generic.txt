@@ -230,8 +230,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.17,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
       ]
@@ -1285,7 +1284,7 @@
   "Ancient Shard": [
     {
       "Name": "Ancient Shard",
-      "BaseType": "Ancient Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1297,45 +1296,43 @@
   "Regal Shard": [
     {
       "Name": "Regal Shard",
-      "BaseType": "Regal Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
       ]
     }
   ],
   "Harbinger's Shard": [
     {
       "Name": "Harbinger's Shard",
-      "BaseType": "Harbinger's Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
       ]
     }
   ],
   "Alchemy Shard": [
     {
       "Name": "Alchemy Shard",
-      "BaseType": "Alchemy Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
       ]
     }
   ],
   "Alteration Shard": [
     {
       "Name": "Alteration Shard",
-      "BaseType": "Alteration Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1347,7 +1344,7 @@
   "Binding Shard": [
     {
       "Name": "Binding Shard",
-      "BaseType": "Binding Shard",
+      "BaseType": null,
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
@@ -1557,6 +1554,12 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Prime Sextant",
+      "BaseType": "Prime Sextant",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Otherworldly Scouting Report": [
@@ -1682,6 +1685,24 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Silver Coin",
+      "BaseType": "Silver Coin",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Horizon Shard": [
+    {
+      "Name": "Horizon Shard",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+      ]
     }
   ]
 }
