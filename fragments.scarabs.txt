@@ -71,6 +71,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Gilded Perandus Scarab",
+      "BaseType": "Gilded Perandus Scarab",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+      ]
     }
   ],
   "Gilded Ambush Scarab": [
@@ -131,6 +140,14 @@
     {
       "Name": "Polished Perandus Scarab",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Polished Perandus Scarab",
+      "BaseType": "Polished Perandus Scarab",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -223,6 +240,14 @@
     {
       "Name": "Rusted Perandus Scarab",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Rusted Perandus Scarab",
+      "BaseType": "Rusted Perandus Scarab",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-08-02T21:30:27.9863444+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -440,7 +465,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -451,7 +476,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -462,7 +487,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -473,7 +498,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
       ]
     }
   ],
@@ -581,6 +606,14 @@
     {
       "Name": "Winged Perandus Scarab",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Winged Perandus Scarab",
+      "BaseType": "Winged Perandus Scarab",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:50:40.2934507+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}"
@@ -695,6 +728,38 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:26.6111834+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
       ]
+    }
+  ],
+  "Winged Expedition Scarab": [
+    {
+      "Name": "Winged Expedition Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Gilded Expedition Scarab": [
+    {
+      "Name": "Gilded Expedition Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Polished Expedition Scarab": [
+    {
+      "Name": "Polished Expedition Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Rusted Expedition Scarab": [
+    {
+      "Name": "Rusted Expedition Scarab",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
     }
   ]
 }
