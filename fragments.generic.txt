@@ -5,9 +5,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":226.53,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":226.53,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -17,9 +17,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":203.53,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":203.53,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -29,9 +29,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":154.36,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":154.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -41,10 +41,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":141.37,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":141.37,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -54,9 +54,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":139.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":139.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -66,10 +66,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":133.57,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":133.57,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -79,9 +79,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":125.01,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":125.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -91,9 +91,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":109.98,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":109.98,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -103,9 +103,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":104.88,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":104.88,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -115,9 +115,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":94.98,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":94.98,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -127,10 +127,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":47.26,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":47.26,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -140,9 +140,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":43.47,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":43.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -152,9 +152,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":41.15,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":41.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -164,9 +164,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.06,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.06,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -176,9 +176,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.01,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -188,10 +188,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":39.82,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":39.82,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -201,10 +201,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":38.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":38.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -214,10 +214,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":37.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":37.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -227,9 +227,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.65,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.65,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -239,10 +239,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -252,10 +252,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":27.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":27.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -265,10 +265,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.94,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.94,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -278,10 +278,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.14,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.14,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -291,10 +291,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":25.4,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":25.4,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -304,10 +304,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":24.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":24.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -317,9 +317,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.57,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.57,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -329,9 +329,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -341,9 +341,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":19.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":19.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -353,10 +353,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.41,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -366,9 +366,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.19,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -378,9 +378,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.78,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.78,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -390,9 +390,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.11,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -402,10 +402,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":16.27,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":16.27,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -415,9 +415,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -427,9 +427,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -439,9 +439,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.72,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.72,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -451,9 +451,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -463,9 +463,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -475,10 +475,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -488,10 +488,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.44,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -501,9 +501,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -513,9 +513,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.77,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.77,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -525,11 +525,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -539,9 +539,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.4,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.4,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -551,9 +551,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.25,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -563,9 +563,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -575,8 +575,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -586,8 +586,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -597,8 +597,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -608,8 +608,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -619,8 +619,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -630,8 +630,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -641,9 +641,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -653,7 +653,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -663,8 +663,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -674,7 +674,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -684,7 +684,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -694,7 +694,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -704,7 +704,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -714,7 +714,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -722,7 +722,7 @@
       "BaseType": "Vaal Reliquary Key",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -732,10 +732,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.82,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.82,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -745,9 +745,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -757,8 +757,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.32,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.32,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -768,8 +768,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.25,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -779,8 +779,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
       ]
     }
   ],
@@ -790,9 +790,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -802,9 +802,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -814,9 +814,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -826,9 +826,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -838,9 +838,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -850,8 +850,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -861,8 +861,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -872,8 +872,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -883,8 +883,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ],
@@ -894,8 +894,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -905,7 +905,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -915,7 +918,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}"
       ]
     }
   ],
@@ -925,7 +931,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}"
       ]
     }
   ],
@@ -935,7 +944,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
+        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
       ]
     }
   ]
