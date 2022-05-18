@@ -5,8 +5,8 @@
       "BaseType": "Chateau Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -16,7 +16,7 @@
       "BaseType": "Maze Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -26,10 +26,10 @@
       "BaseType": "Harbinger Map",
       "Special": "T15",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "BaseType": "Harbinger Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -47,8 +47,8 @@
       "BaseType": "Museum Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -58,8 +58,8 @@
       "BaseType": "Courtyard Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":34.7,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":34.7,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -69,8 +69,8 @@
       "BaseType": "Shore Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -80,8 +80,8 @@
       "BaseType": "Vaal Pyramid Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -91,8 +91,8 @@
       "BaseType": "Moon Temple Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -102,8 +102,8 @@
       "BaseType": "Temple Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -113,8 +113,8 @@
       "BaseType": "Promenade Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -124,8 +124,8 @@
       "BaseType": "Bone Crypt Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -135,8 +135,8 @@
       "BaseType": "Cemetery Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -146,8 +146,8 @@
       "BaseType": "Underground River Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -157,8 +157,8 @@
       "BaseType": "Necropolis Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -168,8 +168,8 @@
       "BaseType": "Underground Sea Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -179,8 +179,8 @@
       "BaseType": "Overgrown Shrine Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -190,8 +190,8 @@
       "BaseType": "Cursed Crypt Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":26.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":26.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -201,8 +201,8 @@
       "BaseType": "Atoll Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.6,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.6,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -212,8 +212,8 @@
       "BaseType": "Dunes Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -229,8 +229,8 @@
       "BaseType": "Strand Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -240,7 +240,7 @@
       "BaseType": "Relic Chambers Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     }
   ],
@@ -250,8 +250,8 @@
       "BaseType": "Park Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -261,8 +261,8 @@
       "BaseType": "Siege Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -272,8 +272,8 @@
       "BaseType": "Basilica Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -283,8 +283,8 @@
       "BaseType": "Courthouse Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":44.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":44.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -294,7 +294,7 @@
       "BaseType": "Synthesised Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -302,7 +302,7 @@
       "BaseType": "Synthesised Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -310,7 +310,7 @@
       "BaseType": "Synthesised Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -318,7 +318,15 @@
       "BaseType": "Synthesised Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Augmented Distant Memory",
+      "BaseType": "Synthesised Map",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -336,7 +344,7 @@
       "BaseType": "Primordial Blocks Map",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ]
