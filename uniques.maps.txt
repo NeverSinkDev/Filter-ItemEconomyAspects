@@ -1,15 +1,4 @@
 {
-  "Chateau Map": [
-    {
-      "Name": "The Perandus Manor",
-      "BaseType": "Chateau Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
-      ]
-    }
-  ],
   "Maze Map": [
     {
       "Name": "Doryani's Machinarium",
@@ -234,60 +223,6 @@
       ]
     }
   ],
-  "Relic Chambers Map": [
-    {
-      "Name": "Cortex",
-      "BaseType": "Relic Chambers Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Park Map": [
-    {
-      "Name": "Twisted Distant Memory",
-      "BaseType": "Park Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Siege Map": [
-    {
-      "Name": "Altered Distant Memory",
-      "BaseType": "Siege Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Basilica Map": [
-    {
-      "Name": "Rewritten Distant Memory",
-      "BaseType": "Basilica Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Courthouse Map": [
-    {
-      "Name": "Augmented Distant Memory",
-      "BaseType": "Courthouse Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":44.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Synthesised Map": [
     {
       "Name": "Cortex",
@@ -324,24 +259,6 @@
     {
       "Name": "Augmented Distant Memory",
       "BaseType": "Synthesised Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Haunted Mansion Map": [
-    {
-      "Name": "Augmented Distant Memory",
-      "BaseType": "Haunted Mansion Map",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Primordial Blocks Map": [
-    {
-      "Name": "Oba's Cursed Trove",
-      "BaseType": "Primordial Blocks Map",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"

@@ -18,26 +18,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":33.92,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Eldritch Incubator": [
-    {
-      "Name": "Eldritch Incubator",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":29.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Eldritch Incubator",
-      "BaseType": "Eldritch Incubator",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":29.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -66,26 +47,6 @@
     {
       "Name": "Otherworldly Incubator",
       "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Decadent Incubator": [
-    {
-      "Name": "Decadent Incubator",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Decadent Incubator",
-      "BaseType": "Decadent Incubator",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
@@ -201,26 +162,6 @@
       ]
     }
   ],
-  "Fine Incubator": [
-    {
-      "Name": "Fine Incubator",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Fine Incubator",
-      "BaseType": "Fine Incubator",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
-      ]
-    }
-  ],
   "Cartographer's Incubator": [
     {
       "Name": "Cartographer's Incubator",
@@ -284,46 +225,6 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.87,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Gemcutter's Incubator": [
-    {
-      "Name": "Gemcutter's Incubator",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Gemcutter's Incubator",
-      "BaseType": "Gemcutter's Incubator",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Whispering Incubator": [
-    {
-      "Name": "Whispering Incubator",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Whispering Incubator",
-      "BaseType": "Whispering Incubator",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
       ]
     }
   ],

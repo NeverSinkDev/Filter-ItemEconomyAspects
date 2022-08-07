@@ -8359,7 +8359,7 @@
       "BaseType": "Coral Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {

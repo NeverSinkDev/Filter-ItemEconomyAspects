@@ -5,7 +5,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -15,7 +15,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -25,7 +25,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -35,7 +35,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -45,7 +45,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -55,7 +55,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -65,24 +65,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Enchanted Fossil": [
-    {
-      "Name": "Enchanted Fossil",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Enchanted Fossil",
-      "BaseType": "Enchanted Fossil",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -92,7 +76,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -102,7 +86,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -112,7 +96,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -122,7 +106,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -132,7 +116,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -142,8 +126,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -153,7 +137,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -163,7 +147,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -173,7 +157,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -183,7 +167,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -193,23 +177,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Encrusted Fossil": [
-    {
-      "Name": "Encrusted Fossil",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Encrusted Fossil",
-      "BaseType": "Encrusted Fossil",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -219,8 +187,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -230,7 +198,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -240,7 +208,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -250,7 +218,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -260,7 +228,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -270,7 +238,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -280,7 +248,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ]
