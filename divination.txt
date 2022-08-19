@@ -177,7 +177,8 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":69.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],
@@ -293,7 +294,8 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":25.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],
@@ -417,7 +419,8 @@
         "{\"Group\":\"StackSize\",\"Type\":2,\"Name\":\"LargeDeckAspect\",\"UIName\":\"LargeDeck\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],
@@ -443,7 +446,8 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
       ]
     }
   ],
@@ -867,7 +871,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -2185,7 +2190,6 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
       ]
     }
@@ -2909,8 +2913,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -3123,8 +3127,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -3161,7 +3165,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],
@@ -4589,7 +4594,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],

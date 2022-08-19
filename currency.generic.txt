@@ -5,7 +5,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":26505.13,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":26505.13,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -15,7 +15,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1241.15,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1241.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -25,7 +25,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":192.77,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":192.77,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -35,10 +37,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":180.81,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":180.81,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -48,10 +50,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":45.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":45.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -61,11 +63,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":22.85,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":22.85,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -75,7 +77,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":21.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":21.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -85,10 +89,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":13.25,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":13.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -98,10 +102,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":9.02,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":9.02,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -111,10 +115,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -124,10 +128,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -137,10 +141,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -150,10 +154,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -163,10 +167,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -176,7 +180,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -184,7 +188,7 @@
       "BaseType": "Splinter of Chayula",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -194,7 +198,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -202,7 +206,7 @@
       "BaseType": "Master Cartographer's Sextant",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -212,7 +216,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -220,7 +224,7 @@
       "BaseType": "Journeyman Cartographer's Sextant",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -230,9 +234,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -242,11 +246,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -256,7 +260,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -264,7 +268,7 @@
       "BaseType": "Apprentice Cartographer's Sextant",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -274,11 +278,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -288,11 +292,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.56,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.56,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -302,11 +306,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -316,11 +320,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -330,11 +334,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -344,11 +348,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -358,11 +362,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -372,11 +376,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.34,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.34,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -386,8 +390,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -397,7 +401,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -405,7 +409,7 @@
       "BaseType": "Splinter of Uul-Netol",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -415,10 +419,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -442,7 +446,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -450,7 +454,7 @@
       "BaseType": "Splinter of Tul",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -460,10 +464,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -473,9 +477,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -485,7 +489,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -493,7 +497,7 @@
       "BaseType": "Splinter of Xoph",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -503,10 +507,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.14,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.14,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -516,10 +520,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -529,10 +533,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.1,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.1,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -542,7 +546,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -550,7 +554,7 @@
       "BaseType": "Splinter of Esh",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -560,9 +564,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     }
   ],
@@ -572,7 +576,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -580,7 +584,7 @@
       "BaseType": "Armourer's Scrap",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -590,11 +594,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -604,7 +608,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -614,7 +618,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -624,7 +628,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -632,7 +636,7 @@
       "BaseType": "Portal Scroll",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -642,7 +646,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -650,7 +654,7 @@
       "BaseType": "Perandus Coin",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -660,7 +664,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -668,7 +672,7 @@
       "BaseType": "Scroll of Wisdom",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -678,7 +682,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":317.65,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":317.65,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -688,7 +694,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":235.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":235.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -698,7 +706,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":225.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":225.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -708,7 +718,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":170.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":170.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -718,7 +730,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":160.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":160.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -728,10 +742,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":12.5,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":12.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -741,10 +755,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":10.28,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":10.28,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -754,10 +768,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -767,11 +781,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.95,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.95,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -781,11 +795,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.89,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.89,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -795,11 +809,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.68,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.68,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -809,11 +823,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.93,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.93,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -823,11 +837,11 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.83,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.83,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -837,9 +851,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -849,9 +863,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -861,10 +875,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -874,10 +888,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -900,7 +914,9 @@
       "Name": "Maven's Orb",
       "BaseType": null,
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "Elevated Sextant": [
@@ -909,9 +925,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -921,10 +937,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -934,9 +950,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -946,9 +962,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -958,9 +974,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -970,9 +986,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -982,9 +998,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -994,10 +1010,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     },
     {
@@ -1005,10 +1021,10 @@
       "BaseType": "Tainted Divine Teardrop",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1018,10 +1034,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     },
     {
@@ -1029,10 +1045,10 @@
       "BaseType": "Tainted Mythic Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1042,8 +1058,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -1053,10 +1070,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     },
     {
@@ -1064,10 +1081,10 @@
       "BaseType": "Tainted Orb of Fusing",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1077,10 +1094,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     },
     {
@@ -1088,10 +1105,10 @@
       "BaseType": "Tainted Exalted Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1101,8 +1118,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1112,10 +1129,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     },
     {
@@ -1123,10 +1140,10 @@
       "BaseType": "Tainted Chromatic Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],
@@ -1136,10 +1153,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     },
     {
@@ -1147,10 +1164,10 @@
       "BaseType": "Tainted Chaos Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -1160,10 +1177,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -1173,10 +1190,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     },
     {
@@ -1184,10 +1201,10 @@
       "BaseType": "Tainted Blacksmith's Whetstone",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],
@@ -1197,10 +1214,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     },
     {
@@ -1208,10 +1225,10 @@
       "BaseType": "Tainted Jeweller's Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],
@@ -1221,10 +1238,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     },
     {
@@ -1232,10 +1249,10 @@
       "BaseType": "Tainted Armourer's Scrap",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],
@@ -1245,9 +1262,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1257,9 +1274,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -1269,7 +1286,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -1277,7 +1294,7 @@
       "BaseType": "Kalguuran Delirium Orb",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -1287,9 +1304,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1299,9 +1316,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1311,9 +1328,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1323,9 +1340,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1335,9 +1352,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1347,9 +1364,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1359,7 +1376,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
       ]
     }
   ],
@@ -1369,9 +1388,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1381,9 +1400,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1393,7 +1412,7 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -1403,9 +1422,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1415,10 +1434,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1428,9 +1447,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1440,10 +1459,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1453,8 +1472,8 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1464,10 +1483,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}"
       ]
     }
   ],
@@ -1477,10 +1496,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -1490,10 +1509,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}"
       ]
     }
   ],
@@ -1503,10 +1522,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -1516,10 +1535,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -1529,10 +1548,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
       ]
     }
   ],
@@ -1542,9 +1561,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1568,10 +1587,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1581,10 +1600,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1594,10 +1613,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1607,10 +1626,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1620,10 +1639,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1633,10 +1652,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1646,10 +1665,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1659,10 +1678,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1672,10 +1691,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1699,9 +1718,9 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1711,10 +1730,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
     }
   ],
@@ -1724,10 +1743,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
       ]
     }
   ],
@@ -1737,10 +1756,10 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
     }
   ],
@@ -1750,11 +1769,67 @@
       "BaseType": null,
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
       ]
+    }
+  ],
+  "Armour Recombinator": [
+    {
+      "Name": "Armour Recombinator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Jewellery Recombinator": [
+    {
+      "Name": "Jewellery Recombinator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Weapon Recombinator": [
+    {
+      "Name": "Weapon Recombinator",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Transforming Power Core": [
+    {
+      "Name": "Transforming Power Core",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Augmenting Power Core": [
+    {
+      "Name": "Augmenting Power Core",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Amplifying Power Core": [
+    {
+      "Name": "Amplifying Power Core",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Power Core": [
+    {
+      "Name": "Power Core",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
     }
   ]
 }
