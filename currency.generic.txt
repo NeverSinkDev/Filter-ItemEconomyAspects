@@ -79,7 +79,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":21.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     }
   ],
