@@ -9248,15 +9248,6 @@
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Mahuxotl's Machination",
-      "BaseType": "Steel Kite Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
-      ]
     }
   ],
   "Butcher Axe": [
