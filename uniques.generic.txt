@@ -7107,8 +7107,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.49,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
     },
     {
@@ -7426,8 +7425,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":8.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
     },
     {
@@ -8240,8 +8238,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
     },
     {
@@ -8513,8 +8510,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
     }
   ],
@@ -8543,8 +8539,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -8780,7 +8775,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
