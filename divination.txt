@@ -1104,6 +1104,16 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
       ]
+    },
+    {
+      "Name": "The Mad King",
+      "BaseType": "The Mad King",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
+      ]
     }
   ],
   "The Chains that Bind": [
@@ -3488,6 +3498,16 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}",
         "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Akil's Prophecy",
+      "BaseType": "Akil's Prophecy",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+      ]
     }
   ],
   "The Wolf's Legacy": [
@@ -3559,6 +3579,15 @@
     {
       "Name": "Vile Power",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
+      ]
+    },
+    {
+      "Name": "Vile Power",
+      "BaseType": "Vile Power",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
@@ -3927,6 +3956,14 @@
     {
       "Name": "A Note in the Wind",
       "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "A Note in the Wind",
+      "BaseType": "A Note in the Wind",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
@@ -4863,6 +4900,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
       ]
+    },
+    {
+      "Name": "The Transformation",
+      "BaseType": "The Transformation",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
+      ]
     }
   ],
   "Parasitic Passengers": [
@@ -5006,6 +5052,164 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
+      ]
+    }
+  ],
+  "The Price of Devotion": [
+    {
+      "Name": "The Price of Devotion",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
+      ]
+    }
+  ],
+  "The Shieldbearer": [
+    {
+      "Name": "The Shieldbearer",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+      ]
+    }
+  ],
+  "Choking Guilt": [
+    {
+      "Name": "Choking Guilt",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+      ]
+    }
+  ],
+  "Gemcutter's Mercy": [
+    {
+      "Name": "Gemcutter's Mercy",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
+      ]
+    }
+  ],
+  "Doryani's Epiphany": [
+    {
+      "Name": "Doryani's Epiphany",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}"
+      ]
+    }
+  ],
+  "Something Dark": [
+    {
+      "Name": "Something Dark",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Leviathan": [
+    {
+      "Name": "The Leviathan",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}"
+      ]
+    }
+  ],
+  "Endless Night": [
+    {
+      "Name": "Endless Night",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Enforcer": [
+    {
+      "Name": "The Enforcer",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Checkmate": [
+    {
+      "Name": "Checkmate",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "The Shepherd's Sandals": [
+    {
+      "Name": "The Shepherd's Sandals",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Lethean Temptation": [
+    {
+      "Name": "Lethean Temptation",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Astral Protection": [
+    {
+      "Name": "Astral Protection",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Azure Rage": [
+    {
+      "Name": "Azure Rage",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Broken Truce": [
+    {
+      "Name": "Broken Truce",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ]

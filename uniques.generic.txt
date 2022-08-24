@@ -2756,7 +2756,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":14.52,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     },
     {
@@ -3835,6 +3836,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
+    },
+    {
+      "Name": "Soul Ascension",
+      "BaseType": "Carnal Mitts",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Rawhide Tower Shield": [
@@ -5088,6 +5095,12 @@
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Kongming's Stratagem",
+      "BaseType": "Ancient Spirit Shield",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Mind Cage": [
@@ -5676,6 +5689,12 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Kaom's Spirit",
+      "BaseType": "Titan Gauntlets",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Shackled Boots": [
@@ -5718,6 +5737,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Allelopathy",
+      "BaseType": "Satin Gloves",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Embroidered Gloves": [
@@ -7313,6 +7338,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
+    },
+    {
+      "Name": "Leadership's Price",
+      "BaseType": "Onyx Amulet",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Topaz Ring": [
@@ -9242,6 +9273,12 @@
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Mahuxotl's Machination",
+      "BaseType": "Steel Kite Shield",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Butcher Axe": [
@@ -9528,6 +9565,12 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
+    },
+    {
+      "Name": "The Poised Prism",
+      "BaseType": "Primal Arrow Quiver",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Fingerless Silk Gloves": [
@@ -9634,6 +9677,67 @@
       "BaseType": "Fire Arrow Quiver",
       "Special": null,
       "Aspects": []
+    }
+  ],
+  "Barbute Helmet": [
+    {
+      "Name": "Thrillsteel",
+      "BaseType": "Barbute Helmet",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Silken Vest": [
+    {
+      "Name": "Ghostwrithe",
+      "BaseType": "Silken Vest",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Wolf Pelt": [
+    {
+      "Name": "Elevore",
+      "BaseType": "Wolf Pelt",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Sun Leather": [
+    {
+      "Name": "Briskwrap",
+      "BaseType": "Sun Leather",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Lacewood Spirit Shield": [
+    {
+      "Name": "Manastorm",
+      "BaseType": "Lacewood Spirit Shield",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Ring": [
+    {
+      "Name": "Kalandra's Touch",
+      "BaseType": "Ring",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+      ]
     }
   ]
 }
