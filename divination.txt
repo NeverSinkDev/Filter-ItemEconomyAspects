@@ -8,7 +8,8 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"CurrencyTypeAspect\",\"UIName\":\"CurrencyType\"}",
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"QueryableResultAspect\",\"UIName\":\"QueryableResult\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":1554.24,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}"
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"TimelessResultAspect\",\"UIName\":\"TimelessResult\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     }
   ],
