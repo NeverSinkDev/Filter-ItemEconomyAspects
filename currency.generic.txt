@@ -1122,6 +1122,15 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
       ]
+    },
+    {
+      "Name": "Infused Engineer's Orb",
+      "BaseType": "Infused Engineer's Orb",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+      ]
     }
   ],
   "Tainted Chromatic Orb": [
@@ -1783,12 +1792,24 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Armour Recombinator",
+      "BaseType": "Armour Recombinator",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Jewellery Recombinator": [
     {
       "Name": "Jewellery Recombinator",
       "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Jewellery Recombinator",
+      "BaseType": "Jewellery Recombinator",
       "Special": null,
       "Aspects": []
     }
@@ -1799,12 +1820,24 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Weapon Recombinator",
+      "BaseType": "Weapon Recombinator",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Transforming Power Core": [
     {
       "Name": "Transforming Power Core",
       "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Transforming Power Core",
+      "BaseType": "Transforming Power Core",
       "Special": null,
       "Aspects": []
     }
@@ -1815,6 +1848,12 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Augmenting Power Core",
+      "BaseType": "Augmenting Power Core",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Amplifying Power Core": [
@@ -1823,11 +1862,59 @@
       "BaseType": null,
       "Special": null,
       "Aspects": []
+    },
+    {
+      "Name": "Amplifying Power Core",
+      "BaseType": "Amplifying Power Core",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Power Core": [
     {
       "Name": "Power Core",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Power Core",
+      "BaseType": "Power Core",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Sacred Crystallised Lifeforce": [
+    {
+      "Name": "Sacred Crystallised Lifeforce",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+      ]
+    }
+  ],
+  "Wild Crystallised Lifeforce": [
+    {
+      "Name": "Wild Crystallised Lifeforce",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Primal Crystallised Lifeforce": [
+    {
+      "Name": "Primal Crystallised Lifeforce",
+      "BaseType": null,
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Vivid Crystallised Lifeforce": [
+    {
+      "Name": "Vivid Crystallised Lifeforce",
       "BaseType": null,
       "Special": null,
       "Aspects": []
