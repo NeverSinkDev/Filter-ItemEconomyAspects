@@ -3841,7 +3841,10 @@
       "Name": "Soul Ascension",
       "BaseType": "Carnal Mitts",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+      ]
     }
   ],
   "Rawhide Tower Shield": [
@@ -5091,10 +5094,7 @@
       "Name": "Apep's Slumber",
       "BaseType": "Ancient Spirit Shield",
       "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
+      "Aspects": []
     },
     {
       "Name": "Kongming's Stratagem",
@@ -5694,7 +5694,9 @@
       "Name": "Kaom's Spirit",
       "BaseType": "Titan Gauntlets",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "Shackled Boots": [
@@ -5742,7 +5744,9 @@
       "Name": "Allelopathy",
       "BaseType": "Satin Gloves",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "Embroidered Gloves": [
@@ -7343,7 +7347,10 @@
       "Name": "Leadership's Price",
       "BaseType": "Onyx Amulet",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+      ]
     }
   ],
   "Topaz Ring": [
@@ -9278,7 +9285,10 @@
       "Name": "Mahuxotl's Machination",
       "BaseType": "Steel Kite Shield",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+      ]
     }
   ],
   "Butcher Axe": [
@@ -9570,7 +9580,9 @@
       "Name": "The Poised Prism",
       "BaseType": "Primal Arrow Quiver",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "Fingerless Silk Gloves": [
