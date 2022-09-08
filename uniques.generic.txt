@@ -3707,7 +3707,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
