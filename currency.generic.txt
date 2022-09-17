@@ -1572,8 +1572,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],
