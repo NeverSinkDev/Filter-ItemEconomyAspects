@@ -1012,6 +1012,15 @@
         "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Time-Lost Relic",
+      "BaseType": "Time-Lost Relic",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"DropType\",\"Type\":2,\"Name\":\"LargeRandomPoolAspect\",\"UIName\":\"LargeRandomPool\"}",
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "The Innocent": [
@@ -2993,7 +3002,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}"
       ]
     }
   ],
