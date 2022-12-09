@@ -401,8 +401,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -508,8 +507,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -790,7 +787,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
@@ -1111,9 +1107,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     }
@@ -1371,7 +1365,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -1411,9 +1404,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -1513,8 +1504,7 @@
       "BaseType": "Shadow Sceptre",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -1620,9 +1610,7 @@
       "BaseType": "Void Sceptre",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -1716,7 +1704,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.98,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -1744,9 +1731,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1809,9 +1794,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -1842,9 +1825,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1894,8 +1875,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
         "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
@@ -2078,8 +2057,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -2099,9 +2076,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -2131,8 +2106,7 @@
       "BaseType": "Highland Blade",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -2353,8 +2327,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -2384,8 +2357,7 @@
       "BaseType": "Thresher Claw",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -2415,8 +2387,7 @@
       "BaseType": "Quartz Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -2523,8 +2494,7 @@
       "BaseType": "Recurve Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -3134,8 +3104,7 @@
       "BaseType": "Simple Robe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -3249,8 +3218,7 @@
       "BaseType": "Carnal Armour",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -3392,9 +3360,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -3626,8 +3592,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
         "{\"Group\":\"Special\",\"Type\":1,\"Name\":\"MapBossOnlyDropAspect\",\"UIName\":\"MapBossOnlyDrop\"}"
       ]
@@ -3649,8 +3613,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -3791,8 +3754,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -3878,9 +3840,7 @@
       "BaseType": "Leather Hood",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -3928,8 +3888,7 @@
       "BaseType": "Goathide Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -3977,9 +3936,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -4048,9 +4005,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.39,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -4098,7 +4053,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
@@ -4185,8 +4139,7 @@
       "BaseType": "Iron Mask",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4240,9 +4193,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":9.7,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":9.7,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4286,9 +4237,7 @@
       "BaseType": "Nightmare Bascinet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4334,8 +4283,7 @@
       "BaseType": "Iron Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4421,9 +4369,7 @@
       "BaseType": "Goathide Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4498,9 +4444,7 @@
       "BaseType": "Vaal Regalia",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4530,8 +4474,7 @@
       "BaseType": "Plank Kite Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4612,8 +4555,7 @@
       "BaseType": "Gilded Sallet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4649,9 +4591,7 @@
       "BaseType": "Crusader Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4702,8 +4642,7 @@
       "BaseType": "Plate Vest",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4813,8 +4752,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -4834,8 +4772,7 @@
       "BaseType": "Full Dragonscale",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4875,8 +4812,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -4895,9 +4831,7 @@
       "BaseType": "Iron Gauntlets",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -4907,8 +4841,7 @@
       "BaseType": "Vine Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4924,8 +4857,7 @@
       "BaseType": "Scholar Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5066,8 +4998,7 @@
       "BaseType": "Velvet Slippers",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5083,9 +5014,7 @@
       "BaseType": "Wild Leather",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5134,9 +5063,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -5249,7 +5176,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
@@ -5260,8 +5186,7 @@
       "BaseType": "Iron Hat",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5322,8 +5247,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -5353,9 +5276,7 @@
       "BaseType": "Conjurer Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5366,9 +5287,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -5398,8 +5317,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
@@ -5450,8 +5367,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5461,8 +5377,7 @@
       "BaseType": "War Buckler",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5528,8 +5443,7 @@
       "BaseType": "Sorcerer Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5568,8 +5482,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -5605,8 +5518,7 @@
       "BaseType": "Ironscale Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.12,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.12,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5616,8 +5528,7 @@
       "BaseType": "Latticed Ringmail",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5653,8 +5564,7 @@
       "BaseType": "Strapped Leather",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5673,8 +5583,7 @@
       "BaseType": "Soldier Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5741,8 +5650,7 @@
       "BaseType": "Satin Gloves",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5792,8 +5700,7 @@
       "BaseType": "Solaris Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5801,8 +5708,7 @@
       "BaseType": "Solaris Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5811,8 +5717,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.7,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -5884,9 +5789,7 @@
       "BaseType": "Soldier Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5917,8 +5820,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
@@ -5950,8 +5851,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -5980,9 +5880,7 @@
       "BaseType": "Lunaris Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6010,8 +5908,7 @@
       "BaseType": "Legion Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6093,9 +5990,7 @@
       "BaseType": "Desert Brigandine",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6115,8 +6010,7 @@
       "BaseType": "Steel Gauntlets",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6126,8 +6020,7 @@
       "BaseType": "Aventail Helmet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6159,8 +6052,7 @@
       "BaseType": "Wrapped Mitts",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6220,8 +6112,7 @@
       "BaseType": "Mosaic Kite Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6251,8 +6142,7 @@
       "BaseType": "Secutor Helm",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6311,9 +6201,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -6381,9 +6269,7 @@
       "BaseType": "Murder Mitts",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -6431,9 +6317,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -6559,9 +6443,7 @@
       "BaseType": "Sage's Robe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -6580,9 +6462,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -6629,9 +6509,7 @@
       "BaseType": "Riveted Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6641,8 +6519,7 @@
       "BaseType": "Tribal Circlet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6708,8 +6585,7 @@
       "BaseType": "Buckskin Tunic",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6719,8 +6595,7 @@
       "BaseType": "Soldier Helmet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6730,9 +6605,7 @@
       "BaseType": "Baroque Round Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6772,8 +6645,7 @@
       "BaseType": "Rotted Round Shield",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6793,8 +6665,7 @@
       "BaseType": "Crusader Chainmail",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -6858,9 +6729,7 @@
       "BaseType": "Scholar's Robe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6870,9 +6739,7 @@
       "BaseType": "Deerskin Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6882,8 +6749,7 @@
       "BaseType": "Tricorne",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6934,8 +6800,7 @@
       "BaseType": "Bronze Gauntlets",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6946,9 +6811,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     }
   ],
@@ -6968,8 +6831,7 @@
       "BaseType": "Vaal Buckler",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -7023,8 +6885,7 @@
       "BaseType": "Leather Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7032,8 +6893,7 @@
       "BaseType": "Leather Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7103,9 +6963,7 @@
       "BaseType": "Paua Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7142,8 +7000,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.49,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -7159,9 +7016,7 @@
       "BaseType": "Jade Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7229,8 +7084,7 @@
       "BaseType": "Amber Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -7412,9 +7266,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -7469,8 +7321,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":8.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -7523,8 +7374,7 @@
       "BaseType": "Two-Stone Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7586,8 +7436,7 @@
       "BaseType": "Ruby Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7595,9 +7444,7 @@
       "BaseType": "Ruby Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7652,8 +7499,7 @@
       "BaseType": "Gold Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -7772,8 +7618,7 @@
       "BaseType": "Agate Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7825,8 +7670,7 @@
       "BaseType": "Lapis Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -7834,8 +7678,7 @@
       "BaseType": "Lapis Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8088,8 +7931,7 @@
       "BaseType": "Heavy Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8178,8 +8020,7 @@
       "BaseType": "Gold Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.45,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.45,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8265,9 +8106,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":29.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -8283,8 +8122,7 @@
       "BaseType": "Moonstone Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8336,8 +8174,7 @@
       "BaseType": "Coral Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8408,9 +8245,7 @@
       "BaseType": "Cloth Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8507,8 +8342,7 @@
       "BaseType": "Rustic Sash",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8555,8 +8389,7 @@
       "BaseType": "Studded Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -8584,7 +8417,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -8593,9 +8425,7 @@
       "BaseType": "Coral Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -8670,8 +8500,7 @@
       "BaseType": "Citrine Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8707,8 +8536,7 @@
       "BaseType": "Iron Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.99,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.99,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8761,7 +8589,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -8810,9 +8637,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"STRONKAspect\",\"UIName\":\"STRONK\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -8821,7 +8646,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
@@ -8918,9 +8742,7 @@
       "BaseType": "Turquoise Amulet",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -9285,9 +9107,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -9473,8 +9293,7 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":23.92,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
-        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"ReworkedAspect\",\"UIName\":\"Reworked\",\"Type\":0}"
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     }
   ],
