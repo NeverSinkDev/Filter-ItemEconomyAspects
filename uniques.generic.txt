@@ -2761,7 +2761,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -2823,7 +2824,8 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -7608,7 +7610,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":79.73,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     },
     {
