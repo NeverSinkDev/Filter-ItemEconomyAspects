@@ -2722,7 +2722,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-16T23:36:34.12861+02:00\",\"HanadlingPrice\":0.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Type\":2,\"Name\":\"LateLeagueValueLossAspect\",\"UIName\":\"LateLeagueValueLoss\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"NerfAspect\",\"UIName\":\"Nerf\",\"Type\":0}"
       ]
     }
   ],
