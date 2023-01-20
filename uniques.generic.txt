@@ -477,27 +477,12 @@
   ],
   "Long Bow": [
     {
-      "Name": "The Tempest",
-      "BaseType": "Long Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":11.97,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Storm Cloud",
       "BaseType": "Long Bow",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Windripper",
-      "BaseType": "Long Bow",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Death Bow": [
@@ -583,15 +568,6 @@
       ]
     },
     {
-      "Name": "Izaro's Dilemma",
-      "BaseType": "Imperial Claw",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Touch of Anguish",
       "BaseType": "Imperial Claw",
       "Special": null,
@@ -627,8 +603,8 @@
       "BaseType": "Elegant Sword",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -693,15 +669,6 @@
     }
   ],
   "Rusted Sword": [
-    {
-      "Name": "Dreadbeak",
-      "BaseType": "Rusted Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Redbeak",
       "BaseType": "Rusted Sword",
@@ -843,27 +810,7 @@
       "Aspects": []
     }
   ],
-  "Iron Sceptre": [
-    {
-      "Name": "Spine of the First Claimant",
-      "BaseType": "Iron Sceptre",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    }
-  ],
   "Woodsplitter": [
-    {
-      "Name": "The Cauteriser",
-      "BaseType": "Woodsplitter",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Limbsplit",
       "BaseType": "Woodsplitter",
@@ -958,15 +905,6 @@
     }
   ],
   "Ornate Sword": [
-    {
-      "Name": "Queen's Escape",
-      "BaseType": "Ornate Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Queen's Decree",
       "BaseType": "Ornate Sword",
@@ -1148,15 +1086,6 @@
       ]
     },
     {
-      "Name": "Chaber Cairn",
-      "BaseType": "Great Mallet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Chober Chaber",
       "BaseType": "Great Mallet",
       "Special": null,
@@ -1254,15 +1183,6 @@
     }
   ],
   "Royal Staff": [
-    {
-      "Name": "The Stormwall",
-      "BaseType": "Royal Staff",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "The Stormheart",
       "BaseType": "Royal Staff",
@@ -1414,17 +1334,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
-      ]
-    }
-  ],
-  "Elegant Foil": [
-    {
-      "Name": "Chitus' Needle",
-      "BaseType": "Elegant Foil",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -1640,15 +1549,6 @@
     }
   ],
   "Brass Maul": [
-    {
-      "Name": "Geofri's Devotion",
-      "BaseType": "Brass Maul",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Geofri's Baptism",
       "BaseType": "Brass Maul",
@@ -3058,7 +2958,8 @@
       "BaseType": "Two-Point Arrow Quiver",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -3784,15 +3685,6 @@
   ],
   "Reinforced Greaves": [
     {
-      "Name": "Windshriek",
-      "BaseType": "Reinforced Greaves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Windscream",
       "BaseType": "Reinforced Greaves",
       "Special": null,
@@ -3871,15 +3763,6 @@
     }
   ],
   "Leather Hood": [
-    {
-      "Name": "Frostferno",
-      "BaseType": "Leather Hood",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":18.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Heatshiver",
       "BaseType": "Leather Hood",
@@ -4025,15 +3908,6 @@
   ],
   "Tarnished Spirit Shield": [
     {
-      "Name": "Whakatutuki o Matua",
-      "BaseType": "Tarnished Spirit Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":13.53,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Brinerot Flag",
       "BaseType": "Tarnished Spirit Shield",
       "Special": null,
@@ -4081,15 +3955,6 @@
   ],
   "Velvet Gloves": [
     {
-      "Name": "Doedre's Malevolence",
-      "BaseType": "Velvet Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Doedre's Tenure",
       "BaseType": "Velvet Gloves",
       "Special": null,
@@ -4117,14 +3982,6 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Maloney's Nightfall",
-      "BaseType": "Blunt Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4166,15 +4023,6 @@
     }
   ],
   "Iron Mask": [
-    {
-      "Name": "Malachai's Awakening",
-      "BaseType": "Iron Mask",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Malachai's Simula",
       "BaseType": "Iron Mask",
@@ -4311,15 +4159,6 @@
   ],
   "Iron Circlet": [
     {
-      "Name": "Asenath's Chant",
-      "BaseType": "Iron Circlet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Asenath's Mark",
       "BaseType": "Iron Circlet",
       "Special": null,
@@ -4337,15 +4176,6 @@
     }
   ],
   "Sharktooth Arrow Quiver": [
-    {
-      "Name": "Hyrri's Demise",
-      "BaseType": "Sharktooth Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Hyrri's Bite",
       "BaseType": "Sharktooth Arrow Quiver",
@@ -4396,15 +4226,6 @@
     }
   ],
   "Goathide Gloves": [
-    {
-      "Name": "Hrimburn",
-      "BaseType": "Goathide Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Hrimsorrow",
       "BaseType": "Goathide Gloves",
@@ -5545,15 +5366,6 @@
   ],
   "Ironscale Boots": [
     {
-      "Name": "Duskblight",
-      "BaseType": "Ironscale Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Dusktoe",
       "BaseType": "Ironscale Boots",
       "Special": null,
@@ -5586,25 +5398,6 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Strapped Leather": [
-    {
-      "Name": "Wildwrap",
-      "BaseType": "Strapped Leather",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
-      "Name": "Briskwrap",
-      "BaseType": "Strapped Leather",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.3,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -6282,15 +6075,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Worldcarver",
-      "BaseType": "Dragonscale Gauntlets",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
     }
   ],
   "Sharkskin Boots": [
@@ -6300,17 +6084,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Visored Sallet": [
-    {
-      "Name": "The Peregrine",
-      "BaseType": "Visored Sallet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -6414,17 +6187,6 @@
       "Special": null,
       "Aspects": [
         null
-      ]
-    }
-  ],
-  "Full Scale Armour": [
-    {
-      "Name": "Viper's Scales",
-      "BaseType": "Full Scale Armour",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -7113,12 +6875,6 @@
       "Aspects": [
         null
       ]
-    },
-    {
-      "Name": "Karui Charge",
-      "BaseType": "Jade Amulet",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Amber Amulet": [
@@ -7138,15 +6894,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":389.89,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
-      ]
-    },
-    {
-      "Name": "Blood of Corruption",
-      "BaseType": "Amber Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -8185,18 +7932,6 @@
       ]
     }
   ],
-  "Ruby Amulet": [
-    {
-      "Name": "Star of Wraeclast",
-      "BaseType": "Ruby Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Moonstone Ring": [
     {
       "Name": "Shavronne's Revelation",
@@ -8259,15 +7994,6 @@
   ],
   "Coral Ring": [
     {
-      "Name": "Kaom's Way",
-      "BaseType": "Coral Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Winterweave",
       "BaseType": "Coral Ring",
       "Special": null,
@@ -8290,12 +8016,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Bloodboil",
-      "BaseType": "Coral Ring",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Rotfeather Talisman": [
@@ -8462,24 +8182,6 @@
   ],
   "Studded Belt": [
     {
-      "Name": "The Tactician",
-      "BaseType": "Studded Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
-      "Name": "The Nomad",
-      "BaseType": "Studded Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":6.22,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Ryslatha's Coil",
       "BaseType": "Studded Belt",
       "Special": null,
@@ -8507,14 +8209,6 @@
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Ngamahu Tiki",
-      "BaseType": "Coral Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -8670,12 +8364,6 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
-    },
-    {
-      "Name": "Voidheart",
-      "BaseType": "Iron Ring",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Paua Ring": [
@@ -8771,6 +8459,12 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
+    },
+    {
+      "Name": "Original Sin",
+      "BaseType": "Amethyst Ring",
+      "Special": null,
+      "Aspects": []
     }
   ],
   "Black Maw Talisman": [
@@ -9061,17 +8755,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Loricated Ringmail": [
-    {
-      "Name": "Rotting Legion",
-      "BaseType": "Loricated Ringmail",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -9552,15 +9235,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "The Signal Fire",
-      "BaseType": "Blazing Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
