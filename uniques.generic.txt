@@ -127,7 +127,6 @@
       "BaseType": "Imperial Bow",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":49.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
@@ -138,7 +137,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -487,15 +487,6 @@
   ],
   "Death Bow": [
     {
-      "Name": "Death's Opus",
-      "BaseType": "Death Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
-    {
       "Name": "Death's Harp",
       "BaseType": "Death Bow",
       "Special": null,
@@ -660,12 +651,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Realm Ender",
-      "BaseType": "Iron Staff",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Rusted Sword": [
@@ -715,12 +700,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "The Gryphon",
-      "BaseType": "Jade Hatchet",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Reaver Sword": [
@@ -739,24 +718,9 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "The Dancing Duo",
-      "BaseType": "Reaver Sword",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Royal Bow": [
-    {
-      "Name": "Doomfletch's Prism",
-      "BaseType": "Royal Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Doomfletch",
       "BaseType": "Royal Bow",
@@ -802,12 +766,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Silverbough",
-      "BaseType": "Crude Bow",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Woodsplitter": [
@@ -828,12 +786,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Corona Solaris",
-      "BaseType": "Crystal Wand",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Blood Sceptre": [
@@ -1027,12 +979,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Dreadsurge",
-      "BaseType": "Cleaver",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Ritual Sceptre": [
@@ -1163,12 +1109,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.39,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Sanguine Gambol",
-      "BaseType": "Skinning Knife",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Void Axe": [
@@ -1200,12 +1140,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.39,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Hrimnor's Dirge",
-      "BaseType": "Sledgehammer",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Gnarled Branch": [
@@ -1241,12 +1175,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Mirebough",
-      "BaseType": "Gnarled Branch",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Terror Claw": [
@@ -1269,15 +1197,6 @@
     }
   ],
   "Spiraled Wand": [
-    {
-      "Name": "Amplification Rod",
-      "BaseType": "Spiraled Wand",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    },
     {
       "Name": "Tulborn",
       "BaseType": "Spiraled Wand",
@@ -1313,7 +1232,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -1566,23 +1486,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Panquetzaliztli",
-      "BaseType": "Jagged Maul",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Variscite Blade": [
-    {
-      "Name": "Story of the Vaal",
-      "BaseType": "Variscite Blade",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
     }
   ],
   "Abyssal Axe": [
@@ -1638,7 +1541,9 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -1683,7 +1588,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -2320,16 +2226,6 @@
       ]
     }
   ],
-  "Sundering Axe": [
-    {
-      "Name": "Wings of Entropy",
-      "BaseType": "Sundering Axe",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.28,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Imbued Wand": [
     {
       "Name": "Moonsorrow",
@@ -2445,25 +2341,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Long Staff": [
-    {
-      "Name": "Pillar of the Caged God",
-      "BaseType": "Long Staff",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "The Searing Touch",
-      "BaseType": "Long Staff",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-28T17:41:55.6911099+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -2828,12 +2705,6 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2428.27,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
-    },
-    {
-      "Name": "Atziri's Mirror",
-      "BaseType": "Golden Buckler",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Triumphant Lamellar": [
@@ -3125,8 +2996,7 @@
       "BaseType": "Glorious Plate",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -3231,7 +3101,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":140.8,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
       ]
     }
   ],
@@ -3242,7 +3113,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":100.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     }
   ],
@@ -3314,12 +3186,6 @@
       "Aspects": [
         null
       ]
-    },
-    {
-      "Name": "Geofri's Legacy",
-      "BaseType": "Great Crown",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Magistrate Crown": [
@@ -3536,8 +3402,7 @@
       "BaseType": "Widowsilk Robe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Special\",\"Type\":1,\"Name\":\"MapBossOnlyDropAspect\",\"UIName\":\"MapBossOnlyDrop\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -3556,7 +3421,6 @@
       "BaseType": "Carnal Boots",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
@@ -3615,7 +3479,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     },
     {
@@ -3661,7 +3525,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     },
     {
@@ -3870,15 +3735,6 @@
   ],
   "Penetrating Arrow Quiver": [
     {
-      "Name": "Voidfletcher",
-      "BaseType": "Penetrating Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
-      ]
-    },
-    {
       "Name": "Drillneck",
       "BaseType": "Penetrating Arrow Quiver",
       "Special": null,
@@ -4067,12 +3923,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Iron Heart",
-      "BaseType": "Crusader Plate",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Prophet Crown": [
@@ -4317,7 +4167,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     },
     {
@@ -4338,12 +4188,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "The Oak",
-      "BaseType": "Plank Kite Shield",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Clasped Boots": [
@@ -4354,12 +4198,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Sunspite",
-      "BaseType": "Clasped Boots",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Assassin's Boots": [
@@ -4419,12 +4257,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Deidbellow",
-      "BaseType": "Gilded Sallet",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Destiny Leather": [
@@ -4482,7 +4314,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -4506,12 +4339,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Wall of Brambles",
-      "BaseType": "Plate Vest",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Ancient Gauntlets": [
@@ -4703,12 +4530,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Martyr's Crown",
-      "BaseType": "Vine Circlet",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Scholar Boots": [
@@ -4719,12 +4540,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Shavronne's Gambit",
-      "BaseType": "Scholar Boots",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Spike-Point Arrow Quiver": [
@@ -4734,14 +4549,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Saemus' Gift",
-      "BaseType": "Spike-Point Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -4771,7 +4578,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -4837,7 +4644,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -4857,14 +4664,6 @@
       "Name": "Wondertrap",
       "BaseType": "Velvet Slippers",
       "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Greedtrap",
-      "BaseType": "Velvet Slippers",
-      "Special": null,
       "Aspects": []
     }
   ],
@@ -4876,21 +4675,9 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Fox's Fortune",
-      "BaseType": "Wild Leather",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Ancient Spirit Shield": [
-    {
-      "Name": "Apep's Slumber",
-      "BaseType": "Ancient Spirit Shield",
-      "Special": null,
-      "Aspects": []
-    },
     {
       "Name": "Kongming's Stratagem",
       "BaseType": "Ancient Spirit Shield",
@@ -4993,8 +4780,7 @@
       "BaseType": "Sinner Tricorne",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     },
     {
@@ -5014,12 +4800,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.12,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Cragfall",
-      "BaseType": "Serrated Arrow Quiver",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Astral Plate": [
@@ -5050,12 +4830,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Ezomyte Hold",
-      "BaseType": "Iron Hat",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Deicide Mask": [
@@ -5095,12 +4869,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Kaltensoul",
-      "BaseType": "Painted Buckler",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Festival Mask": [
@@ -5241,12 +5009,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Thirst for Horrors",
-      "BaseType": "War Buckler",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Necromancer Silks": [
@@ -5300,24 +5062,6 @@
       ]
     }
   ],
-  "Sorcerer Gloves": [
-    {
-      "Name": "Allelopathy",
-      "BaseType": "Sorcerer Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Replica Allelopathy",
-      "BaseType": "Sorcerer Gloves",
-      "Special": null,
-      "Aspects": [
-        null
-      ]
-    }
-  ],
   "Nubuck Gloves": [
     {
       "Name": "Oskarm",
@@ -5360,7 +5104,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     }
   ],
@@ -5382,12 +5127,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
-    },
-    {
-      "Name": "Crystal Vault",
-      "BaseType": "Latticed Ringmail",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Hydrascale Boots": [
@@ -5447,27 +5186,7 @@
       ]
     }
   ],
-  "Shackled Boots": [
-    {
-      "Name": "Dance of the Offered",
-      "BaseType": "Shackled Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Strapped Mitts": [
-    {
-      "Name": "Architect's Hand",
-      "BaseType": "Strapped Mitts",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
     {
       "Name": "Facebreaker",
       "BaseType": "Strapped Mitts",
@@ -5560,7 +5279,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     },
     {
@@ -5600,17 +5319,6 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":10.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
-      ]
-    }
-  ],
-  "Crusader Helmet": [
-    {
-      "Name": "Mask of the Spirit Drinker",
-      "BaseType": "Crusader Helmet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.96,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -5765,31 +5473,10 @@
       ]
     }
   ],
-  "Burnished Spiked Shield": [
-    {
-      "Name": "Glitterdisc",
-      "BaseType": "Burnished Spiked Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
-      ]
-    }
-  ],
   "Corrugated Buckler": [
     {
       "Name": "Great Old One's Ward",
       "BaseType": "Corrugated Buckler",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Samite Helmet": [
-    {
-      "Name": "Hrimnor's Resolve",
-      "BaseType": "Samite Helmet",
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
@@ -5813,17 +5500,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ivory Spirit Shield": [
-    {
-      "Name": "Kongming's Stratagem",
-      "BaseType": "Ivory Spirit Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -5910,22 +5586,6 @@
     }
   ],
   "Broadhead Arrow Quiver": [
-    {
-      "Name": "Rearguard",
-      "BaseType": "Broadhead Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Scorpion's Call",
-      "BaseType": "Broadhead Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
     {
       "Name": "Steelworm",
       "BaseType": "Broadhead Arrow Quiver",
@@ -6063,7 +5723,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -6112,7 +5773,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -6276,7 +5938,9 @@
       "BaseType": "Sage's Robe",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     },
     {
@@ -7305,7 +6969,6 @@
       "BaseType": "Gold Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
         "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":80.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
@@ -7405,8 +7068,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -7435,8 +7097,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":79.73,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -7540,7 +7201,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":70.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -7661,7 +7323,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -7742,8 +7404,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -7780,15 +7441,6 @@
       ]
     },
     {
-      "Name": "String of Servitude",
-      "BaseType": "Heavy Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
       "Name": "Siegebreaker",
       "BaseType": "Heavy Belt",
       "Special": null,
@@ -7819,7 +7471,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
@@ -7839,7 +7491,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     },
     {
@@ -7848,7 +7501,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":16.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -7883,12 +7537,6 @@
       "Aspects": [
         null
       ]
-    },
-    {
-      "Name": "The Effigon",
-      "BaseType": "Gold Amulet",
-      "Special": null,
-      "Aspects": []
     }
   ],
   "Opal Ring": [
@@ -7927,8 +7575,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     }
   ],
@@ -7967,17 +7614,12 @@
       ]
     },
     {
-      "Name": "Timetwist",
-      "BaseType": "Moonstone Ring",
-      "Special": null,
-      "Aspects": []
-    },
-    {
       "Name": "Anathema",
       "BaseType": "Moonstone Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     }
   ],
@@ -8071,7 +7713,8 @@
       "BaseType": "Cloth Belt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -8431,7 +8074,8 @@
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7402332+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}"
       ]
     },
     {
@@ -8457,14 +8101,19 @@
       "BaseType": "Amethyst Ring",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     },
     {
       "Name": "Original Sin",
       "BaseType": "Amethyst Ring",
       "Special": null,
-      "Aspects": []
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"UncommonAspect\",\"UIName\":\"Uncommon\"}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+      ]
     }
   ],
   "Black Maw Talisman": [
@@ -8799,17 +8448,6 @@
       ]
     }
   ],
-  "Fossilised Spirit Shield": [
-    {
-      "Name": "Manastorm",
-      "BaseType": "Fossilised Spirit Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
-      ]
-    }
-  ],
   "Shagreen Gloves": [
     {
       "Name": "Painseeker",
@@ -8837,7 +8475,8 @@
       "BaseType": "Imperial Staff Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     },
     {
@@ -8871,7 +8510,8 @@
       "BaseType": "Legion Sword Piece",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
       ]
     },
     {
@@ -9014,7 +8654,7 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonDropAspect\",\"UIName\":\"NonDrop\"}"
       ]
     }
   ],
@@ -9171,7 +8811,8 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
     }
   ],
@@ -9295,14 +8936,6 @@
       "Aspects": []
     }
   ],
-  "Fire Arrow Quiver": [
-    {
-      "Name": "Blackgleam",
-      "BaseType": "Fire Arrow Quiver",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
   "Barbute Helmet": [
     {
       "Name": "Thrillsteel",
@@ -9331,7 +8964,8 @@
       "BaseType": "Wolf Pelt",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"ItemProperties\",\"Type\":1,\"Name\":\"HighVarietyAspect\",\"UIName\":\"HighVariety\"}"
       ]
     }
   ],

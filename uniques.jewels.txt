@@ -1,0 +1,630 @@
+{
+  "Large Cluster Jewel": [
+    {
+      "Name": "Voices",
+      "BaseType": "Large Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Prismatic Jewel": [
+    {
+      "Name": "Emperor's Mastery",
+      "BaseType": "Prismatic Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Watcher's Eye",
+      "BaseType": "Prismatic Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Sublime Vision",
+      "BaseType": "Prismatic Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Anima Stone",
+      "BaseType": "Prismatic Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Crimson Jewel": [
+    {
+      "Name": "Emperor's Might",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Rain of Splinters",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Primordial Might",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Forbidden Flame",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Transcendent Flesh",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Grand Spectrum",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Inspired Learning",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Red Nightmare",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Combat Focus",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Dissolution of the Flesh",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Thread of Hope",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Split Personality",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Might of the Meek",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Immutable Force",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Replica Primordial Might",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Firesong",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Tempered Flesh",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Red Dream",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Atziri's Reign",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Efficient Training",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Inertia",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Energised Armour",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Fragility",
+      "BaseType": "Crimson Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Cobalt Jewel": [
+    {
+      "Name": "Rational Doctrine",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Emperor's Wit",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Fortress Covenant",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Endless Misery",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Transcendent Mind",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Energy From Within",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Forbidden Flesh",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Grand Spectrum",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Melding of the Flesh",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Dead Reckoning",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Combat Focus",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Blue Nightmare",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Primordial Harmony",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Balance of Terror",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Healthy Mind",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "To Dust",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Replica Reckless Defence",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Witchbane",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Unending Hunger",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Tempered Mind",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Fertile Mind",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Blue Dream",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Powerlessness",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Brute Force Solution",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Fevered Mind",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Reckless Defence",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Apex Mode",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Nadir Mode",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Soul's Wick",
+      "BaseType": "Cobalt Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Ghastly Eye Jewel": [
+    {
+      "Name": "Amanamu's Gaze",
+      "BaseType": "Ghastly Eye Jewel",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableAspect\",\"UIName\":\"Tierable\"}"
+      ]
+    }
+  ],
+  "Viridian Jewel": [
+    {
+      "Name": "Unnatural Instinct",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Stormshroud",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Intuitive Leap",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Emperor's Cunning",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Grand Spectrum",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Transcendent Spirit",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Lioneye's Fall",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Green Nightmare",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Spirit Guards",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Quickening Covenant",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Impossible Escape",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Combat Focus",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Primordial Eminence",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Pure Talent",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Green Dream",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Tempered Spirit",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Self-Flagellation",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Hidden Potential",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Careful Planning",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Fluid Motion",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Seething Fury",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Pacifism",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Golden Rule",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Chill of Corruption",
+      "BaseType": "Viridian Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Timeless Jewel": [
+    {
+      "Name": "Glorious Vanity",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Militant Faith",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Elegant Hubris",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Lethal Pride",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Brutal Restraint",
+      "BaseType": "Timeless Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Small Cluster Jewel": [
+    {
+      "Name": "One With Nothing",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Interrogation",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Calamitous Visions",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Natural Affinity",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Front Line",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Kitava's Teachings",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "The Siege",
+      "BaseType": "Small Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Medium Cluster Jewel": [
+    {
+      "Name": "Megalomaniac",
+      "BaseType": "Medium Cluster Jewel",
+      "Special": null,
+      "Aspects": []
+    }
+  ],
+  "Searching Eye Jewel": [
+    {
+      "Name": "Ulaman's Gaze",
+      "BaseType": "Searching Eye Jewel",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableAspect\",\"UIName\":\"Tierable\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Hypnotic Eye Jewel": [
+    {
+      "Name": "Kurgal's Gaze",
+      "BaseType": "Hypnotic Eye Jewel",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableAspect\",\"UIName\":\"Tierable\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+      ]
+    }
+  ],
+  "Murderous Eye Jewel": [
+    {
+      "Name": "Tecrod's Gaze",
+      "BaseType": "Murderous Eye Jewel",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
+        "{\"Group\":\"Meta\",\"Type\":7,\"Name\":\"TierableAspect\",\"UIName\":\"Tierable\"}"
+      ]
+    }
+  ]
+}
