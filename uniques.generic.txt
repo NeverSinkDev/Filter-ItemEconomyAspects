@@ -90,6 +90,15 @@
       "Aspects": [
         null
       ]
+    },
+    {
+      "Name": "Relic of the Pact",
+      "BaseType": "Sage Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+      ]
     }
   ],
   "Assassin Bow": [
@@ -438,11 +447,11 @@
       ]
     },
     {
-      "Name": "Storm Prison",
+      "Name": "Ashcaller",
       "BaseType": "Carved Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -798,16 +807,6 @@
       ]
     }
   ],
-  "Crystal Wand": [
-    {
-      "Name": "Eclipse Solaris",
-      "BaseType": "Crystal Wand",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Blood Sceptre": [
     {
       "Name": "Cerberus Limb",
@@ -942,12 +941,6 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":282.07,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
       ]
-    },
-    {
-      "Name": "Piscator's Vigil",
-      "BaseType": "Tornado Wand",
-      "Special": null,
-      "Aspects": []
     },
     {
       "Name": "Replica Tulfall",
@@ -1214,12 +1207,11 @@
       ]
     },
     {
-      "Name": "Relic of the Pact",
+      "Name": "Storm Prison",
       "BaseType": "Spiraled Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"DropType\",\"Type\":1,\"Name\":\"NonWorldDropAspect\",\"UIName\":\"NonWorldDrop\"}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -1839,6 +1831,14 @@
       "Aspects": [
         null
       ]
+    },
+    {
+      "Name": "Eclipse Solaris",
+      "BaseType": "Engraved Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7362142+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
     }
   ],
   "Flaying Knife": [
@@ -1876,17 +1876,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Demon's Horn": [
-    {
-      "Name": "Obliteration",
-      "BaseType": "Demon's Horn",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -2180,13 +2169,13 @@
       ]
     }
   ],
-  "Quartz Wand": [
+  "Omen Wand": [
     {
-      "Name": "Ashcaller",
-      "BaseType": "Quartz Wand",
+      "Name": "Apep's Rage",
+      "BaseType": "Omen Wand",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -2217,6 +2206,23 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.27,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Obliteration",
+      "BaseType": "Imbued Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-04-01T01:45:48.7392349+02:00\",\"HanadlingPrice\":0.48,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+      ]
+    },
+    {
+      "Name": "Piscator's Vigil",
+      "BaseType": "Imbued Wand",
+      "Special": null,
+      "Aspects": [
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
