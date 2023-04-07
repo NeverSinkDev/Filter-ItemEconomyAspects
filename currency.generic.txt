@@ -193,42 +193,6 @@
       ]
     }
   ],
-  "Master Cartographer's Sextant": [
-    {
-      "Name": "Master Cartographer's Sextant",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Master Cartographer's Sextant",
-      "BaseType": "Master Cartographer's Sextant",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.55,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Journeyman Cartographer's Sextant": [
-    {
-      "Name": "Journeyman Cartographer's Sextant",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Journeyman Cartographer's Sextant",
-      "BaseType": "Journeyman Cartographer's Sextant",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
   "Annulment Shard": [
     {
       "Name": "Annulment Shard",
@@ -252,24 +216,6 @@
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
-      ]
-    }
-  ],
-  "Apprentice Cartographer's Sextant": [
-    {
-      "Name": "Apprentice Cartographer's Sextant",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Apprentice Cartographer's Sextant",
-      "BaseType": "Apprentice Cartographer's Sextant",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.67,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -638,24 +584,6 @@
       "Special": null,
       "Aspects": [
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Perandus Coin": [
-    {
-      "Name": "Perandus Coin",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Perandus Coin",
-      "BaseType": "Perandus Coin",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
       ]
     }
   ],
@@ -1833,62 +1761,6 @@
     {
       "Name": "Weapon Recombinator",
       "BaseType": "Weapon Recombinator",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Transforming Power Core": [
-    {
-      "Name": "Transforming Power Core",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Transforming Power Core",
-      "BaseType": "Transforming Power Core",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Augmenting Power Core": [
-    {
-      "Name": "Augmenting Power Core",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Augmenting Power Core",
-      "BaseType": "Augmenting Power Core",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Amplifying Power Core": [
-    {
-      "Name": "Amplifying Power Core",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Amplifying Power Core",
-      "BaseType": "Amplifying Power Core",
-      "Special": null,
-      "Aspects": []
-    }
-  ],
-  "Power Core": [
-    {
-      "Name": "Power Core",
-      "BaseType": null,
-      "Special": null,
-      "Aspects": []
-    },
-    {
-      "Name": "Power Core",
-      "BaseType": "Power Core",
       "Special": null,
       "Aspects": []
     }
