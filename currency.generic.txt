@@ -1448,7 +1448,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1497,7 +1498,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1510,7 +1512,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1523,7 +1526,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1536,7 +1540,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
@@ -1549,7 +1554,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
       ]
     }
   ],
