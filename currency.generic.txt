@@ -432,7 +432,8 @@
         "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
         "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
         "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
+        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
       ]
     }
   ],

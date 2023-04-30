@@ -3817,7 +3817,8 @@
       "BaseType": "Vaal Mask",
       "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
+        "{\"Group\":\"Intent\",\"Type\":1,\"Name\":\"VaalTargetAspect\",\"UIName\":\"VaalTarget\"}"
       ]
     }
   ],
