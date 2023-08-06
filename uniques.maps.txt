@@ -3,9 +3,8 @@
     {
       "Name": "Doryani's Machinarium",
       "BaseType": "Maze Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -15,18 +14,17 @@
       "BaseType": "Harbinger Map",
       "Special": "T15",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "PreventHiding",
+        "Anchor",
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     },
     {
       "Name": "Infused Beachhead",
       "BaseType": "Harbinger Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -34,10 +32,9 @@
     {
       "Name": "The Putrid Cloister",
       "BaseType": "Museum Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -45,10 +42,9 @@
     {
       "Name": "The Vinktar Square",
       "BaseType": "Courtyard Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":34.7,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -56,10 +52,9 @@
     {
       "Name": "Mao Kun",
       "BaseType": "Shore Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -67,10 +62,9 @@
     {
       "Name": "Vaults of Atziri",
       "BaseType": "Vaal Pyramid Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -78,10 +72,9 @@
     {
       "Name": "The Twilight Temple",
       "BaseType": "Moon Temple Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -89,10 +82,9 @@
     {
       "Name": "Poorjoy's Asylum",
       "BaseType": "Temple Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -100,10 +92,9 @@
     {
       "Name": "Hall of Grandmasters",
       "BaseType": "Promenade Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -111,10 +102,9 @@
     {
       "Name": "Olmec's Sanctum",
       "BaseType": "Bone Crypt Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -122,10 +112,9 @@
     {
       "Name": "Hallowed Ground",
       "BaseType": "Cemetery Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -133,10 +122,9 @@
     {
       "Name": "Caer Blaidd, Wolfpack's Den",
       "BaseType": "Underground River Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -144,10 +132,9 @@
     {
       "Name": "Death and Taxes",
       "BaseType": "Necropolis Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -155,10 +142,9 @@
     {
       "Name": "Oba's Cursed Trove",
       "BaseType": "Underground Sea Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -166,10 +152,9 @@
     {
       "Name": "Acton's Nightmare",
       "BaseType": "Overgrown Shrine Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -177,10 +162,9 @@
     {
       "Name": "The Coward's Trial",
       "BaseType": "Cursed Crypt Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":26.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -188,10 +172,9 @@
     {
       "Name": "Maelström of Chaos",
       "BaseType": "Atoll Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.6,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -199,16 +182,14 @@
     {
       "Name": "Pillars of Arun",
       "BaseType": "Dunes Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     },
     {
       "Name": "Replica Pillars of Arun",
       "BaseType": "Dunes Map",
-      "Special": null,
       "Aspects": []
     }
   ],
@@ -216,10 +197,9 @@
     {
       "Name": "Whakawairua Tuahu",
       "BaseType": "Strand Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-01-24T12:51:24.4336751+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "EarlyLeagueInterest",
+        "Handled"
       ]
     }
   ],
@@ -227,42 +207,44 @@
     {
       "Name": "Cortex",
       "BaseType": "Synthesised Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Altered Distant Memory",
       "BaseType": "Synthesised Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Twisted Distant Memory",
       "BaseType": "Synthesised Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Rewritten Distant Memory",
       "BaseType": "Synthesised Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Augmented Distant Memory",
       "BaseType": "Synthesised Map",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
+    }
+  ],
+  "Engraved Ultimatum": [
+    {
+      "Name": "The Tower of Ordeals",
+      "BaseType": "Engraved Ultimatum",
+      "Aspects": []
     }
   ]
 }

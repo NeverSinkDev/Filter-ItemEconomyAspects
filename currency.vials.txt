@@ -2,90 +2,79 @@
   "Vial of the Ghost": [
     {
       "Name": "Vial of the Ghost",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":420.34,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Sacrifice": [
     {
       "Name": "Vial of Sacrifice",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":109.05,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Vial of Sacrifice",
+      "BaseType": "Vial of Sacrifice",
+      "Aspects": [
+        "Handled"
       ]
     }
   ],
   "Vial of Summoning": [
     {
       "Name": "Vial of Summoning",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":58.81,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Transcendence": [
     {
       "Name": "Vial of Transcendence",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":50.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Awakening": [
     {
       "Name": "Vial of Awakening",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":19.07,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Consequence": [
     {
       "Name": "Vial of Consequence",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":19.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Dominance": [
     {
       "Name": "Vial of Dominance",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of the Ritual": [
     {
       "Name": "Vial of the Ritual",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vial of Fate": [
     {
       "Name": "Vial of Fate",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-02-23T17:45:49.2923421+01:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ]

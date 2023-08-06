@@ -2,253 +2,203 @@
   "Fractured Fossil": [
     {
       "Name": "Fractured Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Faceted Fossil": [
     {
       "Name": "Faceted Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hollow Fossil": [
     {
       "Name": "Hollow Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bloodstained Fossil": [
     {
       "Name": "Bloodstained Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Sanctified Fossil": [
     {
       "Name": "Sanctified Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Glyphic Fossil": [
     {
       "Name": "Glyphic Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dense Fossil": [
     {
       "Name": "Dense Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "PreventHiding",
+        "Handled"
       ]
     }
   ],
   "Gilded Fossil": [
     {
       "Name": "Gilded Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Tangled Fossil": [
     {
       "Name": "Tangled Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shuddering Fossil": [
     {
       "Name": "Shuddering Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Prismatic Fossil": [
     {
       "Name": "Prismatic Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Aetheric Fossil": [
     {
       "Name": "Aetheric Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pristine Fossil": [
     {
       "Name": "Pristine Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "PreventHiding",
+        "Handled"
       ]
     }
   ],
   "Perfect Fossil": [
     {
       "Name": "Perfect Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Serrated Fossil": [
     {
       "Name": "Serrated Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frigid Fossil": [
     {
       "Name": "Frigid Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bound Fossil": [
     {
       "Name": "Bound Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Metallic Fossil": [
     {
       "Name": "Metallic Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Jagged Fossil": [
     {
       "Name": "Jagged Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "PreventHiding",
+        "Handled"
       ]
     }
   ],
   "Aberrant Fossil": [
     {
       "Name": "Aberrant Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Scorched Fossil": [
     {
       "Name": "Scorched Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Corroded Fossil": [
     {
       "Name": "Corroded Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lucent Fossil": [
     {
       "Name": "Lucent Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Deft Fossil": [
     {
       "Name": "Deft Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fundamental Fossil": [
     {
       "Name": "Fundamental Fossil",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ]

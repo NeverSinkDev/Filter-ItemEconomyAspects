@@ -2,269 +2,227 @@
   "Geomancer's Incubator": [
     {
       "Name": "Geomancer's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":39.07,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "PreventHiding",
+        "Anchor"
       ]
     }
   ],
   "Time-Lost Incubator": [
     {
       "Name": "Time-Lost Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":33.92,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "PreventHiding"
+      ]
+    },
+    {
+      "Name": "Time-Lost Incubator",
+      "BaseType": "Time-Lost Incubator",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
   "Thaumaturge's Incubator": [
     {
       "Name": "Thaumaturge's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":9.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
   "Obscured Incubator": [
     {
       "Name": "Obscured Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Otherworldly Incubator": [
     {
       "Name": "Otherworldly Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
   "Celestial Jeweller's Incubator": [
     {
       "Name": "Celestial Jeweller's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.88,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "PoorDrop",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Celestial Armoursmith's Incubator": [
     {
       "Name": "Celestial Armoursmith's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "PoorDrop",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Foreboding Incubator": [
     {
       "Name": "Foreboding Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Celestial Blacksmith's Incubator": [
     {
       "Name": "Celestial Blacksmith's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "PoorDrop",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Ornate Incubator": [
     {
       "Name": "Ornate Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Infused Incubator": [
     {
       "Name": "Infused Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Skittering Incubator": [
     {
       "Name": "Skittering Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Singular Incubator": [
     {
       "Name": "Singular Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Primal Incubator": [
     {
       "Name": "Primal Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
   "Enchanted Incubator": [
     {
       "Name": "Enchanted Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Cartographer's Incubator": [
     {
       "Name": "Cartographer's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
   "Diviner's Incubator": [
     {
       "Name": "Diviner's Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
   "Fossilised Incubator": [
     {
       "Name": "Fossilised Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mysterious Incubator": [
     {
       "Name": "Mysterious Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
   "Fragmented Incubator": [
     {
       "Name": "Fragmented Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
   "Abyssal Incubator": [
     {
       "Name": "Abyssal Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-06-12T19:44:38.3940451+02:00\",\"HanadlingPrice\":0.87,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "PoorDrop",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Morphing Incubator": [
     {
       "Name": "Morphing Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:45.630644+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maddening Incubator": [
     {
       "Name": "Maddening Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:45.630644+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blighted Incubator": [
     {
       "Name": "Blighted Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:45.630644+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Kalguuran Incubator": [
     {
       "Name": "Kalguuran Incubator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ]

@@ -2,109 +2,87 @@
   "Maven's Invitation: The Formed": [
     {
       "Name": "Maven's Invitation: The Formed",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":57.61,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Twisted": [
     {
       "Name": "Maven's Invitation: The Twisted",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":50.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Hidden": [
     {
       "Name": "Maven's Invitation: The Hidden",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":28.02,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Feared": [
     {
       "Name": "Maven's Invitation: The Feared",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":21.09,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Forgotten": [
     {
       "Name": "Maven's Invitation: The Forgotten",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-03-29T15:16:48.3003131+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Elderslayers": [
     {
       "Name": "Maven's Invitation: The Elderslayers",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Screaming Invitation": [
     {
       "Name": "Screaming Invitation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Incandescent Invitation": [
     {
       "Name": "Incandescent Invitation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Polaric Invitation": [
     {
       "Name": "Polaric Invitation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maven's Invitation: The Atlas": [
     {
       "Name": "Maven's Invitation: The Atlas",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
   "Writhing Invitation": [
     {
       "Name": "Writhing Invitation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ]

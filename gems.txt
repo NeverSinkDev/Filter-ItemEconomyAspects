@@ -2,4914 +2,4652 @@
   "Storm Call": [
     {
       "Name": "Storm Call",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Purity of Lightning": [
     {
       "Name": "Purity of Lightning",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Smite": [
     {
       "Name": "Smite",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Skeletons": [
     {
       "Name": "Summon Skeletons",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Discipline": [
     {
       "Name": "Discipline",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Multistrike Support": [
     {
       "Name": "Awakened Multistrike Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Spell Echo Support": [
     {
       "Name": "Awakened Spell Echo Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Grace": [
     {
       "Name": "Vaal Grace",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Precision": [
     {
       "Name": "Precision",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Greater Multiple Projectiles Support": [
     {
       "Name": "Awakened Greater Multiple Projectiles Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Toxic Rain": [
     {
       "Name": "Toxic Rain",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Chain Support": [
     {
       "Name": "Awakened Chain Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Purity of Ice": [
     {
       "Name": "Purity of Ice",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Wrath": [
     {
       "Name": "Wrath",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Haste": [
     {
       "Name": "Vaal Haste",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Fork Support": [
     {
       "Name": "Awakened Fork Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Unleash Support": [
     {
       "Name": "Awakened Unleash Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Elemental Damage with Attacks Support": [
     {
       "Name": "Awakened Elemental Damage with Attacks Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Brutality Support": [
     {
       "Name": "Awakened Brutality Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Hextouch Support": [
     {
       "Name": "Awakened Hextouch Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Discipline": [
     {
       "Name": "Vaal Discipline",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Generosity Support": [
     {
       "Name": "Awakened Generosity Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Anger": [
     {
       "Name": "Anger",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Impurity of Ice": [
     {
       "Name": "Vaal Impurity of Ice",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Controlled Destruction Support": [
     {
       "Name": "Awakened Controlled Destruction Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Cast On Critical Strike Support": [
     {
       "Name": "Awakened Cast On Critical Strike Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Spell Cascade Support": [
     {
       "Name": "Awakened Spell Cascade Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Concentrated Effect Support": [
     {
       "Name": "Concentrated Effect Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Blade Vortex": [
     {
       "Name": "Vaal Blade Vortex",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Minion Damage Support": [
     {
       "Name": "Awakened Minion Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Cold Penetration Support": [
     {
       "Name": "Awakened Cold Penetration Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Added Cold Damage Support": [
     {
       "Name": "Awakened Added Cold Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Malevolence": [
     {
       "Name": "Malevolence",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Righteous Fire": [
     {
       "Name": "Vaal Righteous Fire",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Vicious Projectiles Support": [
     {
       "Name": "Awakened Vicious Projectiles Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Elemental Focus Support": [
     {
       "Name": "Awakened Elemental Focus Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Double Strike": [
     {
       "Name": "Vaal Double Strike",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Increased Area of Effect Support": [
     {
       "Name": "Awakened Increased Area of Effect Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Immortal Call": [
     {
       "Name": "Immortal Call",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Blasphemy Support": [
     {
       "Name": "Awakened Blasphemy Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Purity of Elements": [
     {
       "Name": "Purity of Elements",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Melee Physical Damage Support": [
     {
       "Name": "Awakened Melee Physical Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hexblast": [
     {
       "Name": "Hexblast",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Creeping Frost": [
     {
       "Name": "Creeping Frost",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Unbound Ailments Support": [
     {
       "Name": "Awakened Unbound Ailments Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blade Vortex": [
     {
       "Name": "Blade Vortex",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blastchain Mine Support": [
     {
       "Name": "Blastchain Mine Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Minion Speed Support": [
     {
       "Name": "Minion Speed Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Righteous Fire": [
     {
       "Name": "Righteous Fire",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Zealotry": [
     {
       "Name": "Zealotry",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Melee Splash Support": [
     {
       "Name": "Awakened Melee Splash Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Swift Affliction Support": [
     {
       "Name": "Awakened Swift Affliction Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Void Manipulation Support": [
     {
       "Name": "Awakened Void Manipulation Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Spark": [
     {
       "Name": "Vaal Spark",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Purity of Fire": [
     {
       "Name": "Purity of Fire",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bone Offering": [
     {
       "Name": "Bone Offering",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Lightning Penetration Support": [
     {
       "Name": "Awakened Lightning Penetration Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Arrow Nova Support": [
     {
       "Name": "Awakened Arrow Nova Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Fire Penetration Support": [
     {
       "Name": "Awakened Fire Penetration Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flammability": [
     {
       "Name": "Flammability",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Determination": [
     {
       "Name": "Determination",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shrapnel Ballista": [
     {
       "Name": "Shrapnel Ballista",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arc": [
     {
       "Name": "Arc",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Flame Golem": [
     {
       "Name": "Summon Flame Golem",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Added Lightning Damage Support": [
     {
       "Name": "Awakened Added Lightning Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Leap Slam": [
     {
       "Name": "Leap Slam",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spell Cascade Support": [
     {
       "Name": "Spell Cascade Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Summon Skeletons": [
     {
       "Name": "Vaal Summon Skeletons",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spark": [
     {
       "Name": "Spark",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Cast While Channelling Support": [
     {
       "Name": "Awakened Cast While Channelling Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vortex": [
     {
       "Name": "Vortex",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Grace": [
     {
       "Name": "Grace",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Tempest Shield": [
     {
       "Name": "Tempest Shield",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frost Blades": [
     {
       "Name": "Frost Blades",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Ice Nova": [
     {
       "Name": "Vaal Ice Nova",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Maim Support": [
     {
       "Name": "Maim Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Chain Support": [
     {
       "Name": "Chain Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Caustic Arrow": [
     {
       "Name": "Caustic Arrow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Poison Support": [
     {
       "Name": "Poison Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": []
     },
     {
       "Name": "Poison Support",
       "BaseType": "Poison Support",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Split Arrow": [
     {
       "Name": "Split Arrow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Swift Assembly Support": [
     {
       "Name": "Swift Assembly Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frostbolt": [
     {
       "Name": "Frostbolt",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fireball": [
     {
       "Name": "Fireball",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Herald of Thunder": [
     {
       "Name": "Herald of Thunder",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blood Rage": [
     {
       "Name": "Blood Rage",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Strike": [
     {
       "Name": "Lightning Strike",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "General's Cry": [
     {
       "Name": "General's Cry",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Added Fire Damage Support": [
     {
       "Name": "Awakened Added Fire Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Spectral Throw": [
     {
       "Name": "Vaal Spectral Throw",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Barrage": [
     {
       "Name": "Barrage",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Burning Damage Support": [
     {
       "Name": "Awakened Burning Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Deadly Ailments Support": [
     {
       "Name": "Awakened Deadly Ailments Support",
-      "BaseType": null,
       "Special": "6/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cyclone": [
     {
       "Name": "Cyclone",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Combustion Support": [
     {
       "Name": "Combustion Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Storm Brand": [
     {
       "Name": "Storm Brand",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Raise Spectre": [
     {
       "Name": "Raise Spectre",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dread Banner": [
     {
       "Name": "Dread Banner",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Winter Orb": [
     {
       "Name": "Winter Orb",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Added Chaos Damage Support": [
     {
       "Name": "Awakened Added Chaos Damage Support",
-      "BaseType": null,
       "Special": "6/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bladestorm": [
     {
       "Name": "Bladestorm",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Haste": [
     {
       "Name": "Haste",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Weakness": [
     {
       "Name": "Elemental Weakness",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Awakened Ancestral Call Support": [
     {
       "Name": "Awakened Ancestral Call Support",
-      "BaseType": null,
       "Special": "6/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pulverise Support": [
     {
       "Name": "Pulverise Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Greater Volley Support": [
     {
       "Name": "Greater Volley Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Skitterbots": [
     {
       "Name": "Summon Skitterbots",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Smoke Mine": [
     {
       "Name": "Smoke Mine",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ballista Totem Support": [
     {
       "Name": "Ballista Totem Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Impale Support": [
     {
       "Name": "Impale Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spell Totem Support": [
     {
       "Name": "Spell Totem Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Power Siphon": [
     {
       "Name": "Power Siphon",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Herald of Ash": [
     {
       "Name": "Herald of Ash",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Inspiration Support": [
     {
       "Name": "Inspiration Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hatred": [
     {
       "Name": "Hatred",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Puncture": [
     {
       "Name": "Puncture",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blood Magic Support": [
     {
       "Name": "Blood Magic Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}"
+        "Anchor"
       ]
     },
     {
       "Name": "Blood Magic Support",
       "BaseType": "Blood Magic Support",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Anchor"
       ]
     }
   ],
   "Animate Weapon": [
     {
       "Name": "Animate Weapon",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ethereal Knives": [
     {
       "Name": "Ethereal Knives",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fortify Support": [
     {
       "Name": "Fortify Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Icicle Mine": [
     {
       "Name": "Icicle Mine",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Nova": [
     {
       "Name": "Ice Nova",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Second Wind Support": [
     {
       "Name": "Second Wind Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Damage on Full Life Support": [
     {
       "Name": "Damage on Full Life Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast when Damage Taken Support": [
     {
       "Name": "Cast when Damage Taken Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Charged Mines Support": [
     {
       "Name": "Charged Mines Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Burning Arrow": [
     {
       "Name": "Burning Arrow",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shockwave Totem": [
     {
       "Name": "Shockwave Totem",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Herald of Ice": [
     {
       "Name": "Herald of Ice",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hypothermia Support": [
     {
       "Name": "Hypothermia Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bonechill Support": [
     {
       "Name": "Bonechill Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Enlighten Support": [
     {
       "Name": "Enlighten Support",
-      "BaseType": null,
       "Special": "4c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Enhance Support": [
     {
       "Name": "Enhance Support",
-      "BaseType": null,
       "Special": "4c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Sunder": [
     {
       "Name": "Sunder",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Less Duration Support": [
     {
       "Name": "Less Duration Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Carrion Golem": [
     {
       "Name": "Summon Carrion Golem",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Explosive Trap": [
     {
       "Name": "Explosive Trap",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Freezing Pulse": [
     {
       "Name": "Freezing Pulse",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lacerate": [
     {
       "Name": "Lacerate",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast On Critical Strike Support": [
     {
       "Name": "Cast On Critical Strike Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Scourge Arrow": [
     {
       "Name": "Scourge Arrow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Glacial Cascade": [
     {
       "Name": "Glacial Cascade",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Spear": [
     {
       "Name": "Ice Spear",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Holy Flame Totem": [
     {
       "Name": "Holy Flame Totem",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Kinetic Blast": [
     {
       "Name": "Kinetic Blast",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frenzy": [
     {
       "Name": "Frenzy",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Despair": [
     {
       "Name": "Despair",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frost Bomb": [
     {
       "Name": "Frost Bomb",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Impurity of Lightning": [
     {
       "Name": "Vaal Impurity of Lightning",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Earthshatter": [
     {
       "Name": "Earthshatter",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast on Death Support": [
     {
       "Name": "Cast on Death Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Earthquake": [
     {
       "Name": "Earthquake",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mirror Arrow": [
     {
       "Name": "Mirror Arrow",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flame Wall": [
     {
       "Name": "Flame Wall",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Raise Zombie": [
     {
       "Name": "Raise Zombie",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Infused Channelling Support": [
     {
       "Name": "Infused Channelling Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Trap and Mine Damage Support": [
     {
       "Name": "Trap and Mine Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Herald of Purity": [
     {
       "Name": "Herald of Purity",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Chance to Bleed Support": [
     {
       "Name": "Chance to Bleed Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rain of Arrows": [
     {
       "Name": "Rain of Arrows",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Tendrils": [
     {
       "Name": "Lightning Tendrils",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rage Support": [
     {
       "Name": "Rage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spellslinger": [
     {
       "Name": "Spellslinger",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Plague Bearer": [
     {
       "Name": "Plague Bearer",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Berserk": [
     {
       "Name": "Berserk",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Penetration Support": [
     {
       "Name": "Elemental Penetration Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vile Toxins Support": [
     {
       "Name": "Vile Toxins Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frostbite": [
     {
       "Name": "Frostbite",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vitality": [
     {
       "Name": "Vitality",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Volatile Dead": [
     {
       "Name": "Volatile Dead",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Empower Support": [
     {
       "Name": "Empower Support",
-      "BaseType": null,
       "Special": "4c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pride": [
     {
       "Name": "Pride",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast when Stunned Support": [
     {
       "Name": "Cast when Stunned Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Nightblade Support": [
     {
       "Name": "Nightblade Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "War Banner": [
     {
       "Name": "War Banner",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Ice Golem": [
     {
       "Name": "Summon Ice Golem",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arctic Armour": [
     {
       "Name": "Arctic Armour",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Added Chaos Damage Support": [
     {
       "Name": "Added Chaos Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Perforate": [
     {
       "Name": "Perforate",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Life Leech Support": [
     {
       "Name": "Life Leech Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dash": [
     {
       "Name": "Dash",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shock Nova": [
     {
       "Name": "Shock Nova",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Herald of Agony": [
     {
       "Name": "Herald of Agony",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Animate Guardian": [
     {
       "Name": "Animate Guardian",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Energy Leech Support": [
     {
       "Name": "Energy Leech Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Firestorm": [
     {
       "Name": "Firestorm",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Multiple Traps Support": [
     {
       "Name": "Multiple Traps Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Assassin's Mark": [
     {
       "Name": "Assassin's Mark",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Shot": [
     {
       "Name": "Ice Shot",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Intensify Support": [
     {
       "Name": "Intensify Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spirit Offering": [
     {
       "Name": "Spirit Offering",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Desecrate": [
     {
       "Name": "Desecrate",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Raging Spirit": [
     {
       "Name": "Summon Raging Spirit",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Arc": [
     {
       "Name": "Vaal Arc",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flame Surge": [
     {
       "Name": "Flame Surge",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Reave": [
     {
       "Name": "Reave",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Stone Golem": [
     {
       "Name": "Summon Stone Golem",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Void Sphere": [
     {
       "Name": "Void Sphere",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ruthless Support": [
     {
       "Name": "Ruthless Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Multistrike Support": [
     {
       "Name": "Multistrike Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Orb of Storms": [
     {
       "Name": "Orb of Storms",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Volley Support": [
     {
       "Name": "Volley Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Increased Critical Strikes Support": [
     {
       "Name": "Increased Critical Strikes Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Scorching Ray": [
     {
       "Name": "Scorching Ray",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Withering Touch Support": [
     {
       "Name": "Withering Touch Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blink Arrow": [
     {
       "Name": "Blink Arrow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lesser Multiple Projectiles Support": [
     {
       "Name": "Lesser Multiple Projectiles Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Molten Strike": [
     {
       "Name": "Molten Strike",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ball Lightning": [
     {
       "Name": "Ball Lightning",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Trap": [
     {
       "Name": "Ice Trap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shattering Steel": [
     {
       "Name": "Shattering Steel",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Warp": [
     {
       "Name": "Lightning Warp",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Void Manipulation Support": [
     {
       "Name": "Void Manipulation Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bane": [
     {
       "Name": "Bane",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ancestral Protector": [
     {
       "Name": "Ancestral Protector",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Increased Area of Effect Support": [
     {
       "Name": "Increased Area of Effect Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Whirling Blades": [
     {
       "Name": "Whirling Blades",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Swiftbrand Support": [
     {
       "Name": "Swiftbrand Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arcane Surge Support": [
     {
       "Name": "Arcane Surge Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Physical to Lightning Support": [
     {
       "Name": "Physical to Lightning Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Soulrend": [
     {
       "Name": "Soulrend",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Chaos Golem": [
     {
       "Name": "Summon Chaos Golem",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flame Dash": [
     {
       "Name": "Flame Dash",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ground Slam": [
     {
       "Name": "Ground Slam",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Barrage Support": [
     {
       "Name": "Barrage Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pinpoint Support": [
     {
       "Name": "Pinpoint Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Onslaught Support": [
     {
       "Name": "Onslaught Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Onslaught Support",
+      "BaseType": "Onslaught Support",
+      "Aspects": [
+        "Handled"
       ]
     }
   ],
   "Cold Penetration Support": [
     {
       "Name": "Cold Penetration Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Enfeeble": [
     {
       "Name": "Enfeeble",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Increased Critical Damage Support": [
     {
       "Name": "Increased Critical Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Efficacy Support": [
     {
       "Name": "Efficacy Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Punishment": [
     {
       "Name": "Punishment",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cold Snap": [
     {
       "Name": "Cold Snap",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flesh Offering": [
     {
       "Name": "Flesh Offering",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vulnerability": [
     {
       "Name": "Vulnerability",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lancing Steel": [
     {
       "Name": "Lancing Steel",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frostblink": [
     {
       "Name": "Frostblink",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Stun Support": [
     {
       "Name": "Stun Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Essence Drain": [
     {
       "Name": "Essence Drain",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Minion Life Support": [
     {
       "Name": "Minion Life Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frost Wall": [
     {
       "Name": "Frost Wall",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blast Rain": [
     {
       "Name": "Blast Rain",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Infernal Blow": [
     {
       "Name": "Infernal Blow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rallying Cry": [
     {
       "Name": "Rallying Cry",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Wild Strike": [
     {
       "Name": "Wild Strike",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Discharge": [
     {
       "Name": "Discharge",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Magma Orb": [
     {
       "Name": "Magma Orb",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": []
     },
     {
       "Name": "Magma Orb",
       "BaseType": "Magma Orb",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Cluster Traps Support": [
     {
       "Name": "Cluster Traps Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Heavy Strike": [
     {
       "Name": "Heavy Strike",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Burning Damage Support": [
     {
       "Name": "Burning Damage Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Stormblast Mine": [
     {
       "Name": "Stormblast Mine",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arrow Nova Support": [
     {
       "Name": "Arrow Nova Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fire Trap": [
     {
       "Name": "Fire Trap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Advanced Traps Support": [
     {
       "Name": "Advanced Traps Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Trap Support": [
     {
       "Name": "Trap Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Stormbind": [
     {
       "Name": "Stormbind",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Increased Duration Support": [
     {
       "Name": "Increased Duration Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flicker Strike": [
     {
       "Name": "Flicker Strike",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Power Charge On Critical Support": [
     {
       "Name": "Power Charge On Critical Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flesh and Stone": [
     {
       "Name": "Flesh and Stone",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arcane Cloak": [
     {
       "Name": "Arcane Cloak",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spell Echo Support": [
     {
       "Name": "Spell Echo Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Intimidating Cry": [
     {
       "Name": "Intimidating Cry",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Faster Casting Support": [
     {
       "Name": "Faster Casting Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Enduring Cry": [
     {
       "Name": "Enduring Cry",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Iron Grip Support": [
     {
       "Name": "Iron Grip Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blight": [
     {
       "Name": "Blight",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Added Fire Damage Support": [
     {
       "Name": "Added Fire Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Culling Strike Support": [
     {
       "Name": "Culling Strike Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Arrow": [
     {
       "Name": "Lightning Arrow",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Cyclone": [
     {
       "Name": "Vaal Cyclone",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dominating Blow": [
     {
       "Name": "Dominating Blow",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Reave": [
     {
       "Name": "Vaal Reave",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mirage Archer Support": [
     {
       "Name": "Mirage Archer Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Item Rarity Support": [
     {
       "Name": "Item Rarity Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Controlled Destruction Support": [
     {
       "Name": "Controlled Destruction Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blade Blast": [
     {
       "Name": "Blade Blast",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hextouch Support": [
     {
       "Name": "Hextouch Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Faster Projectiles Support": [
     {
       "Name": "Faster Projectiles Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Innervate Support": [
     {
       "Name": "Innervate Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bodyswap": [
     {
       "Name": "Bodyswap",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Decay Support": [
     {
       "Name": "Decay Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Bite Support": [
     {
       "Name": "Ice Bite Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Splitting Steel": [
     {
       "Name": "Splitting Steel",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bladefall": [
     {
       "Name": "Bladefall",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cold to Fire Support": [
     {
       "Name": "Cold to Fire Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Reckoning": [
     {
       "Name": "Reckoning",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Sigil of Power": [
     {
       "Name": "Sigil of Power",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Viper Strike": [
     {
       "Name": "Viper Strike",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Hit": [
     {
       "Name": "Elemental Hit",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Clarity": [
     {
       "Name": "Clarity",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Penetration Support": [
     {
       "Name": "Lightning Penetration Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Brutality Support": [
     {
       "Name": "Brutality Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Brand Recall": [
     {
       "Name": "Brand Recall",
-      "BaseType": null,
       "Special": "7c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "High-Impact Mine Support": [
     {
       "Name": "High-Impact Mine Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ancestral Warchief": [
     {
       "Name": "Ancestral Warchief",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ignite Proliferation Support": [
     {
       "Name": "Ignite Proliferation Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast while Channelling Support": [
     {
       "Name": "Cast while Channelling Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Withering Step": [
     {
       "Name": "Withering Step",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Seismic Cry": [
     {
       "Name": "Seismic Cry",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Divine Ire": [
     {
       "Name": "Divine Ire",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Archmage Support": [
     {
       "Name": "Archmage Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Armageddon Brand": [
     {
       "Name": "Armageddon Brand",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Infernal Cry": [
     {
       "Name": "Infernal Cry",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Devouring Totem": [
     {
       "Name": "Devouring Totem",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Temporal Chains": [
     {
       "Name": "Temporal Chains",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fork Support": [
     {
       "Name": "Fork Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fire Penetration Support": [
     {
       "Name": "Fire Penetration Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Blight": [
     {
       "Name": "Vaal Blight",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Predator Support": [
     {
       "Name": "Predator Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Detonate Dead": [
     {
       "Name": "Detonate Dead",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Tectonic Slam": [
     {
       "Name": "Tectonic Slam",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Molten Shell": [
     {
       "Name": "Vaal Molten Shell",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Kinetic Bolt": [
     {
       "Name": "Kinetic Bolt",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Crackling Lance": [
     {
       "Name": "Crackling Lance",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vicious Projectiles Support": [
     {
       "Name": "Vicious Projectiles Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blazing Salvo": [
     {
       "Name": "Blazing Salvo",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Unbound Ailments Support": [
     {
       "Name": "Unbound Ailments Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Point Blank Support": [
     {
       "Name": "Point Blank Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Holy Relic": [
     {
       "Name": "Summon Holy Relic",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Summon Holy Relic",
+      "BaseType": "Summon Holy Relic",
+      "Aspects": [
+        "Handled"
       ]
     }
   ],
   "Penance Brand": [
     {
       "Name": "Penance Brand",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Unleash Support": [
     {
       "Name": "Unleash Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Charged Dash": [
     {
       "Name": "Charged Dash",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Greater Multiple Projectiles Support": [
     {
       "Name": "Greater Multiple Projectiles Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Trap": [
     {
       "Name": "Lightning Trap",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Contagion": [
     {
       "Name": "Contagion",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spectral Shield Throw": [
     {
       "Name": "Spectral Shield Throw",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Wintertide Brand": [
     {
       "Name": "Wintertide Brand",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blasphemy Support": [
     {
       "Name": "Blasphemy Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pyroclast Mine": [
     {
       "Name": "Pyroclast Mine",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Decoy Totem": [
     {
       "Name": "Decoy Totem",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Unearth": [
     {
       "Name": "Unearth",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vengeance": [
     {
       "Name": "Vengeance",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shockwave Support": [
     {
       "Name": "Shockwave Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Glacial Hammer": [
     {
       "Name": "Glacial Hammer",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cleave": [
     {
       "Name": "Cleave",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Phase Run": [
     {
       "Name": "Phase Run",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Convocation": [
     {
       "Name": "Convocation",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Immolate Support": [
     {
       "Name": "Immolate Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Additional Accuracy Support": [
     {
       "Name": "Additional Accuracy Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Feeding Frenzy Support": [
     {
       "Name": "Feeding Frenzy Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Phantasm Support": [
     {
       "Name": "Summon Phantasm Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Chance to Flee Support": [
     {
       "Name": "Chance to Flee Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Venom Gyre": [
     {
       "Name": "Venom Gyre",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bloodlust Support": [
     {
       "Name": "Bloodlust Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Life Gain on Hit Support": [
     {
       "Name": "Life Gain on Hit Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Melee Physical Damage Support": [
     {
       "Name": "Melee Physical Damage Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mana Leech Support": [
     {
       "Name": "Mana Leech Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Steelskin": [
     {
       "Name": "Steelskin",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Explosive Arrow": [
     {
       "Name": "Explosive Arrow",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ice Crash": [
     {
       "Name": "Ice Crash",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pierce Support": [
     {
       "Name": "Pierce Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Burning Arrow": [
     {
       "Name": "Vaal Burning Arrow",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Sweep": [
     {
       "Name": "Sweep",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Meat Shield Support": [
     {
       "Name": "Meat Shield Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Galvanic Arrow": [
     {
       "Name": "Galvanic Arrow",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arcanist Brand": [
     {
       "Name": "Arcanist Brand",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cast on Melee Kill Support": [
     {
       "Name": "Cast on Melee Kill Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Block Chance Reduction Support": [
     {
       "Name": "Block Chance Reduction Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Artillery Ballista": [
     {
       "Name": "Artillery Ballista",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Sniper's Mark": [
     {
       "Name": "Sniper's Mark",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blind Support": [
     {
       "Name": "Blind Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cobra Lash": [
     {
       "Name": "Cobra Lash",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Added Cold Damage Support": [
     {
       "Name": "Added Cold Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dark Pact": [
     {
       "Name": "Dark Pact",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Minefield Support": [
     {
       "Name": "Minefield Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Wither": [
     {
       "Name": "Wither",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Frost Shield": [
     {
       "Name": "Frost Shield",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cremation": [
     {
       "Name": "Cremation",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Purifying Flame": [
     {
       "Name": "Purifying Flame",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Storm Burst": [
     {
       "Name": "Storm Burst",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lightning Spire Trap": [
     {
       "Name": "Lightning Spire Trap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Army Support": [
     {
       "Name": "Elemental Army Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lesser Poison Support": [
     {
       "Name": "Lesser Poison Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": []
     },
     {
       "Name": "Lesser Poison Support",
       "BaseType": "Lesser Poison Support",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Summon Lightning Golem": [
     {
       "Name": "Summon Lightning Golem",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Fist of War Support": [
     {
       "Name": "Fist of War Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Close Combat Support": [
     {
       "Name": "Close Combat Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Slower Projectiles Support": [
     {
       "Name": "Slower Projectiles Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Generosity Support": [
     {
       "Name": "Generosity Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Damage with Attacks Support": [
     {
       "Name": "Elemental Damage with Attacks Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Knockback Support": [
     {
       "Name": "Knockback Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Static Strike": [
     {
       "Name": "Static Strike",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Iron Will Support": [
     {
       "Name": "Iron Will Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Searing Bond": [
     {
       "Name": "Searing Bond",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Siphoning Trap": [
     {
       "Name": "Siphoning Trap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Multiple Totems Support": [
     {
       "Name": "Multiple Totems Support",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Urgent Orders Support": [
     {
       "Name": "Urgent Orders Support",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Added Lightning Damage Support": [
     {
       "Name": "Added Lightning Damage Support",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Seismic Trap": [
     {
       "Name": "Seismic Trap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spectral Throw": [
     {
       "Name": "Spectral Throw",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Conductivity": [
     {
       "Name": "Conductivity",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Charged Traps Support": [
     {
       "Name": "Charged Traps Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Wave of Conviction": [
     {
       "Name": "Wave of Conviction",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Minion Damage Support": [
     {
       "Name": "Minion Damage Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blade Flurry": [
     {
       "Name": "Blade Flurry",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Siege Ballista": [
     {
       "Name": "Siege Ballista",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Proliferation Support": [
     {
       "Name": "Elemental Proliferation Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Rain of Arrows": [
     {
       "Name": "Vaal Rain of Arrows",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ancestral Call Support": [
     {
       "Name": "Ancestral Call Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Endurance Charge on Melee Stun Support": [
     {
       "Name": "Endurance Charge on Melee Stun Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Consecrated Path": [
     {
       "Name": "Consecrated Path",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Swift Affliction Support": [
     {
       "Name": "Swift Affliction Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Tornado Shot": [
     {
       "Name": "Tornado Shot",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shield Charge": [
     {
       "Name": "Shield Charge",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Conversion Trap": [
     {
       "Name": "Conversion Trap",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Molten Shell": [
     {
       "Name": "Molten Shell",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vigilant Strike": [
     {
       "Name": "Vigilant Strike",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Storm Call": [
     {
       "Name": "Vaal Storm Call",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elemental Focus Support": [
     {
       "Name": "Elemental Focus Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Faster Attacks Support": [
     {
       "Name": "Faster Attacks Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Warlord's Mark": [
     {
       "Name": "Warlord's Mark",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Riposte": [
     {
       "Name": "Riposte",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ancestral Cry": [
     {
       "Name": "Ancestral Cry",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Melee Splash Support": [
     {
       "Name": "Melee Splash Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Ancestral Warchief": [
     {
       "Name": "Vaal Ancestral Warchief",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Chain Hook": [
     {
       "Name": "Chain Hook",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Deadly Ailments Support": [
     {
       "Name": "Deadly Ailments Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Pestilent Strike": [
     {
       "Name": "Pestilent Strike",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Lightning Trap": [
     {
       "Name": "Vaal Lightning Trap",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rejuvenation Totem": [
     {
       "Name": "Rejuvenation Totem",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bear Trap": [
     {
       "Name": "Bear Trap",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Impurity of Fire": [
     {
       "Name": "Vaal Impurity of Fire",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Infernal Legion Support": [
     {
       "Name": "Infernal Legion Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Dual Strike": [
     {
       "Name": "Dual Strike",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Incinerate": [
     {
       "Name": "Incinerate",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Lightning Strike": [
     {
       "Name": "Vaal Lightning Strike",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Poacher's Mark": [
     {
       "Name": "Poacher's Mark",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Double Strike": [
     {
       "Name": "Double Strike",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ensnaring Arrow": [
     {
       "Name": "Ensnaring Arrow",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Impending Doom Support": [
     {
       "Name": "Impending Doom Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Fireball": [
     {
       "Name": "Vaal Fireball",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flameblast": [
     {
       "Name": "Flameblast",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Clarity": [
     {
       "Name": "Vaal Clarity",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Power Siphon": [
     {
       "Name": "Vaal Power Siphon",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Cold Snap": [
     {
       "Name": "Vaal Cold Snap",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Ground Slam": [
     {
       "Name": "Vaal Ground Slam",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Earthquake": [
     {
       "Name": "Vaal Earthquake",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Detonate Dead": [
     {
       "Name": "Vaal Detonate Dead",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blood and Sand": [
     {
       "Name": "Blood and Sand",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flamethrower Trap": [
     {
       "Name": "Flamethrower Trap",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Glacial Hammer": [
     {
       "Name": "Vaal Glacial Hammer",
-      "BaseType": null,
       "Special": "20/20c",
       "Aspects": []
     },
     {
       "Name": "Vaal Glacial Hammer",
       "BaseType": "Vaal Glacial Hammer",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vaal Flameblast": [
     {
       "Name": "Vaal Flameblast",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Portal": [
     {
       "Name": "Portal",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Detonate Mines": [
     {
       "Name": "Detonate Mines",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rolling Magma": [
     {
       "Name": "Rolling Magma",
-      "BaseType": null,
       "Special": "20/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Trinity Support": [
     {
       "Name": "Trinity Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hydrosphere": [
     {
       "Name": "Hydrosphere",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Poisonous Concoction": [
     {
       "Name": "Poisonous Concoction",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Defiance Banner": [
     {
       "Name": "Defiance Banner",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Vampiric Link": [
     {
       "Name": "Vampiric Link",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Chance to Poison Support": [
     {
       "Name": "Chance to Poison Support",
-      "BaseType": null,
       "Special": "21/23c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Behead Support": [
     {
       "Name": "Behead Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Tornado": [
     {
       "Name": "Tornado",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Absolution": [
     {
       "Name": "Absolution",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blade Trap": [
     {
       "Name": "Blade Trap",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Lifetap Support": [
     {
       "Name": "Lifetap Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Exsanguinate": [
     {
       "Name": "Exsanguinate",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Forbidden Rite": [
     {
       "Name": "Forbidden Rite",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mark On Hit Support": [
     {
       "Name": "Mark On Hit Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Earthbreaker Support": [
     {
       "Name": "Earthbreaker Support",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Corrupting Fever": [
     {
       "Name": "Corrupting Fever",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Flame Link": [
     {
       "Name": "Flame Link",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Cruelty Support": [
     {
       "Name": "Cruelty Support",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Spectral Helix": [
     {
       "Name": "Spectral Helix",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Shield Crush": [
     {
       "Name": "Shield Crush",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Reap": [
     {
       "Name": "Reap",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Intuitive Link": [
     {
       "Name": "Intuitive Link",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Petrified Blood": [
     {
       "Name": "Petrified Blood",
-      "BaseType": null,
       "Special": "20/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Boneshatter": [
     {
       "Name": "Boneshatter",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Arrogance Support": [
     {
       "Name": "Arrogance Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Manabond": [
     {
       "Name": "Manabond",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Protective Link": [
     {
       "Name": "Protective Link",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Eternal Blessing Support": [
     {
       "Name": "Eternal Blessing Support",
-      "BaseType": null,
       "Special": "21/20c",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Focused Ballista Support": [
     {
       "Name": "Focused Ballista Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Storm Rain": [
     {
       "Name": "Storm Rain",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Explosive Concoction": [
     {
       "Name": "Explosive Concoction",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Summon Reaper": [
     {
       "Name": "Summon Reaper",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Soul Link": [
     {
       "Name": "Soul Link",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Divine Blessing Support": [
     {
       "Name": "Divine Blessing Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Bloodthirst Support": [
     {
       "Name": "Bloodthirst Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Critical Strike Affliction Support": [
     {
       "Name": "Critical Strike Affliction Support",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Voltaxic Burst": [
     {
       "Name": "Voltaxic Burst",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Temporal Rift": [
     {
       "Name": "Temporal Rift",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Destructive Link": [
     {
       "Name": "Destructive Link",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Eye of Winter": [
     {
       "Name": "Eye of Winter",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Rage Vortex": [
     {
       "Name": "Rage Vortex",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Battlemage's Cry": [
     {
       "Name": "Battlemage's Cry",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Energy Blade": [
     {
       "Name": "Energy Blade",
-      "BaseType": null,
       "Special": "1",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ambush": [
     {
       "Name": "Ambush",
-      "BaseType": null,
       "Special": "1/20",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
+    }
+  ],
+  "Awakened Enlighten Support": [
+    {
+      "Name": "Awakened Enlighten Support",
+      "Special": "5/23c",
+      "Aspects": []
+    }
+  ],
+  "Awakened Enhance Support": [
+    {
+      "Name": "Awakened Enhance Support",
+      "Special": "5/23c",
+      "Aspects": []
+    }
+  ],
+  "Awakened Empower Support": [
+    {
+      "Name": "Awakened Empower Support",
+      "Special": "5/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Reap": [
+    {
+      "Name": "Vaal Reap",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Arctic Armour": [
+    {
+      "Name": "Vaal Arctic Armour",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Manaforged Arrows Support": [
+    {
+      "Name": "Manaforged Arrows Support",
+      "Special": "20/23c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Smite": [
+    {
+      "Name": "Vaal Smite",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Venom Gyre": [
+    {
+      "Name": "Vaal Venom Gyre",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Lightning Arrow": [
+    {
+      "Name": "Vaal Lightning Arrow",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Animate Weapon": [
+    {
+      "Name": "Vaal Animate Weapon",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Prismatic Burst Support": [
+    {
+      "Name": "Prismatic Burst Support",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Ice Shot": [
+    {
+      "Name": "Vaal Ice Shot",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Caustic Arrow": [
+    {
+      "Name": "Vaal Caustic Arrow",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Domination": [
+    {
+      "Name": "Vaal Domination",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Flicker Strike": [
+    {
+      "Name": "Vaal Flicker Strike",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Rejuvenation Totem": [
+    {
+      "Name": "Vaal Rejuvenation Totem",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Momentum Support": [
+    {
+      "Name": "Momentum Support",
+      "Special": "21c",
+      "Aspects": []
+    }
+  ],
+  "Galvanic Field": [
+    {
+      "Name": "Galvanic Field",
+      "Special": "20/20",
+      "Aspects": []
+    }
+  ],
+  "Lightning Conduit": [
+    {
+      "Name": "Lightning Conduit",
+      "Special": "21/23c",
+      "Aspects": []
+    }
+  ],
+  "Alchemist's Mark": [
+    {
+      "Name": "Alchemist's Mark",
+      "Special": "21/23c",
+      "Aspects": []
+    }
+  ],
+  "Cursed Ground Support": [
+    {
+      "Name": "Cursed Ground Support",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Volcanic Fissure": [
+    {
+      "Name": "Vaal Volcanic Fissure",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Volcanic Fissure": [
+    {
+      "Name": "Volcanic Fissure",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Firestorm": [
+    {
+      "Name": "Vaal Firestorm",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Hex Bloom Support": [
+    {
+      "Name": "Hex Bloom Support",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Overcharge Support": [
+    {
+      "Name": "Overcharge Support",
+      "Special": "21/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Molten Strike": [
+    {
+      "Name": "Vaal Molten Strike",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Cleave": [
+    {
+      "Name": "Vaal Cleave",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Snipe": [
+    {
+      "Name": "Snipe",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Frozen Legion": [
+    {
+      "Name": "Frozen Legion",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Absolution": [
+    {
+      "Name": "Vaal Absolution",
+      "Special": "20/20c",
+      "Aspects": []
+    }
+  ],
+  "Vaal Blade Flurry": [
+    {
+      "Name": "Vaal Blade Flurry",
+      "Special": "20/20c",
+      "Aspects": []
     }
   ]
 }

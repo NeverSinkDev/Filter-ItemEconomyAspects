@@ -3,9 +3,8 @@
     {
       "Name": "Golden Oil",
       "BaseType": "Golden Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":172.14,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -13,9 +12,8 @@
     {
       "Name": "Silver Oil",
       "BaseType": "Silver Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":54.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -23,10 +21,9 @@
     {
       "Name": "Opalescent Oil",
       "BaseType": "Opalescent Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":24.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -34,10 +31,9 @@
     {
       "Name": "Black Oil",
       "BaseType": "Black Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -45,10 +41,9 @@
     {
       "Name": "Crimson Oil",
       "BaseType": "Crimson Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -56,10 +51,9 @@
     {
       "Name": "Violet Oil",
       "BaseType": "Violet Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -67,10 +61,9 @@
     {
       "Name": "Azure Oil",
       "BaseType": "Azure Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -78,9 +71,8 @@
     {
       "Name": "Teal Oil",
       "BaseType": "Teal Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -88,10 +80,9 @@
     {
       "Name": "Sepia Oil",
       "BaseType": "Sepia Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -99,9 +90,8 @@
     {
       "Name": "Verdant Oil",
       "BaseType": "Verdant Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -109,10 +99,9 @@
     {
       "Name": "Clear Oil",
       "BaseType": "Clear Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -120,9 +109,8 @@
     {
       "Name": "Amber Oil",
       "BaseType": "Amber Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-14T20:05:16.5122502+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -130,10 +118,9 @@
     {
       "Name": "Indigo Oil",
       "BaseType": "Indigo Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -141,9 +128,8 @@
     {
       "Name": "Tainted Oil",
       "BaseType": "Tainted Oil",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -151,7 +137,6 @@
     {
       "Name": "Reflective Oil",
       "BaseType": "Reflective Oil",
-      "Special": null,
       "Aspects": []
     }
   ]

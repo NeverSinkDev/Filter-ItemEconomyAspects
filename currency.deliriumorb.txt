@@ -3,9 +3,8 @@
     {
       "Name": "Skittering Delirium Orb",
       "BaseType": "Skittering Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":34.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -13,9 +12,8 @@
     {
       "Name": "Blighted Delirium Orb",
       "BaseType": "Blighted Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":25.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -23,9 +21,8 @@
     {
       "Name": "Diviner's Delirium Orb",
       "BaseType": "Diviner's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":19.04,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -33,9 +30,8 @@
     {
       "Name": "Thaumaturge's Delirium Orb",
       "BaseType": "Thaumaturge's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":18.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -43,9 +39,8 @@
     {
       "Name": "Cartographer's Delirium Orb",
       "BaseType": "Cartographer's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":13.37,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -53,9 +48,8 @@
     {
       "Name": "Fine Delirium Orb",
       "BaseType": "Fine Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":12.71,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -63,9 +57,8 @@
     {
       "Name": "Obscured Delirium Orb",
       "BaseType": "Obscured Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":11.95,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -73,9 +66,8 @@
     {
       "Name": "Fossilised Delirium Orb",
       "BaseType": "Fossilised Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":11.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -83,9 +75,8 @@
     {
       "Name": "Timeless Delirium Orb",
       "BaseType": "Timeless Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":11.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -93,9 +84,8 @@
     {
       "Name": "Fragmented Delirium Orb",
       "BaseType": "Fragmented Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -103,9 +93,8 @@
     {
       "Name": "Foreboding Delirium Orb",
       "BaseType": "Foreboding Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -113,9 +102,8 @@
     {
       "Name": "Singular Delirium Orb",
       "BaseType": "Singular Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -123,9 +111,8 @@
     {
       "Name": "Amorphous Delirium Orb",
       "BaseType": "Amorphous Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -133,9 +120,8 @@
     {
       "Name": "Imperial Delirium Orb",
       "BaseType": "Imperial Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -143,9 +129,8 @@
     {
       "Name": "Jeweller's Delirium Orb",
       "BaseType": "Jeweller's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -153,9 +138,8 @@
     {
       "Name": "Abyssal Delirium Orb",
       "BaseType": "Abyssal Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -163,9 +147,8 @@
     {
       "Name": "Primal Delirium Orb",
       "BaseType": "Primal Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -173,9 +156,8 @@
     {
       "Name": "Armoursmith's Delirium Orb",
       "BaseType": "Armoursmith's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -183,9 +165,8 @@
     {
       "Name": "Decadent Delirium Orb",
       "BaseType": "Decadent Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -193,9 +174,8 @@
     {
       "Name": "Blacksmith's Delirium Orb",
       "BaseType": "Blacksmith's Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -203,9 +183,8 @@
     {
       "Name": "Whispering Delirium Orb",
       "BaseType": "Whispering Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-03-27T22:17:33.7183172+01:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ]

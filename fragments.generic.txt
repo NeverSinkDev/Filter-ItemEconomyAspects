@@ -2,1032 +2,888 @@
   "Chayula's Pure Breachstone": [
     {
       "Name": "Chayula's Pure Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":226.53,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Timeless Maraketh Emblem": [
     {
       "Name": "Timeless Maraketh Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":203.53,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Chayula's Breachstone": [
     {
       "Name": "Chayula's Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":154.36,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Shape": [
     {
       "Name": "Fragment of Shape",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":141.37,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "PredictableDrop",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Uul-Netol's Pure Breachstone": [
     {
       "Name": "Uul-Netol's Pure Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":139.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Knowledge": [
     {
       "Name": "Fragment of Knowledge",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":133.57,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "PredictableDrop",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Timeless Templar Emblem": [
     {
       "Name": "Timeless Templar Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":125.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Chayula's Enriched Breachstone": [
     {
       "Name": "Chayula's Enriched Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":109.98,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Tul's Pure Breachstone": [
     {
       "Name": "Tul's Pure Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":104.88,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Chayula's Charged Breachstone": [
     {
       "Name": "Chayula's Charged Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":94.98,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of the Minotaur": [
     {
       "Name": "Fragment of the Minotaur",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":47.26,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Uul-Netol's Enriched Breachstone": [
     {
       "Name": "Uul-Netol's Enriched Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":43.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Timeless Vaal Emblem": [
     {
       "Name": "Timeless Vaal Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":41.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Xoph's Pure Breachstone": [
     {
       "Name": "Xoph's Pure Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.06,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Esh's Pure Breachstone": [
     {
       "Name": "Esh's Pure Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":40.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of the Chimera": [
     {
       "Name": "Fragment of the Chimera",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":39.82,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Eradication": [
     {
       "Name": "Fragment of Eradication",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":38.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of the Phoenix": [
     {
       "Name": "Fragment of the Phoenix",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":37.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Tul's Enriched Breachstone": [
     {
       "Name": "Tul's Enriched Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.65,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of the Hydra": [
     {
       "Name": "Fragment of the Hydra",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":31.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Terror": [
     {
       "Name": "Fragment of Terror",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":27.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Emptiness": [
     {
       "Name": "Fragment of Emptiness",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.94,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Enslavement": [
     {
       "Name": "Fragment of Enslavement",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":26.14,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Purification": [
     {
       "Name": "Fragment of Purification",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":25.4,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Fragment of Constriction": [
     {
       "Name": "Fragment of Constriction",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":24.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Uul-Netol's Charged Breachstone": [
     {
       "Name": "Uul-Netol's Charged Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.57,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Esh's Enriched Breachstone": [
     {
       "Name": "Esh's Enriched Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Xoph's Enriched Breachstone": [
     {
       "Name": "Xoph's Enriched Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":19.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Tul's Breachstone": [
     {
       "Name": "Tul's Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.41,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "Buff"
       ]
     }
   ],
   "Timeless Eternal Emblem": [
     {
       "Name": "Timeless Eternal Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":18.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Timeless Karui Emblem": [
     {
       "Name": "Timeless Karui Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.78,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Tul's Charged Breachstone": [
     {
       "Name": "Tul's Charged Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":17.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Uul-Netol's Breachstone": [
     {
       "Name": "Uul-Netol's Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":16.27,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "Buff"
       ]
     }
   ],
   "Mortal Ignorance": [
     {
       "Name": "Mortal Ignorance",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Xoph's Charged Breachstone": [
     {
       "Name": "Xoph's Charged Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Mortal Hope": [
     {
       "Name": "Mortal Hope",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.72,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Esh's Charged Breachstone": [
     {
       "Name": "Esh's Charged Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Mortal Rage": [
     {
       "Name": "Mortal Rage",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Xoph's Breachstone": [
     {
       "Name": "Xoph's Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "EarlyLeagueInterest",
+        "PreventHiding",
+        "Buff"
       ]
     }
   ],
   "Esh's Breachstone": [
     {
       "Name": "Esh's Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.44,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"BuffAspect\",\"UIName\":\"Buff\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "Buff"
       ]
     }
   ],
   "Divine Vessel": [
     {
       "Name": "Divine Vessel",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Mortal Grief": [
     {
       "Name": "Mortal Grief",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.77,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Timeless Maraketh Splinter": [
     {
       "Name": "Timeless Maraketh Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "Anchor",
+        "Anchor",
+        "TierableSplinter",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Timeless Templar Splinter": [
     {
       "Name": "Timeless Templar Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.4,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableSplinter",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Offering to the Goddess": [
     {
       "Name": "Offering to the Goddess",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":1.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "TierableFragment"
       ]
     }
   ],
   "Sacrifice at Midnight": [
     {
       "Name": "Sacrifice at Midnight",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Sacrifice at Noon": [
     {
       "Name": "Sacrifice at Noon",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.79,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Sacrifice at Dawn": [
     {
       "Name": "Sacrifice at Dawn",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Sacrifice at Dusk": [
     {
       "Name": "Sacrifice at Dusk",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Timeless Vaal Splinter": [
     {
       "Name": "Timeless Vaal Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.42,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Timeless Karui Splinter": [
     {
       "Name": "Timeless Karui Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Timeless Eternal Empire Splinter": [
     {
       "Name": "Timeless Eternal Empire Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:37.7279132+01:00\",\"HanadlingPrice\":0.21,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Simulacrum": [
     {
       "Name": "Simulacrum",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Simulacrum Splinter": [
     {
       "Name": "Simulacrum Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "The Maven's Writ": [
     {
       "Name": "The Maven's Writ",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Crescent Splinter": [
     {
       "Name": "Crescent Splinter",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Gift to the Goddess": [
     {
       "Name": "Gift to the Goddess",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PreventHiding"
       ]
     }
   ],
   "Tribute to the Goddess": [
     {
       "Name": "Tribute to the Goddess",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Dedication to the Goddess": [
     {
       "Name": "Dedication to the Goddess",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Vaal Reliquary Key": [
     {
       "Name": "Vaal Reliquary Key",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Vaal Reliquary Key",
       "BaseType": "Vaal Reliquary Key",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Splinter of Chayula": [
     {
       "Name": "Splinter of Chayula",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.82,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "Anchor",
+        "TierableSplinter",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Splinter of Uul-Netol": [
     {
       "Name": "Splinter of Uul-Netol",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableSplinter",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Splinter of Xoph": [
     {
       "Name": "Splinter of Xoph",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.32,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Splinter of Tul": [
     {
       "Name": "Splinter of Tul",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Splinter of Esh": [
     {
       "Name": "Splinter of Esh",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-04-26T15:34:38.429558+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableSplinterAspect\",\"UIName\":\"TierableSplinter\"}"
+        "Handled",
+        "TierableSplinter"
       ]
     }
   ],
   "Unrelenting Timeless Templar Emblem": [
     {
       "Name": "Unrelenting Timeless Templar Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Unrelenting Timeless Maraketh Emblem": [
     {
       "Name": "Unrelenting Timeless Maraketh Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Unrelenting Timeless Eternal Emblem": [
     {
       "Name": "Unrelenting Timeless Eternal Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Unrelenting Timeless Vaal Emblem": [
     {
       "Name": "Unrelenting Timeless Vaal Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Unrelenting Timeless Karui Emblem": [
     {
       "Name": "Unrelenting Timeless Karui Emblem",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
     }
   ],
   "Uul-Netol's Flawless Breachstone": [
     {
       "Name": "Uul-Netol's Flawless Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "TierableFragment",
+        "Handled"
       ]
     }
   ],
   "Chayula's Flawless Breachstone": [
     {
       "Name": "Chayula's Flawless Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Xoph's Flawless Breachstone": [
     {
       "Name": "Xoph's Flawless Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Tul's Flawless Breachstone": [
     {
       "Name": "Tul's Flawless Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "TierableFragment"
       ]
     }
   ],
   "Esh's Flawless Breachstone": [
     {
       "Name": "Esh's Flawless Breachstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "TierableFragment",
+        "Handled"
       ]
     }
   ],
   "Baran's Crest": [
     {
       "Name": "Baran's Crest",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}"
+        "Handled",
+        "TierableFragment",
+        "PredictableDrop",
+        "PreventHiding"
       ]
     }
   ],
   "Drox's Crest": [
     {
       "Name": "Drox's Crest",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment",
+        "PredictableDrop"
       ]
     }
   ],
   "Veritania's Crest": [
     {
       "Name": "Veritania's Crest",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment",
+        "PredictableDrop"
       ]
     }
   ],
   "Al-Hezmin's Crest": [
     {
       "Name": "Al-Hezmin's Crest",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"PredictableDropAspect\",\"UIName\":\"PredictableDrop\"}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "PredictableDrop",
+        "TierableFragment"
       ]
     }
   ],
   "Visceral Reliquary Key": [
     {
       "Name": "Visceral Reliquary Key",
-      "BaseType": null,
-      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Visceral Reliquary Key",
+      "BaseType": "Visceral Reliquary Key",
       "Aspects": []
     }
   ],
   "Decaying Reliquary Key": [
     {
       "Name": "Decaying Reliquary Key",
-      "BaseType": null,
-      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Decaying Reliquary Key",
+      "BaseType": "Decaying Reliquary Key",
       "Aspects": []
     }
   ],
   "Cosmic Reliquary Key": [
     {
       "Name": "Cosmic Reliquary Key",
-      "BaseType": null,
-      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Cosmic Reliquary Key",
+      "BaseType": "Cosmic Reliquary Key",
       "Aspects": []
     }
   ],
   "Forgotten Reliquary Key": [
     {
       "Name": "Forgotten Reliquary Key",
-      "BaseType": null,
-      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Forgotten Reliquary Key",
+      "BaseType": "Forgotten Reliquary Key",
       "Aspects": []
     }
   ],
   "Archive Reliquary Key": [
     {
       "Name": "Archive Reliquary Key",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ],
   "Oubliette Reliquary Key": [
     {
       "Name": "Oubliette Reliquary Key",
-      "BaseType": null,
-      "Special": null,
+      "Aspects": []
+    },
+    {
+      "Name": "Oubliette Reliquary Key",
+      "BaseType": "Oubliette Reliquary Key",
       "Aspects": []
     }
   ],
   "Shiny Reliquary Key": [
     {
       "Name": "Shiny Reliquary Key",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ],
   "Sacred Blossom": [
     {
       "Name": "Sacred Blossom",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":5,\"Name\":\"TierableFragmentAspect\",\"UIName\":\"TierableFragment\"}"
+        "Handled",
+        "PreventHiding",
+        "TierableFragment"
       ]
+    }
+  ],
+  "Voidborn Reliquary Key": [
+    {
+      "Name": "Voidborn Reliquary Key",
+      "Aspects": []
     }
   ]
 }

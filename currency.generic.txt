@@ -2,1909 +2,1611 @@
   "Mirror of Kalandra": [
     {
       "Name": "Mirror of Kalandra",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":26505.13,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Mirror Shard": [
     {
       "Name": "Mirror Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1241.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Mirror Shard",
       "BaseType": "Mirror Shard",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1241.15,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Exalted Orb": [
     {
       "Name": "Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":192.77,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Blessing of Chayula": [
     {
       "Name": "Blessing of Chayula",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":180.81,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Blessing of Chayula",
       "BaseType": "Blessing of Chayula",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":180.81,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Ancient Orb": [
     {
       "Name": "Ancient Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":45.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Annulment": [
     {
       "Name": "Orb of Annulment",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":22.85,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Divine Orb": [
     {
       "Name": "Divine Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":21.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "DivineBottom",
+        "TierableCurrency",
+        "Anchor"
       ]
     }
   ],
   "Harbinger's Orb": [
     {
       "Name": "Harbinger's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":13.25,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Exalted Shard": [
     {
       "Name": "Exalted Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":9.02,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Blessing of Uul-Netol": [
     {
       "Name": "Blessing of Uul-Netol",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Blessing of Uul-Netol",
       "BaseType": "Blessing of Uul-Netol",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Stacked Deck": [
     {
       "Name": "Stacked Deck",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "StackedCurrency"
       ]
     }
   ],
   "Blessing of Esh": [
     {
       "Name": "Blessing of Esh",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Blessing of Esh",
       "BaseType": "Blessing of Esh",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Blessing of Xoph": [
     {
       "Name": "Blessing of Xoph",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Blessing of Xoph",
       "BaseType": "Blessing of Xoph",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Blessing of Tul": [
     {
       "Name": "Blessing of Tul",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Blessing of Tul",
       "BaseType": "Blessing of Tul",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Splinter of Chayula": [
     {
       "Name": "Splinter of Chayula",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Splinter of Chayula",
       "BaseType": "Splinter of Chayula",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":2.58,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Annulment Shard": [
     {
       "Name": "Annulment Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Gemcutter's Prism": [
     {
       "Name": "Gemcutter's Prism",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Scouring": [
     {
       "Name": "Orb of Scouring",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.59,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "SilverBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Vaal Orb": [
     {
       "Name": "Vaal Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.56,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Cartographer's Chisel": [
     {
       "Name": "Cartographer's Chisel",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.47,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "SilverBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Engineer's Orb": [
     {
       "Name": "Engineer's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.46,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "PoorDrop",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Fusing": [
     {
       "Name": "Orb of Fusing",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Regret": [
     {
       "Name": "Orb of Regret",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.43,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Horizons": [
     {
       "Name": "Orb of Horizons",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.38,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Regal Orb": [
     {
       "Name": "Regal Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.34,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "ChanceBottom",
+        "EarlyLeagueInterest",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Alchemy": [
     {
       "Name": "Orb of Alchemy",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.33,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "StackedCurrency"
       ]
     }
   ],
   "Splinter of Uul-Netol": [
     {
       "Name": "Splinter of Uul-Netol",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Splinter of Uul-Netol",
       "BaseType": "Splinter of Uul-Netol",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.31,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Orb of Binding": [
     {
       "Name": "Orb of Binding",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.29,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "StackedCurrency",
+        "ChanceBottom"
       ]
     }
   ],
   "Eternal Orb": [
     {
       "Name": "Eternal Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Eternal Orb",
       "BaseType": "Eternal Orb",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Splinter of Tul": [
     {
       "Name": "Splinter of Tul",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Splinter of Tul",
       "BaseType": "Splinter of Tul",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.19,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Orb of Alteration": [
     {
       "Name": "Orb of Alteration",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "ChanceBottom",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Chance": [
     {
       "Name": "Orb of Chance",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Splinter of Xoph": [
     {
       "Name": "Splinter of Xoph",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Splinter of Xoph",
       "BaseType": "Splinter of Xoph",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.16,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Glassblower's Bauble": [
     {
       "Name": "Glassblower's Bauble",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.14,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Jeweller's Orb": [
     {
       "Name": "Jeweller's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.11,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Chromatic Orb": [
     {
       "Name": "Chromatic Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.1,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Splinter of Esh": [
     {
       "Name": "Splinter of Esh",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Splinter of Esh",
       "BaseType": "Splinter of Esh",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.08,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Orb of Augmentation": [
     {
       "Name": "Orb of Augmentation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Name\":\"AnchorAspect\",\"UIName\":\"Anchor\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "Anchor"
       ]
     }
   ],
   "Armourer's Scrap": [
     {
       "Name": "Armourer's Scrap",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Armourer's Scrap",
       "BaseType": "Armourer's Scrap",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.05,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blessed Orb": [
     {
       "Name": "Blessed Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PoorDropAspect\",\"UIName\":\"PoorDrop\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "PoorDrop",
+        "StackedCurrency"
       ]
     }
   ],
   "Orb of Transmutation": [
     {
       "Name": "Orb of Transmutation",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Blacksmith's Whetstone": [
     {
       "Name": "Blacksmith's Whetstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.04,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Portal Scroll": [
     {
       "Name": "Portal Scroll",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Portal Scroll",
       "BaseType": "Portal Scroll",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.03,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Scroll of Wisdom": [
     {
       "Name": "Scroll of Wisdom",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Scroll of Wisdom",
       "BaseType": "Scroll of Wisdom",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2019-09-30T23:47:34.8052019+02:00\",\"HanadlingPrice\":0.01,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Hunter's Exalted Orb": [
     {
       "Name": "Hunter's Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":317.65,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Warlord's Exalted Orb": [
     {
       "Name": "Warlord's Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":235.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Awakener's Orb": [
     {
       "Name": "Awakener's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":225.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Crusader's Exalted Orb": [
     {
       "Name": "Crusader's Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":170.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "DivineBottom",
+        "TierableCurrency"
       ]
     }
   ],
   "Redeemer's Exalted Orb": [
     {
       "Name": "Redeemer's Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":160.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Prismatic Catalyst": [
     {
       "Name": "Prismatic Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":12.5,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "StackedCurrency"
       ]
     }
   ],
   "Fertile Catalyst": [
     {
       "Name": "Fertile Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":10.28,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "StackedCurrency"
       ]
     }
   ],
   "Tempering Catalyst": [
     {
       "Name": "Tempering Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":6.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "StackedCurrency"
       ]
     }
   ],
   "Awakened Sextant": [
     {
       "Name": "Awakened Sextant",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.95,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Turbulent Catalyst": [
     {
       "Name": "Turbulent Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.89,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChanceBottom",
+        "EarlyLeagueInterest",
+        "StackedCurrency"
       ]
     }
   ],
   "Intrinsic Catalyst": [
     {
       "Name": "Intrinsic Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":1.68,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Abrasive Catalyst": [
     {
       "Name": "Abrasive Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.93,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Imbued Catalyst": [
     {
       "Name": "Imbued Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-01-06T22:22:57.4476416+01:00\",\"HanadlingPrice\":0.83,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "ChanceBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Tempering Orb": [
     {
       "Name": "Tempering Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Tailoring Orb": [
     {
       "Name": "Tailoring Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Prime Regrading Lens": [
     {
       "Name": "Prime Regrading Lens",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "DivineBottom"
       ]
     }
   ],
   "Secondary Regrading Lens": [
     {
       "Name": "Secondary Regrading Lens",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "EarlyLeagueInterest",
+        "DivineBottom"
       ]
     }
   ],
   "Rogue's Marker": [
     {
       "Name": "Rogue's Marker",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Rogue's Marker",
       "BaseType": "Rogue's Marker",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Maven's Orb": [
     {
       "Name": "Maven's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Maven's Orb",
       "BaseType": "Maven's Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Elevated Sextant": [
     {
       "Name": "Elevated Sextant",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Orb of Unmaking": [
     {
       "Name": "Orb of Unmaking",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "StackedCurrency"
       ]
     }
   ],
   "Ritual Vessel": [
     {
       "Name": "Ritual Vessel",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Veiled Chaos Orb": [
     {
       "Name": "Veiled Chaos Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Unstable Catalyst": [
     {
       "Name": "Unstable Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Accelerating Catalyst": [
     {
       "Name": "Accelerating Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Noxious Catalyst": [
     {
       "Name": "Noxious Catalyst",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Tainted Divine Teardrop": [
     {
       "Name": "Tainted Divine Teardrop",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     },
     {
       "Name": "Tainted Divine Teardrop",
       "BaseType": "Tainted Divine Teardrop",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Tainted Mythic Orb": [
     {
       "Name": "Tainted Mythic Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     },
     {
       "Name": "Tainted Mythic Orb",
       "BaseType": "Tainted Mythic Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Sacred Orb": [
     {
       "Name": "Sacred Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Tainted Orb of Fusing": [
     {
       "Name": "Tainted Orb of Fusing",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Tainted Orb of Fusing",
       "BaseType": "Tainted Orb of Fusing",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Tainted Exalted Orb": [
     {
       "Name": "Tainted Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "ChaosBottom"
       ]
     },
     {
       "Name": "Tainted Exalted Orb",
       "BaseType": "Tainted Exalted Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Infused Engineer's Orb": [
     {
       "Name": "Infused Engineer's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "TierableCurrency"
       ]
     },
     {
       "Name": "Infused Engineer's Orb",
       "BaseType": "Infused Engineer's Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "TierableCurrency"
       ]
     }
   ],
   "Tainted Chromatic Orb": [
     {
       "Name": "Tainted Chromatic Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "StackedCurrency",
+        "TierableCurrency",
+        "Handled",
+        "ChanceBottom"
       ]
     },
     {
       "Name": "Tainted Chromatic Orb",
       "BaseType": "Tainted Chromatic Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "StackedCurrency",
+        "TierableCurrency",
+        "Handled",
+        "ChanceBottom"
       ]
     }
   ],
   "Tainted Chaos Orb": [
     {
       "Name": "Tainted Chaos Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "AlchemyButtom"
       ]
     },
     {
       "Name": "Tainted Chaos Orb",
       "BaseType": "Tainted Chaos Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Tainted Blessing": [
     {
       "Name": "Tainted Blessing",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Tainted Blacksmith's Whetstone": [
     {
       "Name": "Tainted Blacksmith's Whetstone",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     },
     {
       "Name": "Tainted Blacksmith's Whetstone",
       "BaseType": "Tainted Blacksmith's Whetstone",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     }
   ],
   "Tainted Jeweller's Orb": [
     {
       "Name": "Tainted Jeweller's Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     },
     {
       "Name": "Tainted Jeweller's Orb",
       "BaseType": "Tainted Jeweller's Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     }
   ],
   "Tainted Armourer's Scrap": [
     {
       "Name": "Tainted Armourer's Scrap",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     },
     {
       "Name": "Tainted Armourer's Scrap",
       "BaseType": "Tainted Armourer's Scrap",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChanceBottom"
       ]
     }
   ],
   "Instilling Orb": [
     {
       "Name": "Instilling Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Enkindling Orb": [
     {
       "Name": "Enkindling Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Kalguuran Delirium Orb": [
     {
       "Name": "Kalguuran Delirium Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     },
     {
       "Name": "Kalguuran Delirium Orb",
       "BaseType": "Kalguuran Delirium Orb",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Ancient Shard": [
     {
       "Name": "Ancient Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Regal Shard": [
     {
       "Name": "Regal Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Harbinger's Shard": [
     {
       "Name": "Harbinger's Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Alchemy Shard": [
     {
       "Name": "Alchemy Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Alteration Shard": [
     {
       "Name": "Alteration Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Binding Shard": [
     {
       "Name": "Binding Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Orb of Dominance": [
     {
       "Name": "Orb of Dominance",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "DivineBottom"
       ]
     }
   ],
   "Eldritch Chaos Orb": [
     {
       "Name": "Eldritch Chaos Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency"
       ]
     }
   ],
   "Orb of Conflict": [
     {
       "Name": "Orb of Conflict",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Charged Compass": [
     {
       "Name": "Charged Compass",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
   "Eldritch Exalted Orb": [
     {
       "Name": "Eldritch Exalted Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency"
       ]
     }
   ],
   "Grand Eldritch Ember": [
     {
       "Name": "Grand Eldritch Ember",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Oil Extractor": [
     {
       "Name": "Oil Extractor",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "AlchemyButtom",
+        "TierableCurrency"
       ]
     }
   ],
   "Exceptional Eldritch Ember": [
     {
       "Name": "Exceptional Eldritch Ember",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Eldritch Orb of Annulment": [
     {
       "Name": "Eldritch Orb of Annulment",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "TierableCurrency"
       ]
     }
   ],
   "Lesser Eldritch Ember": [
     {
       "Name": "Lesser Eldritch Ember",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "SilverBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Greater Eldritch Ember": [
     {
       "Name": "Greater Eldritch Ember",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Lesser Eldritch Ichor": [
     {
       "Name": "Lesser Eldritch Ichor",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "SilverBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Greater Eldritch Ichor": [
     {
       "Name": "Greater Eldritch Ichor",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Grand Eldritch Ichor": [
     {
       "Name": "Grand Eldritch Ichor",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "StackedCurrency",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Exceptional Eldritch Ichor": [
     {
       "Name": "Exceptional Eldritch Ichor",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}"
+        "Handled",
+        "TierableCurrency",
+        "StackedCurrency",
+        "ChaosBottom"
       ]
     }
   ],
   "Surveyor's Compass": [
     {
       "Name": "Surveyor's Compass",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChanceBottomAspect\",\"UIName\":\"ChanceBottom\"}"
+        "Handled",
+        "ChanceBottom"
       ]
     }
   ],
   "Prime Sextant": [
     {
       "Name": "Prime Sextant",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Prime Sextant",
       "BaseType": "Prime Sextant",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Otherworldly Scouting Report": [
     {
       "Name": "Otherworldly Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Comprehensive Scouting Report": [
     {
       "Name": "Comprehensive Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Delirious Scouting Report": [
     {
       "Name": "Delirious Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Operative's Scouting Report": [
     {
       "Name": "Operative's Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "Operative's Scouting Report",
       "BaseType": "Operative's Scouting Report",
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Blighted Scouting Report": [
     {
       "Name": "Blighted Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Influenced Scouting Report": [
     {
       "Name": "Influenced Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Vaal Scouting Report": [
     {
       "Name": "Vaal Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "SilverBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Singular Scouting Report": [
     {
       "Name": "Singular Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "AlchemyButtom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Explorer's Scouting Report": [
     {
       "Name": "Explorer's Scouting Report",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"SilverBottomAspect\",\"UIName\":\"SilverBottom\"}",
-        "{\"Group\":\"TemporalAspect\",\"Name\":\"EarlyLeagueInterestAspect\",\"UIName\":\"EarlyLeagueInterest\",\"Type\":0}"
+        "Handled",
+        "TierableCurrency",
+        "SilverBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
   "Silver Coin": [
     {
       "Name": "Silver Coin",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Silver Coin",
       "BaseType": "Silver Coin",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Horizon Shard": [
     {
       "Name": "Horizon Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Burial Medallion": [
     {
       "Name": "Burial Medallion",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "AlchemyButtom",
+        "StackedCurrency",
+        "TierableCurrency"
       ]
     }
   ],
   "Exotic Coinage": [
     {
       "Name": "Exotic Coinage",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "AlchemyButtom",
+        "TierableCurrency",
+        "StackedCurrency"
       ]
     }
   ],
   "Astragali": [
     {
       "Name": "Astragali",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Scrap Metal": [
     {
       "Name": "Scrap Metal",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"AlchemyButtomAspect\",\"UIName\":\"AlchemyButtom\"}"
+        "Handled",
+        "StackedCurrency",
+        "TierableCurrency",
+        "AlchemyButtom"
       ]
     }
   ],
   "Armour Recombinator": [
     {
       "Name": "Armour Recombinator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Armour Recombinator",
       "BaseType": "Armour Recombinator",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Jewellery Recombinator": [
     {
       "Name": "Jewellery Recombinator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Jewellery Recombinator",
       "BaseType": "Jewellery Recombinator",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Weapon Recombinator": [
     {
       "Name": "Weapon Recombinator",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     },
     {
       "Name": "Weapon Recombinator",
       "BaseType": "Weapon Recombinator",
-      "Special": null,
       "Aspects": []
     }
   ],
   "Sacred Crystallised Lifeforce": [
     {
       "Name": "Sacred Crystallised Lifeforce",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "ChaosBottom",
+        "TierableCurrency"
       ]
     }
   ],
   "Wild Crystallised Lifeforce": [
     {
       "Name": "Wild Crystallised Lifeforce",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ],
   "Primal Crystallised Lifeforce": [
     {
       "Name": "Primal Crystallised Lifeforce",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ],
   "Vivid Crystallised Lifeforce": [
     {
       "Name": "Vivid Crystallised Lifeforce",
-      "BaseType": null,
-      "Special": null,
       "Aspects": []
     }
   ],
   "Fracturing Orb": [
     {
       "Name": "Fracturing Orb",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Name\":\"PreventHidingAspect\",\"UIName\":\"PreventHiding\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"DivineBottomAspect\",\"UIName\":\"DivineBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}"
+        "Handled",
+        "PreventHiding",
+        "DivineBottom",
+        "TierableCurrency"
       ]
     }
   ],
   "Fracturing Shard": [
     {
       "Name": "Fracturing Shard",
-      "BaseType": null,
-      "Special": null,
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"UIName\":\"Handled\",\"Type\":0}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"TierableCurrencyAspect\",\"UIName\":\"TierableCurrency\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"ChaosBottomAspect\",\"UIName\":\"ChaosBottom\"}",
-        "{\"Group\":\"Meta\",\"Type\":6,\"Name\":\"StackedCurrencyAspect\",\"UIName\":\"StackedCurrency\"}"
+        "Handled",
+        "TierableCurrency",
+        "ChaosBottom",
+        "StackedCurrency"
       ]
     }
   ]

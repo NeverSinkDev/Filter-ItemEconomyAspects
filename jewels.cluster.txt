@@ -13,7 +13,7 @@
       "BaseType": "Large Cluster Jewel:Minion Damage",
       "Special": "12 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9378399+02:00\",\"HanadlingPrice\":480.08,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -23,7 +23,7 @@
       "BaseType": "Large Cluster Jewel:Spell Damage",
       "Special": "12 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9378399+02:00\",\"HanadlingPrice\":354.56,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -33,7 +33,7 @@
       "BaseType": "Large Cluster Jewel:Cold Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9378399+02:00\",\"HanadlingPrice\":180.03,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -51,7 +51,7 @@
       "BaseType": "Large Cluster Jewel:Mace and Staff Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":117.61,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -61,7 +61,7 @@
       "BaseType": "Small Cluster Jewel:Chaos Resistance",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":89.49,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -71,7 +71,7 @@
       "BaseType": "Large Cluster Jewel:Bow Damage",
       "Special": "12 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":84.8,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -81,7 +81,7 @@
       "BaseType": "Large Cluster Jewel:Lightning Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":80.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -91,7 +91,7 @@
       "BaseType": "Large Cluster Jewel:Axe and Sword Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":70.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -101,7 +101,7 @@
       "BaseType": "Medium Cluster Jewel:Critical Chance",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":44.56,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -111,7 +111,7 @@
       "BaseType": "Large Cluster Jewel:Fire Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":38.4,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -121,7 +121,7 @@
       "BaseType": "Small Cluster Jewel:Life",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":36.24,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -131,7 +131,7 @@
       "BaseType": "Large Cluster Jewel:Attack Damage",
       "Special": "12 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":32.46,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -141,7 +141,7 @@
       "BaseType": "Large Cluster Jewel:Elemental Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":32.32,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -151,7 +151,7 @@
       "BaseType": "Large Cluster Jewel:Physical Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":30.7,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -161,7 +161,7 @@
       "BaseType": "Medium Cluster Jewel:Area Damage",
       "Special": "5 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -179,7 +179,7 @@
       "BaseType": "Medium Cluster Jewel:Flask Duration",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":29.68,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -189,7 +189,7 @@
       "BaseType": "Large Cluster Jewel:Chaos Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":29.15,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -199,7 +199,7 @@
       "BaseType": "Small Cluster Jewel:Energy Shield",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":28.72,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -209,7 +209,7 @@
       "BaseType": "Large Cluster Jewel:Damage with Two Handed Melee Weapons",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -227,7 +227,7 @@
       "BaseType": "Medium Cluster Jewel:Effect of Non-Damaging Ailments",
       "Special": "5 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -237,7 +237,7 @@
       "BaseType": "Medium Cluster Jewel:Exerted Attack Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -247,7 +247,7 @@
       "BaseType": "Medium Cluster Jewel:Brand Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -257,7 +257,7 @@
       "BaseType": "Medium Cluster Jewel:Minion Life",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -267,7 +267,7 @@
       "BaseType": "Small Cluster Jewel:Mana",
       "Special": "2 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":17.53,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -277,7 +277,7 @@
       "BaseType": "Medium Cluster Jewel:Minion Damage while you have a Herald",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":17.45,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -287,7 +287,7 @@
       "BaseType": "Medium Cluster Jewel:Channelling Skill Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":15.13,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -297,7 +297,7 @@
       "BaseType": "Large Cluster Jewel:Dagger and Claw Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":15.1,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -307,7 +307,7 @@
       "BaseType": "Small Cluster Jewel:Armour",
       "Special": "2 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -317,7 +317,7 @@
       "BaseType": "Large Cluster Jewel:Wand Damage",
       "Special": "8 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -327,7 +327,7 @@
       "BaseType": "Medium Cluster Jewel:Life and Mana recovery from Flasks",
       "Special": "6 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":12.47,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -337,7 +337,7 @@
       "BaseType": "Medium Cluster Jewel:Projectile Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -363,7 +363,7 @@
       "BaseType": "Medium Cluster Jewel:Trap and Mine Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -373,7 +373,7 @@
       "BaseType": "Medium Cluster Jewel:Damage while you have a Herald",
       "Special": "6 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -383,7 +383,7 @@
       "BaseType": "Medium Cluster Jewel:Totem Damage",
       "Special": "4 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -393,7 +393,7 @@
       "BaseType": "Small Cluster Jewel:Chance to Block Attack Damage",
       "Special": "2 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -403,7 +403,7 @@
       "BaseType": "Small Cluster Jewel:Evasion",
       "Special": "2 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -413,7 +413,7 @@
       "BaseType": "Small Cluster Jewel:Fire Resistance",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":7.93,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -423,7 +423,7 @@
       "BaseType": "Small Cluster Jewel:Chance to Block Spell Damage",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":5.93,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -433,7 +433,7 @@
       "BaseType": "Small Cluster Jewel:Lightning Resistance",
       "Special": "3 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":5.32,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -443,7 +443,7 @@
       "BaseType": "Small Cluster Jewel:Cold Resistance",
       "Special": "2 passives",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-06-27T13:41:43.9388408+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -453,7 +453,7 @@
       "BaseType": "Large Cluster Jewel:Attack Damage while holding a Shield",
       "Special": "12",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -463,7 +463,7 @@
       "BaseType": "Medium Cluster Jewel:Damage over Time",
       "Special": "4",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -473,7 +473,7 @@
       "BaseType": "Medium Cluster Jewel:Fire Damage over Time",
       "Special": "4",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -483,7 +483,7 @@
       "BaseType": "Small Cluster Jewel:Curse Effect",
       "Special": "2",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -493,7 +493,7 @@
       "BaseType": "Small Cluster Jewel:Reservation Efficiency",
       "Special": "2",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -503,7 +503,7 @@
       "BaseType": "Large Cluster Jewel:Attack Damage while Dual Wielding",
       "Special": "12",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
     }
   ],
@@ -513,8 +513,16 @@
       "BaseType": "Small Cluster Jewel:Suppres",
       "Special": "2",
       "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"0001-01-01T00:00:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
+        "Handled"
       ]
+    }
+  ],
+  "Large Cluster Jewel:Damage with Two Handed Weapons": [
+    {
+      "Name": "Damage with Two Handed Weapons",
+      "BaseType": "Large Cluster Jewel:Damage with Two Handed Weapons",
+      "Special": "12",
+      "Aspects": []
     }
   ]
 }
