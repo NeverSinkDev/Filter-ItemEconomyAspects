@@ -32,13 +32,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Duskdawn",
-      "BaseType": "Maelström Staff",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Cutlass": [
@@ -74,13 +67,6 @@
       "BaseType": "Sage Wand",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Twyzel",
-      "BaseType": "Sage Wand",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -135,13 +121,6 @@
         "EarlyLeagueInterest",
         "Uncommon"
       ]
-    },
-    {
-      "Name": "Replica Windripper",
-      "BaseType": "Imperial Bow",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Royal Axe": [
@@ -193,13 +172,6 @@
       "BaseType": "Eternal Sword",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Dreamfeather",
-      "BaseType": "Eternal Sword",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -287,13 +259,6 @@
       "BaseType": "Infernal Sword",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Oro's Sacrifice",
-      "BaseType": "Infernal Sword",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -479,13 +444,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Iron Commander",
-      "BaseType": "Death Bow",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Legion Sword": [
@@ -557,13 +515,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
-      ]
-    },
-    {
-      "Name": "Replica Paradoxica",
-      "BaseType": "Vaal Rapier",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -650,13 +601,6 @@
       "Aspects": [
         "Handled",
         "PreventHiding"
-      ]
-    },
-    {
-      "Name": "Replica Soul Taker",
-      "BaseType": "Siege Axe",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -864,13 +808,6 @@
         "Handled",
         "NonWorldDrop"
       ]
-    },
-    {
-      "Name": "Replica Tulfall",
-      "BaseType": "Tornado Wand",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Nightmare Mace": [
@@ -929,13 +866,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Harvest",
-      "BaseType": "Jasper Chopper",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Great Mallet": [
@@ -951,13 +881,6 @@
       "BaseType": "Great Mallet",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Trypanon",
-      "BaseType": "Great Mallet",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -1056,21 +979,6 @@
     },
     {
       "Name": "Fencoil",
-      "BaseType": "Gnarled Branch",
-      "Aspects": [
-        "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Fencoil",
-      "BaseType": "Gnarled Branch",
-      "Aspects": [
-        null,
-        "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Blood Thorn",
       "BaseType": "Gnarled Branch",
       "Aspects": [
         "Handled"
@@ -1184,13 +1092,6 @@
         "Handled",
         "EarlyLeagueInterest"
       ]
-    },
-    {
-      "Name": "Replica Quill Rain",
-      "BaseType": "Short Bow",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Harbinger Bow": [
@@ -1224,13 +1125,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Bitterdream",
-      "BaseType": "Shadow Sceptre",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "War Sword": [
@@ -1239,14 +1133,6 @@
       "BaseType": "War Sword",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Tempestuous Steel",
-      "BaseType": "War Sword",
-      "Aspects": [
-        "Handled",
-        null
       ]
     }
   ],
@@ -1311,13 +1197,6 @@
         "NonWorldDrop",
         "HighVariety"
       ]
-    },
-    {
-      "Name": "Replica Nebulis",
-      "BaseType": "Void Sceptre",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Brass Maul": [
@@ -1363,13 +1242,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Heartbreaker",
-      "BaseType": "Royal Skean",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Spine Bow": [
@@ -1404,13 +1276,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Advancing Fortress",
-      "BaseType": "Gut Ripper",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Vaal Claw": [
@@ -1428,13 +1293,6 @@
         "Handled",
         "EarlyLeagueInterest",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Allure",
-      "BaseType": "Vaal Claw",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -1567,13 +1425,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Infractem",
-      "BaseType": "Decimation Bow",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Elder Sword": [
@@ -1582,13 +1433,6 @@
       "BaseType": "Elder Sword",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Innsbury Edge",
-      "BaseType": "Elder Sword",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -1617,13 +1461,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Kongor's Undying Rage",
-      "BaseType": "Terror Maul",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Nailed Fist": [
@@ -1632,13 +1469,6 @@
       "BaseType": "Nailed Fist",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Last Resort",
-      "BaseType": "Nailed Fist",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -1657,13 +1487,6 @@
       "BaseType": "Engraved Wand",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Midnight Bargain",
-      "BaseType": "Engraved Wand",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -1821,13 +1644,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Ungil's Gauche",
-      "BaseType": "Boot Knife",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Antique Rapier": [
@@ -1879,13 +1695,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Earendel's Embrace",
-      "BaseType": "Grinning Fetish",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Ezomyte Axe": [
@@ -1901,13 +1710,6 @@
       "BaseType": "Ezomyte Axe",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Wings of Entropy",
-      "BaseType": "Ezomyte Axe",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -2034,13 +1836,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Frostbreath",
-      "BaseType": "Ornate Mace",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Poleaxe": [
@@ -2140,13 +1935,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Bloodplay",
-      "BaseType": "Stiletto",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Dread Maul": [
@@ -2206,13 +1994,6 @@
       "Aspects": [
         "Handled",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Sorrow of the Divine",
-      "BaseType": "Sulphur Flask",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -2349,13 +2130,6 @@
         "Handled",
         "EarlyLeagueInterest"
       ]
-    },
-    {
-      "Name": "Replica Rumi's Concoction",
-      "BaseType": "Granite Flask",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Amethyst Flask": [
@@ -2395,13 +2169,6 @@
       "BaseType": "Sanctified Mana Flask",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Lavianga's Spirit",
-      "BaseType": "Sanctified Mana Flask",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -2466,13 +2233,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Farrul's Fur",
-      "BaseType": "Triumphant Lamellar",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Rawhide Boots": [
@@ -2528,13 +2288,6 @@
       "BaseType": "Vaal Gauntlets",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Atziri's Acuity",
-      "BaseType": "Vaal Gauntlets",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -2662,13 +2415,6 @@
         "Handled",
         "NonWorldDrop"
       ]
-    },
-    {
-      "Name": "Replica Eternity Shroud",
-      "BaseType": "Blood Raiment",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Sacrificial Garb": [
@@ -2700,13 +2446,6 @@
         "NonWorldDrop",
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Voidwalker",
-      "BaseType": "Murder Boots",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Glorious Plate": [
@@ -2725,13 +2464,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Kaom's Heart",
-      "BaseType": "Glorious Plate",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Carnal Armour": [
@@ -2747,21 +2479,6 @@
     },
     {
       "Name": "The Restless Ward",
-      "BaseType": "Carnal Armour",
-      "Aspects": [
-        "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Shroud of the Lightless",
-      "BaseType": "Carnal Armour",
-      "Aspects": [
-        null,
-        "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Restless Ward",
       "BaseType": "Carnal Armour",
       "Aspects": [
         "Handled"
@@ -2890,13 +2607,6 @@
         "HighVariety",
         "PreventHiding"
       ]
-    },
-    {
-      "Name": "Replica Forbidden Shako",
-      "BaseType": "Great Crown",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Magistrate Crown": [
@@ -3016,13 +2726,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Loreweave",
-      "BaseType": "Elegant Ringmail",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Ezomyte Tower Shield": [
@@ -3136,13 +2839,6 @@
         "Handled",
         "EarlyLeagueInterest",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Maloney's Mechanism",
-      "BaseType": "Ornate Quiver",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -3381,13 +3077,6 @@
       ]
     },
     {
-      "Name": "Replica Red Trail",
-      "BaseType": "Titan Greaves",
-      "Aspects": [
-        null
-      ]
-    },
-    {
       "Name": "The Infinite Pursuit",
       "BaseType": "Titan Greaves",
       "Aspects": [
@@ -3467,13 +3156,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest"
-      ]
-    },
-    {
-      "Name": "Replica Perfect Form",
-      "BaseType": "Zodiac Leather",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -3654,13 +3336,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Tukohama's Fortress",
-      "BaseType": "Ebony Tower Shield",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Iron Circlet": [
@@ -3741,13 +3416,6 @@
       "BaseType": "Arcanist Slippers",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Inya's Epiphany",
-      "BaseType": "Arcanist Slippers",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -3853,13 +3521,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
-      ]
-    },
-    {
-      "Name": "Replica Stampede",
-      "BaseType": "Assassin's Boots",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -4083,13 +3744,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Grip of the Council",
-      "BaseType": "Arcanist Gloves",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Exquisite Leather": [
@@ -4144,13 +3798,6 @@
       "BaseType": "Spike-Point Arrow Quiver",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Soul Strike",
-      "BaseType": "Spike-Point Arrow Quiver",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -4216,13 +3863,6 @@
       "Special": "Lightning",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Volkuur's Guidance",
-      "BaseType": "Zealot Gloves",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -4324,13 +3964,6 @@
         "Handled",
         "NonWorldDrop"
       ]
-    },
-    {
-      "Name": "Replica Abyssus",
-      "BaseType": "Ezomyte Burgonet",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Sinner Tricorne": [
@@ -4347,13 +3980,6 @@
       "BaseType": "Sinner Tricorne",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Alpha's Howl",
-      "BaseType": "Sinner Tricorne",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -4435,13 +4061,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest"
-      ]
-    },
-    {
-      "Name": "Replica Leer Cast",
-      "BaseType": "Festival Mask",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -4853,13 +4472,6 @@
       "BaseType": "Soldier Boots",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Alberon's Warpath",
-      "BaseType": "Soldier Boots",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -5309,13 +4921,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Victario's Charity",
-      "BaseType": "Laminated Kite Shield",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Mesh Boots": [
@@ -5430,13 +5035,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Kalisa's Grace",
-      "BaseType": "Samite Gloves",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Bone Armour": [
@@ -5498,13 +5096,6 @@
       "BaseType": "Shagreen Boots",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Three-step Assault",
-      "BaseType": "Shagreen Boots",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -5595,13 +5186,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Ambu's Charge",
-      "BaseType": "Crusader Chainmail",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Silk Slippers": [
@@ -5611,13 +5195,6 @@
       "Aspects": [
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Bones of Ullr",
-      "BaseType": "Silk Slippers",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Great Helmet": [
@@ -5626,13 +5203,6 @@
       "BaseType": "Great Helmet",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Veil of the Night",
-      "BaseType": "Great Helmet",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -5679,13 +5249,6 @@
       "Aspects": [
         "Handled",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Lioneye's Paws",
-      "BaseType": "Bronzescale Boots",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -5815,14 +5378,6 @@
       ]
     },
     {
-      "Name": "Replica Headhunter",
-      "BaseType": "Leather Belt",
-      "Aspects": [
-        null,
-        "Handled"
-      ]
-    },
-    {
       "Name": "Pyroshock Clasp",
       "BaseType": "Leather Belt",
       "Aspects": [
@@ -5859,13 +5414,6 @@
       "BaseType": "Paua Amulet",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Atziri's Foible",
-      "BaseType": "Paua Amulet",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -5914,20 +5462,6 @@
       "Aspects": [
         "Handled",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Hyrri's Truth",
-      "BaseType": "Jade Amulet",
-      "Aspects": [
-        null
-      ]
-    },
-    {
-      "Name": "Replica Karui Ward",
-      "BaseType": "Jade Amulet",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -6306,13 +5840,6 @@
         "Handled",
         "NonWorldDrop"
       ]
-    },
-    {
-      "Name": "Replica Emberwake",
-      "BaseType": "Ruby Ring",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Gold Ring": [
@@ -6410,13 +5937,6 @@
       "Aspects": [
         "Handled",
         "NonDrop"
-      ]
-    },
-    {
-      "Name": "Replica Tasalio's Sign",
-      "BaseType": "Sapphire Ring",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -6619,20 +6139,6 @@
       ]
     },
     {
-      "Name": "Replica Voideye",
-      "BaseType": "Unset Ring",
-      "Aspects": [
-        null
-      ]
-    },
-    {
-      "Name": "Replica Malachai's Artifice",
-      "BaseType": "Unset Ring",
-      "Aspects": [
-        null
-      ]
-    },
-    {
       "Name": "Rotblood Promise",
       "BaseType": "Unset Ring",
       "Aspects": [
@@ -6685,13 +6191,6 @@
       "BaseType": "Chain Belt",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Bated Breath",
-      "BaseType": "Chain Belt",
-      "Aspects": [
-        null
       ]
     },
     {
@@ -6765,13 +6264,6 @@
       ]
     },
     {
-      "Name": "Replica Siegebreaker",
-      "BaseType": "Heavy Belt",
-      "Aspects": [
-        null
-      ]
-    },
-    {
       "Name": "Survivor's Guilt",
       "BaseType": "Heavy Belt",
       "Aspects": [
@@ -6827,13 +6319,6 @@
       "BaseType": "Gold Amulet",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Winterheart",
-      "BaseType": "Gold Amulet",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -7012,13 +6497,6 @@
       ]
     },
     {
-      "Name": "Replica Soul Tether",
-      "BaseType": "Cloth Belt",
-      "Aspects": [
-        "Handled"
-      ]
-    },
-    {
       "Name": "The Druggery",
       "BaseType": "Cloth Belt",
       "Aspects": [
@@ -7087,13 +6565,6 @@
       "BaseType": "Rustic Sash",
       "Aspects": [
         "Handled"
-      ]
-    },
-    {
-      "Name": "Replica Prismweave",
-      "BaseType": "Rustic Sash",
-      "Aspects": [
-        null
       ]
     }
   ],
@@ -7303,14 +6774,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
-      ]
-    },
-    {
-      "Name": "Replica Doedre's Damning",
-      "BaseType": "Paua Ring",
-      "Aspects": [
-        null,
-        "Handled"
       ]
     },
     {
@@ -7583,13 +7046,6 @@
         "EarlyLeagueInterest",
         "PreventHiding"
       ]
-    },
-    {
-      "Name": "Replica Cold Iron Point",
-      "BaseType": "Ezomyte Dagger",
-      "Aspects": [
-        null
-      ]
     }
   ],
   "Saint's Hauberk": [
@@ -7665,13 +7121,6 @@
       "Aspects": [
         "Handled",
         "Uncommon"
-      ]
-    },
-    {
-      "Name": "Replica Mistwall",
-      "BaseType": "Lacquered Buckler",
-      "Aspects": [
-        null
       ]
     }
   ],

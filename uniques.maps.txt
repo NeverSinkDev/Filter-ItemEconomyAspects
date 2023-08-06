@@ -186,11 +186,6 @@
         "EarlyLeagueInterest",
         "Handled"
       ]
-    },
-    {
-      "Name": "Replica Pillars of Arun",
-      "BaseType": "Dunes Map",
-      "Aspects": []
     }
   ],
   "Strand Map": [
