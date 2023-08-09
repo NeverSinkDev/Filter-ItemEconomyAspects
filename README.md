@@ -108,7 +108,8 @@ This documentation provides general information about what each aspect does. Thi
 ### Aspect: LateLeagueValueLoss
 - Used in the Divination tierlist.
 - Function: Please read (*C) first. Signalizes that a specific card will likely not hold any value. Reduces the price of the divinaton card by a flat value to offset the noise in the economy data.
-
+> Example: The 'Rats' divination card offers a pretty earlyleague helmet that has fallen out of favour years ago.
+ 
 ### Aspect. Tierable, TierableFragment, TierableSplinter
 - Used in Currency, Splinter, Fragment and other tierlists
 - Function: Some tierlists use a white-listing approach. Instead of tiering *everything*, they only tier items that are listed as tierable. This has proven itself to a be a more stable approach. These aspects also perform some technical tasks to correctly handle itemtypes.
