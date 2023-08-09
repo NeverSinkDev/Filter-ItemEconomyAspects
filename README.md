@@ -110,17 +110,17 @@ This documentation provides general information about what each aspect does. Thi
 - Function: Please read (*C) first. Signalizes that a specific card will likely not hold any value. Reduces the price of the divinaton card by a flat value to offset the noise in the economy data.
 > Example: The 'Rats' divination card offers a pretty earlyleague helmet that has fallen out of favour years ago.
  
-### Aspect. Tierable, TierableFragment, TierableSplinter
+### Aspects: Tierable, TierableFragment, TierableSplinter
 - Used in Currency, Splinter, Fragment and other tierlists
 - Function: Some tierlists use a white-listing approach. Instead of tiering *everything*, they only tier items that are listed as tierable. This has proven itself to a be a more stable approach. These aspects also perform some technical tasks to correctly handle itemtypes.
 > Example: 'Vaal Orbs' are tierable. 'Alchemy Orbs' are not.
 
-### Aspect. Tierable, TierableFragment, TierableSplinter
+### Aspects: Tierable, TierableFragment, TierableSplinter
 - Used in Currency, Splinter, Fragment and other tierlists
 - Function: Some tierlists use a white-listing approach. Instead of tiering *everything*, they only tier items that are listed as tierable. This has proven itself to a be a more stable approach. These aspects also perform some technical tasks to correctly handle itemtypes.
 > Example: 'Vaal Orbs' are tierable. 'Alchemy Orbs' are not.
 
-### DivineBottom, ChaosBottom, AlchemyButtom, SilverBottom, ChanceBottom
+### Aspects: DivineBottom, ChaosBottom, AlchemyButtom, SilverBottom, ChanceBottom
 - Used in Currency
 - Function: Marks the lowest allowed tier for a specific currency. Usually used as a bottom 'safety' layer.
 > Example: 'Astramentis' currencies are not allowed to drop below the alchemy tier
