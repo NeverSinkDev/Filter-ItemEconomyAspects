@@ -40,16 +40,14 @@
       "BaseType": "Cutlass",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
       "Name": "Severed in Sleep",
       "BaseType": "Cutlass",
       "Aspects": [
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -189,8 +187,7 @@
       "BaseType": "Vaal Axe",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -205,8 +202,7 @@
       "BaseType": "Vaal Axe",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -486,8 +482,7 @@
       "BaseType": "Imperial Claw",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -503,8 +498,7 @@
       "BaseType": "Imperial Claw",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "Buff"
+        "Uncommon"
       ]
     }
   ],
@@ -900,8 +894,7 @@
       "BaseType": "Citadel Bow",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -917,8 +910,7 @@
       "BaseType": "Citadel Bow",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "Buff"
+        "Uncommon"
       ]
     }
   ],
@@ -1302,8 +1294,7 @@
       "BaseType": "Opal Wand",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -1311,8 +1302,7 @@
       "BaseType": "Opal Wand",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "Buff"
+        "Uncommon"
       ]
     }
   ],
@@ -2322,8 +2312,7 @@
       "Special": "2 Jewels",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -2348,8 +2337,7 @@
       "BaseType": "Vaal Spirit Shield",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -2365,8 +2353,7 @@
       "BaseType": "Vaal Spirit Shield",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -2435,8 +2422,7 @@
       "Special": "2 Jewels",
       "Aspects": [
         "NonWorldDrop",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     },
     {
@@ -2473,8 +2459,7 @@
       "Special": "1 Jewel",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -2734,8 +2719,7 @@
       "BaseType": "Ezomyte Tower Shield",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -2743,8 +2727,7 @@
       "BaseType": "Ezomyte Tower Shield",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -3056,8 +3039,7 @@
       "BaseType": "Titan Greaves",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -3081,8 +3063,7 @@
       "BaseType": "Titan Greaves",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -3146,8 +3127,7 @@
       "BaseType": "Zodiac Leather",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -3163,8 +3143,7 @@
       "BaseType": "Zodiac Leather",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -3807,8 +3786,7 @@
       "BaseType": "Royal Burgonet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -3825,8 +3803,7 @@
       "BaseType": "Royal Burgonet",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     }
   ],
@@ -4034,7 +4011,8 @@
       "Name": "Incandescent Heart",
       "BaseType": "Saintly Chainmail",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -5479,8 +5457,7 @@
       "BaseType": "Amber Amulet",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "Buff"
+        "Uncommon"
       ]
     },
     {
@@ -5994,8 +5971,7 @@
       "BaseType": "Lapis Amulet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Buff"
+        "NonWorldDrop"
       ]
     },
     {
@@ -6003,8 +5979,7 @@
       "BaseType": "Lapis Amulet",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "Buff"
+        "Handled"
       ]
     },
     {
@@ -6609,8 +6584,7 @@
       "Name": "Tavukai",
       "BaseType": "Coral Amulet",
       "Aspects": [
-        "Handled",
-        "MapBossOnlyDrop"
+        "Handled"
       ]
     },
     {
@@ -7664,7 +7638,8 @@
       "Name": "The Fourth Vow",
       "BaseType": "Devout Chainmail",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],

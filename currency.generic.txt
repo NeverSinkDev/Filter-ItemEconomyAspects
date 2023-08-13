@@ -28,7 +28,8 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "DivineBottom"
+        "DivineBottom",
+        "Anchor"
       ]
     }
   ],
@@ -783,7 +784,8 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "ChaosBottom"
+        "ChaosBottom",
+        "Anchor"
       ]
     }
   ],
@@ -813,8 +815,7 @@
       "Name": "Veiled Chaos Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
-        "StackedCurrency"
+        "TierableCurrency"
       ]
     }
   ],
@@ -853,7 +854,6 @@
       "Name": "Tainted Divine Teardrop",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChaosBottom"
       ]
@@ -874,7 +874,6 @@
       "Name": "Tainted Mythic Orb",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChaosBottom"
       ]
@@ -905,7 +904,6 @@
       "Name": "Tainted Orb of Fusing",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChaosBottom",
         "EarlyLeagueInterest"
@@ -928,7 +926,6 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "StackedCurrency",
         "ChaosBottom"
       ]
     },
@@ -964,7 +961,6 @@
     {
       "Name": "Tainted Chromatic Orb",
       "Aspects": [
-        "StackedCurrency",
         "TierableCurrency",
         "Handled",
         "ChanceBottom"
@@ -987,7 +983,6 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "StackedCurrency",
         "AlchemyButtom"
       ]
     },
@@ -1007,7 +1002,6 @@
       "Name": "Tainted Blessing",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "AlchemyButtom"
       ]
@@ -1018,7 +1012,6 @@
       "Name": "Tainted Blacksmith's Whetstone",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChanceBottom"
       ]
@@ -1039,7 +1032,6 @@
       "Name": "Tainted Jeweller's Orb",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChanceBottom"
       ]
@@ -1060,7 +1052,6 @@
       "Name": "Tainted Armourer's Scrap",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
         "TierableCurrency",
         "ChanceBottom"
       ]
@@ -1248,7 +1239,6 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "StackedCurrency",
         "ChaosBottom"
       ]
     }
@@ -1328,7 +1318,6 @@
       "Aspects": [
         "Handled",
         "TierableCurrency",
-        "StackedCurrency",
         "ChaosBottom"
       ]
     }

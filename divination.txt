@@ -4,7 +4,6 @@
       "Name": "House of Mirrors",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "TimelessResult",
         "Anchor"
@@ -15,7 +14,6 @@
     {
       "Name": "The Doctor",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult",
         "Anchor"
@@ -26,8 +24,6 @@
     {
       "Name": "The Fiend",
       "Aspects": [
-        "QueryableResult",
-        "LargeDeck",
         "Handled",
         "TimelessResult"
       ]
@@ -37,7 +33,6 @@
     {
       "Name": "Beauty Through Death",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -47,7 +42,7 @@
     {
       "Name": "The Iron Bard",
       "Aspects": [
-        "QueryableResult",
+        null,
         "Handled",
         "TimelessResult"
       ]
@@ -56,7 +51,6 @@
       "Name": "The Iron Bard",
       "BaseType": "The Iron Bard",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -66,8 +60,6 @@
     {
       "Name": "The Immortal",
       "Aspects": [
-        "QueryableResult",
-        "LargeDeck",
         "Handled",
         "TimelessResult"
       ]
@@ -77,7 +69,6 @@
     {
       "Name": "The Life Thief",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -98,7 +89,6 @@
     {
       "Name": "The Spark and the Flame",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -108,7 +98,6 @@
     {
       "Name": "The Nurse",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -118,7 +107,7 @@
     {
       "Name": "The Mayor",
       "Aspects": [
-        "QueryableResult",
+        null,
         "Handled",
         "TimelessResult"
       ]
@@ -127,7 +116,6 @@
       "Name": "The Mayor",
       "BaseType": "The Mayor",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -147,7 +135,6 @@
     {
       "Name": "Abandoned Wealth",
       "Aspects": [
-        "QueryableResult",
         "CurrencyType",
         "Handled",
         "TimelessResult"
@@ -158,7 +145,6 @@
     {
       "Name": "Hunter's Reward",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "PreventHiding"
@@ -169,8 +155,6 @@
     {
       "Name": "The Dragon's Heart",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -180,8 +164,6 @@
     {
       "Name": "Wealth and Power",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -191,7 +173,6 @@
     {
       "Name": "The Wolven King's Bite",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -201,9 +182,7 @@
     {
       "Name": "Seven Years Bad Luck",
       "Aspects": [
-        "QueryableResult",
         "CurrencyType",
-        "LargeDeck",
         "Handled",
         "TimelessResult",
         "Anchor"
@@ -214,8 +193,6 @@
     {
       "Name": "Pride Before the Fall",
       "Aspects": [
-        "QueryableResult",
-        "LargeDeck",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -235,7 +212,6 @@
     {
       "Name": "The Offering",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -245,8 +221,6 @@
     {
       "Name": "The Saint's Treasure",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "CurrencyType",
         "Handled",
         "TimelessResult"
@@ -266,8 +240,6 @@
     {
       "Name": "Mawr Blaidd",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -276,8 +248,8 @@
       "Name": "Mawr Blaidd",
       "BaseType": "Mawr Blaidd",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
+        null,
+        null,
         "Handled",
         "TimelessResult"
       ]
@@ -287,7 +259,6 @@
     {
       "Name": "The Queen",
       "Aspects": [
-        "QueryableResult",
         "LargeRandomPool",
         "Handled"
       ]
@@ -308,7 +279,6 @@
     {
       "Name": "The King's Heart",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "PreventHiding"
@@ -319,8 +289,6 @@
     {
       "Name": "The Artist",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -330,7 +298,6 @@
     {
       "Name": "The Enlightened",
       "Aspects": [
-        "QueryableResult",
         "Handled"
       ]
     }
@@ -339,7 +306,6 @@
     {
       "Name": "The Professor",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "PreventHiding"
@@ -351,8 +317,6 @@
       "Name": "The Hoarder",
       "Aspects": [
         "CurrencyType",
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -372,9 +336,7 @@
     {
       "Name": "The Sephirot",
       "Aspects": [
-        "LargeDeck",
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -384,7 +346,6 @@
     {
       "Name": "The Master",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -415,7 +376,6 @@
     {
       "Name": "The Brittle Emperor",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -425,7 +385,6 @@
     {
       "Name": "The Celestial Justicar",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult",
         "CurrencyType",
@@ -469,7 +428,6 @@
       "Aspects": [
         "CurrencyType",
         "Handled",
-        "SingleCard",
         "TimelessResult"
       ]
     },
@@ -480,7 +438,7 @@
         "CurrencyType",
         "Handled",
         "TimelessResult",
-        "SingleCard"
+        null
       ]
     }
   ],
@@ -488,7 +446,6 @@
     {
       "Name": "Heterochromia",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LargeRandomPool"
       ]
@@ -508,7 +465,7 @@
       "BaseType": "The Cartographer",
       "Aspects": [
         "CurrencyType",
-        "SingleCard",
+        null,
         "Anchor",
         "Handled"
       ]
@@ -519,7 +476,6 @@
       "Name": "The Void",
       "Aspects": [
         "LargeRandomPool",
-        "SingleCard",
         "Anchor",
         "Handled"
       ]
@@ -529,7 +485,6 @@
     {
       "Name": "The Wind",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding",
         "EarlyLeagueInterest",
@@ -541,7 +496,6 @@
     {
       "Name": "The Polymath",
       "Aspects": [
-        "QueryableResult",
         "Handled"
       ]
     }
@@ -582,7 +536,6 @@
       "Name": "Last Hope",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "FarmableOrb"
       ]
@@ -592,7 +545,6 @@
     {
       "Name": "The Vast",
       "Aspects": [
-        "QueryableResult",
         "Handled"
       ]
     }
@@ -601,8 +553,8 @@
     {
       "Name": "The Valley of Steel Boxes",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
+        null,
+        null,
         "Handled"
       ]
     },
@@ -610,8 +562,6 @@
       "Name": "The Valley of Steel Boxes",
       "BaseType": "The Valley of Steel Boxes",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled"
       ]
     }
@@ -649,7 +599,6 @@
     {
       "Name": "Monochrome",
       "Aspects": [
-        "QueryableResult",
         "CurrencyType",
         "Handled"
       ]
@@ -658,7 +607,7 @@
       "Name": "Monochrome",
       "BaseType": "Monochrome",
       "Aspects": [
-        "QueryableResult",
+        null,
         "CurrencyType",
         "Handled",
         "TimelessResult"
@@ -680,7 +629,6 @@
     {
       "Name": "The Hunger",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding",
         "EarlyLeagueInterest"
@@ -702,7 +650,6 @@
     {
       "Name": "The World Eater",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -738,7 +685,6 @@
       "Name": "The Journey",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -748,7 +694,6 @@
     {
       "Name": "The Jeweller's Boon",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -788,8 +733,6 @@
       "Name": "Lucky Deck",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
-        "LargeDeck",
         "Handled",
         "PreventHiding"
       ]
@@ -820,7 +763,6 @@
       "Name": "The Inventor",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "FarmableOrb"
       ]
@@ -874,7 +816,6 @@
     {
       "Name": "The Innocent",
       "Aspects": [
-        "LargeDeck",
         "CurrencyType",
         "Handled",
         "FarmableOrb"
@@ -894,7 +835,6 @@
     {
       "Name": "The Endless Darkness",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "TimelessResult"
@@ -943,7 +883,6 @@
     {
       "Name": "The Mad King",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "PreventHiding"
@@ -953,7 +892,7 @@
       "Name": "The Mad King",
       "BaseType": "The Mad King",
       "Aspects": [
-        "QueryableResult",
+        null,
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -963,7 +902,6 @@
     {
       "Name": "The Chains that Bind",
       "Aspects": [
-        "LargeDeck",
         "Handled",
         "PreventHiding",
         "EarlyLeagueInterest",
@@ -987,7 +925,6 @@
     {
       "Name": "The Formless Sea",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -1112,7 +1049,6 @@
     {
       "Name": "Scholar of the Seas",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding",
         "LateLeagueValueLoss"
@@ -1123,8 +1059,6 @@
     {
       "Name": "The Arena Champion",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1134,8 +1068,6 @@
     {
       "Name": "The Avenger",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1162,7 +1094,6 @@
     {
       "Name": "The Cursed King",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1172,7 +1103,6 @@
     {
       "Name": "The Demoness",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1209,8 +1139,6 @@
     {
       "Name": "The Harvester",
       "Aspects": [
-        "QueryableResult",
-        "LargeDeck",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1238,7 +1166,6 @@
     {
       "Name": "The Last One Standing",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "TimelessResult"
       ]
@@ -1258,7 +1185,6 @@
     {
       "Name": "The Oath",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1292,7 +1218,6 @@
     {
       "Name": "The Soul",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -1319,7 +1244,6 @@
     {
       "Name": "The Stormcaller",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LargeRandomPool",
         "PreventHiding"
@@ -1340,7 +1264,6 @@
       "Name": "The Survivalist",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "FarmableOrb",
         "LateLeagueValueLoss"
@@ -1399,7 +1322,6 @@
       "Name": "The Wrath",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled",
         "FarmableOrb"
       ]
@@ -1409,7 +1331,6 @@
     {
       "Name": "Treasure Hunter",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1439,7 +1360,6 @@
     {
       "Name": "Lingering Remnants",
       "Aspects": [
-        "LargeDeck",
         "Handled",
         "EarlyLeagueInterest",
         "PreventHiding"
@@ -1460,7 +1380,6 @@
       "Name": "No Traces",
       "Aspects": [
         "CurrencyType",
-        "LargeDeck",
         "Handled",
         "FarmableOrb"
       ]
@@ -1479,7 +1398,6 @@
     {
       "Name": "Rebirth",
       "Aspects": [
-        "LargeDeck",
         "Handled"
       ]
     }
@@ -1488,7 +1406,6 @@
     {
       "Name": "The Insatiable",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1497,7 +1414,7 @@
       "Name": "The Insatiable",
       "BaseType": "The Insatiable",
       "Aspects": [
-        "QueryableResult",
+        null,
         "Handled"
       ]
     }
@@ -1506,7 +1423,6 @@
     {
       "Name": "Forbidden Power",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1515,7 +1431,7 @@
       "Name": "Forbidden Power",
       "BaseType": "Forbidden Power",
       "Aspects": [
-        "QueryableResult",
+        null,
         "Handled"
       ]
     }
@@ -1539,7 +1455,6 @@
     {
       "Name": "The Beast",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1558,7 +1473,6 @@
     {
       "Name": "The Darkest Dream",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PreventHiding"
       ]
@@ -1578,7 +1492,6 @@
     {
       "Name": "The Twilight Moon",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "EarlyLeagueInterest"
@@ -1599,7 +1512,6 @@
     {
       "Name": "A Dab of Ink",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "EarlyLeagueInterest",
@@ -1669,7 +1581,6 @@
     {
       "Name": "The Siren",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1680,7 +1591,6 @@
     {
       "Name": "The Sun",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1711,8 +1621,6 @@
     {
       "Name": "The Pact",
       "Aspects": [
-        "QueryableResult",
-        "LargeDeck",
         "Handled"
       ]
     }
@@ -1721,7 +1629,6 @@
     {
       "Name": "The Conduit",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1741,7 +1648,6 @@
     {
       "Name": "The Scavenger",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "LateLeagueValueLoss"
@@ -1761,7 +1667,6 @@
     {
       "Name": "The Forsaken",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1771,7 +1676,6 @@
     {
       "Name": "The Dreamland",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1798,7 +1702,6 @@
     {
       "Name": "The Fathomless Depths",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1809,7 +1712,6 @@
     {
       "Name": "The Drunken Aristocrat",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1819,7 +1721,6 @@
     {
       "Name": "The Feast",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -1829,7 +1730,6 @@
     {
       "Name": "The Poet",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "PoorDrop"
@@ -1860,7 +1760,6 @@
     {
       "Name": "A Mother's Parting Gift",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -1871,7 +1770,6 @@
     {
       "Name": "Anarchy's Price",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -1901,7 +1799,6 @@
       "Name": "Coveted Possession",
       "Aspects": [
         "CurrencyType",
-        "LargeDeck",
         "Handled",
         "LateLeagueValueLoss",
         "FarmableOrb"
@@ -1912,7 +1809,6 @@
     {
       "Name": "Death",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "NoResolution"
@@ -2011,7 +1907,6 @@
     {
       "Name": "Light and Truth",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2032,7 +1927,6 @@
     {
       "Name": "Prosperity",
       "Aspects": [
-        "LargeDeck",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2054,7 +1948,6 @@
     {
       "Name": "Rain Tempter",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2065,7 +1958,6 @@
     {
       "Name": "Rats",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "PoorDrop"
@@ -2094,7 +1986,6 @@
     {
       "Name": "The Betrayal",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2134,7 +2025,6 @@
     {
       "Name": "The Doppelganger",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2144,7 +2034,6 @@
     {
       "Name": "The Dragon",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "LateLeagueValueLoss"
@@ -2234,7 +2123,6 @@
     {
       "Name": "The Hermit",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2245,7 +2133,6 @@
     {
       "Name": "The Incantation",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "Anchor"
@@ -2276,7 +2163,6 @@
     {
       "Name": "The Lich",
       "Aspects": [
-        "LargeDeck",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2296,7 +2182,6 @@
     {
       "Name": "The Lunaris Priestess",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2317,7 +2202,6 @@
     {
       "Name": "The Pack Leader",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "LateLeagueValueLoss"
@@ -2337,7 +2221,6 @@
     {
       "Name": "The Scarred Meadow",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2407,7 +2290,6 @@
     {
       "Name": "The Visionary",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2427,8 +2309,6 @@
     {
       "Name": "The Watcher",
       "Aspects": [
-        "LargeDeck",
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "EarlyLeagueInterest",
@@ -2450,7 +2330,6 @@
     {
       "Name": "The Wolf's Shadow",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2472,7 +2351,6 @@
     {
       "Name": "Thunderous Skies",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2483,7 +2361,6 @@
     {
       "Name": "Tranquillity",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest"
       ]
@@ -2493,7 +2370,6 @@
     {
       "Name": "Turn the Other Cheek",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop"
       ]
@@ -2520,7 +2396,6 @@
     {
       "Name": "The Coming Storm",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss",
         "EarlyLeagueInterest"
@@ -2531,7 +2406,6 @@
     {
       "Name": "Might is Right",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2562,7 +2436,6 @@
     {
       "Name": "The Blazing Fire",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2573,7 +2446,6 @@
     {
       "Name": "The Ruthless Ceinture",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2594,7 +2466,6 @@
     {
       "Name": "The Deceiver",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "PoorDrop",
         "LateLeagueValueLoss"
@@ -2626,7 +2497,6 @@
     {
       "Name": "The Army of Blood",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2636,7 +2506,6 @@
     {
       "Name": "The Sword King's Salute",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2646,7 +2515,6 @@
     {
       "Name": "The Witch",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "LateLeagueValueLoss"
       ]
@@ -2657,7 +2525,6 @@
       "Name": "The Master Artisan",
       "Aspects": [
         "CurrencyType",
-        "QueryableResult",
         "Handled"
       ]
     }
@@ -2666,7 +2533,6 @@
     {
       "Name": "Dark Temptation",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "EarlyLeagueInterest",
         "LateLeagueValueLoss",
@@ -2678,7 +2544,6 @@
     {
       "Name": "Boon of Justice",
       "Aspects": [
-        "QueryableResult",
         "Handled",
         "CurrencyType",
         "FarmableOrb",
@@ -2710,7 +2575,6 @@
       "Name": "Burning Blood",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "TimelessResult"
       ]
     }
@@ -2720,7 +2584,6 @@
       "Name": "The Deep Ones",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "EarlyLeagueInterest"
       ]
     }
@@ -2809,7 +2672,6 @@
       "Name": "The Archmage's Right Hand",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "LateLeagueValueLoss"
       ]
     }
@@ -2819,7 +2681,6 @@
       "Name": "Thirst for Knowledge",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "LateLeagueValueLoss"
       ]
     }
@@ -2829,8 +2690,7 @@
       "Name": "The Demon",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        "QueryableResult"
+        "TimelessResult"
       ]
     },
     {
@@ -2839,7 +2699,7 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "QueryableResult"
+        null
       ]
     }
   ],
@@ -2857,8 +2717,7 @@
       "Name": "The Damned",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        "QueryableResult"
+        "TimelessResult"
       ]
     },
     {
@@ -2867,7 +2726,7 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "QueryableResult"
+        null
       ]
     }
   ],
@@ -3222,7 +3081,6 @@
       "Name": "The Progeny of Lunaris",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "EarlyLeagueInterest"
       ]
     }
@@ -3232,7 +3090,6 @@
       "Name": "The Strategist",
       "Aspects": [
         "Handled",
-        "QueryableResult",
         "TimelessResult"
       ]
     }
