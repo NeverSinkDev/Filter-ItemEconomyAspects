@@ -9,6 +9,24 @@
       ]
     }
   ],
+  "Fine Incubator": [
+    {
+      "Name": "Fine Incubator",
+      "Aspects": [
+        "Handled",
+        "Anchor"
+      ]
+    }
+  ],
+  "Whispering Incubator": [
+    {
+      "Name": "Whispering Incubator",
+      "Aspects": [
+        "Handled",
+        "Anchor"
+      ]
+    }
+  ],
   "Time-Lost Incubator": [
     {
       "Name": "Time-Lost Incubator",
