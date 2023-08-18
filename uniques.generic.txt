@@ -1339,7 +1339,8 @@
       "Name": "Death's Hand",
       "BaseType": "Karui Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     }
   ],
@@ -3339,7 +3340,8 @@
       "Name": "Hyrri's Bite",
       "BaseType": "Sharktooth Arrow Quiver",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     }
   ],
@@ -4500,7 +4502,8 @@
       "BaseType": "Regicide Mask",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "Reworked"
       ]
     },
     {
@@ -4694,7 +4697,8 @@
       "BaseType": "Ancient Greaves",
       "Aspects": [
         "Uncommon",
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     }
   ],
@@ -6400,7 +6404,8 @@
       "Name": "Sibyl's Lament",
       "BaseType": "Coral Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     }
   ],
@@ -6475,7 +6480,8 @@
       "Name": "The Druggery",
       "BaseType": "Cloth Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     },
     {
@@ -6577,7 +6583,8 @@
       "Name": "Araku Tiki",
       "BaseType": "Coral Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Reworked"
       ]
     },
     {
