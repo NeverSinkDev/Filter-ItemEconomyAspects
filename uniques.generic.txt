@@ -1340,7 +1340,8 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "Reworked"
+        "Reworked",
+        "HighVariety"
       ]
     }
   ],
@@ -2975,8 +2976,7 @@
       "Name": "Lycosidae",
       "BaseType": "Rawhide Tower Shield",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -4482,8 +4482,7 @@
       "Name": "Cospri's Will",
       "BaseType": "Assassin's Garb",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -6575,8 +6574,7 @@
       "Aspects": [
         "Uncommon",
         "Handled",
-        "PreventHiding",
-        "EarlyLeagueInterest"
+        "PreventHiding"
       ]
     },
     {
@@ -6854,7 +6852,8 @@
         "Handled",
         "Uncommon",
         "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "Buff"
       ]
     }
   ],
@@ -7025,7 +7024,8 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "STRONK"
       ]
     }
   ],
@@ -7561,8 +7561,7 @@
       "Name": "Ghostwrithe",
       "BaseType": "Silken Vest",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],

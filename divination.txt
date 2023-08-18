@@ -194,7 +194,7 @@
       "Name": "Pride Before the Fall",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "PreventHiding"
       ]
     }
   ],
@@ -280,7 +280,6 @@
       "Name": "The King's Heart",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -487,7 +486,6 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest",
         "LateLeagueValueLoss"
       ]
     }
@@ -685,8 +683,7 @@
       "Name": "The Journey",
       "Aspects": [
         "CurrencyType",
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -1362,7 +1359,8 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
