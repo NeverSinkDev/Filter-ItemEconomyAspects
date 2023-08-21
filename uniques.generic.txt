@@ -1339,9 +1339,16 @@
       "Name": "Death's Hand",
       "BaseType": "Karui Sceptre",
       "Aspects": [
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Maata's Teaching",
+      "BaseType": "Karui Sceptre",
+      "Aspects": [
         "Handled",
-        "Reworked",
-        "HighVariety"
+        "HighVariety",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -3341,7 +3348,14 @@
       "BaseType": "Sharktooth Arrow Quiver",
       "Aspects": [
         "Handled",
-        "Reworked"
+      ]
+    },
+    {
+      "Name": "Ahuana's Bite",
+      "BaseType": "Sharktooth Arrow Quiver",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -4502,7 +4516,6 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "Reworked"
       ]
     },
     {
@@ -4511,6 +4524,14 @@
       "Aspects": [
         "NonWorldDrop",
         "Handled"
+      ]
+    },
+    {
+      "Name": "Akoya's Gaze",
+      "BaseType": "Regicide Mask",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -4697,7 +4718,14 @@
       "Aspects": [
         "Uncommon",
         "Handled",
-        "Reworked"
+      ]
+    },
+    {
+      "Name": "	Kahuturoa's Certainty",
+      "BaseType": "Ancient Greaves",
+      "Aspects": [
+        "NonWorldDrop",
+        "Handled",
       ]
     }
   ],
@@ -5396,6 +5424,13 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "Defiance of Destiny",
+      "BaseType": "Paua Amulet",
+      "Aspects": [
+        "NonWorldDrop"
+      ]
     }
   ],
   "Jade Amulet": [
@@ -5588,6 +5623,14 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "Replica Dragonfang's Flight",
+      "BaseType": "Onyx Amulet",
+      "Aspects": [
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -6256,6 +6299,14 @@
         "Handled",
         "Anchor"
       ]
+    },
+    {
+      "Name": "Kaom's Binding",
+      "BaseType": "Heavy Belt",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Gold Amulet": [
@@ -6372,6 +6423,14 @@
         "Handled",
         "Uncommon"
       ]
+    },
+    {
+      "Name": "Tawhanuku's Timing",
+      "BaseType": "Moonstone Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Wereclaw Talisman": [
@@ -6403,8 +6462,15 @@
       "Name": "Sibyl's Lament",
       "BaseType": "Coral Ring",
       "Aspects": [
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Honoured Alliance",
+      "BaseType": "Coral Ring",
+      "Aspects": [
         "Handled",
-        "Reworked"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6480,7 +6546,6 @@
       "BaseType": "Cloth Belt",
       "Aspects": [
         "Handled",
-        "Reworked"
       ]
     },
     {
@@ -6512,6 +6577,14 @@
       "BaseType": "Cloth Belt",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "Bound Fate",
+      "BaseType": "Cloth Belt",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6582,7 +6655,6 @@
       "BaseType": "Coral Amulet",
       "Aspects": [
         "Handled",
-        "Reworked"
       ]
     },
     {
@@ -6597,6 +6669,14 @@
       "BaseType": "Coral Amulet",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "Ikiaho's Promise",
+      "BaseType": "Coral Amulet",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7669,6 +7749,36 @@
       ]
     }
   ],
+  "Ironwood Buckler": [
+    {
+      "Name": "Kiloava's Bluster",
+      "BaseType": "Ironwood Buckler",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Engraved Greatsword": [
+    {
+      "Name": "	Rakiata's Dance",
+      "BaseType": "Engraved Greatsword",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Majestic Plate": [
+    {
+      "Name": "Utula's Hunger",
+      "BaseType": "Majestic Plate",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
   "Large Cluster Jewel": [
     {
       "Name": "Voices",
@@ -7831,6 +7941,11 @@
     },
     {
       "Name": "Tempered Flesh",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "	Warrior's Tale",
       "BaseType": "Crimson Jewel",
       "Aspects": []
     }
