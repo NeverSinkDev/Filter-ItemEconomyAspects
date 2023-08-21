@@ -395,7 +395,7 @@
       "BaseType": "Highborn Staff",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
+        "NonDrop",
         "HighVariety"
       ]
     }
@@ -1570,7 +1570,7 @@
       "Name": "The Redblade",
       "BaseType": "Gladius",
       "Aspects": [
-        "NonWorldDrop",
+        "NonDrop",
         "HighVariety"
       ]
     }
@@ -2694,7 +2694,7 @@
       "BaseType": "Necromancer Circlet",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -5964,7 +5964,7 @@
       "BaseType": "Agate Amulet",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6813,7 +6813,7 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7609,7 +7609,7 @@
       "BaseType": "Foul Staff",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7664,7 +7664,7 @@
       "BaseType": "Fencer Helm",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
+        "NonDrop",
         "HighVariety"
       ]
     }
