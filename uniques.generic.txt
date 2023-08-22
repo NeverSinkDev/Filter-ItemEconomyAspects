@@ -3347,7 +3347,7 @@
       "Name": "Hyrri's Bite",
       "BaseType": "Sharktooth Arrow Quiver",
       "Aspects": [
-        "Handled",
+        "Handled"
       ]
     },
     {
@@ -4515,7 +4515,7 @@
       "BaseType": "Regicide Mask",
       "Aspects": [
         "Handled",
-        "Uncommon",
+        "Uncommon"
       ]
     },
     {
@@ -4717,15 +4717,15 @@
       "BaseType": "Ancient Greaves",
       "Aspects": [
         "Uncommon",
-        "Handled",
+        "Handled"
       ]
     },
     {
-      "Name": "	Kahuturoa's Certainty",
+      "Name": "Kahuturoa's Certainty",
       "BaseType": "Ancient Greaves",
       "Aspects": [
-        "NonWorldDrop",
         "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -5624,14 +5624,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
-      ]
-    },
-    {
-      "Name": "Replica Dragonfang's Flight",
-      "BaseType": "Onyx Amulet",
-      "Aspects": [
-        "Handled",
-        "HighVariety"
       ]
     }
   ],
@@ -6546,7 +6538,7 @@
       "Name": "The Druggery",
       "BaseType": "Cloth Belt",
       "Aspects": [
-        "Handled",
+        "Handled"
       ]
     },
     {
@@ -6655,7 +6647,7 @@
       "Name": "Araku Tiki",
       "BaseType": "Coral Amulet",
       "Aspects": [
-        "Handled",
+        "Handled"
       ]
     },
     {
@@ -7762,7 +7754,7 @@
   ],
   "Engraved Greatsword": [
     {
-      "Name": "	Rakiata's Dance",
+      "Name": "Rakiata's Dance",
       "BaseType": "Engraved Greatsword",
       "Aspects": [
         "Handled",
@@ -7946,9 +7938,12 @@
       "Aspects": []
     },
     {
-      "Name": "	Warrior's Tale",
+      "Name": "Warrior's Tale",
       "BaseType": "Crimson Jewel",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Cobalt Jewel": [
@@ -8086,6 +8081,11 @@
     },
     {
       "Name": "Apex Mode",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "The Balance of Terror",
       "BaseType": "Cobalt Jewel",
       "Aspects": []
     }

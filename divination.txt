@@ -4450,5 +4450,26 @@
         "Handled"
       ]
     }
+  ],
+  "Fire Of Unknown Origin": [
+    {
+      "Name": "Fire Of Unknown Origin",
+      "Aspects": [
+        "Handled",
+        "TimelessResult",
+        "EarlyLeagueInterest"
+      ]
+    }
+  ],
+  "The Fortunate": [
+    {
+      "Name": "The Fortunate",
+      "Aspects": [
+        "Handled",
+        "CurrencyType",
+        "PreventHiding",
+        "FarmableOrb"
+      ]
+    }
   ]
 }

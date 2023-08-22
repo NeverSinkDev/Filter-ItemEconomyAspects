@@ -93,7 +93,6 @@
       "Name": "Hall of Grandmasters",
       "BaseType": "Promenade Map",
       "Aspects": [
-        "PreventHiding",
         "EarlyLeagueInterest"
       ]
     }
