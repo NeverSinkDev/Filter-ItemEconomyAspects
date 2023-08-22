@@ -1,0 +1,146 @@
+{
+  "Omen of Fortune": [
+    {
+      "Name": "Omen of Fortune",
+      "BaseType": "Omen of Fortune",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Connections": [
+    {
+      "Name": "Omen of Connections",
+      "BaseType": "Omen of Connections",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Blanching": [
+    {
+      "Name": "Omen of Blanching",
+      "BaseType": "Omen of Blanching",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Amelioration": [
+    {
+      "Name": "Omen of Amelioration",
+      "BaseType": "Omen of Amelioration",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of the Jeweller": [
+    {
+      "Name": "Omen of the Jeweller",
+      "BaseType": "Omen of the Jeweller",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Brilliance": [
+    {
+      "Name": "Omen of Brilliance",
+      "BaseType": "Omen of Brilliance",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Bequeathal": [
+    {
+      "Name": "Omen of Bequeathal",
+      "BaseType": "Omen of Bequeathal",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Revenge": [
+    {
+      "Name": "Omen of Revenge",
+      "BaseType": "Omen of Revenge",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Death's Door": [
+    {
+      "Name": "Omen of Death's Door",
+      "BaseType": "Omen of Death's Door",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Resurgence": [
+    {
+      "Name": "Omen of Resurgence",
+      "BaseType": "Omen of Resurgence",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Death-dancing": [
+    {
+      "Name": "Omen of Death-dancing",
+      "BaseType": "Omen of Death-dancing",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of the Soul Devourer": [
+    {
+      "Name": "Omen of the Soul Devourer",
+      "BaseType": "Omen of the Soul Devourer",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Return": [
+    {
+      "Name": "Omen of Return",
+      "BaseType": "Omen of Return",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Acceleration": [
+    {
+      "Name": "Omen of Acceleration",
+      "BaseType": "Omen of Acceleration",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Refreshment": [
+    {
+      "Name": "Omen of Refreshment",
+      "BaseType": "Omen of Refreshment",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Omen of Adrenaline": [
+    {
+      "Name": "Omen of Adrenaline",
+      "BaseType": "Omen of Adrenaline",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ]
+}
