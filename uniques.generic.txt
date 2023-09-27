@@ -386,15 +386,6 @@
         "Handled",
         "NonWorldDrop"
       ]
-    },
-    {
-      "Name": "The Geomantic Gyre",
-      "BaseType": "Highborn Staff",
-      "Aspects": [
-        "Handled",
-        "NonDrop",
-        "HighVariety"
-      ]
     }
   ],
   "Despot Axe": [
@@ -1335,8 +1326,8 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -1373,8 +1364,7 @@
       "BaseType": "Dusk Blade",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1559,14 +1549,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
-      ]
-    },
-    {
-      "Name": "The Redblade",
-      "BaseType": "Gladius",
-      "Aspects": [
-        "NonDrop",
-        "HighVariety"
       ]
     }
   ],
@@ -2063,7 +2045,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "HighVariety",
         "PreventHiding"
       ]
     },
@@ -2942,8 +2923,7 @@
       "Name": "Algor Mortis",
       "BaseType": "Carnal Mitts",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     },
     {
@@ -3502,7 +3482,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "HighVariety",
         "PreventHiding"
       ]
     },
@@ -4169,7 +4148,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "HighVariety",
         "VaalTarget"
       ]
     }
@@ -5830,8 +5808,7 @@
       "Name": "Andvarius",
       "BaseType": "Gold Ring",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     },
     {
@@ -6101,8 +6078,7 @@
       "Name": "Profane Proxy",
       "BaseType": "Unset Ring",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     },
     {
@@ -6919,8 +6895,7 @@
       "BaseType": "Turquoise Amulet",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "HighVariety"
+        "Uncommon"
       ]
     },
     {
@@ -6993,8 +6968,7 @@
       "Name": "Maw of Conquest",
       "BaseType": "Steel Circlet",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     },
     {
