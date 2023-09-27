@@ -42,7 +42,6 @@
     {
       "Name": "The Iron Bard",
       "Aspects": [
-        null,
         "Handled",
         "TimelessResult"
       ]
@@ -107,7 +106,6 @@
     {
       "Name": "The Mayor",
       "Aspects": [
-        null,
         "Handled",
         "TimelessResult"
       ]
@@ -248,10 +246,8 @@
       "Name": "Mawr Blaidd",
       "BaseType": "Mawr Blaidd",
       "Aspects": [
-        null,
-        null,
         "Handled",
-        "TimelessResult"
+        "PreventHiding"
       ]
     }
   ],
@@ -436,8 +432,7 @@
       "Aspects": [
         "CurrencyType",
         "Handled",
-        "TimelessResult",
-        null
+        "TimelessResult"
       ]
     }
   ],
@@ -464,9 +459,8 @@
       "BaseType": "The Cartographer",
       "Aspects": [
         "CurrencyType",
-        null,
-        "Anchor",
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -551,8 +545,6 @@
     {
       "Name": "The Valley of Steel Boxes",
       "Aspects": [
-        null,
-        null,
         "Handled"
       ]
     },
@@ -605,10 +597,8 @@
       "Name": "Monochrome",
       "BaseType": "Monochrome",
       "Aspects": [
-        null,
         "CurrencyType",
-        "Handled",
-        "TimelessResult"
+        "Handled"
       ]
     }
   ],
@@ -778,7 +768,9 @@
       "Name": "The Thaumaturgist",
       "BaseType": "The Thaumaturgist",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -844,7 +836,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "CurrencyType"
       ]
     },
     {
@@ -852,7 +845,9 @@
       "BaseType": "The Price of Protection",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "CurrencyType"
       ]
     }
   ],
@@ -889,9 +884,9 @@
       "Name": "The Mad King",
       "BaseType": "The Mad King",
       "Aspects": [
-        null,
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "PreventHiding"
       ]
     }
   ],
@@ -991,7 +986,8 @@
       "BaseType": "Hope",
       "Aspects": [
         "LargeRandomPool",
-        "Handled"
+        "Handled",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1127,8 +1123,8 @@
       "Name": "The Fletcher",
       "BaseType": "The Fletcher",
       "Aspects": [
-        "LargeRandomPool",
-        "Handled"
+        "Handled",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1155,7 +1151,9 @@
       "Name": "The Jester",
       "BaseType": "The Jester",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1233,7 +1231,9 @@
       "Name": "The Spoiled Prince",
       "BaseType": "The Spoiled Prince",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1396,7 +1396,8 @@
     {
       "Name": "Rebirth",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -1412,8 +1413,8 @@
       "Name": "The Insatiable",
       "BaseType": "The Insatiable",
       "Aspects": [
-        null,
-        "Handled"
+        "Handled",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1429,8 +1430,8 @@
       "Name": "Forbidden Power",
       "BaseType": "Forbidden Power",
       "Aspects": [
-        null,
-        "Handled"
+        "Handled",
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -2696,8 +2697,7 @@
       "BaseType": "The Demon",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        null
+        "TimelessResult"
       ]
     }
   ],
@@ -2723,8 +2723,7 @@
       "BaseType": "The Damned",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        null
+        "TimelessResult"
       ]
     }
   ],
@@ -2777,7 +2776,7 @@
       "BaseType": "Void of the Elements",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "PreventHiding"
       ]
     }
   ],
@@ -2880,8 +2879,7 @@
       "BaseType": "The Side Quest",
       "Aspects": [
         "Handled",
-        "CurrencyType",
-        "EarlyLeagueInterest"
+        "CurrencyType"
       ]
     }
   ],
@@ -3599,10 +3597,7 @@
       "Name": "The Hook",
       "BaseType": "The Hook",
       "Aspects": [
-        "Handled",
-        "TimelessResult",
-        "PreventHiding",
-        "LargeRandomPool"
+        "Handled"
       ]
     }
   ],
@@ -3855,7 +3850,8 @@
     {
       "Name": "The Catch",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -4043,7 +4039,9 @@
       "BaseType": "The Transformation",
       "Aspects": [
         "Handled",
-        "LargeRandomPool"
+        "LargeRandomPool",
+        "TimelessResult",
+        "CurrencyType"
       ]
     }
   ],
@@ -4154,8 +4152,7 @@
     {
       "Name": "From Bone to Ashes",
       "Aspects": [
-        "Handled",
-        "LateLeagueValueLoss"
+        "Handled"
       ]
     }
   ],
