@@ -5,7 +5,7 @@
       "BaseType": "Prophecy Wand",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "Uncommon"
       ]
     }
   ],
@@ -117,8 +117,8 @@
       "BaseType": "Imperial Bow",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "PreventHiding"
       ]
     }
   ],
@@ -178,6 +178,7 @@
       "BaseType": "Vaal Axe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -211,6 +212,7 @@
       "BaseType": "Vaal Sceptre",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -237,6 +239,7 @@
       "Aspects": [
         "Handled",
         "NonDrop",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -246,6 +249,7 @@
       "Aspects": [
         "Handled",
         "NonDrop",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -262,6 +266,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
+        "Uncommon",
         "HighVariety"
       ]
     }
@@ -279,8 +284,7 @@
       "BaseType": "Judgement Staff",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -347,7 +351,8 @@
       "BaseType": "Jewelled Foil",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "Uncommon"
       ]
     }
   ],
@@ -375,7 +380,6 @@
       "BaseType": "Highborn Staff",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon"
       ]
     },
@@ -452,7 +456,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "PreventHiding"
+        "Uncommon"
       ]
     },
     {
@@ -495,7 +499,8 @@
       "BaseType": "Vaal Rapier",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -522,14 +527,15 @@
       "BaseType": "Vaal Blade",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     },
     {
       "Name": "Rebuke of the Vaal",
       "BaseType": "Vaal Blade",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -580,6 +586,7 @@
       "BaseType": "Siege Axe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "PreventHiding"
       ]
     }
@@ -623,8 +630,8 @@
       "Name": "Mjölner",
       "BaseType": "Gavel",
       "Aspects": [
-        "Uncommon",
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -759,6 +766,8 @@
       "BaseType": "Ezomyte Staff",
       "Aspects": [
         "Handled",
+        "Uncommon",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
@@ -804,8 +813,9 @@
       "Name": "The Crimson Storm",
       "BaseType": "Steelwood Bow",
       "Aspects": [
-        "Uncommon",
-        "Handled"
+        "NonWorldDrop",
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -904,7 +914,7 @@
       "BaseType": "Imperial Maul",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     }
   ],
@@ -923,6 +933,7 @@
       "BaseType": "Void Axe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest"
       ]
     }
@@ -1000,8 +1011,8 @@
       "BaseType": "Hellion's Paw",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "PreventHiding"
       ]
     },
     {
@@ -1262,8 +1273,8 @@
       "BaseType": "Vaal Claw",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "PreventHiding"
       ]
     }
   ],
@@ -1291,7 +1302,8 @@
       "BaseType": "Slaughter Knife",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Uncommon",
+        "PreventHiding"
       ]
     }
   ],
@@ -1338,6 +1350,7 @@
       "Aspects": [
         "Handled",
         "Uncommon",
+        "HighVariety",
         "PreventHiding"
       ]
     },
@@ -1354,7 +1367,8 @@
       "Name": "Doomsower",
       "BaseType": "Lion Sword",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -1497,7 +1511,8 @@
       "Name": "Nycta's Lantern",
       "BaseType": "Crystal Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -1548,6 +1563,7 @@
       "BaseType": "Gladius",
       "Aspects": [
         "Handled",
+        "Uncommon,
         "NonWorldDrop"
       ]
     }
@@ -1637,6 +1653,7 @@
       "BaseType": "Ambusher",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -1697,8 +1714,8 @@
       "BaseType": "Karui Maul",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "PreventHiding"
       ]
     }
   ],
@@ -1787,6 +1804,7 @@
       "BaseType": "Imbued Wand",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     },
@@ -1947,6 +1965,7 @@
       "Aspects": [
         "NonWorldDrop",
         "Handled",
+        "HighVariety",
         "PreventHiding"
       ]
     },
@@ -2007,6 +2026,7 @@
       "BaseType": "Sapphire Flask",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     }
@@ -2016,7 +2036,8 @@
       "Name": "Zerphi's Last Breath",
       "BaseType": "Grand Mana Flask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -2044,8 +2065,7 @@
       "BaseType": "Bismuth Flask",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -2053,6 +2073,7 @@
       "BaseType": "Bismuth Flask",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -2065,8 +2086,7 @@
       "Special": "Added Attacks",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "HighVariety"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -2094,6 +2114,7 @@
       "BaseType": "Granite Flask",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     }
@@ -2105,8 +2126,8 @@
       "Aspects": [
         "NonWorldDrop",
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -2114,7 +2135,9 @@
       "BaseType": "Amethyst Flask",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
+        "HighVariety",
         "PreventHiding"
       ]
     }
@@ -2180,6 +2203,8 @@
       "BaseType": "Golden Buckler",
       "Aspects": [
         "Handled",
+        "Uncommon",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
@@ -2207,6 +2232,7 @@
       "BaseType": "Rawhide Boots",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest",
         "PreventHiding"
       ]
@@ -2219,8 +2245,7 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "Uncommon",
-        "HighVariety"
+        "Uncommon"
       ]
     },
     {
@@ -2236,6 +2261,8 @@
       "BaseType": "Sadist Garb",
       "Aspects": [
         "Handled",
+        "Uncommon",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
@@ -2246,6 +2273,7 @@
       "BaseType": "Vaal Gauntlets",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -2253,7 +2281,8 @@
       "Name": "Doryani's Fist",
       "BaseType": "Vaal Gauntlets",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -2262,7 +2291,8 @@
       "Name": "Rigwald's Quills",
       "BaseType": "Two-Point Arrow Quiver",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -2285,6 +2315,7 @@
       "Special": "2 Jewels",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "NonWorldDrop"
       ]
     },
@@ -2336,8 +2367,8 @@
       "BaseType": "Occultist's Vestment",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2347,7 +2378,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "NonDrop"
       ]
     },
     {
@@ -2355,6 +2386,22 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "Skin of the Loyal",
+      "BaseType": "Simple Robe",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
+    },
+    {
+      "Name": "Skin of the Lords",
+      "BaseType": "Simple Robe",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
       ]
     }
   ],
@@ -2364,6 +2411,7 @@
       "BaseType": "Blood Raiment",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     },
@@ -2385,6 +2433,14 @@
         "Handled",
         "NonWorldDrop"
       ]
+    },
+    {
+      "Name": "Shadowstitch",
+      "BaseType": "Sacrificial Garb",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
     }
   ],
   "Murder Boots": [
@@ -2394,6 +2450,7 @@
       "Special": "2 Jewels",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     },
@@ -2412,8 +2469,8 @@
       "BaseType": "Glorious Plate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -2431,7 +2488,7 @@
       "Special": "1 Jewel",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonDrop"
       ]
     },
     {
@@ -2446,6 +2503,7 @@
       "BaseType": "Carnal Armour",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "PreventHiding",
         "NonWorldDrop"
       ]
@@ -2494,7 +2552,7 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "PreventHiding"
+        "HighVariety"
       ]
     }
   ],
@@ -2505,6 +2563,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
+        "Uncommon",
         "PreventHiding"
       ]
     }
@@ -2560,8 +2619,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety",
-        "PreventHiding"
+        "HighVariety"
       ]
     }
   ],
@@ -2639,7 +2697,9 @@
       "BaseType": "Necromancer Circlet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
+        "HighVariety"
       ]
     },
     {
@@ -2689,6 +2749,7 @@
       "BaseType": "Ezomyte Tower Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -2772,7 +2833,8 @@
       "Name": "Corpsewalker",
       "BaseType": "Carnal Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -2840,6 +2902,7 @@
       "BaseType": "Archon Kite Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest"
       ]
     },
@@ -2899,7 +2962,8 @@
       "Name": "Greed's Embrace",
       "BaseType": "Golden Plate",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -2931,6 +2995,7 @@
       "BaseType": "Carnal Mitts",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -3038,7 +3103,7 @@
       "BaseType": "Wyrmscale Doublet",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "Uncommon"
       ]
     }
   ],
@@ -3066,6 +3131,14 @@
       "Aspects": [
         "Handled",
         "VaalTarget"
+      ]
+    },
+    {
+      "Name": "Glimpse of Chaos",
+      "BaseType": "Vaal Mask",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -3128,6 +3201,7 @@
       "BaseType": "Champion Kite Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "PreventHiding"
       ]
     }
@@ -3153,7 +3227,8 @@
       "Name": "Rearguard",
       "BaseType": "Blunt Arrow Quiver",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -3206,7 +3281,8 @@
       "Name": "The Iron Fortress",
       "BaseType": "Crusader Plate",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3245,6 +3321,7 @@
       "BaseType": "Prophet Crown",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
@@ -3271,7 +3348,8 @@
       "Name": "Tukohama's Fortress",
       "BaseType": "Ebony Tower Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3288,7 +3366,7 @@
       "BaseType": "Iron Circlet",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "Uncommon"
       ]
     },
     {
@@ -3338,8 +3416,7 @@
       "BaseType": "Lacquered Garb",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -3347,6 +3424,7 @@
       "BaseType": "Lacquered Garb",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     }
@@ -3410,7 +3488,8 @@
       "BaseType": "Vaal Regalia",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     },
     {
@@ -3427,6 +3506,7 @@
       "BaseType": "Savant's Robe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -3481,8 +3561,8 @@
       "BaseType": "Varnished Coat",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -3490,7 +3570,9 @@
       "BaseType": "Varnished Coat",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "Uncommon",
+        "NonWorldDrop",
+        "PreventHiding"
       ]
     }
   ],
@@ -3550,7 +3632,8 @@
       "Name": "Garukhan's Flight",
       "BaseType": "Stealth Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -3562,7 +3645,7 @@
         "Handled",
         "EarlyLeagueInterest",
         "Uncommon",
-        "PreventHiding"
+        "HighVariety"
       ]
     }
   ],
@@ -3588,6 +3671,7 @@
       "BaseType": "Ancient Gauntlets",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -3615,6 +3699,7 @@
       "BaseType": "Slink Boots",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     }
@@ -3652,7 +3737,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "PreventHiding",
         "Uncommon"
       ]
     }
@@ -3700,6 +3784,7 @@
       "BaseType": "Exquisite Leather",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest"
       ]
     },
@@ -3897,8 +3982,8 @@
       "BaseType": "Ezomyte Burgonet",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -3949,7 +4034,8 @@
       "BaseType": "Astral Plate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "HighVariety"
       ]
     }
   ],
@@ -3978,6 +4064,7 @@
       "BaseType": "Saintly Chainmail",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     },
@@ -4022,7 +4109,8 @@
       "Name": "Rainbowstride",
       "BaseType": "Conjurer Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -4040,7 +4128,8 @@
       "BaseType": "Titanium Spirit Shield",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -4068,7 +4157,8 @@
       "Name": "Sentari's Answer",
       "BaseType": "Brass Spirit Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -4085,6 +4175,7 @@
       "BaseType": "Silken Hood",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     },
@@ -4128,6 +4219,7 @@
       "BaseType": "Necromancer Silks",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest"
       ]
     }
@@ -4200,6 +4292,14 @@
         "NonWorldDrop",
         "HighVariety"
       ]
+    },
+    {
+      "Name": "Malachai's Vision",
+      "BaseType": "Praetor Crown",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
     }
   ],
   "Ironscale Boots": [
@@ -4226,6 +4326,7 @@
       "BaseType": "Hydrascale Boots",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     }
@@ -4236,6 +4337,7 @@
       "BaseType": "Soldier Gloves",
       "Aspects": [
         "NonWorldDrop",
+        "HighVariety",
         "Handled"
       ]
     },
@@ -4303,7 +4405,6 @@
       "BaseType": "Embroidered Gloves",
       "Aspects": [
         "Handled",
-        "HighVariety",
         "EarlyLeagueInterest"
       ]
     }
@@ -4362,8 +4463,7 @@
       "BaseType": "Solaris Circlet",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4390,6 +4490,7 @@
       "BaseType": "Mirrored Spiked Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -4438,7 +4539,8 @@
       "Name": "Cospri's Will",
       "BaseType": "Assassin's Garb",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -4489,6 +4591,7 @@
       "BaseType": "Dragonscale Boots",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -4648,7 +4751,6 @@
         "Handled",
         "EarlyLeagueInterest",
         "Uncommon",
-        "PreventHiding"
       ]
     }
   ],
@@ -4736,6 +4838,7 @@
       "BaseType": "Assassin's Mitts",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -4939,6 +5042,7 @@
       "BaseType": "Sentinel Jacket",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -5001,7 +5105,8 @@
       "Name": "Ralakesh's Impatience",
       "BaseType": "Riveted Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -5270,8 +5375,9 @@
       "Name": "Hyperboreus",
       "BaseType": "Leather Belt",
       "Aspects": [
-        "Uncommon",
-        "Handled"
+        "NonWorldDrop",
+        "Handled",
+        "HighVariety
       ]
     },
     {
@@ -5286,6 +5392,7 @@
       "BaseType": "Leather Belt",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "NonWorldDrop"
       ]
     },
@@ -5369,7 +5476,9 @@
       "BaseType": "Paua Amulet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "Uncommon",
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -5379,6 +5488,7 @@
       "BaseType": "Jade Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -5395,6 +5505,7 @@
       "BaseType": "Jade Amulet",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "Uncommon"
       ]
     },
@@ -5416,8 +5527,7 @@
       "Name": "Willowgift",
       "BaseType": "Jade Amulet",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     }
   ],
@@ -5451,6 +5561,14 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "Blood of Corruption",
+      "BaseType": "Amber Amulet",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
     }
   ],
   "Onyx Amulet": [
@@ -5475,6 +5593,7 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "NonWorldDrop"
       ]
     },
@@ -5491,8 +5610,7 @@
       "Name": "Yoke of Suffering",
       "BaseType": "Onyx Amulet",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     },
     {
@@ -5529,6 +5647,7 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -5538,6 +5657,8 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
+        "HighVariety",
         "NonWorldDrop"
       ]
     },
@@ -5546,6 +5667,7 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -5554,7 +5676,8 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     },
     {
@@ -5562,7 +5685,16 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
+      ]
+    },
+    {
+      "Name": "Replica Dragonfang's Flight",
+      "BaseType": "Onyx Amulet",
+      "Aspects": [
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -5626,6 +5758,7 @@
       "BaseType": "Topaz Ring",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -5633,7 +5766,8 @@
       "Name": "Storm Secret",
       "BaseType": "Topaz Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     },
     {
@@ -5641,6 +5775,7 @@
       "BaseType": "Topaz Ring",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -5667,6 +5802,7 @@
       "BaseType": "Prismatic Ring",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     },
@@ -5790,6 +5926,7 @@
       "BaseType": "Ruby Ring",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -5800,8 +5937,7 @@
       "BaseType": "Gold Ring",
       "Aspects": [
         "HighVariety",
-        "Handled",
-        "Anchor"
+        "Handled"
       ]
     },
     {
@@ -5903,7 +6039,8 @@
       "Name": "Voll's Devotion",
       "BaseType": "Agate Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -5942,6 +6079,7 @@
       "BaseType": "Lapis Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -5995,7 +6133,6 @@
       "BaseType": "Unset Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
         "Uncommon"
       ]
     },
@@ -6019,7 +6156,8 @@
       "BaseType": "Unset Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     },
     {
@@ -6094,7 +6232,8 @@
       "BaseType": "Unset Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -6157,8 +6296,7 @@
       "Name": "Bisco's Leash",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     },
     {
@@ -6203,6 +6341,7 @@
       "BaseType": "Heavy Belt",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -6228,6 +6367,15 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "String of Servitude",
+      "BaseType": "Heavy Belt",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -6325,7 +6473,8 @@
       "Name": "Timeclasp",
       "BaseType": "Moonstone Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     },
     {
@@ -6388,7 +6537,8 @@
       "BaseType": "Coral Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -6439,6 +6589,7 @@
       "Aspects": [
         "Handled",
         "Uncommon",
+        "HighVariety",
         "EarlyLeagueInterest"
       ]
     },
@@ -6559,8 +6710,7 @@
       "Name": "The Primordial Chain",
       "BaseType": "Coral Amulet",
       "Aspects": [
-        "Handled",
-        "PreventHiding"
+        "Handled"
       ]
     },
     {
@@ -6595,7 +6745,10 @@
     {
       "Name": "Ngamahu Tiki",
       "BaseType": "Coral Amulet",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
     }
   ],
   "Diamond Ring": [
@@ -6652,8 +6805,7 @@
       "BaseType": "Citrine Amulet",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "Uncommon"
+        "HighVariety"
       ]
     },
     {
@@ -6723,7 +6875,6 @@
       "Name": "Perandus Signet",
       "BaseType": "Paua Ring",
       "Aspects": [
-        "Uncommon",
         "Handled"
       ]
     },
@@ -6732,7 +6883,8 @@
       "BaseType": "Paua Ring",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "HighVariety"
       ]
     },
     {
@@ -6747,6 +6899,7 @@
       "BaseType": "Paua Ring",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -6784,7 +6937,8 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "HighVariety"
       ]
     },
     {
@@ -6808,6 +6962,7 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -6845,8 +7000,7 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "HighVariety",
-        "Buff"
+        "HighVariety"
       ]
     }
   ],
@@ -6903,6 +7057,7 @@
       "BaseType": "Turquoise Amulet",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7014,7 +7169,6 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "PreventHiding",
         "STRONK"
       ]
     }
@@ -7025,6 +7179,7 @@
       "BaseType": "Saint's Hauberk",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     },
@@ -7070,7 +7225,8 @@
       "BaseType": "Ezomyte Spiked Shield",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety
       ]
     }
   ],
@@ -7173,7 +7329,7 @@
       "BaseType": "Steel Kite Shield",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     },
     {
@@ -7181,6 +7337,7 @@
       "BaseType": "Steel Kite Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7191,6 +7348,7 @@
       "BaseType": "Butcher Axe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7201,6 +7359,8 @@
       "BaseType": "Fluted Bascinet",
       "Aspects": [
         "Handled",
+        "Uncommon",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
@@ -7211,6 +7371,7 @@
       "BaseType": "Crimson Round Shield",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7256,7 +7417,8 @@
       "BaseType": "Wyrmscale Boots",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -7350,6 +7512,7 @@
       "BaseType": "Runic Sollerets",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7360,6 +7523,7 @@
       "BaseType": "Runic Helm",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7399,15 +7563,14 @@
       "BaseType": "Elegant Round Shield",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "NonDrop"
       ]
     },
     {
       "Name": "The Oppressor",
       "BaseType": "Elegant Round Shield",
       "Aspects": [
-        "Handled",
-        "PoorDrop"
+        "Handled"
       ]
     }
   ],
@@ -7418,7 +7581,8 @@
       "Aspects": [
         "Handled",
         "Anchor",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -7429,7 +7593,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "PreventHiding",
         "HighVariety"
       ]
     }
@@ -7594,6 +7757,7 @@
       "BaseType": "Foul Staff",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -7630,6 +7794,7 @@
       "BaseType": "Devout Chainmail",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "EarlyLeagueInterest"
       ]
     }
@@ -7669,7 +7834,8 @@
       "BaseType": "Majestic Plate",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "HighVariety"
       ]
     }
   ],
@@ -7707,6 +7873,7 @@
       "BaseType": "Prismatic Jewel",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "HighVariety"
       ]
@@ -8126,6 +8293,7 @@
       "BaseType": "Ghastly Eye Jewel",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -8245,6 +8413,7 @@
       "BaseType": "Murderous Eye Jewel",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -8256,6 +8425,7 @@
       "BaseType": "Hypnotic Eye Jewel",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
@@ -8267,6 +8437,7 @@
       "BaseType": "Searching Eye Jewel",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "NonWorldDrop",
         "PreventHiding"
       ]
