@@ -456,7 +456,8 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "Uncommon"
+        "Uncommon",
+        "PreventHiding"
       ]
     },
     {
@@ -1563,7 +1564,7 @@
       "BaseType": "Gladius",
       "Aspects": [
         "Handled",
-        "Uncommon,
+        "Uncommon",
         "NonWorldDrop"
       ]
     }
@@ -2305,7 +2306,10 @@
     {
       "Name": "Asphyxia's Wrath",
       "BaseType": "Two-Point Arrow Quiver",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
     }
   ],
   "Steelscale Gauntlets": [
@@ -2420,6 +2424,7 @@
       "BaseType": "Blood Raiment",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "NonWorldDrop"
       ]
     }
