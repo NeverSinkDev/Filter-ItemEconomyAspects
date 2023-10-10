@@ -75,7 +75,6 @@
       "Name": "Celestial Jeweller's Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop",
         "EarlyLeagueInterest"
       ]
     }
@@ -85,7 +84,6 @@
       "Name": "Celestial Armoursmith's Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop",
         "EarlyLeagueInterest"
       ]
     }
@@ -120,7 +118,8 @@
     {
       "Name": "Infused Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
@@ -128,7 +127,8 @@
     {
       "Name": "Skittering Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -154,7 +154,8 @@
       "Name": "Enchanted Incubator",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "PoorDrop"
       ]
     }
   ],
@@ -180,7 +181,8 @@
     {
       "Name": "Fossilised Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -216,7 +218,8 @@
     {
       "Name": "Morphing Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
@@ -232,7 +235,8 @@
     {
       "Name": "Blighted Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
