@@ -236,9 +236,9 @@
       "BaseType": "Infernal Sword",
       "Aspects": [
         "Handled",
-        "NonDrop",
         "Uncommon",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Exclude"
       ]
     },
     {
@@ -246,9 +246,9 @@
       "BaseType": "Infernal Sword",
       "Aspects": [
         "Handled",
-        "NonDrop",
         "Uncommon",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Exclude"
       ]
     },
     {
@@ -2239,7 +2239,8 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "HighVariety"
       ]
     },
     {
@@ -2374,7 +2375,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -2389,7 +2390,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -2397,7 +2398,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     }
   ],
@@ -2485,7 +2486,7 @@
       "Special": "1 Jewel",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -4742,7 +4743,7 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "Uncommon",
+        "Uncommon"
       ]
     }
   ],
@@ -5662,7 +5663,8 @@
         "Handled",
         "Uncommon",
         "HighVariety",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Anchor"
       ]
     },
     {
@@ -5690,14 +5692,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety"
-      ]
-    },
-    {
-      "Name": "Replica Dragonfang's Flight",
-      "BaseType": "Onyx Amulet",
-      "Aspects": [
-        "Handled",
         "HighVariety"
       ]
     }
@@ -5755,7 +5749,7 @@
       "BaseType": "Topaz Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -5925,7 +5919,7 @@
       "BaseType": "Ruby Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -6030,7 +6024,7 @@
       "BaseType": "Sapphire Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
@@ -6882,7 +6876,7 @@
       "BaseType": "Iron Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     }
   ],
@@ -7581,7 +7575,7 @@
       "BaseType": "Elegant Round Shield",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "Exclude"
       ]
     },
     {
