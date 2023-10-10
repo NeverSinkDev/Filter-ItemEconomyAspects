@@ -5694,6 +5694,14 @@
         "NonWorldDrop",
         "HighVariety"
       ]
+    },
+    {
+      "Name": "Replica Dragonfang's Flight",
+      "BaseType": "Onyx Amulet",
+      "Aspects": [
+        "Handled",
+        "HighVariety"
+      ]
     }
   ],
   "Topaz Ring": [
@@ -8025,6 +8033,91 @@
         "Handled",
         "NonWorldDrop"
       ]
+    },
+    {
+      "Name": "Mantra of Flames",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Ancient Waystones",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Coated Shrapnel",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Spire of Stone",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Brawn",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Combustibles",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Fireborn",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Conqueror's Efficiency",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Might in All Forms",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Blood Sacrifice",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "The Vigil",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Fragile Bloom",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Martial Artistry",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Survival Skills",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Warlord's Reach",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Wildfire",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Divine Inferno",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
     }
   ],
   "Cobalt Jewel": [
@@ -8169,6 +8262,101 @@
       "Name": "The Balance of Terror",
       "BaseType": "Cobalt Jewel",
       "Aspects": []
+    },
+    {
+      "Name": "Clear Mind",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Survival Secrets",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Conqueror's Potency",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Corrupted Energy",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "From Dust",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Spirited Response",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Unstable Payload",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Eldritch Knowledge",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Hazardous Research",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Anatomical Knowledge",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Mutated Growth",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Vaal Sentencing",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Winter's Bounty",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Rolling Flames",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Inevitability",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Brittle Barrier",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Assassin's Haste",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Malicious Intent",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Spreading Rot",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
     }
   ],
   "Viridian Jewel": [
@@ -8296,6 +8484,91 @@
     },
     {
       "Name": "Chill of Corruption",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Survival Instincts",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Lord of Steel",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Hotheaded",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Cold Steel",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Hungry Abyss",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Weight of Sin",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Pugilist",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Hair Trigger",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Sacrificial Harvest",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Ring of Blades",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Conqueror's Longevity",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Poacher's Aim",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Static Electricity",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Volley Fire",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Omen on the Winds",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Fight for Survival",
+      "BaseType": "Viridian Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "Might and Influence",
       "BaseType": "Viridian Jewel",
       "Aspects": []
     }
