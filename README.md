@@ -49,6 +49,12 @@ This documentation provides general information about what each aspect does. Thi
 - Function: The item does not drop naturally in the world and is either currently non-acquirable or acquirable through other means (such as vendor recipes). Nondrop prices are not considered when establishing unique tiering. Cheap uniques with expensive non-drop bases get moved into the hideable2 tier.
 > Example: The Kingmaker unique is marked as nondrop. It is only created through a vendor recipe. It may drop when a player guardian with it dies, but this is not a natural occurance.
 
+### Aspect: Exclude
+
+- Used in the Unique tierlist
+- Function: Item drops ingame, but is handled by a different rule in the filter and shouldn't be considered for the tiering
+> Example: Synthesis rings have their own rules and have the exclude aspect.
+
 ### Aspect: NonWorldDrop
 
 - Used in the Unique tierlist
