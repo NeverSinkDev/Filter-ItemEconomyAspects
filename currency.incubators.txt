@@ -4,8 +4,8 @@
       "Name": "Geomancer's Incubator",
       "Aspects": [
         "Handled",
-        "PreventHiding",
-        "Anchor"
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -49,7 +49,7 @@
       "Name": "Thaumaturge's Incubator",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -57,7 +57,8 @@
     {
       "Name": "Obscured Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -66,7 +67,7 @@
       "Name": "Otherworldly Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -75,7 +76,7 @@
       "Name": "Celestial Jeweller's Incubator",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "PoorDrop"
       ]
     }
   ],
@@ -84,7 +85,7 @@
       "Name": "Celestial Armoursmith's Incubator",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "PoorDrop"
       ]
     }
   ],
@@ -92,7 +93,9 @@
     {
       "Name": "Foreboding Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -101,8 +104,7 @@
       "Name": "Celestial Blacksmith's Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop",
-        "EarlyLeagueInterest"
+        "PoorDrop"
       ]
     }
   ],
@@ -110,7 +112,8 @@
     {
       "Name": "Ornate Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -118,8 +121,7 @@
     {
       "Name": "Infused Incubator",
       "Aspects": [
-        "Handled",
-        "PoorDrop"
+        "Handled"
       ]
     }
   ],
@@ -128,7 +130,7 @@
       "Name": "Skittering Incubator",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "Anchor"
       ]
     }
   ],
@@ -136,7 +138,8 @@
     {
       "Name": "Singular Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -145,7 +148,8 @@
       "Name": "Primal Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop"
+        "PoorDrop",
+        "Anchor"
       ]
     }
   ],
@@ -154,7 +158,6 @@
       "Name": "Enchanted Incubator",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PoorDrop"
       ]
     }
@@ -173,7 +176,7 @@
       "Name": "Diviner's Incubator",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "Anchor"
       ]
     }
   ],
@@ -181,8 +184,7 @@
     {
       "Name": "Fossilised Incubator",
       "Aspects": [
-        "Handled",
-        "PreventHiding"
+        "Handled"
       ]
     }
   ],
@@ -190,8 +192,7 @@
     {
       "Name": "Mysterious Incubator",
       "Aspects": [
-        "Handled",
-        "PoorDrop"
+        "Handled"
       ]
     }
   ],
@@ -209,8 +210,7 @@
       "Name": "Abyssal Incubator",
       "Aspects": [
         "Handled",
-        "PoorDrop",
-        "EarlyLeagueInterest"
+        "PoorDrop"
       ]
     }
   ],
@@ -227,7 +227,9 @@
     {
       "Name": "Maddening Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -244,7 +246,8 @@
     {
       "Name": "Kalguuran Incubator",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ]
