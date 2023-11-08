@@ -47,7 +47,8 @@
       "Name": "Severed in Sleep",
       "BaseType": "Cutlass",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -2390,6 +2391,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
+        "Uncommon",
         "Exclude"
       ]
     },
@@ -2398,6 +2400,7 @@
       "BaseType": "Simple Robe",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     }
@@ -2486,6 +2489,7 @@
       "Special": "1 Jewel",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     },
@@ -5757,6 +5761,7 @@
       "BaseType": "Topaz Ring",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     },
@@ -5927,6 +5932,7 @@
       "BaseType": "Ruby Ring",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     },
@@ -6032,6 +6038,7 @@
       "BaseType": "Sapphire Ring",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     },
@@ -6884,6 +6891,7 @@
       "BaseType": "Iron Ring",
       "Aspects": [
         "Handled",
+        "NonWorldDrop",
         "Exclude"
       ]
     }
@@ -6964,7 +6972,8 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop",
+        "Exclude"
       ]
     },
     {
