@@ -5953,7 +5953,8 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     },
     {
