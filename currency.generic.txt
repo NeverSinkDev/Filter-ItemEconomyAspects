@@ -27,7 +27,7 @@
       "Name": "Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom",
         "Anchor"
       ]
@@ -38,7 +38,7 @@
       "Name": "Blessing of Chayula",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -48,7 +48,7 @@
       "BaseType": "Blessing of Chayula",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -60,7 +60,7 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -70,7 +70,7 @@
       "Name": "Orb of Annulment",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -83,7 +83,7 @@
       "Aspects": [
         "Handled",
         "DivineBottom",
-        "TierableCurrency",
+        "Tierable",
         "Anchor"
       ]
     }
@@ -94,7 +94,7 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -105,7 +105,7 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -115,7 +115,7 @@
       "Name": "Blessing of Uul-Netol",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -125,7 +125,7 @@
       "BaseType": "Blessing of Uul-Netol",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -136,7 +136,7 @@
       "Name": "Stacked Deck",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "StackedCurrency"
       ]
@@ -147,7 +147,7 @@
       "Name": "Blessing of Esh",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -157,7 +157,7 @@
       "BaseType": "Blessing of Esh",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -168,7 +168,7 @@
       "Name": "Blessing of Xoph",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -178,7 +178,7 @@
       "BaseType": "Blessing of Xoph",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -189,7 +189,7 @@
       "Name": "Blessing of Tul",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -199,7 +199,7 @@
       "BaseType": "Blessing of Tul",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -226,7 +226,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -235,7 +235,7 @@
       "Name": "Gemcutter's Prism",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -247,7 +247,7 @@
       "Name": "Orb of Scouring",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "SilverBottom",
         "StackedCurrency"
@@ -259,7 +259,7 @@
       "Name": "Vaal Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -271,7 +271,7 @@
       "Name": "Cartographer's Chisel",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "SilverBottom",
         "StackedCurrency"
@@ -283,7 +283,7 @@
       "Name": "Engineer's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "PoorDrop",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -295,7 +295,7 @@
       "Name": "Orb of Fusing",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -307,7 +307,7 @@
       "Name": "Orb of Regret",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -319,7 +319,7 @@
       "Name": "Orb of Horizons",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -333,7 +333,7 @@
         "Handled",
         "ChanceBottom",
         "EarlyLeagueInterest",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -367,7 +367,7 @@
       "Name": "Orb of Binding",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "StackedCurrency",
         "ChanceBottom"
@@ -377,12 +377,16 @@
   "Eternal Orb": [
     {
       "Name": "Eternal Orb",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Eternal Orb",
       "BaseType": "Eternal Orb",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Splinter of Tul": [
@@ -406,7 +410,7 @@
       "Aspects": [
         "Handled",
         "ChanceBottom",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -416,7 +420,7 @@
       "Name": "Orb of Chance",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -441,7 +445,7 @@
       "Name": "Glassblower's Bauble",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "StackedCurrency"
       ]
@@ -452,7 +456,7 @@
       "Name": "Jeweller's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "StackedCurrency"
       ]
@@ -463,7 +467,7 @@
       "Name": "Chromatic Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "StackedCurrency"
       ]
@@ -489,7 +493,7 @@
       "Name": "Orb of Augmentation",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "Anchor"
       ]
     }
@@ -514,7 +518,7 @@
       "Name": "Blessed Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "PoorDrop",
         "StackedCurrency"
@@ -572,7 +576,7 @@
       "Name": "Hunter's Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -582,7 +586,7 @@
       "Name": "Warlord's Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -592,7 +596,7 @@
       "Name": "Awakener's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -603,7 +607,7 @@
       "Aspects": [
         "Handled",
         "DivineBottom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -612,7 +616,7 @@
       "Name": "Redeemer's Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -622,7 +626,7 @@
       "Name": "Prismatic Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "StackedCurrency"
       ]
@@ -633,7 +637,7 @@
       "Name": "Fertile Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "StackedCurrency"
       ]
@@ -644,7 +648,7 @@
       "Name": "Tempering Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "StackedCurrency"
       ]
@@ -655,7 +659,7 @@
       "Name": "Awakened Sextant",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -667,7 +671,7 @@
       "Name": "Turbulent Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom",
         "EarlyLeagueInterest",
         "StackedCurrency"
@@ -679,7 +683,7 @@
       "Name": "Intrinsic Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -691,7 +695,7 @@
       "Name": "Abrasive Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -703,7 +707,7 @@
       "Name": "Imbued Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
         "StackedCurrency"
@@ -715,7 +719,7 @@
       "Name": "Tempering Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -725,7 +729,7 @@
       "Name": "Tailoring Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -735,7 +739,7 @@
       "Name": "Prime Regrading Lens",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "DivineBottom"
       ]
@@ -746,7 +750,7 @@
       "Name": "Secondary Regrading Lens",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "EarlyLeagueInterest",
         "DivineBottom"
       ]
@@ -755,12 +759,16 @@
   "Rogue's Marker": [
     {
       "Name": "Rogue's Marker",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Rogue's Marker",
       "BaseType": "Rogue's Marker",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Maven's Orb": [
@@ -783,7 +791,7 @@
       "Name": "Elevated Sextant",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "Anchor"
       ]
@@ -794,7 +802,7 @@
       "Name": "Orb of Unmaking",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "StackedCurrency"
       ]
@@ -805,7 +813,7 @@
       "Name": "Ritual Vessel",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -815,7 +823,7 @@
       "Name": "Veiled Chaos Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -824,7 +832,7 @@
       "Name": "Unstable Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -834,7 +842,7 @@
       "Name": "Accelerating Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -844,7 +852,7 @@
       "Name": "Noxious Catalyst",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -854,7 +862,7 @@
       "Name": "Tainted Divine Teardrop",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     },
@@ -863,8 +871,7 @@
       "BaseType": "Tainted Divine Teardrop",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -874,7 +881,7 @@
       "Name": "Tainted Mythic Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     },
@@ -883,8 +890,7 @@
       "BaseType": "Tainted Mythic Orb",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -894,7 +900,7 @@
       "Name": "Sacred Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -904,7 +910,7 @@
       "Name": "Tainted Orb of Fusing",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -914,9 +920,9 @@
       "BaseType": "Tainted Orb of Fusing",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
-        "ChaosBottom"
+        "Tierable",
+        "ChaosBottom",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -925,7 +931,7 @@
       "Name": "Tainted Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     },
@@ -934,8 +940,7 @@
       "BaseType": "Tainted Exalted Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
-        "StackedCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -945,7 +950,7 @@
       "Name": "Infused Engineer's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency"
+        "Tierable"
       ]
     },
     {
@@ -953,7 +958,7 @@
       "BaseType": "Infused Engineer's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -961,7 +966,7 @@
     {
       "Name": "Tainted Chromatic Orb",
       "Aspects": [
-        "TierableCurrency",
+        "Tierable",
         "Handled",
         "ChanceBottom"
       ]
@@ -970,8 +975,7 @@
       "Name": "Tainted Chromatic Orb",
       "BaseType": "Tainted Chromatic Orb",
       "Aspects": [
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "Handled",
         "ChanceBottom"
       ]
@@ -982,7 +986,7 @@
       "Name": "Tainted Chaos Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     },
@@ -991,8 +995,7 @@
       "BaseType": "Tainted Chaos Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
-        "StackedCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -1002,7 +1005,7 @@
       "Name": "Tainted Blessing",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -1012,7 +1015,7 @@
       "Name": "Tainted Blacksmith's Whetstone",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     },
@@ -1021,8 +1024,7 @@
       "BaseType": "Tainted Blacksmith's Whetstone",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     }
@@ -1032,7 +1034,7 @@
       "Name": "Tainted Jeweller's Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     },
@@ -1041,8 +1043,7 @@
       "BaseType": "Tainted Jeweller's Orb",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     }
@@ -1052,7 +1053,7 @@
       "Name": "Tainted Armourer's Scrap",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     },
@@ -1061,8 +1062,7 @@
       "BaseType": "Tainted Armourer's Scrap",
       "Aspects": [
         "Handled",
-        "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChanceBottom"
       ]
     }
@@ -1073,7 +1073,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1082,7 +1082,7 @@
       "Name": "Enkindling Orb",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -1108,7 +1108,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -1119,7 +1119,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1129,7 +1129,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1139,7 +1139,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1149,7 +1149,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1159,7 +1159,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1168,7 +1168,7 @@
       "Name": "Orb of Dominance",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "DivineBottom"
       ]
     }
@@ -1179,7 +1179,7 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1188,7 +1188,7 @@
       "Name": "Orb of Conflict",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -1207,7 +1207,7 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1217,7 +1217,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1229,7 +1229,7 @@
       "Aspects": [
         "Handled",
         "AlchemyButtom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1238,7 +1238,7 @@
       "Name": "Exceptional Eldritch Ember",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -1248,7 +1248,7 @@
       "Name": "Eldritch Orb of Annulment",
       "Aspects": [
         "Handled",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1258,7 +1258,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "SilverBottom",
         "EarlyLeagueInterest"
       ]
@@ -1270,7 +1270,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -1282,7 +1282,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "SilverBottom",
         "EarlyLeagueInterest"
       ]
@@ -1294,7 +1294,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -1305,7 +1305,7 @@
       "Name": "Grand Eldritch Ichor",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "StackedCurrency",
         "EarlyLeagueInterest"
@@ -1317,7 +1317,7 @@
       "Name": "Exceptional Eldritch Ichor",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom"
       ]
     }
@@ -1334,12 +1334,16 @@
   "Prime Sextant": [
     {
       "Name": "Prime Sextant",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Prime Sextant",
       "BaseType": "Prime Sextant",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Otherworldly Scouting Report": [
@@ -1347,7 +1351,7 @@
       "Name": "Otherworldly Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1358,7 +1362,7 @@
       "Name": "Comprehensive Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1369,7 +1373,7 @@
       "Name": "Delirious Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1380,7 +1384,7 @@
       "Name": "Operative's Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1390,7 +1394,7 @@
       "BaseType": "Operative's Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1401,7 +1405,7 @@
       "Name": "Blighted Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -1412,7 +1416,7 @@
       "Name": "Influenced Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
       ]
@@ -1423,7 +1427,7 @@
       "Name": "Vaal Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "SilverBottom",
         "EarlyLeagueInterest"
       ]
@@ -1434,7 +1438,7 @@
       "Name": "Singular Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom",
         "EarlyLeagueInterest"
       ]
@@ -1445,7 +1449,7 @@
       "Name": "Explorer's Scouting Report",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "SilverBottom",
         "EarlyLeagueInterest"
       ]
@@ -1454,12 +1458,16 @@
   "Silver Coin": [
     {
       "Name": "Silver Coin",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Silver Coin",
       "BaseType": "Silver Coin",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Horizon Shard": [
@@ -1468,7 +1476,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1479,7 +1487,7 @@
         "Handled",
         "AlchemyButtom",
         "StackedCurrency",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1489,7 +1497,7 @@
       "Aspects": [
         "Handled",
         "AlchemyButtom",
-        "TierableCurrency",
+        "Tierable",
         "StackedCurrency"
       ]
     }
@@ -1500,7 +1508,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -1511,7 +1519,7 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "TierableCurrency",
+        "Tierable",
         "AlchemyButtom"
       ]
     }
@@ -1519,34 +1527,46 @@
   "Armour Recombinator": [
     {
       "Name": "Armour Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Armour Recombinator",
       "BaseType": "Armour Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Jewellery Recombinator": [
     {
       "Name": "Jewellery Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Jewellery Recombinator",
       "BaseType": "Jewellery Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Weapon Recombinator": [
     {
       "Name": "Weapon Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Weapon Recombinator",
       "BaseType": "Weapon Recombinator",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Sacred Crystallised Lifeforce": [
@@ -1555,26 +1575,32 @@
       "Aspects": [
         "Handled",
         "ChaosBottom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
   "Wild Crystallised Lifeforce": [
     {
       "Name": "Wild Crystallised Lifeforce",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Primal Crystallised Lifeforce": [
     {
       "Name": "Primal Crystallised Lifeforce",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vivid Crystallised Lifeforce": [
     {
       "Name": "Vivid Crystallised Lifeforce",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Fracturing Orb": [
@@ -1584,7 +1610,7 @@
         "Handled",
         "PreventHiding",
         "DivineBottom",
-        "TierableCurrency"
+        "Tierable"
       ]
     }
   ],
@@ -1593,9 +1619,17 @@
       "Name": "Fracturing Shard",
       "Aspects": [
         "Handled",
-        "TierableCurrency",
+        "Tierable",
         "ChaosBottom",
         "StackedCurrency"
+      ]
+    }
+  ],
+  "Hinekora's Lock": [
+    {
+      "Name": "Hinekora's Lock",
+      "Aspects": [
+        "Handled"
       ]
     }
   ]

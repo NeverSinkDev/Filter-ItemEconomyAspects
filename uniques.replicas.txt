@@ -1,814 +1,568 @@
 {
-  "Maelström Staff": [
-    {
-      "Name": "Replica Duskdawn",
-      "BaseType": "Maelström Staff",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":1302.88,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Siege Axe": [
-    {
-      "Name": "Replica Soul Taker",
-      "BaseType": "Siege Axe",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":12.48,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Vaal Rapier": [
-    {
-      "Name": "Replica Paradoxica",
-      "BaseType": "Vaal Rapier",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":28.42,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Sage Wand": [
-    {
-      "Name": "Replica Twyzel",
-      "BaseType": "Sage Wand",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.35,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Great Mallet": [
-    {
-      "Name": "Replica Trypanon",
-      "BaseType": "Great Mallet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":29.26,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Death Bow": [
-    {
-      "Name": "Replica Iron Commander",
-      "BaseType": "Death Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
   "Infernal Sword": [
     {
       "Name": "Replica Oro's Sacrifice",
       "BaseType": "Infernal Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":9.36,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ezomyte Dagger": [
-    {
-      "Name": "Replica Cold Iron Point",
-      "BaseType": "Ezomyte Dagger",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ornate Mace": [
-    {
-      "Name": "Replica Frostbreath",
-      "BaseType": "Ornate Mace",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Void Sceptre": [
-    {
-      "Name": "Replica Nebulis",
-      "BaseType": "Void Sceptre",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":19.94,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Eternal Sword": [
-    {
-      "Name": "Replica Dreamfeather",
-      "BaseType": "Eternal Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Boot Knife": [
-    {
-      "Name": "Replica Ungil's Gauche",
-      "BaseType": "Boot Knife",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":15.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Tornado Wand": [
-    {
-      "Name": "Replica Tulfall",
-      "BaseType": "Tornado Wand",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Imperial Bow": [
-    {
-      "Name": "Replica Windripper",
-      "BaseType": "Imperial Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":13.14,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Elder Sword": [
-    {
-      "Name": "Replica Innsbury Edge",
-      "BaseType": "Elder Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":9.96,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Engraved Wand": [
-    {
-      "Name": "Replica Midnight Bargain",
-      "BaseType": "Engraved Wand",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":9.13,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Jasper Chopper": [
-    {
-      "Name": "Replica Harvest",
-      "BaseType": "Jasper Chopper",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":9.07,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Shadow Sceptre": [
-    {
-      "Name": "Replica Bitterdream",
-      "BaseType": "Shadow Sceptre",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":7.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Stiletto": [
-    {
-      "Name": "Replica Bloodplay",
-      "BaseType": "Stiletto",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Grinning Fetish": [
-    {
-      "Name": "Replica Earendel's Embrace",
-      "BaseType": "Grinning Fetish",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ezomyte Axe": [
-    {
-      "Name": "Replica Wings of Entropy",
-      "BaseType": "Ezomyte Axe",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Vaal Claw": [
-    {
-      "Name": "Replica Allure",
-      "BaseType": "Vaal Claw",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Short Bow": [
-    {
-      "Name": "Replica Quill Rain",
-      "BaseType": "Short Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.41,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Gnarled Branch": [
-    {
-      "Name": "Replica Blood Thorn",
-      "BaseType": "Gnarled Branch",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Replica Fencoil",
-      "BaseType": "Gnarled Branch",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Royal Skean": [
-    {
-      "Name": "Replica Heartbreaker",
-      "BaseType": "Royal Skean",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Gut Ripper": [
-    {
-      "Name": "Replica Advancing Fortress",
-      "BaseType": "Gut Ripper",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Nailed Fist": [
-    {
-      "Name": "Replica Last Resort",
-      "BaseType": "Nailed Fist",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":2.66,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "War Sword": [
-    {
-      "Name": "Replica Tempestuous Steel",
-      "BaseType": "War Sword",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Decimation Bow": [
-    {
-      "Name": "Replica Infractem",
-      "BaseType": "Decimation Bow",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":1.96,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Terror Maul": [
     {
       "Name": "Replica Kongor's Undying Rage",
       "BaseType": "Terror Maul",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":0.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
+    }
+  ],
+  "Maelström Staff": [
+    {
+      "Name": "Replica Duskdawn",
+      "BaseType": "Maelström Staff",
+      "Aspects": []
+    }
+  ],
+  "Vaal Claw": [
+    {
+      "Name": "Replica Allure",
+      "BaseType": "Vaal Claw",
+      "Aspects": []
+    }
+  ],
+  "Vaal Rapier": [
+    {
+      "Name": "Replica Paradoxica",
+      "BaseType": "Vaal Rapier",
+      "Aspects": []
+    }
+  ],
+  "Imperial Bow": [
+    {
+      "Name": "Replica Windripper",
+      "BaseType": "Imperial Bow",
+      "Aspects": []
+    }
+  ],
+  "Void Sceptre": [
+    {
+      "Name": "Replica Nebulis",
+      "BaseType": "Void Sceptre",
+      "Aspects": []
+    }
+  ],
+  "Eternal Sword": [
+    {
+      "Name": "Replica Dreamfeather",
+      "BaseType": "Eternal Sword",
+      "Aspects": []
+    }
+  ],
+  "Great Mallet": [
+    {
+      "Name": "Replica Trypanon",
+      "BaseType": "Great Mallet",
+      "Aspects": []
+    }
+  ],
+  "Opal Wand": [
+    {
+      "Name": "Replica Tulfall",
+      "BaseType": "Opal Wand",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Dagger": [
+    {
+      "Name": "Replica Cold Iron Point",
+      "BaseType": "Ezomyte Dagger",
+      "Aspects": []
+    }
+  ],
+  "Ornate Mace": [
+    {
+      "Name": "Replica Frostbreath",
+      "BaseType": "Ornate Mace",
+      "Aspects": []
+    }
+  ],
+  "Sage Wand": [
+    {
+      "Name": "Replica Twyzel",
+      "BaseType": "Sage Wand",
+      "Aspects": []
+    }
+  ],
+  "Shadow Sceptre": [
+    {
+      "Name": "Replica Bitterdream",
+      "BaseType": "Shadow Sceptre",
+      "Aspects": []
+    }
+  ],
+  "Engraved Wand": [
+    {
+      "Name": "Replica Midnight Bargain",
+      "BaseType": "Engraved Wand",
+      "Aspects": []
+    }
+  ],
+  "Nailed Fist": [
+    {
+      "Name": "Replica Last Resort",
+      "BaseType": "Nailed Fist",
+      "Aspects": []
+    }
+  ],
+  "Death Bow": [
+    {
+      "Name": "Replica Iron Commander",
+      "BaseType": "Death Bow",
+      "Aspects": []
+    }
+  ],
+  "Jasper Chopper": [
+    {
+      "Name": "Replica Harvest",
+      "BaseType": "Jasper Chopper",
+      "Aspects": []
+    }
+  ],
+  "Gnarled Branch": [
+    {
+      "Name": "Replica Fencoil",
+      "BaseType": "Gnarled Branch",
+      "Aspects": []
+    },
+    {
+      "Name": "Replica Blood Thorn",
+      "BaseType": "Gnarled Branch",
+      "Aspects": []
+    }
+  ],
+  "Grinning Fetish": [
+    {
+      "Name": "Replica Earendel's Embrace",
+      "BaseType": "Grinning Fetish",
+      "Aspects": []
+    }
+  ],
+  "Ezomyte Axe": [
+    {
+      "Name": "Replica Wings of Entropy",
+      "BaseType": "Ezomyte Axe",
+      "Aspects": []
+    }
+  ],
+  "Royal Skean": [
+    {
+      "Name": "Replica Heartbreaker",
+      "BaseType": "Royal Skean",
+      "Aspects": []
+    }
+  ],
+  "Gut Ripper": [
+    {
+      "Name": "Replica Advancing Fortress",
+      "BaseType": "Gut Ripper",
+      "Aspects": []
+    }
+  ],
+  "Stiletto": [
+    {
+      "Name": "Replica Bloodplay",
+      "BaseType": "Stiletto",
+      "Aspects": []
+    }
+  ],
+  "Elder Sword": [
+    {
+      "Name": "Replica Innsbury Edge",
+      "BaseType": "Elder Sword",
+      "Aspects": []
+    }
+  ],
+  "Short Bow": [
+    {
+      "Name": "Replica Quill Rain",
+      "BaseType": "Short Bow",
+      "Aspects": []
+    }
+  ],
+  "Boot Knife": [
+    {
+      "Name": "Replica Ungil's Gauche",
+      "BaseType": "Boot Knife",
+      "Aspects": []
+    }
+  ],
+  "War Sword": [
+    {
+      "Name": "Replica Tempestuous Steel",
+      "BaseType": "War Sword",
+      "Aspects": []
+    }
+  ],
+  "Decimation Bow": [
+    {
+      "Name": "Replica Infractem",
+      "BaseType": "Decimation Bow",
+      "Aspects": []
     }
   ],
   "Sulphur Flask": [
     {
       "Name": "Replica Sorrow of the Divine",
       "BaseType": "Sulphur Flask",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Granite Flask": [
     {
       "Name": "Replica Rumi's Concoction",
       "BaseType": "Granite Flask",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":8.04,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Sanctified Mana Flask": [
     {
       "Name": "Replica Lavianga's Spirit",
       "BaseType": "Sanctified Mana Flask",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":9.68,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Carnal Armour": [
     {
       "Name": "Replica Shroud of the Lightless",
       "BaseType": "Carnal Armour",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1317.41,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     },
     {
       "Name": "Replica Restless Ward",
       "BaseType": "Carnal Armour",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Great Crown": [
-    {
-      "Name": "Replica Forbidden Shako",
-      "BaseType": "Great Crown",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4287.51,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Triumphant Lamellar": [
     {
       "Name": "Replica Farrul's Fur",
       "BaseType": "Triumphant Lamellar",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4016.98,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Blood Raiment": [
-    {
-      "Name": "Replica Eternity Shroud",
-      "BaseType": "Blood Raiment",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":27.41,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Soldier Boots": [
     {
       "Name": "Replica Alberon's Warpath",
       "BaseType": "Soldier Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":211.42,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ornate Quiver": [
-    {
-      "Name": "Replica Maloney's Mechanism",
-      "BaseType": "Ornate Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":100.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Murder Boots": [
-    {
-      "Name": "Replica Voidwalker",
-      "BaseType": "Murder Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Vaal Gauntlets": [
-    {
-      "Name": "Replica Atziri's Acuity",
-      "BaseType": "Vaal Gauntlets",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":31.25,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ebony Tower Shield": [
-    {
-      "Name": "Replica Tukohama's Fortress",
-      "BaseType": "Ebony Tower Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":40.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Assassin's Boots": [
-    {
-      "Name": "Replica Stampede",
-      "BaseType": "Assassin's Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Lacquered Buckler": [
-    {
-      "Name": "Replica Mistwall",
-      "BaseType": "Lacquered Buckler",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ezomyte Burgonet": [
-    {
-      "Name": "Replica Abyssus",
-      "BaseType": "Ezomyte Burgonet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":19.2,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Zodiac Leather": [
     {
       "Name": "Replica Perfect Form",
       "BaseType": "Zodiac Leather",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.88,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Glorious Plate": [
+  "Murder Boots": [
     {
-      "Name": "Replica Kaom's Heart",
-      "BaseType": "Glorious Plate",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":15.44,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Voidwalker",
+      "BaseType": "Murder Boots",
+      "Aspects": []
     }
   ],
-  "Sinner Tricorne": [
+  "Ornate Quiver": [
     {
-      "Name": "Replica Alpha's Howl",
-      "BaseType": "Sinner Tricorne",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.84,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Maloney's Mechanism",
+      "BaseType": "Ornate Quiver",
+      "Aspects": []
+    }
+  ],
+  "Ebony Tower Shield": [
+    {
+      "Name": "Replica Tukohama's Fortress",
+      "BaseType": "Ebony Tower Shield",
+      "Aspects": []
     }
   ],
   "Titan Greaves": [
     {
       "Name": "Replica Red Trail",
       "BaseType": "Titan Greaves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":13.67,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Arcanist Gloves": [
+  "Lacquered Buckler": [
     {
-      "Name": "Replica Grip of the Council",
-      "BaseType": "Arcanist Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.5,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Mistwall",
+      "BaseType": "Lacquered Buckler",
+      "Aspects": []
     }
   ],
-  "Elegant Ringmail": [
+  "Assassin's Boots": [
     {
-      "Name": "Replica Loreweave",
-      "BaseType": "Elegant Ringmail",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Stampede",
+      "BaseType": "Assassin's Boots",
+      "Aspects": []
     }
   ],
-  "Spike-Point Arrow Quiver": [
+  "Blood Raiment": [
     {
-      "Name": "Replica Soul Strike",
-      "BaseType": "Spike-Point Arrow Quiver",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Eternity Shroud",
+      "BaseType": "Blood Raiment",
+      "Aspects": []
     }
   ],
-  "Arcanist Slippers": [
+  "Vaal Gauntlets": [
     {
-      "Name": "Replica Inya's Epiphany",
-      "BaseType": "Arcanist Slippers",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Atziri's Acuity",
+      "BaseType": "Vaal Gauntlets",
+      "Aspects": []
     }
   ],
-  "Zealot Gloves": [
+  "Ezomyte Burgonet": [
     {
-      "Name": "Replica Volkuur's Guidance",
-      "BaseType": "Zealot Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Samite Gloves": [
-    {
-      "Name": "Replica Kalisa's Grace",
-      "BaseType": "Samite Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.24,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Bronzescale Boots": [
-    {
-      "Name": "Replica Lioneye's Paws",
-      "BaseType": "Bronzescale Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Abyssus",
+      "BaseType": "Ezomyte Burgonet",
+      "Aspects": []
     }
   ],
   "Great Helmet": [
     {
       "Name": "Replica Veil of the Night",
       "BaseType": "Great Helmet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Silk Slippers": [
-    {
-      "Name": "Replica Bones of Ullr",
-      "BaseType": "Silk Slippers",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
   "Laminated Kite Shield": [
     {
       "Name": "Replica Victario's Charity",
       "BaseType": "Laminated Kite Shield",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
+    }
+  ],
+  "Elegant Ringmail": [
+    {
+      "Name": "Replica Loreweave",
+      "BaseType": "Elegant Ringmail",
+      "Aspects": []
+    }
+  ],
+  "Zealot Gloves": [
+    {
+      "Name": "Replica Volkuur's Guidance",
+      "BaseType": "Zealot Gloves",
+      "Aspects": []
     }
   ],
   "Shagreen Boots": [
     {
       "Name": "Replica Three-step Assault",
       "BaseType": "Shagreen Boots",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Festival Mask": [
+  "Glorious Plate": [
     {
-      "Name": "Replica Leer Cast",
-      "BaseType": "Festival Mask",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.24,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Kaom's Heart",
+      "BaseType": "Glorious Plate",
+      "Aspects": []
+    }
+  ],
+  "Samite Gloves": [
+    {
+      "Name": "Replica Kalisa's Grace",
+      "BaseType": "Samite Gloves",
+      "Aspects": []
+    }
+  ],
+  "Arcanist Slippers": [
+    {
+      "Name": "Replica Inya's Epiphany",
+      "BaseType": "Arcanist Slippers",
+      "Aspects": []
     }
   ],
   "Crusader Chainmail": [
     {
       "Name": "Replica Ambu's Charge",
       "BaseType": "Crusader Chainmail",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Sorcerer Gloves": [
+  "Spike-Point Arrow Quiver": [
+    {
+      "Name": "Replica Soul Strike",
+      "BaseType": "Spike-Point Arrow Quiver",
+      "Aspects": []
+    }
+  ],
+  "Sinner Tricorne": [
+    {
+      "Name": "Replica Alpha's Howl",
+      "BaseType": "Sinner Tricorne",
+      "Aspects": []
+    }
+  ],
+  "Satin Gloves": [
     {
       "Name": "Replica Allelopathy",
-      "BaseType": "Sorcerer Gloves",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":2.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "BaseType": "Satin Gloves",
+      "Aspects": []
     }
   ],
-  "Chain Belt": [
+  "Bronzescale Boots": [
     {
-      "Name": "Replica Bated Breath",
-      "BaseType": "Chain Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":52855.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Lioneye's Paws",
+      "BaseType": "Bronzescale Boots",
+      "Aspects": []
     }
   ],
-  "Leather Belt": [
+  "Silk Slippers": [
     {
-      "Name": "Replica Headhunter",
-      "BaseType": "Leather Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-26T20:39:09.1364768+02:00\",\"HanadlingPrice\":827.3,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Bones of Ullr",
+      "BaseType": "Silk Slippers",
+      "Aspects": []
     }
   ],
-  "Cloth Belt": [
+  "Arcanist Gloves": [
     {
-      "Name": "Replica Soul Tether",
-      "BaseType": "Cloth Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Grip of the Council",
+      "BaseType": "Arcanist Gloves",
+      "Aspects": []
     }
   ],
-  "Sapphire Ring": [
+  "Festival Mask": [
     {
-      "Name": "Replica Tasalio's Sign",
-      "BaseType": "Sapphire Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Jade Amulet": [
-    {
-      "Name": "Replica Hyrri's Truth",
-      "BaseType": "Jade Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":45.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Replica Karui Ward",
-      "BaseType": "Jade Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":8.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Ruby Ring": [
-    {
-      "Name": "Replica Emberwake",
-      "BaseType": "Ruby Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":264.28,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Paua Amulet": [
-    {
-      "Name": "Replica Atziri's Foible",
-      "BaseType": "Paua Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":25.28,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Gold Amulet": [
-    {
-      "Name": "Replica Winterheart",
-      "BaseType": "Gold Amulet",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":4.05,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    }
-  ],
-  "Unset Ring": [
-    {
-      "Name": "Replica Malachai's Artifice",
-      "BaseType": "Unset Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
-    },
-    {
-      "Name": "Replica Voideye",
-      "BaseType": "Unset Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":3.33,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Leer Cast",
+      "BaseType": "Festival Mask",
+      "Aspects": []
     }
   ],
   "Heavy Belt": [
     {
       "Name": "Replica Siegebreaker",
       "BaseType": "Heavy Belt",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":20.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Rustic Sash": [
+  "Leather Belt": [
     {
-      "Name": "Replica Prismweave",
-      "BaseType": "Rustic Sash",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":5.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Headhunter",
+      "BaseType": "Leather Belt",
+      "Aspects": []
+    }
+  ],
+  "Chain Belt": [
+    {
+      "Name": "Replica Bated Breath",
+      "BaseType": "Chain Belt",
+      "Aspects": []
+    }
+  ],
+  "Cloth Belt": [
+    {
+      "Name": "Replica Soul Tether",
+      "BaseType": "Cloth Belt",
+      "Aspects": []
+    }
+  ],
+  "Paua Amulet": [
+    {
+      "Name": "Replica Atziri's Foible",
+      "BaseType": "Paua Amulet",
+      "Aspects": []
+    }
+  ],
+  "Jade Amulet": [
+    {
+      "Name": "Replica Karui Ward",
+      "BaseType": "Jade Amulet",
+      "Aspects": []
+    },
+    {
+      "Name": "Replica Hyrri's Truth",
+      "BaseType": "Jade Amulet",
+      "Aspects": []
+    }
+  ],
+  "Sapphire Ring": [
+    {
+      "Name": "Replica Tasalio's Sign",
+      "BaseType": "Sapphire Ring",
+      "Aspects": []
+    }
+  ],
+  "Ruby Ring": [
+    {
+      "Name": "Replica Emberwake",
+      "BaseType": "Ruby Ring",
+      "Aspects": []
+    }
+  ],
+  "Unset Ring": [
+    {
+      "Name": "Replica Malachai's Artifice",
+      "BaseType": "Unset Ring",
+      "Aspects": []
+    },
+    {
+      "Name": "Replica Voideye",
+      "BaseType": "Unset Ring",
+      "Aspects": []
     }
   ],
   "Paua Ring": [
     {
       "Name": "Replica Doedre's Damning",
       "BaseType": "Paua Ring",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2020-09-21T22:38:55.2790587+02:00\",\"HanadlingPrice\":1.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ],
-  "Relic Chambers Map": [
+  "Rustic Sash": [
     {
-      "Name": "Replica Cortex",
-      "BaseType": "Relic Chambers Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":1787.97,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Name": "Replica Prismweave",
+      "BaseType": "Rustic Sash",
+      "Aspects": []
+    }
+  ],
+  "Gold Amulet": [
+    {
+      "Name": "Replica Winterheart",
+      "BaseType": "Gold Amulet",
+      "Aspects": []
+    }
+  ],
+  "Crimson Jewel": [
+    {
+      "Name": "Replica Primordial Might",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    }
+  ],
+  "Cobalt Jewel": [
+    {
+      "Name": "Replica Reckless Defence",
+      "BaseType": "Cobalt Jewel",
+      "Aspects": []
     }
   ],
   "Temple Map": [
     {
       "Name": "Replica Poorjoy's Asylum",
       "BaseType": "Temple Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":30.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
+    }
+  ],
+  "Synthesised Map": [
+    {
+      "Name": "Replica Cortex",
+      "BaseType": "Synthesised Map",
+      "Aspects": []
     }
   ],
   "Dunes Map": [
     {
       "Name": "Replica Pillars of Arun",
       "BaseType": "Dunes Map",
-      "Special": null,
-      "Aspects": [
-        "{\"Group\":\"Meta\",\"HandlingDate\":\"2021-07-11T20:14:51.2548975+02:00\",\"HanadlingPrice\":10.0,\"Name\":\"HandledAspect\",\"Type\":0}"
-      ]
+      "Aspects": []
     }
   ]
 }

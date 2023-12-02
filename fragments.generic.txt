@@ -4,7 +4,7 @@
       "Name": "Chayula's Pure Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -14,7 +14,7 @@
       "Name": "Timeless Maraketh Emblem",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -24,7 +24,7 @@
       "Name": "Chayula's Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -35,7 +35,7 @@
       "Aspects": [
         "Handled",
         "PredictableDrop",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -45,7 +45,7 @@
       "Name": "Uul-Netol's Pure Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -56,7 +56,7 @@
       "Aspects": [
         "Handled",
         "PredictableDrop",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -66,7 +66,7 @@
       "Name": "Timeless Templar Emblem",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -76,7 +76,7 @@
       "Name": "Chayula's Enriched Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -86,7 +86,7 @@
       "Name": "Tul's Pure Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -96,7 +96,7 @@
       "Name": "Chayula's Charged Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -106,7 +106,7 @@
       "Name": "Fragment of the Minotaur",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -117,7 +117,7 @@
       "Name": "Uul-Netol's Enriched Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -127,7 +127,7 @@
       "Name": "Timeless Vaal Emblem",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -137,7 +137,7 @@
       "Name": "Xoph's Pure Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -147,7 +147,7 @@
       "Name": "Esh's Pure Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -157,7 +157,7 @@
       "Name": "Fragment of the Chimera",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -168,7 +168,7 @@
       "Name": "Fragment of Eradication",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -179,7 +179,7 @@
       "Name": "Fragment of the Phoenix",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -190,7 +190,7 @@
       "Name": "Tul's Enriched Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -200,7 +200,7 @@
       "Name": "Fragment of the Hydra",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -211,7 +211,7 @@
       "Name": "Fragment of Terror",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -222,7 +222,7 @@
       "Name": "Fragment of Emptiness",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -233,7 +233,7 @@
       "Name": "Fragment of Enslavement",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -244,7 +244,7 @@
       "Name": "Fragment of Purification",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -255,7 +255,7 @@
       "Name": "Fragment of Constriction",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -266,7 +266,7 @@
       "Name": "Uul-Netol's Charged Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -276,7 +276,7 @@
       "Name": "Esh's Enriched Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -286,7 +286,7 @@
       "Name": "Xoph's Enriched Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -296,7 +296,7 @@
       "Name": "Tul's Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding",
         "EarlyLeagueInterest",
         "Buff"
@@ -308,7 +308,7 @@
       "Name": "Timeless Eternal Emblem",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -318,7 +318,7 @@
       "Name": "Timeless Karui Emblem",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -328,7 +328,7 @@
       "Name": "Tul's Charged Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -338,7 +338,7 @@
       "Name": "Uul-Netol's Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding",
         "EarlyLeagueInterest",
         "Buff"
@@ -350,7 +350,7 @@
       "Name": "Mortal Ignorance",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -360,7 +360,7 @@
       "Name": "Xoph's Charged Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -370,7 +370,7 @@
       "Name": "Mortal Hope",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -380,7 +380,7 @@
       "Name": "Esh's Charged Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -390,7 +390,7 @@
       "Name": "Mortal Rage",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -400,7 +400,7 @@
       "Name": "Xoph's Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "EarlyLeagueInterest",
         "PreventHiding",
         "Buff"
@@ -412,7 +412,7 @@
       "Name": "Esh's Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding",
         "EarlyLeagueInterest",
         "Buff"
@@ -424,7 +424,7 @@
       "Name": "Divine Vessel",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "EarlyLeagueInterest"
       ]
     }
@@ -434,7 +434,7 @@
       "Name": "Mortal Grief",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -468,7 +468,7 @@
         "Handled",
         "PreventHiding",
         "EarlyLeagueInterest",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -477,7 +477,7 @@
       "Name": "Sacrifice at Midnight",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "EarlyLeagueInterest"
       ]
     }
@@ -487,7 +487,7 @@
       "Name": "Sacrifice at Noon",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -496,7 +496,7 @@
       "Name": "Sacrifice at Dawn",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -505,7 +505,7 @@
       "Name": "Sacrifice at Dusk",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -542,7 +542,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -559,7 +559,7 @@
       "Name": "The Maven's Writ",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -576,7 +576,7 @@
       "Name": "Gift to the Goddess",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PreventHiding"
       ]
     }
@@ -587,7 +587,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -597,7 +597,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -670,7 +670,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -680,7 +680,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -690,7 +690,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -700,7 +700,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -710,7 +710,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -718,7 +718,7 @@
     {
       "Name": "Uul-Netol's Flawless Breachstone",
       "Aspects": [
-        "TierableFragment",
+        "Tierable",
         "Handled"
       ]
     }
@@ -728,7 +728,7 @@
       "Name": "Chayula's Flawless Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -737,7 +737,7 @@
       "Name": "Xoph's Flawless Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -746,7 +746,7 @@
       "Name": "Tul's Flawless Breachstone",
       "Aspects": [
         "Handled",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -754,7 +754,7 @@
     {
       "Name": "Esh's Flawless Breachstone",
       "Aspects": [
-        "TierableFragment",
+        "Tierable",
         "Handled"
       ]
     }
@@ -764,7 +764,7 @@
       "Name": "Baran's Crest",
       "Aspects": [
         "Handled",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop",
         "PreventHiding"
       ]
@@ -776,7 +776,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop"
       ]
     }
@@ -787,7 +787,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment",
+        "Tierable",
         "PredictableDrop"
       ]
     }
@@ -799,7 +799,7 @@
         "Handled",
         "PreventHiding",
         "PredictableDrop",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],
@@ -876,7 +876,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "TierableFragment"
+        "Tierable"
       ]
     }
   ],

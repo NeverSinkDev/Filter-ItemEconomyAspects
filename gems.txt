@@ -705,12 +705,16 @@
     {
       "Name": "Poison Support",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Poison Support",
       "BaseType": "Poison Support",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Split Arrow": [
@@ -1042,14 +1046,16 @@
       "Name": "Blood Magic Support",
       "Special": "21/20c",
       "Aspects": [
-        "Anchor"
+        "Anchor",
+        "Handled"
       ]
     },
     {
       "Name": "Blood Magic Support",
       "BaseType": "Blood Magic Support",
       "Aspects": [
-        "Anchor"
+        "Anchor",
+        "Handled"
       ]
     }
   ],
@@ -2225,12 +2231,16 @@
     {
       "Name": "Magma Orb",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Magma Orb",
       "BaseType": "Magma Orb",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Cluster Traps Support": [
@@ -3378,12 +3388,16 @@
     {
       "Name": "Lesser Poison Support",
       "Special": "20/20",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Lesser Poison Support",
       "BaseType": "Lesser Poison Support",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Summon Lightning Golem": [
@@ -3984,7 +3998,9 @@
     {
       "Name": "Vaal Glacial Hammer",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Vaal Glacial Hammer",
@@ -4430,224 +4446,438 @@
     {
       "Name": "Awakened Enlighten Support",
       "Special": "5/23c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Awakened Enhance Support": [
     {
       "Name": "Awakened Enhance Support",
       "Special": "5/23c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Awakened Empower Support": [
     {
       "Name": "Awakened Empower Support",
       "Special": "5/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Reap": [
     {
       "Name": "Vaal Reap",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Arctic Armour": [
     {
       "Name": "Vaal Arctic Armour",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Manaforged Arrows Support": [
     {
       "Name": "Manaforged Arrows Support",
       "Special": "20/23c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Smite": [
     {
       "Name": "Vaal Smite",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Venom Gyre": [
     {
       "Name": "Vaal Venom Gyre",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Lightning Arrow": [
     {
       "Name": "Vaal Lightning Arrow",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Animate Weapon": [
     {
       "Name": "Vaal Animate Weapon",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Prismatic Burst Support": [
     {
       "Name": "Prismatic Burst Support",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Ice Shot": [
     {
       "Name": "Vaal Ice Shot",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Caustic Arrow": [
     {
       "Name": "Vaal Caustic Arrow",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Domination": [
     {
       "Name": "Vaal Domination",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Flicker Strike": [
     {
       "Name": "Vaal Flicker Strike",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Rejuvenation Totem": [
     {
       "Name": "Vaal Rejuvenation Totem",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Momentum Support": [
     {
       "Name": "Momentum Support",
       "Special": "21c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Galvanic Field": [
     {
       "Name": "Galvanic Field",
       "Special": "20/20",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Lightning Conduit": [
     {
       "Name": "Lightning Conduit",
       "Special": "21/23c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Alchemist's Mark": [
     {
       "Name": "Alchemist's Mark",
       "Special": "21/23c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Cursed Ground Support": [
     {
       "Name": "Cursed Ground Support",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Volcanic Fissure": [
     {
       "Name": "Vaal Volcanic Fissure",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Volcanic Fissure": [
     {
       "Name": "Volcanic Fissure",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Firestorm": [
     {
       "Name": "Vaal Firestorm",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Hex Bloom Support": [
     {
       "Name": "Hex Bloom Support",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Overcharge Support": [
     {
       "Name": "Overcharge Support",
       "Special": "21/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Molten Strike": [
     {
       "Name": "Vaal Molten Strike",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Cleave": [
     {
       "Name": "Vaal Cleave",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Snipe": [
     {
       "Name": "Snipe",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Frozen Legion": [
     {
       "Name": "Frozen Legion",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Absolution": [
     {
       "Name": "Vaal Absolution",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Vaal Blade Flurry": [
     {
       "Name": "Vaal Blade Flurry",
       "Special": "20/20c",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Flamewood Support": [
+    {
+      "Name": "Flamewood Support",
+      "BaseType": "Flamewood Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Trauma Support": [
+    {
+      "Name": "Trauma Support",
+      "BaseType": "Trauma Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Spellblade Support": [
+    {
+      "Name": "Spellblade Support",
+      "BaseType": "Spellblade Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Sadism Support": [
+    {
+      "Name": "Sadism Support",
+      "BaseType": "Sadism Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Locus Mine Support": [
+    {
+      "Name": "Locus Mine Support",
+      "BaseType": "Locus Mine Support",
+      "Special": "21/23c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Frigid Bond Support": [
+    {
+      "Name": "Frigid Bond Support",
+      "BaseType": "Frigid Bond Support",
+      "Special": "20",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Corrupting Cry Support": [
+    {
+      "Name": "Corrupting Cry Support",
+      "BaseType": "Corrupting Cry Support",
+      "Special": "21/23c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Returning Projectiles Support": [
+    {
+      "Name": "Returning Projectiles Support",
+      "BaseType": "Returning Projectiles Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Volatility Support": [
+    {
+      "Name": "Volatility Support",
+      "BaseType": "Volatility Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Guardian's Blessing Support": [
+    {
+      "Name": "Guardian's Blessing Support",
+      "BaseType": "Guardian's Blessing Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Devour Support": [
+    {
+      "Name": "Devour Support",
+      "BaseType": "Devour Support",
+      "Special": "20/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Controlled Blaze Support": [
+    {
+      "Name": "Controlled Blaze Support",
+      "BaseType": "Controlled Blaze Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Fresh Meat Support": [
+    {
+      "Name": "Fresh Meat Support",
+      "BaseType": "Fresh Meat Support",
+      "Special": "21/20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Sacrifice Support": [
+    {
+      "Name": "Sacrifice Support",
+      "BaseType": "Sacrifice Support",
+      "Special": "20c",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Vaal Breach": [
+    {
+      "Name": "Vaal Breach",
+      "BaseType": "Vaal Breach",
+      "Special": "1c",
+      "Aspects": [
+        "Handled"
+      ]
     }
   ]
 }

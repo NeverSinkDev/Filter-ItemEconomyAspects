@@ -781,5 +781,59 @@
         "Handled"
       ]
     }
+  ],
+  "Journey Tattoo of Makanui": [
+    {
+      "Name": "Journey Tattoo of Makanui",
+      "BaseType": "Journey Tattoo of Makanui",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Journey Tattoo of the Soul": [
+    {
+      "Name": "Journey Tattoo of the Soul",
+      "BaseType": "Journey Tattoo of the Soul",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Honoured Tattoo of the Makanga": [
+    {
+      "Name": "Honoured Tattoo of the Makanga",
+      "BaseType": "Honoured Tattoo of the Makanga",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Journey Tattoo of the Body": [
+    {
+      "Name": "Journey Tattoo of the Body",
+      "BaseType": "Journey Tattoo of the Body",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Journey Tattoo of the Mind": [
+    {
+      "Name": "Journey Tattoo of the Mind",
+      "BaseType": "Journey Tattoo of the Mind",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Ancestral Tattoo of Bloodlines": [
+    {
+      "Name": "Ancestral Tattoo of Bloodlines",
+      "BaseType": "Ancestral Tattoo of Bloodlines",
+      "Aspects": [
+        "Handled"
+      ]
+    }
   ]
 }

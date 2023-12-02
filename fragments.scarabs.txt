@@ -351,7 +351,8 @@
       "Name": "Gilded Metamorph Scarab",
       "Aspects": [
         "PreventHiding",
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -359,7 +360,8 @@
     {
       "Name": "Polished Metamorph Scarab",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -367,7 +369,8 @@
     {
       "Name": "Rusted Metamorph Scarab",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -515,7 +518,8 @@
     {
       "Name": "Winged Metamorph Scarab",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],

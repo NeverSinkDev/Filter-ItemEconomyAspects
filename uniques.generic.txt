@@ -1332,8 +1332,8 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2471,7 +2471,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "Exclude"
       ]
     },
     {
@@ -3016,8 +3017,9 @@
       "BaseType": "Leather Hood",
       "Aspects": [
         "Handled",
+        "VaalTarget",
         "EarlyLeagueInterest",
-        "VaalTarget"
+        "Nerf"
       ]
     }
   ],
@@ -3389,8 +3391,7 @@
       "Name": "Ahuana's Bite",
       "BaseType": "Sharktooth Arrow Quiver",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -4569,8 +4570,7 @@
       "Name": "Akoya's Gaze",
       "BaseType": "Regicide Mask",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -4764,8 +4764,7 @@
       "Name": "Kahuturoa's Certainty",
       "BaseType": "Ancient Greaves",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -5481,8 +5480,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "NonWorldDrop",
-        "HighVariety"
+        "HighVariety",
+        "PreventHiding"
       ]
     }
   ],
@@ -5769,9 +5768,7 @@
       "Name": "Astral Projector",
       "BaseType": "Topaz Ring",
       "Aspects": [
-        "Handled",
-        "Uncommon",
-        "NonWorldDrop"
+        "Handled"
       ]
     },
     {
@@ -5788,7 +5785,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "STRONK"
       ]
     }
   ],
@@ -5941,8 +5939,7 @@
       "BaseType": "Ruby Ring",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "NonWorldDrop"
+        "Anchor"
       ]
     }
   ],
@@ -6362,9 +6359,7 @@
       "Name": "Mother's Embrace",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "Uncommon",
-        "NonWorldDrop"
+        "Handled"
       ]
     },
     {
@@ -6379,16 +6374,14 @@
       "Name": "Mageblood",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "Anchor"
+        "Handled"
       ]
     },
     {
       "Name": "Kaom's Binding",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     },
     {
@@ -6518,8 +6511,7 @@
       "Name": "Tawhanuku's Timing",
       "BaseType": "Moonstone Ring",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -6559,8 +6551,7 @@
       "BaseType": "Coral Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "HighVariety"
+        "NonDrop"
       ]
     }
   ],
@@ -6671,8 +6662,7 @@
       "Name": "Bound Fate",
       "BaseType": "Cloth Belt",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -6761,8 +6751,7 @@
       "Name": "Ikiaho's Promise",
       "BaseType": "Coral Amulet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     },
     {
@@ -7085,9 +7074,7 @@
       "Name": "Fury Valve",
       "BaseType": "Turquoise Amulet",
       "Aspects": [
-        "Handled",
-        "Uncommon",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -7844,8 +7831,7 @@
       "Name": "Kiloava's Bluster",
       "BaseType": "Ironwood Buckler",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -7855,7 +7841,8 @@
       "BaseType": "Engraved Greatsword",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -7865,8 +7852,8 @@
       "BaseType": "Majestic Plate",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -8734,6 +8721,112 @@
       "Aspects": [
         "Handled",
         "Uncommon",
+        "NonWorldDrop",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Papyrus Relic": [
+    {
+      "Name": "The Original Scripture",
+      "BaseType": "Papyrus Relic",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop",
+        "Uncommon",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Processional Relic": [
+    {
+      "Name": "The Gilded Chalice",
+      "BaseType": "Processional Relic",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "The Chains of Castigation",
+      "BaseType": "Processional Relic",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Censer Relic": [
+    {
+      "Name": "The Hour of Divinity",
+      "BaseType": "Censer Relic",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "The Blood of Innocence",
+      "BaseType": "Censer Relic",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Coffer Relic": [
+    {
+      "Name": "The First Crest",
+      "BaseType": "Coffer Relic",
+      "Special": "Relics",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Candlestick Relic": [
+    {
+      "Name": "The Second Sacrament",
+      "BaseType": "Candlestick Relic",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Tome Relic": [
+    {
+      "Name": "The Power and the Promise",
+      "BaseType": "Tome Relic",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop",
+        "PreventHiding"
+      ]
+    },
+    {
+      "Name": "The Broken Censer",
+      "BaseType": "Tome Relic",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Urn Relic": [
+    {
+      "Name": "The Night Lamp",
+      "BaseType": "Urn Relic",
+      "Aspects": [
+        "Handled",
         "NonWorldDrop",
         "PreventHiding"
       ]
