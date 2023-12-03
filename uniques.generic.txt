@@ -542,7 +542,8 @@
       "Name": "Dying Breath",
       "BaseType": "Iron Staff",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     },
     {
@@ -1513,7 +1514,8 @@
       "Name": "The Supreme Truth",
       "BaseType": "Crystal Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -4079,7 +4081,8 @@
       "Name": "Leer Cast",
       "BaseType": "Festival Mask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -6853,7 +6856,8 @@
       "Name": "Perandus Signet",
       "BaseType": "Paua Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     },
     {
@@ -7865,7 +7869,8 @@
       "Name": "Emperor's Might",
       "BaseType": "Crimson Jewel",
       "Aspects": [
-        "Anchor"
+        "Anchor",
+        "Handled"
       ]
     },
     {
