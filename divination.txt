@@ -78,9 +78,9 @@
       "Name": "Immortal Resolve",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -89,7 +89,8 @@
       "Name": "The Spark and the Flame",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -144,7 +145,6 @@
       "Name": "Hunter's Reward",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -192,7 +192,8 @@
       "Name": "Pride Before the Fall",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -211,7 +212,8 @@
       "Name": "The Offering",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -239,7 +241,8 @@
       "Name": "Mawr Blaidd",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     },
     {
@@ -247,7 +250,8 @@
       "BaseType": "Mawr Blaidd",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -265,7 +269,6 @@
       "Name": "The Ethereal",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
         "CurrencyType"
       ]
@@ -276,7 +279,8 @@
       "Name": "The King's Heart",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -302,8 +306,8 @@
       "Name": "The Professor",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -341,8 +345,7 @@
     {
       "Name": "The Master",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -352,7 +355,6 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -393,8 +395,7 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "TimelessResult",
-        "EarlyLeagueInterest"
+        "TimelessResult"
       ]
     }
   ],
@@ -469,8 +470,8 @@
       "Name": "The Void",
       "Aspects": [
         "HighVariety",
-        "Anchor",
-        "Handled"
+        "Handled",
+        "TimelessResult"
       ]
     }
   ],
@@ -480,7 +481,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -488,7 +490,8 @@
     {
       "Name": "The Polymath",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -498,7 +501,8 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -508,9 +512,9 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -537,7 +541,8 @@
     {
       "Name": "The Vast",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -562,7 +567,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -607,9 +613,10 @@
       "Name": "Bowyer's Dream",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -628,9 +635,9 @@
       "Name": "The Porcupine",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -638,8 +645,7 @@
     {
       "Name": "The World Eater",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -700,9 +706,10 @@
       "Name": "Emperor of Purity",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -740,8 +747,10 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
+        "CurrencyType",
         "EarlyLeagueInterest",
-        "CurrencyType"
+        "LateLeagueValueLoss",
+        "MediumValue"
       ]
     }
   ],
@@ -760,7 +769,6 @@
       "Name": "The Thaumaturgist",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     },
@@ -769,7 +777,6 @@
       "BaseType": "The Thaumaturgist",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -779,8 +786,8 @@
       "Name": "The Throne",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -825,7 +832,6 @@
       "Name": "The Endless Darkness",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "TimelessResult"
       ]
     }
@@ -836,8 +842,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -846,8 +852,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -876,7 +882,6 @@
       "Name": "The Mad King",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss",
         "PreventHiding"
       ]
     },
@@ -885,7 +890,6 @@
       "BaseType": "The Mad King",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss",
         "PreventHiding"
       ]
     }
@@ -896,7 +900,6 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest",
         "CurrencyType"
       ]
     }
@@ -906,9 +909,9 @@
       "Name": "Humility",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -917,7 +920,8 @@
       "Name": "The Formless Sea",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -945,7 +949,9 @@
       "Name": "Boundless Realms",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1004,7 +1010,9 @@
       "Name": "Lost Worlds",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1213,8 +1221,7 @@
     {
       "Name": "The Soul",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -1252,7 +1259,9 @@
       "Name": "The Surveyor",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1281,7 +1290,9 @@
       "Name": "The Trial",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1300,7 +1311,8 @@
       "Aspects": [
         "CurrencyType",
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -1329,7 +1341,9 @@
       "Name": "Treasure Hunter",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1358,9 +1372,9 @@
       "Name": "Lingering Remnants",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1473,7 +1487,8 @@
       "Name": "The Darkest Dream",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1492,8 +1507,7 @@
       "Name": "The Twilight Moon",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -1513,8 +1527,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1612,7 +1626,8 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "CurrencyType"
       ]
     }
   ],
@@ -1648,8 +1663,8 @@
       "Name": "The Scavenger",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1676,7 +1691,8 @@
       "Name": "The Dreamland",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1702,8 +1718,9 @@
       "Name": "The Fathomless Depths",
       "Aspects": [
         "Handled",
-        "PoorDrop",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1769,8 +1786,7 @@
     {
       "Name": "Anarchy's Price",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -1839,8 +1855,7 @@
       "Name": "Earth Drinker",
       "Aspects": [
         "HighVariety",
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -2026,7 +2041,9 @@
       "Name": "The Doppelganger",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -2035,7 +2052,6 @@
       "Name": "The Dragon",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "LateLeagueValueLoss"
       ]
     }
@@ -2054,7 +2070,8 @@
       "Name": "The Explorer",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "PreventHiding"
       ]
     }
   ],
@@ -2203,8 +2220,9 @@
       "Name": "The Pack Leader",
       "Aspects": [
         "Handled",
+        "LateLeagueValueLoss",
         "EarlyLeagueInterest",
-        "LateLeagueValueLoss"
+        "MediumValue"
       ]
     }
   ],
@@ -2309,10 +2327,7 @@
     {
       "Name": "The Watcher",
       "Aspects": [
-        "Handled",
-        "LateLeagueValueLoss",
-        "EarlyLeagueInterest",
-        "NoResolution"
+        "Handled"
       ]
     }
   ],
@@ -2361,8 +2376,7 @@
     {
       "Name": "Tranquillity",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -2537,9 +2551,10 @@
       "Name": "Dark Temptation",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "LateLeagueValueLoss",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2550,8 +2565,7 @@
         "Handled",
         "CurrencyType",
         "PreventHiding",
-        "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "LateLeagueValueLoss"
       ]
     }
   ],
@@ -2587,8 +2601,7 @@
     {
       "Name": "The Deep Ones",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -2605,7 +2618,8 @@
     {
       "Name": "Dark Dreams",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2614,9 +2628,9 @@
       "Name": "Vanity",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2666,8 +2680,7 @@
       "Name": "The Primordial",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -2857,7 +2870,9 @@
       "Name": "The Wolf's Legacy",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2949,8 +2964,7 @@
     {
       "Name": "The Craving",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -2968,7 +2982,9 @@
     {
       "Name": "The Escape",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "TimelessResult"
       ]
     }
   ],
@@ -3014,7 +3030,8 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "CurrencyType"
+        "CurrencyType",
+        "NoValueEarly"
       ]
     }
   ],
@@ -3031,7 +3048,8 @@
       "Name": "The Chosen",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3100,7 +3118,8 @@
       "Name": "The Strategist",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3129,7 +3148,8 @@
     {
       "Name": "The Easy Stroll",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3167,7 +3187,8 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3177,8 +3198,8 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "EarlyLeagueInterest",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3196,8 +3217,7 @@
     {
       "Name": "The Hive of Knowledge",
       "Aspects": [
-        "Handled",
-        "TimelessResult"
+        "Handled"
       ]
     }
   ],
@@ -3239,14 +3259,16 @@
     {
       "Name": "A Note in the Wind",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
       "Name": "A Note in the Wind",
       "BaseType": "A Note in the Wind",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3321,7 +3343,8 @@
       "Name": "The Academic",
       "Aspects": [
         "Handled",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3405,8 +3428,7 @@
     {
       "Name": "Keeper's Corruption",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3426,7 +3448,8 @@
       "Aspects": [
         "Handled",
         "TimelessResult",
-        "CurrencyType"
+        "CurrencyType",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3462,8 +3485,7 @@
     {
       "Name": "Brotherhood in Exile",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3482,8 +3504,7 @@
       "Name": "The Whiteout",
       "Aspects": [
         "Handled",
-        "PreventHiding",
-        "EarlyLeagueInterest"
+        "PreventHiding"
       ]
     }
   ],
@@ -3501,7 +3522,8 @@
     {
       "Name": "Haunting Shadows",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -3546,8 +3568,7 @@
       "Name": "Deadly Joy",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        "EarlyLeagueInterest"
+        "TimelessResult"
       ]
     }
   ],
@@ -3595,8 +3616,10 @@
       "Name": "The Enthusiasts",
       "Aspects": [
         "Handled",
+        "HighVariety",
         "EarlyLeagueInterest",
-        "HighVariety"
+        "PreventHiding",
+        "NoResolution"
       ]
     }
   ],
@@ -3637,8 +3660,7 @@
     {
       "Name": "The Shortcut",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3658,7 +3680,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -3734,7 +3757,9 @@
     {
       "Name": "The Mind's Eyes",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Nerf",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3742,8 +3767,7 @@
     {
       "Name": "Terrible Secret of Space",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3780,8 +3804,8 @@
       "Name": "The Last Supper",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -3837,7 +3861,8 @@
       "Name": "The Rabbit's Foot",
       "Aspects": [
         "Handled",
-        "CurrencyType"
+        "CurrencyType",
+        "HighVariety"
       ]
     }
   ],
@@ -3855,7 +3880,6 @@
       "Name": "Chasing Risk",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "HighVariety",
         "PreventHiding"
       ]
@@ -3875,8 +3899,7 @@
       "Name": "A Stone Perfected",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -3885,8 +3908,8 @@
       "Name": "Guardian's Challenge",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "TimelessResult"
+        "TimelessResult",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3906,8 +3929,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "EarlyLeagueInterest",
-        "NoResolution"
+        "NoResolution",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3937,7 +3960,6 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "EarlyLeagueInterest",
         "NoResolution",
         "TimelessResult"
       ]
@@ -3956,8 +3978,7 @@
     {
       "Name": "Silence and Frost",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3985,7 +4006,6 @@
       "Name": "Justified Ambition",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding",
         "TimelessResult"
       ]
@@ -4004,8 +4024,7 @@
     {
       "Name": "The Magma Crab",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -4024,8 +4043,8 @@
       "Name": "Misery in Darkness",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4260,7 +4279,8 @@
     {
       "Name": "The Enforcer",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -4269,7 +4289,6 @@
       "Name": "Checkmate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "CurrencyType",
         "PreventHiding"
       ]
@@ -4291,7 +4310,8 @@
       "Aspects": [
         "Handled",
         "NoResolution",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4307,7 +4327,9 @@
     {
       "Name": "Azure Rage",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4315,7 +4337,9 @@
     {
       "Name": "Broken Truce",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -4343,7 +4367,8 @@
     {
       "Name": "The Wedding Gift",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4388,7 +4413,9 @@
       "Name": "Alivia's Grace",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4437,7 +4464,8 @@
     {
       "Name": "Poisoned Faith",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4471,8 +4499,7 @@
       "Name": "Fire Of Unknown Origin",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        "EarlyLeagueInterest"
+        "TimelessResult"
       ]
     }
   ],

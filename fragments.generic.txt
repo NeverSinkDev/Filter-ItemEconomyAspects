@@ -885,5 +885,29 @@
       "Name": "Voidborn Reliquary Key",
       "Aspects": []
     }
+  ],
+  "Einhar's Memory": [
+    {
+      "Name": "Einhar's Memory",
+      "Aspects": []
+    }
+  ],
+  "Niko's Memory": [
+    {
+      "Name": "Niko's Memory",
+      "Aspects": []
+    }
+  ],
+  "Alva's Memory": [
+    {
+      "Name": "Alva's Memory",
+      "Aspects": []
+    }
+  ],
+  "Kirac's Memory": [
+    {
+      "Name": "Kirac's Memory",
+      "Aspects": []
+    }
   ]
 }

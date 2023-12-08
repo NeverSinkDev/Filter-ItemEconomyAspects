@@ -136,8 +136,7 @@
       "BaseType": "Fiend Dagger",
       "Aspects": [
         "Uncommon",
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -282,7 +281,8 @@
       "Name": "Hegemony's Era",
       "BaseType": "Judgement Staff",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -359,7 +359,6 @@
       "BaseType": "Carved Wand",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon"
       ]
     },
@@ -542,7 +541,8 @@
       "Name": "Dying Breath",
       "BaseType": "Iron Staff",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     },
     {
@@ -910,7 +910,8 @@
       "BaseType": "Imperial Maul",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -972,8 +973,7 @@
       "Name": "The Scourge",
       "BaseType": "Terror Claw",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -1129,7 +1129,8 @@
       "Name": "Vulconus",
       "BaseType": "Demon Dagger",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1332,8 +1333,7 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -1513,7 +1513,8 @@
       "Name": "The Supreme Truth",
       "BaseType": "Crystal Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -1682,8 +1683,7 @@
       "Name": "Sinvicta's Mettle",
       "BaseType": "Ezomyte Axe",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -1764,7 +1764,8 @@
       "Name": "Apep's Rage",
       "BaseType": "Omen Wand",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Nerf"
       ]
     }
   ],
@@ -1994,8 +1995,7 @@
       "BaseType": "Ruby Flask",
       "Aspects": [
         "NonDrop",
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -2022,8 +2022,7 @@
       "BaseType": "Sapphire Flask",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -2100,8 +2099,8 @@
       "BaseType": "Granite Flask",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -2109,8 +2108,7 @@
       "BaseType": "Granite Flask",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -2143,7 +2141,8 @@
       "BaseType": "Large Hybrid Flask",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2228,8 +2227,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2239,9 +2238,9 @@
       "BaseType": "Sadist Garb",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -2365,8 +2364,7 @@
       "BaseType": "Occultist's Vestment",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     }
   ],
@@ -2471,7 +2469,6 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "EarlyLeagueInterest",
         "Exclude"
       ]
     },
@@ -2554,8 +2551,8 @@
       "BaseType": "Nubuck Boots",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2716,7 +2713,8 @@
       "Name": "Chitus' Apex",
       "BaseType": "Necromancer Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     },
     {
@@ -2854,7 +2852,6 @@
       "BaseType": "Ornate Quiver",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon"
       ]
     }
@@ -3018,8 +3015,8 @@
       "Aspects": [
         "Handled",
         "VaalTarget",
-        "EarlyLeagueInterest",
-        "Nerf"
+        "Nerf",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3132,7 +3129,8 @@
       "BaseType": "Vaal Mask",
       "Aspects": [
         "Handled",
-        "VaalTarget"
+        "VaalTarget",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -3157,8 +3155,7 @@
       "Name": "Matua Tupuna",
       "BaseType": "Tarnished Spirit Shield",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3176,7 +3173,6 @@
       "BaseType": "Zodiac Leather",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon"
       ]
     },
@@ -3333,8 +3329,7 @@
       "Name": "Devoto's Devotion",
       "BaseType": "Nightmare Bascinet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -3435,8 +3430,7 @@
       "Name": "Hrimsorrow",
       "BaseType": "Goathide Gloves",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3626,8 +3620,7 @@
       "Name": "Sin Trek",
       "BaseType": "Stealth Boots",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -3645,7 +3638,6 @@
       "BaseType": "Gladiator Plate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon",
         "HighVariety"
       ]
@@ -3738,8 +3730,8 @@
       "BaseType": "Raven Mask",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3766,8 +3758,8 @@
       "Name": "Goldrim",
       "BaseType": "Leather Cap",
       "Aspects": [
-        "EarlyLeagueInterest",
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4062,8 +4054,7 @@
       "BaseType": "Saintly Chainmail",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     },
     {
@@ -4088,7 +4079,8 @@
       "Name": "Leer Cast",
       "BaseType": "Festival Mask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     }
   ],
@@ -4107,7 +4099,7 @@
       "BaseType": "Conjurer Boots",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4216,8 +4208,7 @@
       "BaseType": "Necromancer Silks",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     }
   ],
@@ -4236,8 +4227,8 @@
       "BaseType": "Serpentscale Gauntlets",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "VaalTarget"
+        "VaalTarget",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4272,7 +4263,7 @@
       "BaseType": "Praetor Crown",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Nerf"
       ]
     },
     {
@@ -4368,7 +4359,7 @@
       "BaseType": "Titan Gauntlets",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Nerf"
       ]
     }
   ],
@@ -4403,7 +4394,7 @@
       "BaseType": "Embroidered Gloves",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "Nerf"
       ]
     }
   ],
@@ -4517,8 +4508,8 @@
       "BaseType": "Silk Gloves",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4707,7 +4698,8 @@
       "BaseType": "Enameled Buckler",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4746,8 +4738,8 @@
       "BaseType": "Painted Tower Shield",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4773,8 +4765,7 @@
       "Name": "Rise of the Phoenix",
       "BaseType": "Mosaic Kite Shield",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -4783,8 +4774,7 @@
       "Name": "Sadima's Touch",
       "BaseType": "Wool Gloves",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -4854,8 +4844,7 @@
       "Name": "Soul Mantle",
       "BaseType": "Spidersilk Robe",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -4863,7 +4852,6 @@
       "BaseType": "Spidersilk Robe",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "Uncommon",
         "PreventHiding"
       ]
@@ -4909,8 +4897,8 @@
       "BaseType": "Murder Mitts",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -5031,8 +5019,7 @@
       "Name": "Dendrobate",
       "BaseType": "Sentinel Jacket",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5051,8 +5038,7 @@
       "BaseType": "Sage's Robe",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     },
     {
@@ -5148,8 +5134,7 @@
       "Name": "Three-step Assault",
       "BaseType": "Shagreen Boots",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5175,8 +5160,7 @@
       "Name": "Honourhome",
       "BaseType": "Soldier Helmet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -5285,8 +5269,7 @@
       "Name": "Deerstalker",
       "BaseType": "Deerskin Boots",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -5409,8 +5392,7 @@
       "Name": "Immortal Flesh",
       "BaseType": "Leather Belt",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5517,8 +5499,7 @@
       "Name": "Karui Ward",
       "BaseType": "Jade Amulet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5615,8 +5596,7 @@
       "Name": "Yoke of Suffering",
       "BaseType": "Onyx Amulet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5624,8 +5604,7 @@
       "BaseType": "Onyx Amulet",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     },
     {
@@ -5685,8 +5664,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     },
     {
@@ -5751,8 +5729,7 @@
       "Name": "Kikazaru",
       "BaseType": "Topaz Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5812,8 +5789,7 @@
       "BaseType": "Prismatic Ring",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     },
     {
@@ -5829,8 +5805,7 @@
       "Name": "Berek's Respite",
       "BaseType": "Two-Stone Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -5950,7 +5925,6 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     },
@@ -6012,8 +5986,7 @@
       "Name": "Pyre",
       "BaseType": "Sapphire Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6162,8 +6135,7 @@
       "Name": "Mark of Submission",
       "BaseType": "Unset Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6231,8 +6203,7 @@
       "Name": "Profane Proxy",
       "BaseType": "Unset Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6312,8 +6283,7 @@
       "Name": "Bisco's Leash",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6322,8 +6292,7 @@
       "Special": "Physical",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "EarlyLeagueInterest"
+        "NonWorldDrop"
       ]
     },
     {
@@ -6337,8 +6306,7 @@
       "Name": "Dyadian Dawn",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6602,7 +6570,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -6693,8 +6662,7 @@
       "Name": "Prismweave",
       "BaseType": "Rustic Sash",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -6705,16 +6673,14 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     },
     {
       "Name": "The Magnate",
       "BaseType": "Studded Belt",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -6843,8 +6809,7 @@
       "BaseType": "Iron Ring",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     },
     {
@@ -6872,8 +6837,7 @@
       "Name": "Icefang Orbit",
       "BaseType": "Iron Ring",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -6891,7 +6855,8 @@
       "Name": "Perandus Signet",
       "BaseType": "Paua Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NoValueEarly"
       ]
     },
     {
@@ -6899,7 +6864,6 @@
       "BaseType": "Paua Ring",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "HighVariety"
       ]
     },
@@ -6943,9 +6907,9 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "HighVariety",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -6953,8 +6917,8 @@
       "BaseType": "Amethyst Ring",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -7016,8 +6980,8 @@
       "BaseType": "Blue Pearl Amulet",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -7028,8 +6992,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -7129,8 +7092,7 @@
       "Name": "Sign of the Sin Eater",
       "BaseType": "Tyrant's Sekhem",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -7185,7 +7147,7 @@
       "Aspects": [
         "Handled",
         "EarlyLeagueInterest",
-        "STRONK"
+        "Buff"
       ]
     }
   ],
@@ -7241,7 +7203,8 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -7433,8 +7396,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -7443,8 +7405,7 @@
       "Name": "Hrimnor's Resolve",
       "BaseType": "Samnite Helmet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -7716,8 +7677,7 @@
       "Name": "Thrillsteel",
       "BaseType": "Barbute Helmet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -7736,8 +7696,7 @@
       "BaseType": "Wolf Pelt",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -7841,7 +7800,6 @@
       "BaseType": "Engraved Greatsword",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -7910,7 +7868,8 @@
       "Name": "Emperor's Might",
       "BaseType": "Crimson Jewel",
       "Aspects": [
-        "Anchor"
+        "Anchor",
+        "Handled"
       ]
     },
     {
