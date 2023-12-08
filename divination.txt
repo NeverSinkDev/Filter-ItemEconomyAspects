@@ -615,7 +615,8 @@
         "Handled",
         "PreventHiding",
         "CurrencyType",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -707,7 +708,8 @@
         "Handled",
         "PreventHiding",
         "CurrencyType",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -746,7 +748,9 @@
         "Handled",
         "PreventHiding",
         "CurrencyType",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "LateLeagueValueLoss",
+        "MediumValue"
       ]
     }
   ],
@@ -946,7 +950,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1006,7 +1011,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1254,7 +1260,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1284,7 +1291,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1303,7 +1311,8 @@
       "Aspects": [
         "CurrencyType",
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -1333,7 +1342,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1616,7 +1626,8 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "CurrencyType"
       ]
     }
   ],
@@ -1707,9 +1718,9 @@
       "Name": "The Fathomless Depths",
       "Aspects": [
         "Handled",
-        "PoorDrop",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2030,7 +2041,9 @@
       "Name": "The Doppelganger",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -2058,7 +2071,7 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "PreventHiding"
       ]
     }
   ],
@@ -2208,7 +2221,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2539,7 +2553,8 @@
         "Handled",
         "LateLeagueValueLoss",
         "PreventHiding",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2856,7 +2871,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -3664,7 +3680,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4311,7 +4328,8 @@
       "Name": "Azure Rage",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4396,7 +4414,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],

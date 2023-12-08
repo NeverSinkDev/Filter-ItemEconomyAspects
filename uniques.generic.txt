@@ -98,8 +98,7 @@
       "BaseType": "Assassin Bow",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     }
   ],
@@ -931,8 +930,7 @@
       "BaseType": "Void Axe",
       "Aspects": [
         "Handled",
-        "Uncommon",
-        "EarlyLeagueInterest"
+        "Uncommon"
       ]
     }
   ],
@@ -1131,7 +1129,8 @@
       "Name": "Vulconus",
       "BaseType": "Demon Dagger",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1596,8 +1595,7 @@
       "Name": "The Searing Touch",
       "BaseType": "Lathi",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3255,8 +3253,7 @@
       "Name": "Malachai's Simula",
       "BaseType": "Iron Mask",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -3332,8 +3329,7 @@
       "Name": "Devoto's Devotion",
       "BaseType": "Nightmare Bascinet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -4103,7 +4099,7 @@
       "BaseType": "Conjurer Boots",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "EarlyLeagueInterest"
       ]
     }
   ],

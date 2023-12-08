@@ -238,7 +238,8 @@
         "Tierable",
         "EarlyLeagueInterest",
         "ChanceBottom",
-        "StackedCurrency"
+        "StackedCurrency",
+        "Anchor"
       ]
     }
   ],
@@ -1012,8 +1013,7 @@
       "Name": "Tainted Blessing",
       "Aspects": [
         "Handled",
-        "Tierable",
-        "AlchemyBottom"
+        "Anchor"
       ]
     }
   ],
