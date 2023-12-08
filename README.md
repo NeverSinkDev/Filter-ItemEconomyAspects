@@ -80,8 +80,8 @@ This documentation provides general information about what each aspect does. Thi
 > Example: At the time of writing Obliteration is a popular start-of-the-league wand that is very expensive during the first 1-3 days, but becomes very cheap later. The wand and the card that grants it both have the aspect.
 
 ### Aspect: HighVariety
-- Used in the Unique tierlist
-- Function: Signalizes that the item economy data is not reliable, because it's practical cost varies greatly. This is usually due to roll ranges.
+- Used in the Unique and Divination tierlists
+- Function: Signalizes that the item economy data is not reliable, because it's practical cost varies greatly. This is usually due to roll ranges. For divination cards it signalizes that the outcome varies highly.
 > Example: Low roll Ventor's gambles or Black Sun Crests are pretty cheap, high roll ones can be excessivly expensive
 
 ### Aspect: NoResolution
@@ -93,12 +93,6 @@ This documentation provides general information about what each aspect does. Thi
 - Used in the Divination tierlist
 - Function: Used to mark that the outcome is fairly-easy-to-sell-or-stack which usually means currency (this also includes most fragments). CurrencyType cards land in the T4c and T5c tiers, instead of T4 and T5, which are highlighted a bit more and hidden later in the strictness pyramid.
 > Example: 'The Survivalist' is a currency type card as it grants alchemy orbs.
-
-### Aspect: LargeRandomPool
-- Used in the Divination tierlist. 
-- Function: Signalizes that the card CAN sometimes result in a pretty valuable outcome. Practically it prevents the item from dropping below T4/T4c. These cards usually are valued higher by players and are often just fun to use
-- TODO: functionally similar to preventhiding
-> Example: Hunter's Resolve grants a random unique bow. This could be a Lioneye's Glare (it won't be, but who knows!)
 
 ### Aspect: TimelessResult
 - Used in the Divination tierlist. 
@@ -116,7 +110,7 @@ This documentation provides general information about what each aspect does. Thi
 - Function: Please read (*C) first. Signalizes that a specific card will likely not hold any value. Reduces the price of the divinaton card by a flat value to offset the noise in the economy data.
 > Example: The 'Rats' divination card offers a pretty earlyleague helmet that has fallen out of favour years ago.
 
-### Aspects: Tierable, TierableFragment, TierableSplinter
+### Aspects: Tierable, TierableSplinter
 - Used in Currency, Splinter, Fragment and other tierlists
 - Function: Some tierlists use a white-listing approach. Instead of tiering *everything*, they only tier items that are listed as tierable. This has proven itself to a be a more stable approach. These aspects also perform some technical tasks to correctly handle itemtypes.
 > Example: 'Vaal Orbs' are tierable. 'Alchemy Orbs' are not.
