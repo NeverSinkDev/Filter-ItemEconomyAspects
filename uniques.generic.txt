@@ -3255,7 +3255,8 @@
       "Name": "Malachai's Simula",
       "BaseType": "Iron Mask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4396,7 +4397,8 @@
       "Name": "Vixen's Entrapment",
       "BaseType": "Embroidered Gloves",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Nerf"
       ]
     }
   ],
@@ -7148,8 +7150,8 @@
       "BaseType": "Ezomyte Dagger",
       "Aspects": [
         "Handled",
-        "STRONK",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "Buff"
       ]
     }
   ],
