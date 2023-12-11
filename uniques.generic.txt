@@ -1383,6 +1383,14 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "The Burden of Shadows",
+      "BaseType": "Primordial Staff",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Jagged Foil": [
@@ -4318,6 +4326,14 @@
         "HighVariety",
         "Handled"
       ]
+    },
+    {
+      "Name": "Gamblesprint",
+      "BaseType": "Hydrascale Boots",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Soldier Gloves": [
@@ -6399,6 +6415,14 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "The Untouched Soul",
+      "BaseType": "Gold Amulet",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Opal Ring": [
@@ -8074,6 +8098,16 @@
       "Name": "Divine Inferno",
       "BaseType": "Crimson Jewel",
       "Aspects": []
+    },
+    {
+      "Name": "That Which Was Taken",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
+    },
+    {
+      "Name": "The Adorned",
+      "BaseType": "Crimson Jewel",
+      "Aspects": []
     }
   ],
   "Cobalt Jewel": [
@@ -8788,6 +8822,46 @@
         "Handled",
         "NonWorldDrop",
         "PreventHiding"
+      ]
+    }
+  ],
+  "Graceful Sword": [
+    {
+      "Name": "Nametaker",
+      "BaseType": "Graceful Sword",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Colosseum Plate": [
+    {
+      "Name": "Pragmatism",
+      "BaseType": "Colosseum Plate",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Visored Sallet": [
+    {
+      "Name": "The Trickster's Smile",
+      "BaseType": "Visored Sallet",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Maple Round Shield": [
+    {
+      "Name": "The Flawed Refuge",
+      "BaseType": "Maple Round Shield",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ]

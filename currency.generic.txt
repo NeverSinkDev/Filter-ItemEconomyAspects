@@ -237,9 +237,8 @@
         "Handled",
         "Tierable",
         "EarlyLeagueInterest",
-        "ChanceBottom",
         "StackedCurrency",
-        "Anchor"
+        "AlchemyBottom"
       ]
     }
   ],
@@ -1639,6 +1638,12 @@
       "Aspects": [
         "Handled"
       ]
+    }
+  ],
+  "Tainted Catalyst": [
+    {
+      "Name": "Tainted Catalyst",
+      "Aspects": []
     }
   ]
 }

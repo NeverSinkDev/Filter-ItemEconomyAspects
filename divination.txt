@@ -4513,5 +4513,53 @@
         "PreventHiding"
       ]
     }
+  ],
+  "I See Brothers": [
+    {
+      "Name": "I See Brothers",
+      "BaseType": "I See Brothers",
+      "Aspects": [
+        "Handled",
+        "CurrencyType",
+        "TimelessResult"
+      ]
+    }
+  ],
+  "Assassin's Gift": [
+    {
+      "Name": "Assassin's Gift",
+      "BaseType": "Assassin's Gift",
+      "Aspects": [
+        "Handled",
+        "TimelessResult",
+        "PreventHiding",
+        "EarlyLeagueInterest"
+      ]
+    }
+  ],
+  "Who Asked": [
+    {
+      "Name": "Who Asked",
+      "BaseType": "Who Asked",
+      "Aspects": [
+        "Handled",
+        "TimelessResult",
+        "HighVariety",
+        "EarlyLeagueInterest"
+      ]
+    }
+  ],
+  "Eldritch Perfection": [
+    {
+      "Name": "Eldritch Perfection",
+      "BaseType": "Eldritch Perfection",
+      "Aspects": [
+        "Handled",
+        "EarlyLeagueInterest",
+        "MediumValue",
+        "HighVariety",
+        "LateLeagueValueLoss"
+      ]
+    }
   ]
 }
