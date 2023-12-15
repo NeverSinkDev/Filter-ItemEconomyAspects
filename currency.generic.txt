@@ -226,7 +226,8 @@
       "Aspects": [
         "Handled",
         "StackedCurrency",
-        "Tierable"
+        "Tierable",
+        "AlchemyBottom"
       ]
     }
   ],
