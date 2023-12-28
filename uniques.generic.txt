@@ -3234,8 +3234,7 @@
       "Name": "Rearguard",
       "BaseType": "Blunt Arrow Quiver",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     }
   ],
@@ -5941,7 +5940,8 @@
       "Aspects": [
         "HighVariety",
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "Anchor"
       ]
     },
     {
