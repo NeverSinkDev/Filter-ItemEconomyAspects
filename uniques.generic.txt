@@ -3146,7 +3146,8 @@
       "BaseType": "Vaal Mask",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "PreventHiding"
       ]
     }
   ],
