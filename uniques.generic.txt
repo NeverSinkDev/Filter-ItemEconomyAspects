@@ -1095,7 +1095,10 @@
       "Name": "The Dark Seer",
       "BaseType": "Shadow Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     },
     {
@@ -1388,8 +1391,7 @@
       "Name": "The Burden of Shadows",
       "BaseType": "Primordial Staff",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -4921,7 +4923,10 @@
       "Name": "Malachai's Mark",
       "BaseType": "Murder Mitts",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     },
     {
@@ -5070,7 +5075,9 @@
       "Name": "Wraithlord",
       "BaseType": "Bone Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Exclude",
+        "NonWorldDrop"
       ]
     },
     {
@@ -5612,7 +5619,10 @@
       "Name": "Yoke of Suffering",
       "BaseType": "Onyx Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "PreventHiding",
+        "STRONK"
       ]
     },
     {
@@ -6421,8 +6431,7 @@
       "Name": "The Untouched Soul",
       "BaseType": "Gold Amulet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -7739,7 +7748,10 @@
       "Name": "Manastorm",
       "BaseType": "Lacewood Spirit Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     }
   ],
@@ -8831,8 +8843,7 @@
       "Name": "Nametaker",
       "BaseType": "Graceful Sword",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8841,8 +8852,7 @@
       "Name": "Pragmatism",
       "BaseType": "Colosseum Plate",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8851,8 +8861,7 @@
       "Name": "The Trickster's Smile",
       "BaseType": "Visored Sallet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8861,8 +8870,7 @@
       "Name": "The Flawed Refuge",
       "BaseType": "Maple Round Shield",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ]
