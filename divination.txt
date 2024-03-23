@@ -3009,7 +3009,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "TimelessResult"
+        "TimelessResult",
+        "STRONK"
       ]
     }
   ],
@@ -3533,7 +3534,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "HighVariety"
+        "LateLeagueValueLoss",
+        "MediumValue"
       ]
     }
   ],
@@ -3627,14 +3629,18 @@
     {
       "Name": "The Hook",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding",
+        "TimelessResult"
       ]
     },
     {
       "Name": "The Hook",
       "BaseType": "The Hook",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -3767,7 +3773,9 @@
     {
       "Name": "Terrible Secret of Space",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "TimelessResult",
+        "PreventHiding"
       ]
     }
   ],
@@ -3824,7 +3832,9 @@
       "Name": "The Blessing of Moosh",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4244,7 +4254,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "CurrencyType"
+        "CurrencyType",
+        "TimelessResult"
       ]
     }
   ],
