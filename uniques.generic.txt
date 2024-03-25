@@ -1095,7 +1095,10 @@
       "Name": "The Dark Seer",
       "BaseType": "Shadow Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     },
     {
@@ -1333,7 +1336,8 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "HighVariety",
+        "Uncommon"
       ]
     }
   ],
@@ -1361,8 +1365,7 @@
       "Name": "Doomsower",
       "BaseType": "Lion Sword",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     }
   ],
@@ -1388,8 +1391,7 @@
       "Name": "The Burden of Shadows",
       "BaseType": "Primordial Staff",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -1513,8 +1515,7 @@
       "Name": "Nycta's Lantern",
       "BaseType": "Crystal Sceptre",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     },
     {
@@ -2817,7 +2818,8 @@
       "Name": "Doedre's Skin",
       "BaseType": "Widowsilk Robe",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3420,7 +3422,8 @@
       "Name": "Cloak of Defiance",
       "BaseType": "Lacquered Garb",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3795,7 +3798,8 @@
       "BaseType": "Exquisite Leather",
       "Special": "Bleeding",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -4052,7 +4056,8 @@
       "Name": "Heretic's Veil",
       "BaseType": "Deicide Mask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -4438,21 +4443,24 @@
       "Name": "Thundersight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
       "Name": "Flamesight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
       "Name": "Galesight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -4543,8 +4551,7 @@
       "Name": "Cospri's Will",
       "BaseType": "Assassin's Garb",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     }
   ],
@@ -4832,7 +4839,6 @@
       "Name": "Storm's Gift",
       "BaseType": "Assassin's Mitts",
       "Aspects": [
-        "NonWorldDrop",
         "Handled"
       ]
     },
@@ -4921,7 +4927,10 @@
       "Name": "Malachai's Mark",
       "BaseType": "Murder Mitts",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     },
     {
@@ -5070,7 +5079,9 @@
       "Name": "Wraithlord",
       "BaseType": "Bone Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Exclude",
+        "NonWorldDrop"
       ]
     },
     {
@@ -5454,7 +5465,8 @@
       "Name": "Atziri's Foible",
       "BaseType": "Paua Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -5507,7 +5519,6 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "Uncommon",
         "EarlyLeagueInterest"
       ]
     },
@@ -5539,7 +5550,8 @@
       "BaseType": "Amber Amulet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Uncommon"
       ]
     },
     {
@@ -5612,7 +5624,10 @@
       "Name": "Yoke of Suffering",
       "BaseType": "Onyx Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "PreventHiding",
+        "STRONK"
       ]
     },
     {
@@ -5761,7 +5776,8 @@
       "Name": "Astral Projector",
       "BaseType": "Topaz Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -5930,7 +5946,8 @@
       "BaseType": "Ruby Ring",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "Anchor",
+        "Uncommon"
       ]
     }
   ],
@@ -6359,7 +6376,8 @@
       "Name": "Mageblood",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -6421,8 +6439,7 @@
       "Name": "The Untouched Soul",
       "BaseType": "Gold Amulet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -6457,7 +6474,8 @@
       "BaseType": "Greatwolf Talisman",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "Anchor",
+        "Uncommon"
       ]
     }
   ],
@@ -6705,7 +6723,8 @@
       "Name": "The Magnate",
       "BaseType": "Studded Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -7265,7 +7284,8 @@
       "Name": "Beacon of Madness",
       "BaseType": "Two-Toned Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -7566,7 +7586,8 @@
       "BaseType": "Elegant Round Shield",
       "Aspects": [
         "Handled",
-        "Exclude"
+        "Exclude",
+        "Uncommon"
       ]
     },
     {
@@ -7739,7 +7760,10 @@
       "Name": "Manastorm",
       "BaseType": "Lacewood Spirit Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop",
+        "STRONK",
+        "PreventHiding"
       ]
     }
   ],
@@ -7749,7 +7773,8 @@
       "BaseType": "Ring",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "Anchor",
+        "Uncommon"
       ]
     }
   ],
@@ -7825,7 +7850,8 @@
       "BaseType": "Engraved Greatsword",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "Uncommon"
       ]
     }
   ],
@@ -7836,7 +7862,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "Uncommon"
       ]
     }
   ],
@@ -8008,14 +8035,6 @@
       "Aspects": []
     },
     {
-      "Name": "Warrior's Tale",
-      "BaseType": "Crimson Jewel",
-      "Aspects": [
-        "Handled",
-        "NonWorldDrop"
-      ]
-    },
-    {
       "Name": "Mantra of Flames",
       "BaseType": "Crimson Jewel",
       "Aspects": []
@@ -8097,11 +8116,6 @@
     },
     {
       "Name": "Divine Inferno",
-      "BaseType": "Crimson Jewel",
-      "Aspects": []
-    },
-    {
-      "Name": "That Which Was Taken",
       "BaseType": "Crimson Jewel",
       "Aspects": []
     },
@@ -8791,7 +8805,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Uncommon"
       ]
     }
   ],
@@ -8831,8 +8846,7 @@
       "Name": "Nametaker",
       "BaseType": "Graceful Sword",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8841,8 +8855,7 @@
       "Name": "Pragmatism",
       "BaseType": "Colosseum Plate",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8851,8 +8864,7 @@
       "Name": "The Trickster's Smile",
       "BaseType": "Visored Sallet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8861,8 +8873,7 @@
       "Name": "The Flawed Refuge",
       "BaseType": "Maple Round Shield",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ]
