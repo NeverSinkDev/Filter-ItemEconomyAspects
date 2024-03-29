@@ -4624,7 +4624,8 @@
       "Name": "Empire's Grasp",
       "BaseType": "Goliath Gauntlets",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -4669,7 +4670,8 @@
       "Name": "Kitava's Thirst",
       "BaseType": "Zealot Helmet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -7098,7 +7100,8 @@
       "Name": "Perseverance",
       "BaseType": "Vanguard Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
