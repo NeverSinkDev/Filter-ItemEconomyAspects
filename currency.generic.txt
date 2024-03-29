@@ -824,15 +824,6 @@
       ]
     }
   ],
-  "Veiled Chaos Orb": [
-    {
-      "Name": "Veiled Chaos Orb",
-      "Aspects": [
-        "Handled",
-        "Tierable"
-      ]
-    }
-  ],
   "Unstable Catalyst": [
     {
       "Name": "Unstable Catalyst",

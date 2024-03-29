@@ -2011,7 +2011,9 @@
       "Name": "The Calling",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "HighVariety",
+        "PreventHiding"
       ]
     }
   ],
