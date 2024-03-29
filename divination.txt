@@ -280,7 +280,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -480,8 +481,8 @@
       "Name": "The Wind",
       "Aspects": [
         "Handled",
-        "PreventHiding",
         "LateLeagueValueLoss",
+        "MediumValue",
         "EarlyLeagueInterest"
       ]
     }
@@ -787,7 +788,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -823,7 +825,9 @@
       "Name": "The Wilted Rose",
       "Aspects": [
         "HighVariety",
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "TimelessResult"
       ]
     }
   ],
@@ -1488,7 +1492,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1528,7 +1533,8 @@
         "Handled",
         "LateLeagueValueLoss",
         "PreventHiding",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1664,7 +1670,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -1692,7 +1699,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -2011,7 +2019,9 @@
       "Name": "The Calling",
       "Aspects": [
         "Handled",
-        "LateLeagueValueLoss"
+        "LateLeagueValueLoss",
+        "HighVariety",
+        "PreventHiding"
       ]
     }
   ],
@@ -2412,7 +2422,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -3009,7 +3020,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "TimelessResult"
+        "TimelessResult",
+        "STRONK"
       ]
     }
   ],
@@ -3401,7 +3413,8 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -3533,7 +3546,8 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "HighVariety"
+        "LateLeagueValueLoss",
+        "MediumValue"
       ]
     }
   ],
@@ -3627,14 +3641,18 @@
     {
       "Name": "The Hook",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding",
+        "TimelessResult"
       ]
     },
     {
       "Name": "The Hook",
       "BaseType": "The Hook",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding",
+        "TimelessResult"
       ]
     }
   ],
@@ -3767,7 +3785,9 @@
     {
       "Name": "Terrible Secret of Space",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "TimelessResult",
+        "PreventHiding"
       ]
     }
   ],
@@ -3824,7 +3844,9 @@
       "Name": "The Blessing of Moosh",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest",
+        "MediumValue"
       ]
     }
   ],
@@ -4187,6 +4209,7 @@
       "Name": "From Bone to Ashes",
       "Aspects": [
         "Handled",
+        "MediumValue",
         "EarlyLeagueInterest"
       ]
     }
@@ -4244,7 +4267,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "CurrencyType"
+        "CurrencyType",
+        "TimelessResult"
       ]
     }
   ],
@@ -4271,6 +4295,7 @@
       "Name": "Endless Night",
       "Aspects": [
         "Handled",
+        "MediumValue",
         "EarlyLeagueInterest"
       ]
     }

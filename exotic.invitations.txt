@@ -1,52 +1,4 @@
 {
-  "Maven's Invitation: The Formed": [
-    {
-      "Name": "Maven's Invitation: The Formed",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Twisted": [
-    {
-      "Name": "Maven's Invitation: The Twisted",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Hidden": [
-    {
-      "Name": "Maven's Invitation: The Hidden",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Feared": [
-    {
-      "Name": "Maven's Invitation: The Feared",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Forgotten": [
-    {
-      "Name": "Maven's Invitation: The Forgotten",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Elderslayers": [
-    {
-      "Name": "Maven's Invitation: The Elderslayers",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
   "Screaming Invitation": [
     {
       "Name": "Screaming Invitation",
@@ -68,15 +20,6 @@
       "Name": "Polaric Invitation",
       "Aspects": [
         "Handled"
-      ]
-    }
-  ],
-  "Maven's Invitation: The Atlas": [
-    {
-      "Name": "Maven's Invitation: The Atlas",
-      "Aspects": [
-        "Handled",
-        "Anchor"
       ]
     }
   ],
