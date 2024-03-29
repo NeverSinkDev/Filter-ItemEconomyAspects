@@ -1105,7 +1105,8 @@
       "Name": "Bitterdream",
       "BaseType": "Shadow Sceptre",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1336,7 +1337,7 @@
       "BaseType": "Karui Sceptre",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "Uncommon"
       ]
     }
   ],
@@ -1364,8 +1365,7 @@
       "Name": "Doomsower",
       "BaseType": "Lion Sword",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     }
   ],
@@ -1515,8 +1515,7 @@
       "Name": "Nycta's Lantern",
       "BaseType": "Crystal Sceptre",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     },
     {
@@ -2819,7 +2818,8 @@
       "Name": "Doedre's Skin",
       "BaseType": "Widowsilk Robe",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3422,7 +3422,8 @@
       "Name": "Cloak of Defiance",
       "BaseType": "Lacquered Garb",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -3797,7 +3798,8 @@
       "BaseType": "Exquisite Leather",
       "Special": "Bleeding",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -4440,21 +4442,24 @@
       "Name": "Thundersight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
       "Name": "Flamesight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
       "Name": "Galesight",
       "BaseType": "Solaris Circlet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -4545,8 +4550,7 @@
       "Name": "Cospri's Will",
       "BaseType": "Assassin's Garb",
       "Aspects": [
-        "Handled",
-        "Uncommon"
+        "Handled"
       ]
     }
   ],
@@ -5461,7 +5465,8 @@
       "Name": "Atziri's Foible",
       "BaseType": "Paua Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -5771,7 +5776,8 @@
       "Name": "Astral Projector",
       "BaseType": "Topaz Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     },
     {
@@ -6369,7 +6375,9 @@
       "Name": "Mageblood",
       "BaseType": "Heavy Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon",
+        "Anchor"
       ]
     },
     {
@@ -6466,7 +6474,8 @@
       "BaseType": "Greatwolf Talisman",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "Anchor",
+        "Uncommon"
       ]
     }
   ],
@@ -6714,7 +6723,8 @@
       "Name": "The Magnate",
       "BaseType": "Studded Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -7274,7 +7284,8 @@
       "Name": "Beacon of Madness",
       "BaseType": "Two-Toned Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Uncommon"
       ]
     }
   ],
@@ -7761,7 +7772,8 @@
       "BaseType": "Ring",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "Anchor",
+        "Uncommon"
       ]
     }
   ],
@@ -7837,7 +7849,8 @@
       "BaseType": "Engraved Greatsword",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "Uncommon"
       ]
     }
   ],
@@ -8020,14 +8033,6 @@
       "Aspects": []
     },
     {
-      "Name": "Warrior's Tale",
-      "BaseType": "Crimson Jewel",
-      "Aspects": [
-        "Handled",
-        "NonWorldDrop"
-      ]
-    },
-    {
       "Name": "Mantra of Flames",
       "BaseType": "Crimson Jewel",
       "Aspects": []
@@ -8120,7 +8125,11 @@
     {
       "Name": "The Adorned",
       "BaseType": "Crimson Jewel",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop",
+        "Uncommon"
+      ]
     }
   ],
   "Cobalt Jewel": [
@@ -8852,7 +8861,8 @@
       "Name": "Pragmatism",
       "BaseType": "Colosseum Plate",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
