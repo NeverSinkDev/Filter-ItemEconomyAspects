@@ -930,7 +930,8 @@
       "BaseType": "Void Axe",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1826,7 +1827,8 @@
       "Name": "Frostbreath",
       "BaseType": "Ornate Mace",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2150,8 +2152,8 @@
       "BaseType": "Large Hybrid Flask",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -2169,7 +2171,8 @@
       "Name": "The Writhing Jar",
       "BaseType": "Hallowed Hybrid Flask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3631,7 +3634,8 @@
       "Name": "Sin Trek",
       "BaseType": "Stealth Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -3942,7 +3946,8 @@
       "Name": "Kongming's Stratagem",
       "BaseType": "Ancient Spirit Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3986,8 +3991,8 @@
       "BaseType": "Ezomyte Burgonet",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "HighVariety"
       ]
     },
     {
@@ -4710,7 +4715,8 @@
       "Name": "Mindspiral",
       "BaseType": "Aventail Helmet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -5187,7 +5193,8 @@
       "Name": "Honourhome",
       "BaseType": "Soldier Helmet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -5466,7 +5473,8 @@
       "BaseType": "Paua Amulet",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -7190,8 +7198,7 @@
       "BaseType": "Ezomyte Dagger",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "Buff"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -7430,7 +7437,8 @@
       "Name": "Ancient Skull",
       "BaseType": "Bone Helmet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
