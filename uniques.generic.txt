@@ -3980,8 +3980,16 @@
       "Name": "Craiceann's Tracks",
       "BaseType": "Goliath Greaves",
       "Aspects": [
-        "NonWorldDrop",
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "The Tempest Rising",
+      "BaseType": "Goliath Greaves",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -4624,8 +4632,15 @@
       "Name": "Empire's Grasp",
       "BaseType": "Goliath Gauntlets",
       "Aspects": [
+        "Handled"
+      ]
+    },
+    {
+      "Name": "The Celestial Brace",
+      "BaseType": "Goliath Gauntlets",
+      "Aspects": [
         "Handled",
-        "PreventHiding"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -4670,8 +4685,15 @@
       "Name": "Kitava's Thirst",
       "BaseType": "Zealot Helmet",
       "Aspects": [
+        "Handled"
+      ]
+    },
+    {
+      "Name": "Ravenous Passion",
+      "BaseType": "Zealot Helmet",
+      "Aspects": [
         "Handled",
-        "PreventHiding"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -5840,6 +5862,14 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "Circle of Ambition",
+      "BaseType": "Prismatic Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Two-Stone Ring": [
@@ -6686,6 +6716,14 @@
       "Aspects": [
         "Handled"
       ]
+    },
+    {
+      "Name": "Nevalius Inheritance",
+      "BaseType": "Cloth Belt",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Rustic Sash": [
@@ -6796,6 +6834,14 @@
       "BaseType": "Diamond Ring",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "Grattus Signet",
+      "BaseType": "Diamond Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7103,6 +7149,14 @@
         "Handled",
         "PreventHiding"
       ]
+    },
+    {
+      "Name": "The Tides of Time",
+      "BaseType": "Vanguard Belt",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Marble Amulet": [
@@ -7238,6 +7292,14 @@
       "BaseType": "Mesh Gloves",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "The Hand of Phrecia",
+      "BaseType": "Mesh Gloves",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
       ]
     }
   ],
@@ -8892,6 +8954,36 @@
       "BaseType": "Maple Round Shield",
       "Aspects": [
         "Handled"
+      ]
+    }
+  ],
+  "Cabalist Regalia": [
+    {
+      "Name": "The Apostate",
+      "BaseType": "Cabalist Regalia",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Pig-Faced Bascinet": [
+    {
+      "Name": "The Devourer of Minds",
+      "BaseType": "Pig-Faced Bascinet",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Shackled Boots": [
+    {
+      "Name": "Veruso's Ambition",
+      "BaseType": "Shackled Boots",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ]
