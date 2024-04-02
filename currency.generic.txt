@@ -1637,5 +1637,69 @@
       "Name": "Tainted Catalyst",
       "Aspects": []
     }
+  ],
+  "Reality Fragment": [
+    {
+      "Name": "Reality Fragment",
+      "Aspects": []
+    }
+  ],
+  "Devouring Fragment": [
+    {
+      "Name": "Devouring Fragment",
+      "Aspects": []
+    }
+  ],
+  "Veiled Orb": [
+    {
+      "Name": "Veiled Orb",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "Tierable"
+      ]
+    }
+  ],
+  "Blazing Fragment": [
+    {
+      "Name": "Blazing Fragment",
+      "Aspects": []
+    }
+  ],
+  "Synthesising Fragment": [
+    {
+      "Name": "Synthesising Fragment",
+      "Aspects": []
+    }
+  ],
+  "Awakening Fragment": [
+    {
+      "Name": "Awakening Fragment",
+      "Aspects": []
+    }
+  ],
+  "Decaying Fragment": [
+    {
+      "Name": "Decaying Fragment",
+      "Aspects": []
+    }
+  ],
+  "Cosmic Fragment": [
+    {
+      "Name": "Cosmic Fragment",
+      "Aspects": []
+    }
+  ],
+  "Veiled Scarab": [
+    {
+      "Name": "Veiled Scarab",
+      "Aspects": [
+        "Handled",
+        "PreventHiding",
+        "EarlyLeagueInterest",
+        "Tierable"
+      ]
+    }
   ]
 }
