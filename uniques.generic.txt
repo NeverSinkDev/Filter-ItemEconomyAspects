@@ -7,6 +7,11 @@
         "Handled",
         "Uncommon"
       ]
+    },
+    {
+      "Name": "Grace of the Goddess",
+      "BaseType": "Prophecy Wand",
+      "Aspects": []
     }
   ],
   "Maelström Staff": [
@@ -3516,7 +3521,8 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Anchor"
       ]
     },
     {
@@ -7984,6 +7990,11 @@
         "Handled",
         "NonWorldDrop"
       ]
+    },
+    {
+      "Name": "The Perandus Pact",
+      "BaseType": "Prismatic Jewel",
+      "Aspects": []
     }
   ],
   "Crimson Jewel": [
@@ -8985,6 +8996,28 @@
         "Handled",
         "NonWorldDrop"
       ]
+    }
+  ],
+  "Vaal Aspect": [
+    {
+      "Name": "Curiosity",
+      "BaseType": "Vaal Aspect",
+      "Aspects": []
+    },
+    {
+      "Name": "Ambition",
+      "BaseType": "Vaal Aspect",
+      "Aspects": []
+    },
+    {
+      "Name": "Cooperation",
+      "BaseType": "Vaal Aspect",
+      "Aspects": []
+    },
+    {
+      "Name": "Beauty",
+      "BaseType": "Vaal Aspect",
+      "Aspects": []
     }
   ]
 }
