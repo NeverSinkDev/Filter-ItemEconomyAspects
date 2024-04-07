@@ -1406,7 +1406,9 @@
       "Name": "The Realm",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "LateLeagueValueLoss",
+        "MediumValue"
       ]
     }
   ],
