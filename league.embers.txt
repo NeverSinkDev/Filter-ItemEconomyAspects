@@ -1,0 +1,642 @@
+{
+  "Allflame Ember of Manifested Wealth": [
+    {
+      "Name": "Allflame Ember of Manifested Wealth",
+      "BaseType": "Allflame Ember of Manifested Wealth",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of Scientists": [
+    {
+      "Name": "Flaring Allflame Ember of Scientists",
+      "BaseType": "Flaring Allflame Ember of Scientists",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of Kalguurans": [
+    {
+      "Name": "Flaring Allflame Ember of Kalguurans",
+      "BaseType": "Flaring Allflame Ember of Kalguurans",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Allflame Ember of Anarchy": [
+    {
+      "Name": "Allflame Ember of Anarchy",
+      "BaseType": "Allflame Ember of Anarchy",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of Breachlords": [
+    {
+      "Name": "Flaring Allflame Ember of Breachlords",
+      "BaseType": "Flaring Allflame Ember of Breachlords",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of the Vaal": [
+    {
+      "Name": "Flaring Allflame Ember of the Vaal",
+      "BaseType": "Flaring Allflame Ember of the Vaal",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of The First Ones": [
+    {
+      "Name": "Flaring Allflame Ember of The First Ones",
+      "BaseType": "Flaring Allflame Ember of The First Ones",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of Abyss": [
+    {
+      "Name": "Flaring Allflame Ember of Abyss",
+      "BaseType": "Flaring Allflame Ember of Abyss",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Flaring Allflame Ember of Wildwood Cultists": [
+    {
+      "Name": "Flaring Allflame Ember of Wildwood Cultists",
+      "BaseType": "Flaring Allflame Ember of Wildwood Cultists",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Allflame Ember of The Hunter": [
+    {
+      "Name": "Allflame Ember of The Hunter",
+      "BaseType": "Allflame Ember of The Hunter",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Syndicate Escorts": [
+    {
+      "Name": "Allflame Ember of Syndicate Escorts",
+      "BaseType": "Allflame Ember of Syndicate Escorts",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Syndicate Guards": [
+    {
+      "Name": "Allflame Ember of Syndicate Guards",
+      "BaseType": "Allflame Ember of Syndicate Guards",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Frogs": [
+    {
+      "Name": "Allflame Ember of Frogs",
+      "BaseType": "Allflame Ember of Frogs",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Syndicate Assassins": [
+    {
+      "Name": "Allflame Ember of Syndicate Assassins",
+      "BaseType": "Allflame Ember of Syndicate Assassins",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Chayula": [
+    {
+      "Name": "Allflame Ember of Chayula",
+      "BaseType": "Allflame Ember of Chayula",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Allflame Ember of Syndicate Researchers": [
+    {
+      "Name": "Allflame Ember of Syndicate Researchers",
+      "BaseType": "Allflame Ember of Syndicate Researchers",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Crusader": [
+    {
+      "Name": "Allflame Ember of The Crusader",
+      "BaseType": "Allflame Ember of The Crusader",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Warlord": [
+    {
+      "Name": "Allflame Ember of The Warlord",
+      "BaseType": "Allflame Ember of The Warlord",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Elder": [
+    {
+      "Name": "Allflame Ember of The Elder",
+      "BaseType": "Allflame Ember of The Elder",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Redeemer": [
+    {
+      "Name": "Allflame Ember of The Redeemer",
+      "BaseType": "Allflame Ember of The Redeemer",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Shaper": [
+    {
+      "Name": "Allflame Ember of The Shaper",
+      "BaseType": "Allflame Ember of The Shaper",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Synthetic Fury": [
+    {
+      "Name": "Allflame Ember of Synthetic Fury",
+      "BaseType": "Allflame Ember of Synthetic Fury",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Meatsacks": [
+    {
+      "Name": "Allflame Ember of Meatsacks",
+      "BaseType": "Allflame Ember of Meatsacks",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Ramako": [
+    {
+      "Name": "Allflame Ember of Ramako",
+      "BaseType": "Allflame Ember of Ramako",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Rats": [
+    {
+      "Name": "Allflame Ember of Rats",
+      "BaseType": "Allflame Ember of Rats",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Uul-Netol": [
+    {
+      "Name": "Allflame Ember of Uul-Netol",
+      "BaseType": "Allflame Ember of Uul-Netol",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Trial Guards": [
+    {
+      "Name": "Allflame Ember of Trial Guards",
+      "BaseType": "Allflame Ember of Trial Guards",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Valako": [
+    {
+      "Name": "Allflame Ember of Valako",
+      "BaseType": "Allflame Ember of Valako",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Arohongui": [
+    {
+      "Name": "Allflame Ember of Arohongui",
+      "BaseType": "Allflame Ember of Arohongui",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Chimerals": [
+    {
+      "Name": "Allflame Ember of Untainted Chimerals",
+      "BaseType": "Allflame Ember of Untainted Chimerals",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Beasts": [
+    {
+      "Name": "Allflame Ember of Untainted Beasts",
+      "BaseType": "Allflame Ember of Untainted Beasts",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of the False God": [
+    {
+      "Name": "Allflame Ember of the False God",
+      "BaseType": "Allflame Ember of the False God",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Abyss": [
+    {
+      "Name": "Allflame Ember of Abyss",
+      "BaseType": "Allflame Ember of Abyss",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Esh": [
+    {
+      "Name": "Allflame Ember of Esh",
+      "BaseType": "Allflame Ember of Esh",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Vaal Legion": [
+    {
+      "Name": "Allflame Ember of The Vaal Legion",
+      "BaseType": "Allflame Ember of The Vaal Legion",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Beidat": [
+    {
+      "Name": "Allflame Ember of Beidat",
+      "BaseType": "Allflame Ember of Beidat",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Ghorr": [
+    {
+      "Name": "Allflame Ember of Ghorr",
+      "BaseType": "Allflame Ember of Ghorr",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Tul": [
+    {
+      "Name": "Allflame Ember of Tul",
+      "BaseType": "Allflame Ember of Tul",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Maraketh Legion": [
+    {
+      "Name": "Allflame Ember of The Maraketh Legion",
+      "BaseType": "Allflame Ember of The Maraketh Legion",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Ngamahu": [
+    {
+      "Name": "Allflame Ember of Ngamahu",
+      "BaseType": "Allflame Ember of Ngamahu",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Rongokurai": [
+    {
+      "Name": "Allflame Ember of Rongokurai",
+      "BaseType": "Allflame Ember of Rongokurai",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Order of the Chalice": [
+    {
+      "Name": "Allflame Ember of The Order of the Chalice",
+      "BaseType": "Allflame Ember of The Order of the Chalice",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Black Scythe": [
+    {
+      "Name": "Allflame Ember of The Black Scythe",
+      "BaseType": "Allflame Ember of The Black Scythe",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Apes": [
+    {
+      "Name": "Allflame Ember of Untainted Apes",
+      "BaseType": "Allflame Ember of Untainted Apes",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Wildwood Treants": [
+    {
+      "Name": "Allflame Ember of Wildwood Treants",
+      "BaseType": "Allflame Ember of Wildwood Treants",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Berserking Gemlings": [
+    {
+      "Name": "Allflame Ember of Berserking Gemlings",
+      "BaseType": "Allflame Ember of Berserking Gemlings",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Frostmage Gemlings": [
+    {
+      "Name": "Allflame Ember of Frostmage Gemlings",
+      "BaseType": "Allflame Ember of Frostmage Gemlings",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Templar Legion": [
+    {
+      "Name": "Allflame Ember of The Templar Legion",
+      "BaseType": "Allflame Ember of The Templar Legion",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Kitava": [
+    {
+      "Name": "Allflame Ember of Kitava",
+      "BaseType": "Allflame Ember of Kitava",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Brawling Gemlings": [
+    {
+      "Name": "Allflame Ember of Brawling Gemlings",
+      "BaseType": "Allflame Ember of Brawling Gemlings",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Trial Cores": [
+    {
+      "Name": "Allflame Ember of Trial Cores",
+      "BaseType": "Allflame Ember of Trial Cores",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Karui Legion": [
+    {
+      "Name": "Allflame Ember of The Karui Legion",
+      "BaseType": "Allflame Ember of The Karui Legion",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of K'tash": [
+    {
+      "Name": "Allflame Ember of K'tash",
+      "BaseType": "Allflame Ember of K'tash",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Rhoas": [
+    {
+      "Name": "Allflame Ember of Untainted Rhoas",
+      "BaseType": "Allflame Ember of Untainted Rhoas",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Tawhoa": [
+    {
+      "Name": "Allflame Ember of Tawhoa",
+      "BaseType": "Allflame Ember of Tawhoa",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Hinekora": [
+    {
+      "Name": "Allflame Ember of Hinekora",
+      "BaseType": "Allflame Ember of Hinekora",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Tukohama": [
+    {
+      "Name": "Allflame Ember of Tukohama",
+      "BaseType": "Allflame Ember of Tukohama",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Tasalio": [
+    {
+      "Name": "Allflame Ember of Tasalio",
+      "BaseType": "Allflame Ember of Tasalio",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Sulphite": [
+    {
+      "Name": "Allflame Ember of Sulphite",
+      "BaseType": "Allflame Ember of Sulphite",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Wildwood Beasts": [
+    {
+      "Name": "Allflame Ember of Wildwood Beasts",
+      "BaseType": "Allflame Ember of Wildwood Beasts",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Xoph": [
+    {
+      "Name": "Allflame Ember of Xoph",
+      "BaseType": "Allflame Ember of Xoph",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Knights of the Sun": [
+    {
+      "Name": "Allflame Ember of The Knights of the Sun",
+      "BaseType": "Allflame Ember of The Knights of the Sun",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Allflame Ember of Corpsemage Gemlings": [
+    {
+      "Name": "Allflame Ember of Corpsemage Gemlings",
+      "BaseType": "Allflame Ember of Corpsemage Gemlings",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Devourers": [
+    {
+      "Name": "Allflame Ember of Untainted Devourers",
+      "BaseType": "Allflame Ember of Untainted Devourers",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Wildwood Cultists": [
+    {
+      "Name": "Allflame Ember of Wildwood Cultists",
+      "BaseType": "Allflame Ember of Wildwood Cultists",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Broken Circle": [
+    {
+      "Name": "Allflame Ember of The Broken Circle",
+      "BaseType": "Allflame Ember of The Broken Circle",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Artillery Gemlings": [
+    {
+      "Name": "Allflame Ember of Artillery Gemlings",
+      "BaseType": "Allflame Ember of Artillery Gemlings",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of The Eternal Legion": [
+    {
+      "Name": "Allflame Ember of The Eternal Legion",
+      "BaseType": "Allflame Ember of The Eternal Legion",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Maws": [
+    {
+      "Name": "Allflame Ember of Untainted Maws",
+      "BaseType": "Allflame Ember of Untainted Maws",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Allflame Ember of Untainted Spitters": [
+    {
+      "Name": "Allflame Ember of Untainted Spitters",
+      "BaseType": "Allflame Ember of Untainted Spitters",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ]
+}
