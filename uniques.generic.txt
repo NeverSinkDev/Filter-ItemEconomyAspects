@@ -665,7 +665,8 @@
       "Name": "Widowhail",
       "BaseType": "Crude Bow",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
