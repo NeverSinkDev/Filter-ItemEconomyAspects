@@ -1,215 +1,77 @@
 {
-  "Honoured Tattoo of the Storm": [
+  "Journey Tattoo of the Mind": [
     {
-      "Name": "Honoured Tattoo of the Storm",
-      "BaseType": "Honoured Tattoo of the Storm",
+      "Name": "Journey Tattoo of the Mind",
+      "BaseType": "Journey Tattoo of the Mind",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Journey Tattoo of the Soul": [
+    {
+      "Name": "Journey Tattoo of the Soul",
+      "BaseType": "Journey Tattoo of the Soul",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Journey Tattoo of the Body": [
+    {
+      "Name": "Journey Tattoo of the Body",
+      "BaseType": "Journey Tattoo of the Body",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Tattoo of the Ramako Shaman": [
+    {
+      "Name": "Tattoo of the Ramako Shaman",
+      "BaseType": "Tattoo of the Ramako Shaman",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Tattoo of the Hinekora Storyteller": [
+    {
+      "Name": "Tattoo of the Hinekora Storyteller",
+      "BaseType": "Tattoo of the Hinekora Storyteller",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Tattoo of the Rongokurai Turtle": [
+    {
+      "Name": "Tattoo of the Rongokurai Turtle",
+      "BaseType": "Tattoo of the Rongokurai Turtle",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
+    }
+  ],
+  "Tattoo of the Tasalio Scout": [
+    {
+      "Name": "Tattoo of the Tasalio Scout",
+      "BaseType": "Tattoo of the Tasalio Scout",
       "Aspects": [
         "Handled"
       ]
     }
   ],
-  "Tattoo of the Ramako Makanga": [
+  "Tattoo of the Tawhoa Shaman": [
     {
-      "Name": "Tattoo of the Ramako Makanga",
-      "BaseType": "Tattoo of the Ramako Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Barbarian": [
-    {
-      "Name": "Honoured Tattoo of the Barbarian",
-      "BaseType": "Honoured Tattoo of the Barbarian",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Mountain": [
-    {
-      "Name": "Honoured Tattoo of the Mountain",
-      "BaseType": "Honoured Tattoo of the Mountain",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Berserker": [
-    {
-      "Name": "Honoured Tattoo of the Berserker",
-      "BaseType": "Honoured Tattoo of the Berserker",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Wise": [
-    {
-      "Name": "Honoured Tattoo of the Wise",
-      "BaseType": "Honoured Tattoo of the Wise",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Pa": [
-    {
-      "Name": "Honoured Tattoo of the Pa",
-      "BaseType": "Honoured Tattoo of the Pa",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Warlord": [
-    {
-      "Name": "Honoured Tattoo of the Warlord",
-      "BaseType": "Honoured Tattoo of the Warlord",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Hunter": [
-    {
-      "Name": "Honoured Tattoo of the Hunter",
-      "BaseType": "Honoured Tattoo of the Hunter",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ngamahu Makanga": [
-    {
-      "Name": "Tattoo of the Ngamahu Makanga",
-      "BaseType": "Tattoo of the Ngamahu Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Arohongui Makanga": [
-    {
-      "Name": "Tattoo of the Arohongui Makanga",
-      "BaseType": "Tattoo of the Arohongui Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tasalio Makanga": [
-    {
-      "Name": "Tattoo of the Tasalio Makanga",
-      "BaseType": "Tattoo of the Tasalio Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tawhoa Makanga": [
-    {
-      "Name": "Tattoo of the Tawhoa Makanga",
-      "BaseType": "Tattoo of the Tawhoa Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Kitava Makanga": [
-    {
-      "Name": "Tattoo of the Kitava Makanga",
-      "BaseType": "Tattoo of the Kitava Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Flood": [
-    {
-      "Name": "Honoured Tattoo of the Flood",
-      "BaseType": "Honoured Tattoo of the Flood",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tukohama Makanga": [
-    {
-      "Name": "Tattoo of the Tukohama Makanga",
-      "BaseType": "Tattoo of the Tukohama Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Makanga": [
-    {
-      "Name": "Tattoo of the Hinekora Makanga",
-      "BaseType": "Tattoo of the Hinekora Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Hatungo": [
-    {
-      "Name": "Honoured Tattoo of the Hatungo",
-      "BaseType": "Honoured Tattoo of the Hatungo",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Valako Makanga": [
-    {
-      "Name": "Tattoo of the Valako Makanga",
-      "BaseType": "Tattoo of the Valako Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Flock": [
-    {
-      "Name": "Honoured Tattoo of the Flock",
-      "BaseType": "Honoured Tattoo of the Flock",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Rongokurai Makanga": [
-    {
-      "Name": "Tattoo of the Rongokurai Makanga",
-      "BaseType": "Tattoo of the Rongokurai Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ramako Sniper": [
-    {
-      "Name": "Tattoo of the Ramako Sniper",
-      "BaseType": "Tattoo of the Ramako Sniper",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Tuatara": [
-    {
-      "Name": "Honoured Tattoo of the Tuatara",
-      "BaseType": "Honoured Tattoo of the Tuatara",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tukohama Warcaller": [
-    {
-      "Name": "Tattoo of the Tukohama Warcaller",
-      "BaseType": "Tattoo of the Tukohama Warcaller",
+      "Name": "Tattoo of the Tawhoa Shaman",
+      "BaseType": "Tattoo of the Tawhoa Shaman",
       "Aspects": [
         "Handled"
       ]
@@ -233,28 +95,10 @@
       ]
     }
   ],
-  "Honoured Tattoo of the Oak": [
+  "Tattoo of the Tukohama Warcaller": [
     {
-      "Name": "Honoured Tattoo of the Oak",
-      "BaseType": "Honoured Tattoo of the Oak",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Valako Stormrider": [
-    {
-      "Name": "Tattoo of the Valako Stormrider",
-      "BaseType": "Tattoo of the Valako Stormrider",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ramako Shaman": [
-    {
-      "Name": "Tattoo of the Ramako Shaman",
-      "BaseType": "Tattoo of the Ramako Shaman",
+      "Name": "Tattoo of the Tukohama Warcaller",
+      "BaseType": "Tattoo of the Tukohama Warcaller",
       "Aspects": [
         "Handled"
       ]
@@ -269,190 +113,10 @@
       ]
     }
   ],
-  "Honoured Tattoo of the Dove": [
+  "Tattoo of the Valako Shieldbearer": [
     {
-      "Name": "Honoured Tattoo of the Dove",
-      "BaseType": "Honoured Tattoo of the Dove",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Rongokurai Turtle": [
-    {
-      "Name": "Tattoo of the Rongokurai Turtle",
-      "BaseType": "Tattoo of the Rongokurai Turtle",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Ahuana": [
-    {
-      "Name": "Loyalty Tattoo of Ahuana",
-      "BaseType": "Loyalty Tattoo of Ahuana",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Ikiaho": [
-    {
-      "Name": "Loyalty Tattoo of Ikiaho",
-      "BaseType": "Loyalty Tattoo of Ikiaho",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tukohama Warmonger": [
-    {
-      "Name": "Tattoo of the Tukohama Warmonger",
-      "BaseType": "Tattoo of the Tukohama Warmonger",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Pillager": [
-    {
-      "Name": "Honoured Tattoo of the Pillager",
-      "BaseType": "Honoured Tattoo of the Pillager",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Rakiata": [
-    {
-      "Name": "Loyalty Tattoo of Rakiata",
-      "BaseType": "Loyalty Tattoo of Rakiata",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Deathwarden": [
-    {
-      "Name": "Tattoo of the Hinekora Deathwarden",
-      "BaseType": "Tattoo of the Hinekora Deathwarden",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Shaman": [
-    {
-      "Name": "Tattoo of the Hinekora Shaman",
-      "BaseType": "Tattoo of the Hinekora Shaman",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Arohongui Scout": [
-    {
-      "Name": "Tattoo of the Arohongui Scout",
-      "BaseType": "Tattoo of the Arohongui Scout",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Storyteller": [
-    {
-      "Name": "Tattoo of the Hinekora Storyteller",
-      "BaseType": "Tattoo of the Hinekora Storyteller",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ngamahu Shaman": [
-    {
-      "Name": "Tattoo of the Ngamahu Shaman",
-      "BaseType": "Tattoo of the Ngamahu Shaman",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Warmonger": [
-    {
-      "Name": "Tattoo of the Hinekora Warmonger",
-      "BaseType": "Tattoo of the Hinekora Warmonger",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Maata": [
-    {
-      "Name": "Loyalty Tattoo of Maata",
-      "BaseType": "Loyalty Tattoo of Maata",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Kaom": [
-    {
-      "Name": "Loyalty Tattoo of Kaom",
-      "BaseType": "Loyalty Tattoo of Kaom",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ramako Archer": [
-    {
-      "Name": "Tattoo of the Ramako Archer",
-      "BaseType": "Tattoo of the Ramako Archer",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Arohongui Moonwarden": [
-    {
-      "Name": "Tattoo of the Arohongui Moonwarden",
-      "BaseType": "Tattoo of the Arohongui Moonwarden",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tasalio Scout": [
-    {
-      "Name": "Tattoo of the Tasalio Scout",
-      "BaseType": "Tattoo of the Tasalio Scout",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tasalio Tideshifter": [
-    {
-      "Name": "Tattoo of the Tasalio Tideshifter",
-      "BaseType": "Tattoo of the Tasalio Tideshifter",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Turtle": [
-    {
-      "Name": "Honoured Tattoo of the Turtle",
-      "BaseType": "Honoured Tattoo of the Turtle",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Sky": [
-    {
-      "Name": "Honoured Tattoo of the Sky",
-      "BaseType": "Honoured Tattoo of the Sky",
+      "Name": "Tattoo of the Valako Shieldbearer",
+      "BaseType": "Tattoo of the Valako Shieldbearer",
       "Aspects": [
         "Handled"
       ]
@@ -462,33 +126,6 @@
     {
       "Name": "Tattoo of the Arohongui Shaman",
       "BaseType": "Tattoo of the Arohongui Shaman",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tawhoa Shaman": [
-    {
-      "Name": "Tattoo of the Tawhoa Shaman",
-      "BaseType": "Tattoo of the Tawhoa Shaman",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ngamahu Woodcarver": [
-    {
-      "Name": "Tattoo of the Ngamahu Woodcarver",
-      "BaseType": "Tattoo of the Ngamahu Woodcarver",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ngamahu Firewalker": [
-    {
-      "Name": "Tattoo of the Ngamahu Firewalker",
-      "BaseType": "Tattoo of the Ngamahu Firewalker",
       "Aspects": [
         "Handled"
       ]
@@ -512,28 +149,19 @@
       ]
     }
   ],
-  "Tattoo of the Kitava Warrior": [
+  "Tattoo of the Valako Stormrider": [
     {
-      "Name": "Tattoo of the Kitava Warrior",
-      "BaseType": "Tattoo of the Kitava Warrior",
+      "Name": "Tattoo of the Valako Stormrider",
+      "BaseType": "Tattoo of the Valako Stormrider",
       "Aspects": [
         "Handled"
       ]
     }
   ],
-  "Loyalty Tattoo of Akoya": [
+  "Tattoo of the Arohongui Moonwarden": [
     {
-      "Name": "Loyalty Tattoo of Akoya",
-      "BaseType": "Loyalty Tattoo of Akoya",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Kiloava": [
-    {
-      "Name": "Loyalty Tattoo of Kiloava",
-      "BaseType": "Loyalty Tattoo of Kiloava",
+      "Name": "Tattoo of the Arohongui Moonwarden",
+      "BaseType": "Tattoo of the Arohongui Moonwarden",
       "Aspects": [
         "Handled"
       ]
@@ -543,6 +171,159 @@
     {
       "Name": "Tattoo of the Rongokurai Warrior",
       "BaseType": "Tattoo of the Rongokurai Warrior",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Hinekora Deathwarden": [
+    {
+      "Name": "Tattoo of the Hinekora Deathwarden",
+      "BaseType": "Tattoo of the Hinekora Deathwarden",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Hinekora Warrior": [
+    {
+      "Name": "Tattoo of the Hinekora Warrior",
+      "BaseType": "Tattoo of the Hinekora Warrior",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Ngamahu Woodcarver": [
+    {
+      "Name": "Tattoo of the Ngamahu Woodcarver",
+      "BaseType": "Tattoo of the Ngamahu Woodcarver",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Ngamahu Firewalker": [
+    {
+      "Name": "Tattoo of the Ngamahu Firewalker",
+      "BaseType": "Tattoo of the Ngamahu Firewalker",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Hinekora Warmonger": [
+    {
+      "Name": "Tattoo of the Hinekora Warmonger",
+      "BaseType": "Tattoo of the Hinekora Warmonger",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Ramako Sniper": [
+    {
+      "Name": "Tattoo of the Ramako Sniper",
+      "BaseType": "Tattoo of the Ramako Sniper",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Tukohama Shaman": [
+    {
+      "Name": "Tattoo of the Tukohama Shaman",
+      "BaseType": "Tattoo of the Tukohama Shaman",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Valako Scout": [
+    {
+      "Name": "Tattoo of the Valako Scout",
+      "BaseType": "Tattoo of the Valako Scout",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Ramako Archer": [
+    {
+      "Name": "Tattoo of the Ramako Archer",
+      "BaseType": "Tattoo of the Ramako Archer",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Tawhoa Warrior": [
+    {
+      "Name": "Tattoo of the Tawhoa Warrior",
+      "BaseType": "Tattoo of the Tawhoa Warrior",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Tasalio Tideshifter": [
+    {
+      "Name": "Tattoo of the Tasalio Tideshifter",
+      "BaseType": "Tattoo of the Tasalio Tideshifter",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Tukohama Warmonger": [
+    {
+      "Name": "Tattoo of the Tukohama Warmonger",
+      "BaseType": "Tattoo of the Tukohama Warmonger",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Ngamahu Warrior": [
+    {
+      "Name": "Tattoo of the Ngamahu Warrior",
+      "BaseType": "Tattoo of the Ngamahu Warrior",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Rongokurai Guard": [
+    {
+      "Name": "Tattoo of the Rongokurai Guard",
+      "BaseType": "Tattoo of the Rongokurai Guard",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Arohongui Warmonger": [
+    {
+      "Name": "Tattoo of the Arohongui Warmonger",
+      "BaseType": "Tattoo of the Arohongui Warmonger",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Valako Shaman": [
+    {
+      "Name": "Tattoo of the Valako Shaman",
+      "BaseType": "Tattoo of the Valako Shaman",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Tattoo of the Kitava Heart Eater": [
+    {
+      "Name": "Tattoo of the Kitava Heart Eater",
+      "BaseType": "Tattoo of the Kitava Heart Eater",
       "Aspects": [
         "Handled"
       ]
@@ -561,15 +342,6 @@
     {
       "Name": "Tattoo of the Valako Warrior",
       "BaseType": "Tattoo of the Valako Warrior",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Tukohama Shaman": [
-    {
-      "Name": "Tattoo of the Tukohama Shaman",
-      "BaseType": "Tattoo of the Tukohama Shaman",
       "Aspects": [
         "Handled"
       ]
@@ -602,19 +374,19 @@
       ]
     }
   ],
-  "Tattoo of the Valako Scout": [
+  "Tattoo of the Hinekora Shaman": [
     {
-      "Name": "Tattoo of the Valako Scout",
-      "BaseType": "Tattoo of the Valako Scout",
+      "Name": "Tattoo of the Hinekora Shaman",
+      "BaseType": "Tattoo of the Hinekora Shaman",
       "Aspects": [
         "Handled"
       ]
     }
   ],
-  "Tattoo of the Tawhoa Warrior": [
+  "Tattoo of the Arohongui Scout": [
     {
-      "Name": "Tattoo of the Tawhoa Warrior",
-      "BaseType": "Tattoo of the Tawhoa Warrior",
+      "Name": "Tattoo of the Arohongui Scout",
+      "BaseType": "Tattoo of the Arohongui Scout",
       "Aspects": [
         "Handled"
       ]
@@ -647,37 +419,10 @@
       ]
     }
   ],
-  "Tattoo of the Valako Shieldbearer": [
-    {
-      "Name": "Tattoo of the Valako Shieldbearer",
-      "BaseType": "Tattoo of the Valako Shieldbearer",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Hinekora Warrior": [
-    {
-      "Name": "Tattoo of the Hinekora Warrior",
-      "BaseType": "Tattoo of the Hinekora Warrior",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
   "Tattoo of the Rongokurai Brute": [
     {
       "Name": "Tattoo of the Rongokurai Brute",
       "BaseType": "Tattoo of the Rongokurai Brute",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Ngamahu Warrior": [
-    {
-      "Name": "Tattoo of the Ngamahu Warrior",
-      "BaseType": "Tattoo of the Ngamahu Warrior",
       "Aspects": [
         "Handled"
       ]
@@ -701,19 +446,10 @@
       ]
     }
   ],
-  "Tattoo of the Rongokurai Guard": [
+  "Tattoo of the Ngamahu Shaman": [
     {
-      "Name": "Tattoo of the Rongokurai Guard",
-      "BaseType": "Tattoo of the Rongokurai Guard",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Arohongui Warmonger": [
-    {
-      "Name": "Tattoo of the Arohongui Warmonger",
-      "BaseType": "Tattoo of the Arohongui Warmonger",
+      "Name": "Tattoo of the Ngamahu Shaman",
+      "BaseType": "Tattoo of the Ngamahu Shaman",
       "Aspects": [
         "Handled"
       ]
@@ -728,28 +464,10 @@
       ]
     }
   ],
-  "Tattoo of the Valako Shaman": [
+  "Tattoo of the Kitava Warrior": [
     {
-      "Name": "Tattoo of the Valako Shaman",
-      "BaseType": "Tattoo of the Valako Shaman",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Tattoo of the Kitava Heart Eater": [
-    {
-      "Name": "Tattoo of the Kitava Heart Eater",
-      "BaseType": "Tattoo of the Kitava Heart Eater",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Kahuturoa": [
-    {
-      "Name": "Loyalty Tattoo of Kahuturoa",
-      "BaseType": "Loyalty Tattoo of Kahuturoa",
+      "Name": "Tattoo of the Kitava Warrior",
+      "BaseType": "Tattoo of the Kitava Warrior",
       "Aspects": [
         "Handled"
       ]
@@ -759,78 +477,6 @@
     {
       "Name": "Tattoo of the Kitava Rebel",
       "BaseType": "Tattoo of the Kitava Rebel",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Utula": [
-    {
-      "Name": "Loyalty Tattoo of Utula",
-      "BaseType": "Loyalty Tattoo of Utula",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Loyalty Tattoo of Tawhanuku": [
-    {
-      "Name": "Loyalty Tattoo of Tawhanuku",
-      "BaseType": "Loyalty Tattoo of Tawhanuku",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Journey Tattoo of Makanui": [
-    {
-      "Name": "Journey Tattoo of Makanui",
-      "BaseType": "Journey Tattoo of Makanui",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Journey Tattoo of the Soul": [
-    {
-      "Name": "Journey Tattoo of the Soul",
-      "BaseType": "Journey Tattoo of the Soul",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Honoured Tattoo of the Makanga": [
-    {
-      "Name": "Honoured Tattoo of the Makanga",
-      "BaseType": "Honoured Tattoo of the Makanga",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Journey Tattoo of the Body": [
-    {
-      "Name": "Journey Tattoo of the Body",
-      "BaseType": "Journey Tattoo of the Body",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Journey Tattoo of the Mind": [
-    {
-      "Name": "Journey Tattoo of the Mind",
-      "BaseType": "Journey Tattoo of the Mind",
-      "Aspects": [
-        "Handled"
-      ]
-    }
-  ],
-  "Ancestral Tattoo of Bloodlines": [
-    {
-      "Name": "Ancestral Tattoo of Bloodlines",
-      "BaseType": "Ancestral Tattoo of Bloodlines",
       "Aspects": [
         "Handled"
       ]
