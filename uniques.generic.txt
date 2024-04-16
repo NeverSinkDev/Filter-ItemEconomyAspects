@@ -11,7 +11,10 @@
     {
       "Name": "Grace of the Goddess",
       "BaseType": "Prophecy Wand",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ],
   "Maelström Staff": [
@@ -7306,7 +7309,7 @@
       "BaseType": "Mesh Gloves",
       "Aspects": [
         "Handled",
-        "NonDrop"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -9018,6 +9021,28 @@
     {
       "Name": "Beauty",
       "BaseType": "Vaal Aspect",
+      "Aspects": []
+    }
+  ],
+  "Primordial Fragment": [
+    {
+      "Name": "Curio of Decay",
+      "BaseType": "Primordial Fragment",
+      "Aspects": []
+    },
+    {
+      "Name": "Curio of Consumption",
+      "BaseType": "Primordial Fragment",
+      "Aspects": []
+    },
+    {
+      "Name": "Curio of Potential",
+      "BaseType": "Primordial Fragment",
+      "Aspects": []
+    },
+    {
+      "Name": "Curio of Absorption",
+      "BaseType": "Primordial Fragment",
       "Aspects": []
     }
   ]
