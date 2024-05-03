@@ -4,7 +4,8 @@
       "Name": "Divination Scarab of Completion",
       "BaseType": "Divination Scarab of Completion",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -13,7 +14,8 @@
       "Name": "Reliquary Scarab of Vision",
       "BaseType": "Reliquary Scarab of Vision",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -22,7 +24,8 @@
       "Name": "Horned Scarab of Preservation",
       "BaseType": "Horned Scarab of Preservation",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -31,7 +34,8 @@
       "Name": "Horned Scarab of Bloodlines",
       "BaseType": "Horned Scarab of Bloodlines",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -40,7 +44,8 @@
       "Name": "Divination Scarab of Curation",
       "BaseType": "Divination Scarab of Curation",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -76,7 +81,8 @@
       "Name": "Horned Scarab of Awakening",
       "BaseType": "Horned Scarab of Awakening",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -94,7 +100,8 @@
       "Name": "Domination Scarab of Terrors",
       "BaseType": "Domination Scarab of Terrors",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -103,7 +110,8 @@
       "Name": "Ambush Scarab of Containment",
       "BaseType": "Ambush Scarab of Containment",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -121,7 +129,8 @@
       "Name": "Horned Scarab of Glittering",
       "BaseType": "Horned Scarab of Glittering",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -148,7 +157,8 @@
       "Name": "Ultimatum Scarab of Catalysing",
       "BaseType": "Ultimatum Scarab of Catalysing",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -975,6 +985,69 @@
     {
       "Name": "Betrayal Scarab of Reinforcements",
       "BaseType": "Betrayal Scarab of Reinforcements",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Blight Scarab of Invigoration": [
+    {
+      "Name": "Blight Scarab of Invigoration",
+      "BaseType": "Blight Scarab of Invigoration",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Abyss Scarab of Profound Depth": [
+    {
+      "Name": "Abyss Scarab of Profound Depth",
+      "BaseType": "Abyss Scarab of Profound Depth",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Essence Scarab of Adaptation": [
+    {
+      "Name": "Essence Scarab of Adaptation",
+      "BaseType": "Essence Scarab of Adaptation",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Breach Scarab of Resonant Cascade": [
+    {
+      "Name": "Breach Scarab of Resonant Cascade",
+      "BaseType": "Breach Scarab of Resonant Cascade",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Scarab of Radiant Storms": [
+    {
+      "Name": "Scarab of Radiant Storms",
+      "BaseType": "Scarab of Radiant Storms",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Scarab of Wisps": [
+    {
+      "Name": "Scarab of Wisps",
+      "BaseType": "Scarab of Wisps",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Torment Scarab of Possession": [
+    {
+      "Name": "Torment Scarab of Possession",
+      "BaseType": "Torment Scarab of Possession",
       "Aspects": [
         "Handled"
       ]
