@@ -2987,8 +2987,7 @@
       "Aspects": [
         "Handled",
         "PreventHiding",
-        "HighVariety",
-        "NoResolution"
+        "HighVariety"
       ]
     }
   ],
@@ -3192,8 +3191,7 @@
       "Name": "The Greatest Intentions",
       "Aspects": [
         "Handled",
-        "TimelessResult",
-        "NoResolution"
+        "TimelessResult"
       ]
     }
   ],
@@ -3204,8 +3202,7 @@
         "Handled",
         "TimelessResult",
         "HighVariety",
-        "EarlyLeagueInterest",
-        "NoResolution"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3234,8 +3231,7 @@
     {
       "Name": "The Hive of Knowledge",
       "Aspects": [
-        "Handled",
-        "NoResolution"
+        "Handled"
       ]
     }
   ],
