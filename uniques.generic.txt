@@ -1401,8 +1401,7 @@
       "Name": "The Burden of Shadows",
       "BaseType": "Primordial Staff",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -2161,7 +2160,9 @@
       "Name": "Divination Distillate",
       "BaseType": "Large Hybrid Flask",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -2570,7 +2571,9 @@
       "Name": "Goldwyrm",
       "BaseType": "Nubuck Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -2740,8 +2743,7 @@
       "BaseType": "Necromancer Circlet",
       "Aspects": [
         "Handled",
-        "NonWorldDrop",
-        "Uncommon"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -2981,7 +2983,8 @@
       "Name": "Greed's Embrace",
       "BaseType": "Golden Plate",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -4178,7 +4181,8 @@
       "Name": "Sentari's Answer",
       "BaseType": "Brass Spirit Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     }
   ],
@@ -5859,7 +5863,8 @@
       "Name": "Thief's Torment",
       "BaseType": "Prismatic Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "HighVariety"
       ]
     },
     {
@@ -6445,6 +6450,22 @@
   ],
   "Gold Amulet": [
     {
+      "Name": "Bisco's Collar",
+      "BaseType": "Gold Amulet",
+      "Aspects": [
+        "Handled",
+        "HighVariety"
+      ]
+    },
+    {
+      "Name": "The Ascetic",
+      "BaseType": "Gold Amulet",
+      "Aspects": [
+        "Handled",
+        "HighVariety"
+      ]
+    },
+    {
       "Name": "Perquil's Toe",
       "BaseType": "Gold Amulet",
       "Aspects": [
@@ -6469,8 +6490,7 @@
       "Name": "The Untouched Soul",
       "BaseType": "Gold Amulet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -6712,7 +6732,8 @@
       "Name": "Nevalius Inheritance",
       "BaseType": "Cloth Belt",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6830,7 +6851,8 @@
       "Name": "Grattus Signet",
       "BaseType": "Diamond Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7287,7 +7309,8 @@
       "Name": "The Hand of Phrecia",
       "BaseType": "Mesh Gloves",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -7972,6 +7995,11 @@
         "Handled",
         "NonWorldDrop"
       ]
+    },
+    {
+      "Name": "The Perandus Pact",
+      "BaseType": "Prismatic Jewel",
+      "Aspects": []
     }
   ],
   "Crimson Jewel": [
@@ -8913,8 +8941,7 @@
       "Name": "Nametaker",
       "BaseType": "Graceful Sword",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8924,8 +8951,7 @@
       "BaseType": "Colosseum Plate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
-        "NonWorldDrop"
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -8934,8 +8960,7 @@
       "Name": "The Trickster's Smile",
       "BaseType": "Visored Sallet",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8944,8 +8969,7 @@
       "Name": "The Flawed Refuge",
       "BaseType": "Maple Round Shield",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -8974,7 +8998,8 @@
       "Name": "Veruso's Ambition",
       "BaseType": "Shackled Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
