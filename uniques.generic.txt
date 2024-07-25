@@ -2984,7 +2984,8 @@
       "BaseType": "Golden Plate",
       "Aspects": [
         "Handled",
-        "HighVariety"
+        "HighVariety",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3525,8 +3526,7 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "NonWorldDrop",
-        "Anchor"
+        "NonWorldDrop"
       ]
     },
     {
@@ -5879,7 +5879,8 @@
       "BaseType": "Prismatic Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonWorldDrop",
+        "Exclude"
       ]
     }
   ],

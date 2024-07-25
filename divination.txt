@@ -4193,7 +4193,8 @@
       "Aspects": [
         "Handled",
         "CurrencyType",
-        "HighVariety"
+        "HighVariety",
+        "PreventHiding"
       ]
     }
   ],
