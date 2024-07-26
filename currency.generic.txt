@@ -104,9 +104,9 @@
       "Name": "Exalted Shard",
       "Aspects": [
         "Handled",
-        "ChaosBottom",
         "Tierable",
-        "StackedCurrency"
+        "StackedCurrency",
+        "AlchemyBottom"
       ]
     }
   ],
@@ -412,7 +412,8 @@
         "Handled",
         "ChanceBottom",
         "Tierable",
-        "StackedCurrency"
+        "StackedCurrency",
+        "NoValueEarly"
       ]
     }
   ],
@@ -470,7 +471,8 @@
         "Handled",
         "Tierable",
         "ChanceBottom",
-        "StackedCurrency"
+        "StackedCurrency",
+        "NoValueEarly"
       ]
     }
   ],
@@ -1107,7 +1109,7 @@
         "Handled",
         "StackedCurrency",
         "Tierable",
-        "AlchemyBottom"
+        "SilverBottom"
       ]
     }
   ],
@@ -1218,16 +1220,6 @@
         "Tierable",
         "ChaosBottom",
         "EarlyLeagueInterest"
-      ]
-    }
-  ],
-  "Oil Extractor": [
-    {
-      "Name": "Oil Extractor",
-      "Aspects": [
-        "Handled",
-        "AlchemyBottom",
-        "Tierable"
       ]
     }
   ],
@@ -1698,8 +1690,15 @@
         "Handled",
         "PreventHiding",
         "EarlyLeagueInterest",
-        "Tierable"
+        "Tierable",
+        "AlchemyBottom"
       ]
+    }
+  ],
+  "Oil Extractor": [
+    {
+      "Name": "Oil Extractor",
+      "Aspects": []
     }
   ]
 }

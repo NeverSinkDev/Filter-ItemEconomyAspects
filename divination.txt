@@ -4442,7 +4442,6 @@
       "Aspects": [
         "Handled",
         "LateLeagueValueLoss",
-        "EarlyLeagueInterest",
         "MediumValue"
       ]
     }

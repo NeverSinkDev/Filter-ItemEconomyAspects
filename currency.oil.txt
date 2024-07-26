@@ -72,7 +72,8 @@
       "Name": "Teal Oil",
       "BaseType": "Teal Oil",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -129,7 +130,8 @@
       "Name": "Tainted Oil",
       "BaseType": "Tainted Oil",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],

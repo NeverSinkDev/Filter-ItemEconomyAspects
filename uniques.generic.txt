@@ -200,7 +200,8 @@
       "Name": "Hezmana's Bloodlust",
       "BaseType": "Vaal Axe",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -532,7 +533,10 @@
       "BaseType": "Vaal Blade",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest",
+        "PreventHiding",
+        "Buff"
       ]
     },
     {
@@ -829,7 +833,8 @@
       "Name": "Dreadarc",
       "BaseType": "Cleaver",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1052,7 +1057,8 @@
       "Name": "Ichimonji",
       "BaseType": "Corsair Sword",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1107,7 +1113,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "STRONK",
         "PreventHiding"
       ]
     },
@@ -1464,7 +1469,8 @@
       "Name": "Kongor's Undying Rage",
       "BaseType": "Terror Maul",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1765,7 +1771,8 @@
       "Name": "Jack, the Axe",
       "BaseType": "Vaal Hatchet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -1783,8 +1790,7 @@
       "Name": "Apep's Rage",
       "BaseType": "Omen Wand",
       "Aspects": [
-        "Handled",
-        "Nerf"
+        "Handled"
       ]
     }
   ],
@@ -2161,7 +2167,6 @@
       "BaseType": "Large Hybrid Flask",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest",
         "PreventHiding"
       ]
     }
@@ -2385,7 +2390,9 @@
       "BaseType": "Occultist's Vestment",
       "Aspects": [
         "Handled",
-        "Uncommon"
+        "Uncommon",
+        "EarlyLeagueInterest",
+        "PreventHiding"
       ]
     }
   ],
@@ -2572,8 +2579,7 @@
       "BaseType": "Nubuck Boots",
       "Aspects": [
         "Handled",
-        "HighVariety",
-        "EarlyLeagueInterest"
+        "HighVariety"
       ]
     }
   ],
@@ -3027,7 +3033,8 @@
       "Name": "Lycosidae",
       "BaseType": "Rawhide Tower Shield",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3038,7 +3045,6 @@
       "Aspects": [
         "Handled",
         "VaalTarget",
-        "Nerf",
         "EarlyLeagueInterest"
       ]
     }
@@ -3214,7 +3220,8 @@
       "Name": "Doedre's Tenure",
       "BaseType": "Velvet Gloves",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3359,7 +3366,8 @@
       "Name": "The Bringer of Rain",
       "BaseType": "Nightmare Bascinet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -3644,8 +3652,7 @@
       "Name": "Sin Trek",
       "BaseType": "Stealth Boots",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     },
     {
@@ -4297,8 +4304,7 @@
       "Name": "Voll's Vision",
       "BaseType": "Praetor Crown",
       "Aspects": [
-        "Handled",
-        "Nerf"
+        "Handled"
       ]
     },
     {
@@ -4401,8 +4407,7 @@
       "Name": "Kaom's Spirit",
       "BaseType": "Titan Gauntlets",
       "Aspects": [
-        "Handled",
-        "Nerf"
+        "Handled"
       ]
     }
   ],
@@ -4411,7 +4416,8 @@
       "Name": "Facebreaker",
       "BaseType": "Strapped Mitts",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -4436,8 +4442,7 @@
       "Name": "Vixen's Entrapment",
       "BaseType": "Embroidered Gloves",
       "Aspects": [
-        "Handled",
-        "Nerf"
+        "Handled"
       ]
     }
   ],
@@ -4615,7 +4620,8 @@
       "Name": "Darkray Vectors",
       "BaseType": "Dragonscale Boots",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -4668,7 +4674,8 @@
       "Aspects": [
         "Handled",
         "HighVariety",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "STRONK"
       ]
     }
   ],
@@ -4970,7 +4977,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "STRONK",
         "PreventHiding"
       ]
     },
@@ -5228,8 +5234,7 @@
       "Name": "Honourhome",
       "BaseType": "Soldier Helmet",
       "Aspects": [
-        "Handled",
-        "EarlyLeagueInterest"
+        "Handled"
       ]
     }
   ],
@@ -5669,8 +5674,7 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "PreventHiding",
-        "STRONK"
+        "PreventHiding"
       ]
     },
     {
@@ -5837,8 +5841,7 @@
       "Aspects": [
         "Handled",
         "Uncommon",
-        "NonWorldDrop",
-        "STRONK"
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6599,7 +6602,8 @@
       "Name": "Kaom's Sign",
       "BaseType": "Coral Ring",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -7159,7 +7163,8 @@
       "BaseType": "Vanguard Belt",
       "Aspects": [
         "Handled",
-        "PreventHiding"
+        "PreventHiding",
+        "EarlyLeagueInterest"
       ]
     },
     {
@@ -7661,7 +7666,8 @@
       "Name": "Usurper's Penance",
       "BaseType": "Eternal Burgonet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "EarlyLeagueInterest"
       ]
     }
   ],
@@ -7846,7 +7852,6 @@
       "Aspects": [
         "Handled",
         "NonWorldDrop",
-        "STRONK",
         "PreventHiding"
       ]
     }
