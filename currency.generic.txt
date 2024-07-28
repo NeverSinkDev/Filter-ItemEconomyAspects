@@ -298,8 +298,8 @@
         "Handled",
         "Tierable",
         "EarlyLeagueInterest",
-        "ChanceBottom",
-        "StackedCurrency"
+        "StackedCurrency",
+        "SilverBottom"
       ]
     }
   ],
@@ -309,9 +309,9 @@
       "Aspects": [
         "Handled",
         "Tierable",
-        "ChanceBottom",
         "EarlyLeagueInterest",
-        "StackedCurrency"
+        "StackedCurrency",
+        "SilverBottom"
       ]
     }
   ],
