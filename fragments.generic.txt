@@ -909,5 +909,62 @@
       "Name": "Kirac's Memory",
       "Aspects": []
     }
+  ],
+  "Reality Fragment": [
+    {
+      "Name": "Reality Fragment",
+      "Aspects": []
+    }
+  ],
+  "Valdo's Puzzle Box": [
+    {
+      "Name": "Valdo's Puzzle Box",
+      "Aspects": []
+    }
+  ],
+  "Devouring Fragment": [
+    {
+      "Name": "Devouring Fragment",
+      "Aspects": []
+    }
+  ],
+  "An Audience With The King": [
+    {
+      "Name": "An Audience With The King",
+      "Aspects": [
+        "Handled",
+        "Tierable"
+      ]
+    }
+  ],
+  "Blazing Fragment": [
+    {
+      "Name": "Blazing Fragment",
+      "Aspects": []
+    }
+  ],
+  "Cosmic Fragment": [
+    {
+      "Name": "Cosmic Fragment",
+      "Aspects": []
+    }
+  ],
+  "Awakening Fragment": [
+    {
+      "Name": "Awakening Fragment",
+      "Aspects": []
+    }
+  ],
+  "Decaying Fragment": [
+    {
+      "Name": "Decaying Fragment",
+      "Aspects": []
+    }
+  ],
+  "Synthesising Fragment": [
+    {
+      "Name": "Synthesising Fragment",
+      "Aspects": []
+    }
   ]
 }

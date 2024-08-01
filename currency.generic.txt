@@ -1700,5 +1700,65 @@
       "Name": "Oil Extractor",
       "Aspects": []
     }
+  ],
+  "Reflecting Mist": [
+    {
+      "Name": "Reflecting Mist",
+      "Aspects": [
+        "Anchor",
+        "DivineBottom",
+        "Tierable"
+      ]
+    }
+  ],
+  "Maven's Chisel of Proliferation": [
+    {
+      "Name": "Maven's Chisel of Proliferation",
+      "Aspects": [
+        "Handled",
+        "AlchemyBottom",
+        "Tierable"
+      ]
+    }
+  ],
+  "Maven's Chisel of Scarabs": [
+    {
+      "Name": "Maven's Chisel of Scarabs",
+      "Aspects": [
+        "Handled",
+        "Tierable",
+        "AlchemyBottom"
+      ]
+    }
+  ],
+  "Maven's Chisel of Divination": [
+    {
+      "Name": "Maven's Chisel of Divination",
+      "Aspects": [
+        "Handled",
+        "Tierable",
+        "AlchemyBottom"
+      ]
+    }
+  ],
+  "Maven's Chisel of Avarice": [
+    {
+      "Name": "Maven's Chisel of Avarice",
+      "Aspects": [
+        "Handled",
+        "Tierable",
+        "AlchemyBottom"
+      ]
+    }
+  ],
+  "Maven's Chisel of Procurement": [
+    {
+      "Name": "Maven's Chisel of Procurement",
+      "Aspects": [
+        "Handled",
+        "AlchemyBottom",
+        "Tierable"
+      ]
+    }
   ]
 }

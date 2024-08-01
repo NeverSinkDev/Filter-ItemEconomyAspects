@@ -4588,5 +4588,58 @@
         "LateLeagueValueLoss"
       ]
     }
+  ],
+  "Father's Love": [
+    {
+      "Name": "Father's Love",
+      "BaseType": "Father's Love",
+      "Aspects": [
+        "Handled",
+        "TimelessResult"
+      ]
+    }
+  ],
+  "Lonely Warrior": [
+    {
+      "Name": "Lonely Warrior",
+      "BaseType": "Lonely Warrior",
+      "Aspects": [
+        "Handled",
+        "TimelessResult"
+      ]
+    }
+  ],
+  "Avian Pursuit": [
+    {
+      "Name": "Avian Pursuit",
+      "BaseType": "Avian Pursuit",
+      "Aspects": [
+        "Handled",
+        "CurrencyType",
+        "TimelessResult"
+      ]
+    }
+  ],
+  "Temperance": [
+    {
+      "Name": "Temperance",
+      "BaseType": "Temperance",
+      "Aspects": [
+        "Handled",
+        "TimelessResult"
+      ]
+    }
+  ],
+  "Toxic Tidings": [
+    {
+      "Name": "Toxic Tidings",
+      "BaseType": "Toxic Tidings",
+      "Aspects": [
+        "Handled",
+        "EarlyLeagueInterest",
+        "LateLeagueValueLoss",
+        "NoResolution"
+      ]
+    }
   ]
 }

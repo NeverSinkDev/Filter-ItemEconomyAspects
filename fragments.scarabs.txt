@@ -1052,5 +1052,149 @@
         "Handled"
       ]
     }
+  ],
+  "Divination Scarab of Pilfering": [
+    {
+      "Name": "Divination Scarab of Pilfering",
+      "BaseType": "Divination Scarab of Pilfering",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Cartography Scarab of the Multitude": [
+    {
+      "Name": "Cartography Scarab of the Multitude",
+      "BaseType": "Cartography Scarab of the Multitude",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Divination Scarab of The Cloister": [
+    {
+      "Name": "Divination Scarab of The Cloister",
+      "BaseType": "Divination Scarab of The Cloister",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Titanic Scarab of Treasures": [
+    {
+      "Name": "Titanic Scarab of Treasures",
+      "BaseType": "Titanic Scarab of Treasures",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Cartography Scarab of Escalation": [
+    {
+      "Name": "Cartography Scarab of Escalation",
+      "BaseType": "Cartography Scarab of Escalation",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Blight Scarab of the Blightheart": [
+    {
+      "Name": "Blight Scarab of the Blightheart",
+      "BaseType": "Blight Scarab of the Blightheart",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Ritual Scarab of Wisps": [
+    {
+      "Name": "Ritual Scarab of Wisps",
+      "BaseType": "Ritual Scarab of Wisps",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Cartography Scarab of Risk": [
+    {
+      "Name": "Cartography Scarab of Risk",
+      "BaseType": "Cartography Scarab of Risk",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Divination Scarab of Plenty": [
+    {
+      "Name": "Divination Scarab of Plenty",
+      "BaseType": "Divination Scarab of Plenty",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Scarab of Divinity": [
+    {
+      "Name": "Scarab of Divinity",
+      "BaseType": "Scarab of Divinity",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Harbinger Scarab of Obelisks": [
+    {
+      "Name": "Harbinger Scarab of Obelisks",
+      "BaseType": "Harbinger Scarab of Obelisks",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Domination Scarab of Apparitions": [
+    {
+      "Name": "Domination Scarab of Apparitions",
+      "BaseType": "Domination Scarab of Apparitions",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Domination Scarab of Evolution": [
+    {
+      "Name": "Domination Scarab of Evolution",
+      "BaseType": "Domination Scarab of Evolution",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Titanic Scarab of Legend": [
+    {
+      "Name": "Titanic Scarab of Legend",
+      "BaseType": "Titanic Scarab of Legend",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Scarab of Bisection": [
+    {
+      "Name": "Scarab of Bisection",
+      "BaseType": "Scarab of Bisection",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Titanic Scarab": [
+    {
+      "Name": "Titanic Scarab",
+      "BaseType": "Titanic Scarab",
+      "Aspects": [
+        "Handled"
+      ]
+    }
   ]
 }

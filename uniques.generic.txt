@@ -1406,7 +1406,8 @@
       "Name": "The Burden of Shadows",
       "BaseType": "Primordial Staff",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -1461,6 +1462,14 @@
       "BaseType": "Ezomyte Blade",
       "Aspects": [
         "Handled"
+      ]
+    },
+    {
+      "Name": "The Living Blade",
+      "BaseType": "Ezomyte Blade",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6494,7 +6503,8 @@
       "Name": "The Untouched Soul",
       "BaseType": "Gold Amulet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -6789,6 +6799,14 @@
       "Aspects": [
         "Handled",
         "Uncommon"
+      ]
+    },
+    {
+      "Name": "Ynda's Stand",
+      "BaseType": "Studded Belt",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
       ]
     }
   ],
@@ -8006,6 +8024,11 @@
       "Name": "The Perandus Pact",
       "BaseType": "Prismatic Jewel",
       "Aspects": []
+    },
+    {
+      "Name": "The Light of Meaning",
+      "BaseType": "Prismatic Jewel",
+      "Aspects": []
     }
   ],
   "Crimson Jewel": [
@@ -8957,7 +8980,8 @@
       "BaseType": "Colosseum Plate",
       "Aspects": [
         "Handled",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "NonWorldDrop"
       ]
     }
   ],
@@ -9013,44 +9037,142 @@
     {
       "Name": "Curiosity",
       "BaseType": "Vaal Aspect",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Ambition",
       "BaseType": "Vaal Aspect",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "Anchor",
+        "Exclude"
+      ]
     },
     {
       "Name": "Cooperation",
       "BaseType": "Vaal Aspect",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     },
     {
       "Name": "Beauty",
       "BaseType": "Vaal Aspect",
-      "Aspects": []
+      "Aspects": [
+        "Handled"
+      ]
     }
   ],
   "Primordial Fragment": [
     {
       "Name": "Curio of Decay",
       "BaseType": "Primordial Fragment",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "Exclude",
+        "Anchor"
+      ]
     },
     {
       "Name": "Curio of Consumption",
       "BaseType": "Primordial Fragment",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "Anchor"
+      ]
     },
     {
       "Name": "Curio of Potential",
       "BaseType": "Primordial Fragment",
-      "Aspects": []
+      "Aspects": [
+        "Handled",
+        "Anchor"
+      ]
     },
     {
       "Name": "Curio of Absorption",
       "BaseType": "Primordial Fragment",
-      "Aspects": []
+      "Aspects": [
+        "Anchor",
+        "Handled"
+      ]
+    }
+  ],
+  "Phantom Mace": [
+    {
+      "Name": "Serle's Masterwork",
+      "BaseType": "Phantom Mace",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
+    }
+  ],
+  "Piledriver": [
+    {
+      "Name": "Tawhoa's Felling",
+      "BaseType": "Piledriver",
+      "Aspects": [
+        "Handled",
+        "NonDrop"
+      ]
+    }
+  ],
+  "Antique Gauntlets": [
+    {
+      "Name": "Admiral's Arrogance",
+      "BaseType": "Antique Gauntlets",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Girded Tower Shield": [
+    {
+      "Name": "Svalinn",
+      "BaseType": "Girded Tower Shield",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    }
+  ],
+  "Siege Helmet": [
+    {
+      "Name": "Kaom's Command",
+      "BaseType": "Siege Helmet",
+      "Aspects": [
+        "Handled"
+      ]
+    }
+  ],
+  "Nameless Ring": [
+    {
+      "Name": "The Hateful Accuser",
+      "BaseType": "Nameless Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "The Queller of Minds",
+      "BaseType": "Nameless Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
+    },
+    {
+      "Name": "The Selfish Shepherd",
+      "BaseType": "Nameless Ring",
+      "Aspects": [
+        "Handled",
+        "NonWorldDrop"
+      ]
     }
   ]
 }

@@ -4,7 +4,8 @@
       "Name": "Golden Oil",
       "BaseType": "Golden Oil",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -13,7 +14,8 @@
       "Name": "Silver Oil",
       "BaseType": "Silver Oil",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -131,7 +133,7 @@
       "BaseType": "Tainted Oil",
       "Aspects": [
         "Handled",
-        "Anchor"
+        "PreventHiding"
       ]
     }
   ],
@@ -140,6 +142,16 @@
       "Name": "Reflective Oil",
       "BaseType": "Reflective Oil",
       "Aspects": []
+    }
+  ],
+  "Prismatic Oil": [
+    {
+      "Name": "Prismatic Oil",
+      "BaseType": "Prismatic Oil",
+      "Aspects": [
+        "Handled",
+        "PreventHiding"
+      ]
     }
   ]
 }
