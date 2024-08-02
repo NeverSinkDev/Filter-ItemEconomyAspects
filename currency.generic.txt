@@ -1705,7 +1705,6 @@
     {
       "Name": "Reflecting Mist",
       "Aspects": [
-        "Anchor",
         "DivineBottom",
         "Tierable"
       ]
