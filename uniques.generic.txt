@@ -2587,8 +2587,7 @@
       "Name": "Goldwyrm",
       "BaseType": "Nubuck Boots",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     }
   ],
@@ -2999,7 +2998,6 @@
       "BaseType": "Golden Plate",
       "Aspects": [
         "Handled",
-        "HighVariety",
         "EarlyLeagueInterest"
       ]
     }
@@ -4197,8 +4195,7 @@
       "Name": "Sentari's Answer",
       "BaseType": "Brass Spirit Shield",
       "Aspects": [
-        "Handled",
-        "HighVariety"
+        "Handled"
       ]
     }
   ],
@@ -5876,7 +5873,6 @@
       "BaseType": "Prismatic Ring",
       "Aspects": [
         "Handled",
-        "HighVariety"
       ]
     },
     {
@@ -6463,22 +6459,6 @@
   ],
   "Gold Amulet": [
     {
-      "Name": "Bisco's Collar",
-      "BaseType": "Gold Amulet",
-      "Aspects": [
-        "Handled",
-        "HighVariety"
-      ]
-    },
-    {
-      "Name": "The Ascetic",
-      "BaseType": "Gold Amulet",
-      "Aspects": [
-        "Handled",
-        "HighVariety"
-      ]
-    },
-    {
       "Name": "Perquil's Toe",
       "BaseType": "Gold Amulet",
       "Aspects": [
@@ -6747,8 +6727,7 @@
       "Name": "Nevalius Inheritance",
       "BaseType": "Cloth Belt",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -6874,8 +6853,7 @@
       "Name": "Grattus Signet",
       "BaseType": "Diamond Ring",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -7333,8 +7311,7 @@
       "Name": "The Hand of Phrecia",
       "BaseType": "Mesh Gloves",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -9028,8 +9005,7 @@
       "Name": "Veruso's Ambition",
       "BaseType": "Shackled Boots",
       "Aspects": [
-        "Handled",
-        "NonWorldDrop"
+        "Handled"
       ]
     }
   ],
@@ -9145,7 +9121,8 @@
       "Name": "Kaom's Command",
       "BaseType": "Siege Helmet",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "NonDrop"
       ]
     }
   ],
@@ -9155,7 +9132,7 @@
       "BaseType": "Nameless Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonDrop"
       ]
     },
     {
@@ -9163,7 +9140,7 @@
       "BaseType": "Nameless Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonDrop"
       ]
     },
     {
@@ -9171,7 +9148,7 @@
       "BaseType": "Nameless Ring",
       "Aspects": [
         "Handled",
-        "NonWorldDrop"
+        "NonDrop"
       ]
     }
   ]
