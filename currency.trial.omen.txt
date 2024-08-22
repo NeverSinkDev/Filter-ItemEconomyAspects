@@ -4,7 +4,9 @@
       "Name": "Omen of Fortune",
       "BaseType": "Omen of Fortune",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor",
+        "PreventHiding"
       ]
     }
   ],
@@ -13,7 +15,8 @@
       "Name": "Omen of Connections",
       "BaseType": "Omen of Connections",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -22,7 +25,8 @@
       "Name": "Omen of Blanching",
       "BaseType": "Omen of Blanching",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -31,7 +35,8 @@
       "Name": "Omen of Amelioration",
       "BaseType": "Omen of Amelioration",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PreventHiding"
       ]
     }
   ],
@@ -76,7 +81,8 @@
       "Name": "Omen of Death's Door",
       "BaseType": "Omen of Death's Door",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -94,7 +100,8 @@
       "Name": "Omen of Death-dancing",
       "BaseType": "Omen of Death-dancing",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "PoorDrop"
       ]
     }
   ],
@@ -103,7 +110,8 @@
       "Name": "Omen of the Soul Devourer",
       "BaseType": "Omen of the Soul Devourer",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -112,7 +120,8 @@
       "Name": "Omen of Return",
       "BaseType": "Omen of Return",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -130,7 +139,8 @@
       "Name": "Omen of Refreshment",
       "BaseType": "Omen of Refreshment",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ],
@@ -139,7 +149,8 @@
       "Name": "Omen of Adrenaline",
       "BaseType": "Omen of Adrenaline",
       "Aspects": [
-        "Handled"
+        "Handled",
+        "Anchor"
       ]
     }
   ]
