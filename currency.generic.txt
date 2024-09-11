@@ -460,7 +460,8 @@
         "Handled",
         "Tierable",
         "ChanceBottom",
-        "StackedCurrency"
+        "StackedCurrency",
+        "Anchor"
       ]
     }
   ],
