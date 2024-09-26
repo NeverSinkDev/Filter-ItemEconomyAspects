@@ -1443,7 +1443,8 @@
         "Handled",
         "Tierable",
         "SilverBottom",
-        "EarlyLeagueInterest"
+        "EarlyLeagueInterest",
+        "PoorDrop"
       ]
     }
   ],
