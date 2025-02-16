@@ -1,0 +1,4647 @@
+{
+  "Aspects": {
+    "House of Mirrors": [
+      {
+        "Name": "House of Mirrors",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Doctor": [
+      {
+        "Name": "The Doctor",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Fiend": [
+      {
+        "Name": "The Fiend",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Beauty Through Death": [
+      {
+        "Name": "Beauty Through Death",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Iron Bard": [
+      {
+        "Name": "The Iron Bard",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Iron Bard",
+        "BaseType": "The Iron Bard",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Immortal": [
+      {
+        "Name": "The Immortal",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Life Thief": [
+      {
+        "Name": "The Life Thief",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Immortal Resolve": [
+      {
+        "Name": "Immortal Resolve",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Spark and the Flame": [
+      {
+        "Name": "The Spark and the Flame",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Nurse": [
+      {
+        "Name": "The Nurse",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Mayor": [
+      {
+        "Name": "The Mayor",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Mayor",
+        "BaseType": "The Mayor",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Samurai's Eye": [
+      {
+        "Name": "The Samurai's Eye",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Abandoned Wealth": [
+      {
+        "Name": "Abandoned Wealth",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Hunter's Reward": [
+      {
+        "Name": "Hunter's Reward",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Dragon's Heart": [
+      {
+        "Name": "The Dragon's Heart",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Wealth and Power": [
+      {
+        "Name": "Wealth and Power",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Wolven King's Bite": [
+      {
+        "Name": "The Wolven King's Bite",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Seven Years Bad Luck": [
+      {
+        "Name": "Seven Years Bad Luck",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult",
+          "Anchor"
+        ]
+      }
+    ],
+    "Pride Before the Fall": [
+      {
+        "Name": "Pride Before the Fall",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Risk": [
+      {
+        "Name": "The Risk",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Offering": [
+      {
+        "Name": "The Offering",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Saint's Treasure": [
+      {
+        "Name": "The Saint's Treasure",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Celestial Stone": [
+      {
+        "Name": "The Celestial Stone",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Mawr Blaidd": [
+      {
+        "Name": "Mawr Blaidd",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "Mawr Blaidd",
+        "BaseType": "Mawr Blaidd",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Queen": [
+      {
+        "Name": "The Queen",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Ethereal": [
+      {
+        "Name": "The Ethereal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The King's Heart": [
+      {
+        "Name": "The King's Heart",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Artist": [
+      {
+        "Name": "The Artist",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Enlightened": [
+      {
+        "Name": "The Enlightened",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Professor": [
+      {
+        "Name": "The Professor",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Hoarder": [
+      {
+        "Name": "The Hoarder",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Seeker": [
+      {
+        "Name": "The Seeker",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Sephirot": [
+      {
+        "Name": "The Sephirot",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Master": [
+      {
+        "Name": "The Master",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Landing": [
+      {
+        "Name": "The Landing",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Undaunted": [
+      {
+        "Name": "The Undaunted",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Brittle Emperor": [
+      {
+        "Name": "The Brittle Emperor",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Celestial Justicar": [
+      {
+        "Name": "The Celestial Justicar",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Dreamer": [
+      {
+        "Name": "The Dreamer",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Valkyrie": [
+      {
+        "Name": "The Valkyrie",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Wolf": [
+      {
+        "Name": "The Wolf",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Chaotic Disposition": [
+      {
+        "Name": "Chaotic Disposition",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "Chaotic Disposition",
+        "BaseType": "Chaotic Disposition",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Heterochromia": [
+      {
+        "Name": "Heterochromia",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Cartographer": [
+      {
+        "Name": "The Cartographer",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Cartographer",
+        "BaseType": "The Cartographer",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Void": [
+      {
+        "Name": "The Void",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Wind": [
+      {
+        "Name": "The Wind",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "MediumValue",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Polymath": [
+      {
+        "Name": "The Polymath",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Sacrifice": [
+      {
+        "Name": "The Sacrifice",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Dapper Prodigy": [
+      {
+        "Name": "The Dapper Prodigy",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Breach": [
+      {
+        "Name": "The Breach",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Last Hope": [
+      {
+        "Name": "Last Hope",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Vast": [
+      {
+        "Name": "The Vast",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "The Valley of Steel Boxes": [
+      {
+        "Name": "The Valley of Steel Boxes",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Valley of Steel Boxes",
+        "BaseType": "The Valley of Steel Boxes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Left to Fate": [
+      {
+        "Name": "Left to Fate",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Perfection": [
+      {
+        "Name": "Perfection",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boon of the First Ones": [
+      {
+        "Name": "Boon of the First Ones",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Monochrome": [
+      {
+        "Name": "Monochrome",
+        "Aspects": [
+          "CurrencyType",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Monochrome",
+        "BaseType": "Monochrome",
+        "Aspects": [
+          "CurrencyType",
+          "Handled"
+        ]
+      }
+    ],
+    "Bowyer's Dream": [
+      {
+        "Name": "Bowyer's Dream",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Hunger": [
+      {
+        "Name": "The Hunger",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Porcupine": [
+      {
+        "Name": "The Porcupine",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The World Eater": [
+      {
+        "Name": "The World Eater",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Undisputed": [
+      {
+        "Name": "The Undisputed",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Undisputed",
+        "BaseType": "The Undisputed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arrogance of the Vaal": [
+      {
+        "Name": "Arrogance of the Vaal",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Journey": [
+      {
+        "Name": "The Journey",
+        "Aspects": [
+          "CurrencyType",
+          "Handled"
+        ]
+      }
+    ],
+    "The Jeweller's Boon": [
+      {
+        "Name": "The Jeweller's Boon",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Hale Heart": [
+      {
+        "Name": "The Hale Heart",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Emperor of Purity": [
+      {
+        "Name": "Emperor of Purity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Glimmer of Hope": [
+      {
+        "Name": "Glimmer of Hope",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Lucky Deck": [
+      {
+        "Name": "Lucky Deck",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Aesthete": [
+      {
+        "Name": "The Aesthete",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Dark Mage": [
+      {
+        "Name": "The Dark Mage",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest",
+          "LateLeagueValueLoss",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Inventor": [
+      {
+        "Name": "The Inventor",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Thaumaturgist": [
+      {
+        "Name": "The Thaumaturgist",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Thaumaturgist",
+        "BaseType": "The Thaumaturgist",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Throne": [
+      {
+        "Name": "The Throne",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Time-Lost Relic": [
+      {
+        "Name": "Time-Lost Relic",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Time-Lost Relic",
+        "BaseType": "Time-Lost Relic",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Innocent": [
+      {
+        "Name": "The Innocent",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Wilted Rose": [
+      {
+        "Name": "The Wilted Rose",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "EarlyLeagueInterest",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Endless Darkness": [
+      {
+        "Name": "The Endless Darkness",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Price of Protection": [
+      {
+        "Name": "The Price of Protection",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "The Price of Protection",
+        "BaseType": "The Price of Protection",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Alone in the Darkness": [
+      {
+        "Name": "Alone in the Darkness",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Obscured": [
+      {
+        "Name": "The Obscured",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Mad King": [
+      {
+        "Name": "The Mad King",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Mad King",
+        "BaseType": "The Mad King",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Chains that Bind": [
+      {
+        "Name": "The Chains that Bind",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Humility": [
+      {
+        "Name": "Humility",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Formless Sea": [
+      {
+        "Name": "The Formless Sea",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Audacity": [
+      {
+        "Name": "Audacity",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Blind Venture": [
+      {
+        "Name": "Blind Venture",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Boundless Realms": [
+      {
+        "Name": "Boundless Realms",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Dialla's Subjugation": [
+      {
+        "Name": "Dialla's Subjugation",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Emperor's Luck": [
+      {
+        "Name": "Emperor's Luck",
+        "Aspects": [
+          "CurrencyType",
+          "HighVariety",
+          "Handled",
+          "PreventHiding",
+          "Anchor"
+        ]
+      }
+    ],
+    "Hope": [
+      {
+        "Name": "Hope",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "Hope",
+        "BaseType": "Hope",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Jack in the Box": [
+      {
+        "Name": "Jack in the Box",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Lost Worlds": [
+      {
+        "Name": "Lost Worlds",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Lucky Connections": [
+      {
+        "Name": "Lucky Connections",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Lysah's Respite": [
+      {
+        "Name": "Lysah's Respite",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Merciless Armament": [
+      {
+        "Name": "Merciless Armament",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Scholar of the Seas": [
+      {
+        "Name": "Scholar of the Seas",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Arena Champion": [
+      {
+        "Name": "The Arena Champion",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Avenger": [
+      {
+        "Name": "The Avenger",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Body": [
+      {
+        "Name": "The Body",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Cataclysm": [
+      {
+        "Name": "The Cataclysm",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Cursed King": [
+      {
+        "Name": "The Cursed King",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Demoness": [
+      {
+        "Name": "The Demoness",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Encroaching Darkness": [
+      {
+        "Name": "The Encroaching Darkness",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Fletcher": [
+      {
+        "Name": "The Fletcher",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "The Fletcher",
+        "BaseType": "The Fletcher",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Harvester": [
+      {
+        "Name": "The Harvester",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Jester": [
+      {
+        "Name": "The Jester",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "The Jester",
+        "BaseType": "The Jester",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Last One Standing": [
+      {
+        "Name": "The Last One Standing",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Lord in Black": [
+      {
+        "Name": "The Lord in Black",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Oath": [
+      {
+        "Name": "The Oath",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The One With All": [
+      {
+        "Name": "The One With All",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Road to Power": [
+      {
+        "Name": "The Road to Power",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Road to Power",
+        "BaseType": "The Road to Power",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Soul": [
+      {
+        "Name": "The Soul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Spoiled Prince": [
+      {
+        "Name": "The Spoiled Prince",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "The Spoiled Prince",
+        "BaseType": "The Spoiled Prince",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Stormcaller": [
+      {
+        "Name": "The Stormcaller",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Surveyor": [
+      {
+        "Name": "The Surveyor",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Survivalist": [
+      {
+        "Name": "The Survivalist",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Traitor": [
+      {
+        "Name": "The Traitor",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Trial": [
+      {
+        "Name": "The Trial",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Tyrant": [
+      {
+        "Name": "The Tyrant",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Union": [
+      {
+        "Name": "The Union",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Warlord": [
+      {
+        "Name": "The Warlord",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The Wrath": [
+      {
+        "Name": "The Wrath",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Treasure Hunter": [
+      {
+        "Name": "Treasure Hunter",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Vinia's Token": [
+      {
+        "Name": "Vinia's Token",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Wretched": [
+      {
+        "Name": "The Wretched",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Lingering Remnants": [
+      {
+        "Name": "Lingering Remnants",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Atziri's Arsenal": [
+      {
+        "Name": "Atziri's Arsenal",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "No Traces": [
+      {
+        "Name": "No Traces",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Realm": [
+      {
+        "Name": "The Realm",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "LateLeagueValueLoss",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Rebirth": [
+      {
+        "Name": "Rebirth",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Insatiable": [
+      {
+        "Name": "The Insatiable",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "The Insatiable",
+        "BaseType": "The Insatiable",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Forbidden Power": [
+      {
+        "Name": "Forbidden Power",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "Forbidden Power",
+        "BaseType": "Forbidden Power",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Blessing of God": [
+      {
+        "Name": "Blessing of God",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Blessing of God",
+        "BaseType": "Blessing of God",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Beast": [
+      {
+        "Name": "The Beast",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Rite of Elements": [
+      {
+        "Name": "The Rite of Elements",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Darkest Dream": [
+      {
+        "Name": "The Darkest Dream",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Harmony of Souls": [
+      {
+        "Name": "Harmony of Souls",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Twilight Moon": [
+      {
+        "Name": "The Twilight Moon",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Cacophony": [
+      {
+        "Name": "The Cacophony",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "A Dab of Ink": [
+      {
+        "Name": "A Dab of Ink",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Sambodhi's Vow": [
+      {
+        "Name": "Sambodhi's Vow",
+        "Aspects": [
+          "CurrencyType",
+          "HighVariety",
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Lord of Celebration": [
+      {
+        "Name": "The Lord of Celebration",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "The Messenger": [
+      {
+        "Name": "The Messenger",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Golden Era": [
+      {
+        "Name": "The Golden Era",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Mercenary": [
+      {
+        "Name": "The Mercenary",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Penitent": [
+      {
+        "Name": "The Penitent",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Siren": [
+      {
+        "Name": "The Siren",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Sun": [
+      {
+        "Name": "The Sun",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Garish Power": [
+      {
+        "Name": "The Garish Power",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Gemcutter's Promise": [
+      {
+        "Name": "Gemcutter's Promise",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The Pact": [
+      {
+        "Name": "The Pact",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Conduit": [
+      {
+        "Name": "The Conduit",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Lion": [
+      {
+        "Name": "The Lion",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Scavenger": [
+      {
+        "Name": "The Scavenger",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Wolverine": [
+      {
+        "Name": "The Wolverine",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Forsaken": [
+      {
+        "Name": "The Forsaken",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Dreamland": [
+      {
+        "Name": "The Dreamland",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Admirer": [
+      {
+        "Name": "The Admirer",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Admirer",
+        "BaseType": "The Admirer",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Fathomless Depths": [
+      {
+        "Name": "The Fathomless Depths",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Drunken Aristocrat": [
+      {
+        "Name": "The Drunken Aristocrat",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Feast": [
+      {
+        "Name": "The Feast",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Poet": [
+      {
+        "Name": "The Poet",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Call to the First Ones": [
+      {
+        "Name": "Call to the First Ones",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Standoff": [
+      {
+        "Name": "The Standoff",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "HighVariety"
+        ]
+      }
+    ],
+    "A Mother's Parting Gift": [
+      {
+        "Name": "A Mother's Parting Gift",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Anarchy's Price": [
+      {
+        "Name": "Anarchy's Price",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Favour": [
+      {
+        "Name": "Assassin's Favour",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Cartographer's Delight": [
+      {
+        "Name": "Cartographer's Delight",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Coveted Possession": [
+      {
+        "Name": "Coveted Possession",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "LateLeagueValueLoss",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Death": [
+      {
+        "Name": "Death",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "NoResolution"
+        ]
+      }
+    ],
+    "Destined to Crumble": [
+      {
+        "Name": "Destined to Crumble",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Doedre's Madness": [
+      {
+        "Name": "Doedre's Madness",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Earth Drinker": [
+      {
+        "Name": "Earth Drinker",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Gift of the Gemling Queen": [
+      {
+        "Name": "Gift of the Gemling Queen",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Grave Knowledge": [
+      {
+        "Name": "Grave Knowledge",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Her Mask": [
+      {
+        "Name": "Her Mask",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "Hubris": [
+      {
+        "Name": "Hubris",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Hunter's Resolve": [
+      {
+        "Name": "Hunter's Resolve",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Lantador's Lost Love": [
+      {
+        "Name": "Lantador's Lost Love",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Light and Truth": [
+      {
+        "Name": "Light and Truth",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Loyalty": [
+      {
+        "Name": "Loyalty",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Prosperity": [
+      {
+        "Name": "Prosperity",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Rain of Chaos": [
+      {
+        "Name": "Rain of Chaos",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "Rain Tempter": [
+      {
+        "Name": "Rain Tempter",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Rats": [
+      {
+        "Name": "Rats",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Shard of Fate": [
+      {
+        "Name": "Shard of Fate",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Battle Born": [
+      {
+        "Name": "The Battle Born",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Betrayal": [
+      {
+        "Name": "The Betrayal",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Calling": [
+      {
+        "Name": "The Calling",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Carrion Crow": [
+      {
+        "Name": "The Carrion Crow",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "Anchor",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Catalyst": [
+      {
+        "Name": "The Catalyst",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "The Doppelganger": [
+      {
+        "Name": "The Doppelganger",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Dragon": [
+      {
+        "Name": "The Dragon",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Endurance": [
+      {
+        "Name": "The Endurance",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Explorer": [
+      {
+        "Name": "The Explorer",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Flora's Gift": [
+      {
+        "Name": "The Flora's Gift",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Fox": [
+      {
+        "Name": "The Fox",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Gambler": [
+      {
+        "Name": "The Gambler",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "CurrencyType",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Gemcutter": [
+      {
+        "Name": "The Gemcutter",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "LateLeagueValueLoss",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Gentleman": [
+      {
+        "Name": "The Gentleman",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Gladiator": [
+      {
+        "Name": "The Gladiator",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Hermit": [
+      {
+        "Name": "The Hermit",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Incantation": [
+      {
+        "Name": "The Incantation",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Inoculated": [
+      {
+        "Name": "The Inoculated",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The King's Blade": [
+      {
+        "Name": "The King's Blade",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Lich": [
+      {
+        "Name": "The Lich",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Lover": [
+      {
+        "Name": "The Lover",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Lunaris Priestess": [
+      {
+        "Name": "The Lunaris Priestess",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Metalsmith's Gift": [
+      {
+        "Name": "The Metalsmith's Gift",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Pack Leader": [
+      {
+        "Name": "The Pack Leader",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Rabid Rhoa": [
+      {
+        "Name": "The Rabid Rhoa",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "The Scarred Meadow": [
+      {
+        "Name": "The Scarred Meadow",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Scholar": [
+      {
+        "Name": "The Scholar",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Sigil": [
+      {
+        "Name": "The Sigil",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Summoner": [
+      {
+        "Name": "The Summoner",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Surgeon": [
+      {
+        "Name": "The Surgeon",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Tower": [
+      {
+        "Name": "The Tower",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Twins": [
+      {
+        "Name": "The Twins",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Visionary": [
+      {
+        "Name": "The Visionary",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Warden": [
+      {
+        "Name": "The Warden",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Watcher": [
+      {
+        "Name": "The Watcher",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Web": [
+      {
+        "Name": "The Web",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "The Wolf's Shadow": [
+      {
+        "Name": "The Wolf's Shadow",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Three Faces in the Dark": [
+      {
+        "Name": "Three Faces in the Dark",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding",
+          "Anchor"
+        ]
+      }
+    ],
+    "Thunderous Skies": [
+      {
+        "Name": "Thunderous Skies",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Tranquillity": [
+      {
+        "Name": "Tranquillity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Turn the Other Cheek": [
+      {
+        "Name": "Turn the Other Cheek",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Volatile Power": [
+      {
+        "Name": "Volatile Power",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mitts": [
+      {
+        "Name": "Mitts",
+        "Aspects": [
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "The Coming Storm": [
+      {
+        "Name": "The Coming Storm",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Might is Right": [
+      {
+        "Name": "Might is Right",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Opulent": [
+      {
+        "Name": "The Opulent",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Struck by Lightning": [
+      {
+        "Name": "Struck by Lightning",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "Anchor",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Blazing Fire": [
+      {
+        "Name": "The Blazing Fire",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Ruthless Ceinture": [
+      {
+        "Name": "The Ruthless Ceinture",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Eye of the Dragon": [
+      {
+        "Name": "The Eye of the Dragon",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Deceiver": [
+      {
+        "Name": "The Deceiver",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Puzzle": [
+      {
+        "Name": "The Puzzle",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "Three Voices": [
+      {
+        "Name": "Three Voices",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "PreventHiding",
+          "LateLeagueValueLoss",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Army of Blood": [
+      {
+        "Name": "The Army of Blood",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Sword King's Salute": [
+      {
+        "Name": "The Sword King's Salute",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Witch": [
+      {
+        "Name": "The Witch",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Master Artisan": [
+      {
+        "Name": "The Master Artisan",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Dark Temptation": [
+      {
+        "Name": "Dark Temptation",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Boon of Justice": [
+      {
+        "Name": "Boon of Justice",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Pride of the First Ones": [
+      {
+        "Name": "Pride of the First Ones",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Alluring Bounty": [
+      {
+        "Name": "Alluring Bounty",
+        "Aspects": [
+          "CurrencyType",
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Burning Blood": [
+      {
+        "Name": "Burning Blood",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Deep Ones": [
+      {
+        "Name": "The Deep Ones",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Buried Treasure": [
+      {
+        "Name": "Buried Treasure",
+        "Aspects": [
+          "Handled",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Dark Dreams": [
+      {
+        "Name": "Dark Dreams",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Vanity": [
+      {
+        "Name": "Vanity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Imperial Legacy": [
+      {
+        "Name": "Imperial Legacy",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Echoes of Love": [
+      {
+        "Name": "Echoes of Love",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Fool": [
+      {
+        "Name": "The Fool",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Demigod's Wager": [
+      {
+        "Name": "Demigod's Wager",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Primordial": [
+      {
+        "Name": "The Primordial",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Archmage's Right Hand": [
+      {
+        "Name": "The Archmage's Right Hand",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Thirst for Knowledge": [
+      {
+        "Name": "Thirst for Knowledge",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Demon": [
+      {
+        "Name": "The Demon",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Demon",
+        "BaseType": "The Demon",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Nook's Crown": [
+      {
+        "Name": "Nook's Crown",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Damned": [
+      {
+        "Name": "The Damned",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Damned",
+        "BaseType": "The Damned",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Price of Loyalty": [
+      {
+        "Name": "The Price of Loyalty",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Eye of Terror": [
+      {
+        "Name": "The Eye of Terror",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Bargain": [
+      {
+        "Name": "The Bargain",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Bargain",
+        "BaseType": "The Bargain",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Void of the Elements": [
+      {
+        "Name": "Void of the Elements",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Void of the Elements",
+        "BaseType": "Void of the Elements",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Azyran's Reward": [
+      {
+        "Name": "Azyran's Reward",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Remembrance": [
+      {
+        "Name": "Remembrance",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Old Man": [
+      {
+        "Name": "The Old Man",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Heroic Shot": [
+      {
+        "Name": "The Heroic Shot",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Skeleton": [
+      {
+        "Name": "The Skeleton",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Akil's Prophecy": [
+      {
+        "Name": "Akil's Prophecy",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Akil's Prophecy",
+        "BaseType": "Akil's Prophecy",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Wolf's Legacy": [
+      {
+        "Name": "The Wolf's Legacy",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Deal": [
+      {
+        "Name": "The Deal",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Side Quest": [
+      {
+        "Name": "The Side Quest",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Side Quest",
+        "BaseType": "The Side Quest",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "More is Never Enough": [
+      {
+        "Name": "More is Never Enough",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "More is Never Enough",
+        "BaseType": "More is Never Enough",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Vile Power": [
+      {
+        "Name": "Vile Power",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "Vile Power",
+        "BaseType": "Vile Power",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Mountain": [
+      {
+        "Name": "The Mountain",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Succor of the Sinless": [
+      {
+        "Name": "Succor of the Sinless",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Craving": [
+      {
+        "Name": "The Craving",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Etched in Blood": [
+      {
+        "Name": "Etched in Blood",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Escape": [
+      {
+        "Name": "The Escape",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Squandered Prosperity": [
+      {
+        "Name": "Squandered Prosperity",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Squandered Prosperity",
+        "BaseType": "Squandered Prosperity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Justice": [
+      {
+        "Name": "Divine Justice",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult",
+          "STRONK"
+        ]
+      }
+    ],
+    "Underground Forest": [
+      {
+        "Name": "Underground Forest",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Fishmonger": [
+      {
+        "Name": "The Fishmonger",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "The Bones": [
+      {
+        "Name": "The Bones",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Chosen": [
+      {
+        "Name": "The Chosen",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Baited Expectations": [
+      {
+        "Name": "Baited Expectations",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Deathly Designs": [
+      {
+        "Name": "Deathly Designs",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cameria's Cut": [
+      {
+        "Name": "Cameria's Cut",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Friendship": [
+      {
+        "Name": "Friendship",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Friendship",
+        "BaseType": "Friendship",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Cheater": [
+      {
+        "Name": "The Cheater",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Progeny of Lunaris": [
+      {
+        "Name": "The Progeny of Lunaris",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Strategist": [
+      {
+        "Name": "The Strategist",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Eldritch Decay": [
+      {
+        "Name": "The Eldritch Decay",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Council of Cats": [
+      {
+        "Name": "Council of Cats",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Easy Stroll": [
+      {
+        "Name": "The Easy Stroll",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Tinkerer's Table": [
+      {
+        "Name": "The Tinkerer's Table",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "A Familiar Call": [
+      {
+        "Name": "A Familiar Call",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Greatest Intentions": [
+      {
+        "Name": "The Greatest Intentions",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Gift of Asenath": [
+      {
+        "Name": "Gift of Asenath",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The White Knight": [
+      {
+        "Name": "The White Knight",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Long Con": [
+      {
+        "Name": "The Long Con",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Hive of Knowledge": [
+      {
+        "Name": "The Hive of Knowledge",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Peaceful Moments": [
+      {
+        "Name": "Peaceful Moments",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Sustenance": [
+      {
+        "Name": "The Sustenance",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Sustenance",
+        "BaseType": "The Sustenance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Awakened": [
+      {
+        "Name": "The Awakened",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "A Note in the Wind": [
+      {
+        "Name": "A Note in the Wind",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "A Note in the Wind",
+        "BaseType": "A Note in the Wind",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Prometheus' Armoury": [
+      {
+        "Name": "Prometheus' Armoury",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Tumbleweed": [
+      {
+        "Name": "The Tumbleweed",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Brother's Stash": [
+      {
+        "Name": "Brother's Stash",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Unrequited Love": [
+      {
+        "Name": "Unrequited Love",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "Anchor"
+        ]
+      }
+    ],
+    "Desecrated Virtue": [
+      {
+        "Name": "Desecrated Virtue",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Gulf": [
+      {
+        "Name": "The Gulf",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Bitter Blossom": [
+      {
+        "Name": "The Bitter Blossom",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Academic": [
+      {
+        "Name": "The Academic",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Triskaidekaphobia": [
+      {
+        "Name": "Triskaidekaphobia",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Unchained": [
+      {
+        "Name": "Unchained",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Unexpected Prize": [
+      {
+        "Name": "The Unexpected Prize",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Journalist": [
+      {
+        "Name": "The Journalist",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Cache": [
+      {
+        "Name": "The Cache",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Cursed Words": [
+      {
+        "Name": "Cursed Words",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Love Through Ice": [
+      {
+        "Name": "Love Through Ice",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Astromancer": [
+      {
+        "Name": "The Astromancer",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Keeper's Corruption": [
+      {
+        "Name": "Keeper's Corruption",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Patient": [
+      {
+        "Name": "The Patient",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Draped in Dreams": [
+      {
+        "Name": "Draped in Dreams",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Fateful Meeting": [
+      {
+        "Name": "Fateful Meeting",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Reckless Ambition": [
+      {
+        "Name": "Reckless Ambition",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Dying Light": [
+      {
+        "Name": "Dying Light",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Brotherhood in Exile": [
+      {
+        "Name": "Brotherhood in Exile",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Society's Remorse": [
+      {
+        "Name": "Society's Remorse",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Whiteout": [
+      {
+        "Name": "The Whiteout",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Acclimatisation": [
+      {
+        "Name": "Acclimatisation",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Haunting Shadows": [
+      {
+        "Name": "Haunting Shadows",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Dying Anguish": [
+      {
+        "Name": "Dying Anguish",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "LateLeagueValueLoss",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Bear Woman": [
+      {
+        "Name": "The Bear Woman",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "The Long Watch": [
+      {
+        "Name": "The Long Watch",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      },
+      {
+        "Name": "The Long Watch",
+        "BaseType": "The Long Watch",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Deadly Joy": [
+      {
+        "Name": "Deadly Joy",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Luminous Trove": [
+      {
+        "Name": "Luminous Trove",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "NoResolution"
+        ]
+      }
+    ],
+    "Winter's Embrace": [
+      {
+        "Name": "Winter's Embrace",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Eternal War": [
+      {
+        "Name": "The Eternal War",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Broken Promises": [
+      {
+        "Name": "Broken Promises",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Enthusiasts": [
+      {
+        "Name": "The Enthusiasts",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest",
+          "PreventHiding",
+          "NoResolution"
+        ]
+      }
+    ],
+    "The Hook": [
+      {
+        "Name": "The Hook",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      },
+      {
+        "Name": "The Hook",
+        "BaseType": "The Hook",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "A Modest Request": [
+      {
+        "Name": "A Modest Request",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NoResolution"
+        ]
+      }
+    ],
+    "Brush, Paint and Palette": [
+      {
+        "Name": "Brush, Paint and Palette",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Shortcut": [
+      {
+        "Name": "The Shortcut",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prejudice": [
+      {
+        "Name": "Prejudice",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Adventuring Spirit": [
+      {
+        "Name": "The Adventuring Spirit",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Card Sharp": [
+      {
+        "Name": "The Card Sharp",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Sambodhi's Wisdom": [
+      {
+        "Name": "Sambodhi's Wisdom",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Sambodhi's Wisdom",
+        "BaseType": "Sambodhi's Wisdom",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Offspring": [
+      {
+        "Name": "The Offspring",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Dementophobia": [
+      {
+        "Name": "Dementophobia",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Ambitious Obsession": [
+      {
+        "Name": "Ambitious Obsession",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Lachrymal Necrosis": [
+      {
+        "Name": "Lachrymal Necrosis",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Mind's Eyes": [
+      {
+        "Name": "The Mind's Eyes",
+        "Aspects": [
+          "Handled",
+          "Nerf",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Terrible Secret of Space": [
+      {
+        "Name": "Terrible Secret of Space",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Price of Prescience": [
+      {
+        "Name": "The Price of Prescience",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The Emptiness": [
+      {
+        "Name": "The Emptiness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Costly Curio": [
+      {
+        "Name": "Costly Curio",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Last Supper": [
+      {
+        "Name": "The Last Supper",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "A Sea of Blue": [
+      {
+        "Name": "A Sea of Blue",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Blessing of Moosh": [
+      {
+        "Name": "The Blessing of Moosh",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Scout": [
+      {
+        "Name": "The Scout",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Eternal Bonds": [
+      {
+        "Name": "Eternal Bonds",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Desperate Crusade": [
+      {
+        "Name": "Desperate Crusade",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Rabbit's Foot": [
+      {
+        "Name": "The Rabbit's Foot",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Aspirant": [
+      {
+        "Name": "The Aspirant",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Chasing Risk": [
+      {
+        "Name": "Chasing Risk",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Catch": [
+      {
+        "Name": "The Catch",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "A Stone Perfected": [
+      {
+        "Name": "A Stone Perfected",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Guardian's Challenge": [
+      {
+        "Name": "Guardian's Challenge",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Forgotten Treasure": [
+      {
+        "Name": "The Forgotten Treasure",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Prince of Darkness": [
+      {
+        "Name": "The Prince of Darkness",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NoResolution",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Fox in the Brambles": [
+      {
+        "Name": "The Fox in the Brambles",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Disdain": [
+      {
+        "Name": "Disdain",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Judging Voices": [
+      {
+        "Name": "Judging Voices",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NoResolution",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Duality": [
+      {
+        "Name": "Duality",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Silence and Frost": [
+      {
+        "Name": "Silence and Frost",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Imperfect Memories": [
+      {
+        "Name": "Imperfect Memories",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The One That Got Away": [
+      {
+        "Name": "The One That Got Away",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Justified Ambition": [
+      {
+        "Name": "Justified Ambition",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Magnum Opus": [
+      {
+        "Name": "Magnum Opus",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Magma Crab": [
+      {
+        "Name": "The Magma Crab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bijoux": [
+      {
+        "Name": "Bijoux",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Misery in Darkness": [
+      {
+        "Name": "Misery in Darkness",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Tireless Extractor": [
+      {
+        "Name": "The Tireless Extractor",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Transformation": [
+      {
+        "Name": "The Transformation",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult",
+          "CurrencyType"
+        ]
+      },
+      {
+        "Name": "The Transformation",
+        "BaseType": "The Transformation",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Parasitic Passengers": [
+      {
+        "Name": "Parasitic Passengers",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Apothecary": [
+      {
+        "Name": "The Apothecary",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "Anchor"
+        ]
+      }
+    ],
+    "A Fate Worse Than Death": [
+      {
+        "Name": "A Fate Worse Than Death",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Darker Half": [
+      {
+        "Name": "Darker Half",
+        "Aspects": [
+          "Handled",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Home": [
+      {
+        "Name": "Home",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Altered Perception": [
+      {
+        "Name": "Altered Perception",
+        "Aspects": [
+          "Handled",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The Destination": [
+      {
+        "Name": "The Destination",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Further Invention": [
+      {
+        "Name": "Further Invention",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Brawny Battle Mage": [
+      {
+        "Name": "The Brawny Battle Mage",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Rebirth and Renewal": [
+      {
+        "Name": "Rebirth and Renewal",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Forward Gaze": [
+      {
+        "Name": "The Forward Gaze",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "From Bone to Ashes": [
+      {
+        "Name": "From Bone to Ashes",
+        "Aspects": [
+          "Handled",
+          "MediumValue",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Dungeon Master": [
+      {
+        "Name": "The Dungeon Master",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Price of Devotion": [
+      {
+        "Name": "The Price of Devotion",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety",
+          "Anchor"
+        ]
+      }
+    ],
+    "The Shieldbearer": [
+      {
+        "Name": "The Shieldbearer",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Choking Guilt": [
+      {
+        "Name": "Choking Guilt",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Gemcutter's Mercy": [
+      {
+        "Name": "Gemcutter's Mercy",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Doryani's Epiphany": [
+      {
+        "Name": "Doryani's Epiphany",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Something Dark": [
+      {
+        "Name": "Something Dark",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Leviathan": [
+      {
+        "Name": "The Leviathan",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Endless Night": [
+      {
+        "Name": "Endless Night",
+        "Aspects": [
+          "Handled",
+          "MediumValue",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Enforcer": [
+      {
+        "Name": "The Enforcer",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Checkmate": [
+      {
+        "Name": "Checkmate",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Shepherd's Sandals": [
+      {
+        "Name": "The Shepherd's Sandals",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Lethean Temptation": [
+      {
+        "Name": "Lethean Temptation",
+        "Aspects": [
+          "Handled",
+          "NoResolution",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Astral Protection": [
+      {
+        "Name": "Astral Protection",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Azure Rage": [
+      {
+        "Name": "Azure Rage",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "MediumValue"
+        ]
+      }
+    ],
+    "Broken Truce": [
+      {
+        "Name": "Broken Truce",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Insane Cat": [
+      {
+        "Name": "The Insane Cat",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "Anchor"
+        ]
+      }
+    ],
+    "Divine Beauty": [
+      {
+        "Name": "Divine Beauty",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Wedding Gift": [
+      {
+        "Name": "The Wedding Gift",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ever-Changing": [
+      {
+        "Name": "Ever-Changing",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Auspicious Ambitions": [
+      {
+        "Name": "Auspicious Ambitions",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Man With Bear": [
+      {
+        "Name": "Man With Bear",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "A Dusty Memory": [
+      {
+        "Name": "A Dusty Memory",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Alivia's Grace": [
+      {
+        "Name": "Alivia's Grace",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "MediumValue"
+        ]
+      }
+    ],
+    "The Return of the Rat": [
+      {
+        "Name": "The Return of the Rat",
+        "Aspects": [
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "The Finishing Touch": [
+      {
+        "Name": "The Finishing Touch",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Brother's Gift": [
+      {
+        "Name": "Brother's Gift",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "CurrencyType",
+          "Anchor"
+        ]
+      }
+    ],
+    "Matryoshka": [
+      {
+        "Name": "Matryoshka",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Poisoned Faith": [
+      {
+        "Name": "Poisoned Faith",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "A Chilling Wind": [
+      {
+        "Name": "A Chilling Wind",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Rusted Bard": [
+      {
+        "Name": "The Rusted Bard",
+        "Aspects": [
+          "Handled",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Soul Quenched": [
+      {
+        "Name": "Soul Quenched",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fire Of Unknown Origin": [
+      {
+        "Name": "Fire Of Unknown Origin",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Fortunate": [
+      {
+        "Name": "The Fortunate",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "I See Brothers": [
+      {
+        "Name": "I See Brothers",
+        "BaseType": "I See Brothers",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Assassin's Gift": [
+      {
+        "Name": "Assassin's Gift",
+        "BaseType": "Assassin's Gift",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Who Asked": [
+      {
+        "Name": "Who Asked",
+        "BaseType": "Who Asked",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Eldritch Perfection": [
+      {
+        "Name": "Eldritch Perfection",
+        "BaseType": "Eldritch Perfection",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "MediumValue",
+          "HighVariety",
+          "LateLeagueValueLoss"
+        ]
+      }
+    ],
+    "Father's Love": [
+      {
+        "Name": "Father's Love",
+        "BaseType": "Father's Love",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Lonely Warrior": [
+      {
+        "Name": "Lonely Warrior",
+        "BaseType": "Lonely Warrior",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Avian Pursuit": [
+      {
+        "Name": "Avian Pursuit",
+        "BaseType": "Avian Pursuit",
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Temperance": [
+      {
+        "Name": "Temperance",
+        "BaseType": "Temperance",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Toxic Tidings": [
+      {
+        "Name": "Toxic Tidings",
+        "BaseType": "Toxic Tidings",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "LateLeagueValueLoss",
+          "NoResolution"
+        ]
+      }
+    ]
+  }
+}

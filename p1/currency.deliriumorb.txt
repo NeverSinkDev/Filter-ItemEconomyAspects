@@ -1,0 +1,193 @@
+{
+  "Aspects": {
+    "Skittering Delirium Orb": [
+      {
+        "Name": "Skittering Delirium Orb",
+        "BaseType": "Skittering Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blighted Delirium Orb": [
+      {
+        "Name": "Blighted Delirium Orb",
+        "BaseType": "Blighted Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diviner's Delirium Orb": [
+      {
+        "Name": "Diviner's Delirium Orb",
+        "BaseType": "Diviner's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturge's Delirium Orb": [
+      {
+        "Name": "Thaumaturge's Delirium Orb",
+        "BaseType": "Thaumaturge's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartographer's Delirium Orb": [
+      {
+        "Name": "Cartographer's Delirium Orb",
+        "BaseType": "Cartographer's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fine Delirium Orb": [
+      {
+        "Name": "Fine Delirium Orb",
+        "BaseType": "Fine Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Obscured Delirium Orb": [
+      {
+        "Name": "Obscured Delirium Orb",
+        "BaseType": "Obscured Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fossilised Delirium Orb": [
+      {
+        "Name": "Fossilised Delirium Orb",
+        "BaseType": "Fossilised Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Timeless Delirium Orb": [
+      {
+        "Name": "Timeless Delirium Orb",
+        "BaseType": "Timeless Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fragmented Delirium Orb": [
+      {
+        "Name": "Fragmented Delirium Orb",
+        "BaseType": "Fragmented Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Foreboding Delirium Orb": [
+      {
+        "Name": "Foreboding Delirium Orb",
+        "BaseType": "Foreboding Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Singular Delirium Orb": [
+      {
+        "Name": "Singular Delirium Orb",
+        "BaseType": "Singular Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Amorphous Delirium Orb": [
+      {
+        "Name": "Amorphous Delirium Orb",
+        "BaseType": "Amorphous Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Imperial Delirium Orb": [
+      {
+        "Name": "Imperial Delirium Orb",
+        "BaseType": "Imperial Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jeweller's Delirium Orb": [
+      {
+        "Name": "Jeweller's Delirium Orb",
+        "BaseType": "Jeweller's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyssal Delirium Orb": [
+      {
+        "Name": "Abyssal Delirium Orb",
+        "BaseType": "Abyssal Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Primal Delirium Orb": [
+      {
+        "Name": "Primal Delirium Orb",
+        "BaseType": "Primal Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Armoursmith's Delirium Orb": [
+      {
+        "Name": "Armoursmith's Delirium Orb",
+        "BaseType": "Armoursmith's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decadent Delirium Orb": [
+      {
+        "Name": "Decadent Delirium Orb",
+        "BaseType": "Decadent Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blacksmith's Delirium Orb": [
+      {
+        "Name": "Blacksmith's Delirium Orb",
+        "BaseType": "Blacksmith's Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Whispering Delirium Orb": [
+      {
+        "Name": "Whispering Delirium Orb",
+        "BaseType": "Whispering Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

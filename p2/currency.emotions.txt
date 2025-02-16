@@ -1,0 +1,94 @@
+{
+  "Aspects": {
+    "Distilled Isolation": [
+      {
+        "Name": "Distilled Isolation",
+        "BaseType": "Distilled Isolation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Suffering": [
+      {
+        "Name": "Distilled Suffering",
+        "BaseType": "Distilled Suffering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Fear": [
+      {
+        "Name": "Distilled Fear",
+        "BaseType": "Distilled Fear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Despair": [
+      {
+        "Name": "Distilled Despair",
+        "BaseType": "Distilled Despair",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Disgust": [
+      {
+        "Name": "Distilled Disgust",
+        "BaseType": "Distilled Disgust",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Paranoia": [
+      {
+        "Name": "Distilled Paranoia",
+        "BaseType": "Distilled Paranoia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Envy": [
+      {
+        "Name": "Distilled Envy",
+        "BaseType": "Distilled Envy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Greed": [
+      {
+        "Name": "Distilled Greed",
+        "BaseType": "Distilled Greed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Guilt": [
+      {
+        "Name": "Distilled Guilt",
+        "BaseType": "Distilled Guilt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Distilled Ire": [
+      {
+        "Name": "Distilled Ire",
+        "BaseType": "Distilled Ire",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

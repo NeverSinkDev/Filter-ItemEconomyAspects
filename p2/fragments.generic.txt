@@ -1,0 +1,109 @@
+{
+  "Aspects": {
+    "An Audience with the King": [
+      {
+        "Name": "An Audience with the King",
+        "BaseType": "An Audience with the King",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Faded Crisis Fragment": [
+      {
+        "Name": "Faded Crisis Fragment",
+        "BaseType": "Faded Crisis Fragment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Weathered Crisis Fragment": [
+      {
+        "Name": "Weathered Crisis Fragment",
+        "BaseType": "Weathered Crisis Fragment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breachstone": [
+      {
+        "Name": "Breachstone",
+        "BaseType": "Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Ancient Crisis Fragment": [
+      {
+        "Name": "Ancient Crisis Fragment",
+        "BaseType": "Ancient Crisis Fragment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Deadly Fate": [
+      {
+        "Name": "Deadly Fate",
+        "BaseType": "Deadly Fate",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Simulacrum": [
+      {
+        "Name": "Simulacrum",
+        "BaseType": "Simulacrum",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Cowardly Fate": [
+      {
+        "Name": "Cowardly Fate",
+        "BaseType": "Cowardly Fate",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Victorious Fate": [
+      {
+        "Name": "Victorious Fate",
+        "BaseType": "Victorious Fate",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Expedition Logbook": [
+      {
+        "Name": "Expedition Logbook",
+        "BaseType": "Expedition Logbook",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Inscribed Ultimatum": [
+      {
+        "Name": "Inscribed Ultimatum",
+        "BaseType": "Inscribed Ultimatum",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

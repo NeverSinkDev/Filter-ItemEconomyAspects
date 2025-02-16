@@ -1,0 +1,246 @@
+{
+  "Aspects": {
+    "Maze Map": [
+      {
+        "Name": "Doryani's Machinarium",
+        "BaseType": "Maze Map",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Map": [
+      {
+        "Name": "The Beachhead",
+        "BaseType": "Harbinger Map",
+        "Special": "T15",
+        "Aspects": [
+          "PreventHiding",
+          "Anchor",
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Infused Beachhead",
+        "BaseType": "Harbinger Map",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Museum Map": [
+      {
+        "Name": "The Putrid Cloister",
+        "BaseType": "Museum Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Courtyard Map": [
+      {
+        "Name": "The Vinktar Square",
+        "BaseType": "Courtyard Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Shore Map": [
+      {
+        "Name": "Mao Kun",
+        "BaseType": "Shore Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Vaal Pyramid Map": [
+      {
+        "Name": "Vaults of Atziri",
+        "BaseType": "Vaal Pyramid Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Moon Temple Map": [
+      {
+        "Name": "The Twilight Temple",
+        "BaseType": "Moon Temple Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Temple Map": [
+      {
+        "Name": "Poorjoy's Asylum",
+        "BaseType": "Temple Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Promenade Map": [
+      {
+        "Name": "Hall of Grandmasters",
+        "BaseType": "Promenade Map",
+        "Aspects": [
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Bone Crypt Map": [
+      {
+        "Name": "Olmec's Sanctum",
+        "BaseType": "Bone Crypt Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Cemetery Map": [
+      {
+        "Name": "Hallowed Ground",
+        "BaseType": "Cemetery Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Underground River Map": [
+      {
+        "Name": "Caer Blaidd, Wolfpack's Den",
+        "BaseType": "Underground River Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Necropolis Map": [
+      {
+        "Name": "Death and Taxes",
+        "BaseType": "Necropolis Map",
+        "Aspects": [
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Underground Sea Map": [
+      {
+        "Name": "Oba's Cursed Trove",
+        "BaseType": "Underground Sea Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Overgrown Shrine Map": [
+      {
+        "Name": "Acton's Nightmare",
+        "BaseType": "Overgrown Shrine Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Cursed Crypt Map": [
+      {
+        "Name": "The Coward's Trial",
+        "BaseType": "Cursed Crypt Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Atoll Map": [
+      {
+        "Name": "Maelström of Chaos",
+        "BaseType": "Atoll Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Dunes Map": [
+      {
+        "Name": "Pillars of Arun",
+        "BaseType": "Dunes Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Strand Map": [
+      {
+        "Name": "Whakawairua Tuahu",
+        "BaseType": "Strand Map",
+        "Aspects": [
+          "EarlyLeagueInterest",
+          "Handled"
+        ]
+      }
+    ],
+    "Synthesised Map": [
+      {
+        "Name": "Cortex",
+        "BaseType": "Synthesised Map",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Altered Distant Memory",
+        "BaseType": "Synthesised Map",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Twisted Distant Memory",
+        "BaseType": "Synthesised Map",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rewritten Distant Memory",
+        "BaseType": "Synthesised Map",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Augmented Distant Memory",
+        "BaseType": "Synthesised Map",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Engraved Ultimatum": [
+      {
+        "Name": "The Tower of Ordeals",
+        "BaseType": "Engraved Ultimatum",
+        "Aspects": []
+      }
+    ]
+  }
+}

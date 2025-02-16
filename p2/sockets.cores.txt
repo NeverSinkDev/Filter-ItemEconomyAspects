@@ -1,0 +1,139 @@
+{
+  "Aspects": {
+    "Soul Core of Azcapa": [
+      {
+        "Name": "Soul Core of Azcapa",
+        "BaseType": "Soul Core of Azcapa",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Zalatl": [
+      {
+        "Name": "Soul Core of Zalatl",
+        "BaseType": "Soul Core of Zalatl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Citaqualotl": [
+      {
+        "Name": "Soul Core of Citaqualotl",
+        "BaseType": "Soul Core of Citaqualotl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Ticaba": [
+      {
+        "Name": "Soul Core of Ticaba",
+        "BaseType": "Soul Core of Ticaba",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Quipolatl": [
+      {
+        "Name": "Soul Core of Quipolatl",
+        "BaseType": "Soul Core of Quipolatl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Zantipi": [
+      {
+        "Name": "Soul Core of Zantipi",
+        "BaseType": "Soul Core of Zantipi",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Tzamoto": [
+      {
+        "Name": "Soul Core of Tzamoto",
+        "BaseType": "Soul Core of Tzamoto",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Atmohua": [
+      {
+        "Name": "Soul Core of Atmohua",
+        "BaseType": "Soul Core of Atmohua",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Jiquani": [
+      {
+        "Name": "Soul Core of Jiquani",
+        "BaseType": "Soul Core of Jiquani",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Xopec": [
+      {
+        "Name": "Soul Core of Xopec",
+        "BaseType": "Soul Core of Xopec",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Cholotl": [
+      {
+        "Name": "Soul Core of Cholotl",
+        "BaseType": "Soul Core of Cholotl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Puhuarte": [
+      {
+        "Name": "Soul Core of Puhuarte",
+        "BaseType": "Soul Core of Puhuarte",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Topotante": [
+      {
+        "Name": "Soul Core of Topotante",
+        "BaseType": "Soul Core of Topotante",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Opiloti": [
+      {
+        "Name": "Soul Core of Opiloti",
+        "BaseType": "Soul Core of Opiloti",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Tacati": [
+      {
+        "Name": "Soul Core of Tacati",
+        "BaseType": "Soul Core of Tacati",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

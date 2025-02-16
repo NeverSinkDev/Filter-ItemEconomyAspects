@@ -1,0 +1,972 @@
+{
+  "Aspects": {
+    "Chayula's Pure Breachstone": [
+      {
+        "Name": "Chayula's Pure Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Maraketh Emblem": [
+      {
+        "Name": "Timeless Maraketh Emblem",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Chayula's Breachstone": [
+      {
+        "Name": "Chayula's Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Shape": [
+      {
+        "Name": "Fragment of Shape",
+        "Aspects": [
+          "Handled",
+          "PredictableDrop",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Uul-Netol's Pure Breachstone": [
+      {
+        "Name": "Uul-Netol's Pure Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Knowledge": [
+      {
+        "Name": "Fragment of Knowledge",
+        "Aspects": [
+          "Handled",
+          "PredictableDrop",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Templar Emblem": [
+      {
+        "Name": "Timeless Templar Emblem",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Chayula's Enriched Breachstone": [
+      {
+        "Name": "Chayula's Enriched Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tul's Pure Breachstone": [
+      {
+        "Name": "Tul's Pure Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Chayula's Charged Breachstone": [
+      {
+        "Name": "Chayula's Charged Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of the Minotaur": [
+      {
+        "Name": "Fragment of the Minotaur",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Uul-Netol's Enriched Breachstone": [
+      {
+        "Name": "Uul-Netol's Enriched Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Vaal Emblem": [
+      {
+        "Name": "Timeless Vaal Emblem",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Xoph's Pure Breachstone": [
+      {
+        "Name": "Xoph's Pure Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Esh's Pure Breachstone": [
+      {
+        "Name": "Esh's Pure Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of the Chimera": [
+      {
+        "Name": "Fragment of the Chimera",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Eradication": [
+      {
+        "Name": "Fragment of Eradication",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of the Phoenix": [
+      {
+        "Name": "Fragment of the Phoenix",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tul's Enriched Breachstone": [
+      {
+        "Name": "Tul's Enriched Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of the Hydra": [
+      {
+        "Name": "Fragment of the Hydra",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Terror": [
+      {
+        "Name": "Fragment of Terror",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Emptiness": [
+      {
+        "Name": "Fragment of Emptiness",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Enslavement": [
+      {
+        "Name": "Fragment of Enslavement",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Purification": [
+      {
+        "Name": "Fragment of Purification",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fragment of Constriction": [
+      {
+        "Name": "Fragment of Constriction",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Uul-Netol's Charged Breachstone": [
+      {
+        "Name": "Uul-Netol's Charged Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Esh's Enriched Breachstone": [
+      {
+        "Name": "Esh's Enriched Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Xoph's Enriched Breachstone": [
+      {
+        "Name": "Xoph's Enriched Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tul's Breachstone": [
+      {
+        "Name": "Tul's Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Buff"
+        ]
+      }
+    ],
+    "Timeless Eternal Emblem": [
+      {
+        "Name": "Timeless Eternal Emblem",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Karui Emblem": [
+      {
+        "Name": "Timeless Karui Emblem",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tul's Charged Breachstone": [
+      {
+        "Name": "Tul's Charged Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Uul-Netol's Breachstone": [
+      {
+        "Name": "Uul-Netol's Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Buff"
+        ]
+      }
+    ],
+    "Mortal Ignorance": [
+      {
+        "Name": "Mortal Ignorance",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Xoph's Charged Breachstone": [
+      {
+        "Name": "Xoph's Charged Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Mortal Hope": [
+      {
+        "Name": "Mortal Hope",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Esh's Charged Breachstone": [
+      {
+        "Name": "Esh's Charged Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Mortal Rage": [
+      {
+        "Name": "Mortal Rage",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Xoph's Breachstone": [
+      {
+        "Name": "Xoph's Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "PreventHiding",
+          "Buff"
+        ]
+      }
+    ],
+    "Esh's Breachstone": [
+      {
+        "Name": "Esh's Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Buff"
+        ]
+      }
+    ],
+    "Divine Vessel": [
+      {
+        "Name": "Divine Vessel",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Mortal Grief": [
+      {
+        "Name": "Mortal Grief",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Maraketh Splinter": [
+      {
+        "Name": "Timeless Maraketh Splinter",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "Anchor",
+          "TierableSplinter",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Timeless Templar Splinter": [
+      {
+        "Name": "Timeless Templar Splinter",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Offering to the Goddess": [
+      {
+        "Name": "Offering to the Goddess",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Tierable"
+        ]
+      }
+    ],
+    "Sacrifice at Midnight": [
+      {
+        "Name": "Sacrifice at Midnight",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Sacrifice at Noon": [
+      {
+        "Name": "Sacrifice at Noon",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Sacrifice at Dawn": [
+      {
+        "Name": "Sacrifice at Dawn",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Sacrifice at Dusk": [
+      {
+        "Name": "Sacrifice at Dusk",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Timeless Vaal Splinter": [
+      {
+        "Name": "Timeless Vaal Splinter",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Timeless Karui Splinter": [
+      {
+        "Name": "Timeless Karui Splinter",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Timeless Eternal Empire Splinter": [
+      {
+        "Name": "Timeless Eternal Empire Splinter",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Simulacrum": [
+      {
+        "Name": "Simulacrum",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Simulacrum Splinter": [
+      {
+        "Name": "Simulacrum Splinter",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Maven's Writ": [
+      {
+        "Name": "The Maven's Writ",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Crescent Splinter": [
+      {
+        "Name": "Crescent Splinter",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gift to the Goddess": [
+      {
+        "Name": "Gift to the Goddess",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tribute to the Goddess": [
+      {
+        "Name": "Tribute to the Goddess",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Dedication to the Goddess": [
+      {
+        "Name": "Dedication to the Goddess",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Reliquary Key": [
+      {
+        "Name": "Vaal Reliquary Key",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Vaal Reliquary Key",
+        "BaseType": "Vaal Reliquary Key",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Splinter of Chayula": [
+      {
+        "Name": "Splinter of Chayula",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "TierableSplinter",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Splinter of Uul-Netol": [
+      {
+        "Name": "Splinter of Uul-Netol",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Splinter of Xoph": [
+      {
+        "Name": "Splinter of Xoph",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Splinter of Tul": [
+      {
+        "Name": "Splinter of Tul",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Splinter of Esh": [
+      {
+        "Name": "Splinter of Esh",
+        "Aspects": [
+          "Handled",
+          "TierableSplinter"
+        ]
+      }
+    ],
+    "Unrelenting Timeless Templar Emblem": [
+      {
+        "Name": "Unrelenting Timeless Templar Emblem",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Unrelenting Timeless Maraketh Emblem": [
+      {
+        "Name": "Unrelenting Timeless Maraketh Emblem",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Unrelenting Timeless Eternal Emblem": [
+      {
+        "Name": "Unrelenting Timeless Eternal Emblem",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Unrelenting Timeless Vaal Emblem": [
+      {
+        "Name": "Unrelenting Timeless Vaal Emblem",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Unrelenting Timeless Karui Emblem": [
+      {
+        "Name": "Unrelenting Timeless Karui Emblem",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Uul-Netol's Flawless Breachstone": [
+      {
+        "Name": "Uul-Netol's Flawless Breachstone",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
+      }
+    ],
+    "Chayula's Flawless Breachstone": [
+      {
+        "Name": "Chayula's Flawless Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Xoph's Flawless Breachstone": [
+      {
+        "Name": "Xoph's Flawless Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Tul's Flawless Breachstone": [
+      {
+        "Name": "Tul's Flawless Breachstone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Esh's Flawless Breachstone": [
+      {
+        "Name": "Esh's Flawless Breachstone",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
+      }
+    ],
+    "Baran's Crest": [
+      {
+        "Name": "Baran's Crest",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PredictableDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Drox's Crest": [
+      {
+        "Name": "Drox's Crest",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable",
+          "PredictableDrop"
+        ]
+      }
+    ],
+    "Veritania's Crest": [
+      {
+        "Name": "Veritania's Crest",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable",
+          "PredictableDrop"
+        ]
+      }
+    ],
+    "Al-Hezmin's Crest": [
+      {
+        "Name": "Al-Hezmin's Crest",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "PredictableDrop",
+          "Tierable"
+        ]
+      }
+    ],
+    "Visceral Reliquary Key": [
+      {
+        "Name": "Visceral Reliquary Key",
+        "Aspects": []
+      },
+      {
+        "Name": "Visceral Reliquary Key",
+        "BaseType": "Visceral Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Decaying Reliquary Key": [
+      {
+        "Name": "Decaying Reliquary Key",
+        "Aspects": []
+      },
+      {
+        "Name": "Decaying Reliquary Key",
+        "BaseType": "Decaying Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Cosmic Reliquary Key": [
+      {
+        "Name": "Cosmic Reliquary Key",
+        "Aspects": []
+      },
+      {
+        "Name": "Cosmic Reliquary Key",
+        "BaseType": "Cosmic Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Forgotten Reliquary Key": [
+      {
+        "Name": "Forgotten Reliquary Key",
+        "Aspects": []
+      },
+      {
+        "Name": "Forgotten Reliquary Key",
+        "BaseType": "Forgotten Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Archive Reliquary Key": [
+      {
+        "Name": "Archive Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Oubliette Reliquary Key": [
+      {
+        "Name": "Oubliette Reliquary Key",
+        "Aspects": []
+      },
+      {
+        "Name": "Oubliette Reliquary Key",
+        "BaseType": "Oubliette Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Shiny Reliquary Key": [
+      {
+        "Name": "Shiny Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Sacred Blossom": [
+      {
+        "Name": "Sacred Blossom",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Voidborn Reliquary Key": [
+      {
+        "Name": "Voidborn Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Einhar's Memory": [
+      {
+        "Name": "Einhar's Memory",
+        "Aspects": []
+      }
+    ],
+    "Niko's Memory": [
+      {
+        "Name": "Niko's Memory",
+        "Aspects": []
+      }
+    ],
+    "Alva's Memory": [
+      {
+        "Name": "Alva's Memory",
+        "Aspects": []
+      }
+    ],
+    "Kirac's Memory": [
+      {
+        "Name": "Kirac's Memory",
+        "Aspects": []
+      }
+    ],
+    "Reality Fragment": [
+      {
+        "Name": "Reality Fragment",
+        "Aspects": []
+      }
+    ],
+    "Valdo's Puzzle Box": [
+      {
+        "Name": "Valdo's Puzzle Box",
+        "Aspects": []
+      }
+    ],
+    "Devouring Fragment": [
+      {
+        "Name": "Devouring Fragment",
+        "Aspects": []
+      }
+    ],
+    "An Audience With The King": [
+      {
+        "Name": "An Audience With The King",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Blazing Fragment": [
+      {
+        "Name": "Blazing Fragment",
+        "Aspects": []
+      }
+    ],
+    "Cosmic Fragment": [
+      {
+        "Name": "Cosmic Fragment",
+        "Aspects": []
+      }
+    ],
+    "Awakening Fragment": [
+      {
+        "Name": "Awakening Fragment",
+        "Aspects": []
+      }
+    ],
+    "Decaying Fragment": [
+      {
+        "Name": "Decaying Fragment",
+        "Aspects": []
+      }
+    ],
+    "Synthesising Fragment": [
+      {
+        "Name": "Synthesising Fragment",
+        "Aspects": []
+      }
+    ]
+  }
+}

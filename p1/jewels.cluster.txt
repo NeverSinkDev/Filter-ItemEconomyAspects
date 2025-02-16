@@ -1,0 +1,530 @@
+{
+  "Aspects": {
+    "Medium Cluster Jewel:Aura Effect": [
+      {
+        "Name": "Aura Effect",
+        "BaseType": "Medium Cluster Jewel:Aura Effect",
+        "Special": "6 passives",
+        "Aspects": []
+      }
+    ],
+    "Large Cluster Jewel:Minion Damage": [
+      {
+        "Name": "Minion Damage",
+        "BaseType": "Large Cluster Jewel:Minion Damage",
+        "Special": "12 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Spell Damage": [
+      {
+        "Name": "Spell Damage",
+        "BaseType": "Large Cluster Jewel:Spell Damage",
+        "Special": "12 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Cold Damage": [
+      {
+        "Name": "Cold Damage",
+        "BaseType": "Large Cluster Jewel:Cold Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Damage over Time Multiplier": [
+      {
+        "Name": "Damage over Time Multiplier",
+        "BaseType": "Medium Cluster Jewel:Damage over Time Multiplier",
+        "Special": "4 passives",
+        "Aspects": []
+      }
+    ],
+    "Large Cluster Jewel:Mace and Staff Damage": [
+      {
+        "Name": "Mace and Staff Damage",
+        "BaseType": "Large Cluster Jewel:Mace and Staff Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Chaos Resistance": [
+      {
+        "Name": "Chaos Resistance",
+        "BaseType": "Small Cluster Jewel:Chaos Resistance",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Bow Damage": [
+      {
+        "Name": "Bow Damage",
+        "BaseType": "Large Cluster Jewel:Bow Damage",
+        "Special": "12 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Lightning Damage": [
+      {
+        "Name": "Lightning Damage",
+        "BaseType": "Large Cluster Jewel:Lightning Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Axe and Sword Damage": [
+      {
+        "Name": "Axe and Sword Damage",
+        "BaseType": "Large Cluster Jewel:Axe and Sword Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Critical Chance": [
+      {
+        "Name": "Critical Chance",
+        "BaseType": "Medium Cluster Jewel:Critical Chance",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Fire Damage": [
+      {
+        "Name": "Fire Damage",
+        "BaseType": "Large Cluster Jewel:Fire Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Life": [
+      {
+        "Name": "Life",
+        "BaseType": "Small Cluster Jewel:Life",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Attack Damage": [
+      {
+        "Name": "Attack Damage",
+        "BaseType": "Large Cluster Jewel:Attack Damage",
+        "Special": "12 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Elemental Damage": [
+      {
+        "Name": "Elemental Damage",
+        "BaseType": "Large Cluster Jewel:Elemental Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Physical Damage": [
+      {
+        "Name": "Physical Damage",
+        "BaseType": "Large Cluster Jewel:Physical Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Area Damage": [
+      {
+        "Name": "Area Damage",
+        "BaseType": "Medium Cluster Jewel:Area Damage",
+        "Special": "5 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Chaos Damage over Time Multiplier": [
+      {
+        "Name": "Chaos Damage over Time Multiplier",
+        "BaseType": "Medium Cluster Jewel:Chaos Damage over Time Multiplier",
+        "Special": "4 passives",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Flask Duration": [
+      {
+        "Name": "Flask Duration",
+        "BaseType": "Medium Cluster Jewel:Flask Duration",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Chaos Damage": [
+      {
+        "Name": "Chaos Damage",
+        "BaseType": "Large Cluster Jewel:Chaos Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Energy Shield": [
+      {
+        "Name": "Energy Shield",
+        "BaseType": "Small Cluster Jewel:Energy Shield",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Damage with Two Handed Melee Weapons": [
+      {
+        "Name": "Damage with Two Handed Melee Weapons",
+        "BaseType": "Large Cluster Jewel:Damage with Two Handed Melee Weapons",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Curse Effect": [
+      {
+        "Name": "Curse Effect",
+        "BaseType": "Medium Cluster Jewel:Curse Effect",
+        "Special": "4 passives",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Effect of Non-Damaging Ailments": [
+      {
+        "Name": "Effect of Non-Damaging Ailments",
+        "BaseType": "Medium Cluster Jewel:Effect of Non-Damaging Ailments",
+        "Special": "5 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Exerted Attack Damage": [
+      {
+        "Name": "Exerted Attack Damage",
+        "BaseType": "Medium Cluster Jewel:Exerted Attack Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Brand Damage": [
+      {
+        "Name": "Brand Damage",
+        "BaseType": "Medium Cluster Jewel:Brand Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Minion Life": [
+      {
+        "Name": "Minion Life",
+        "BaseType": "Medium Cluster Jewel:Minion Life",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Mana": [
+      {
+        "Name": "Mana",
+        "BaseType": "Small Cluster Jewel:Mana",
+        "Special": "2 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Minion Damage while you have a Herald": [
+      {
+        "Name": "Minion Damage while you have a Herald",
+        "BaseType": "Medium Cluster Jewel:Minion Damage while you have a Herald",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Channelling Skill Damage": [
+      {
+        "Name": "Channelling Skill Damage",
+        "BaseType": "Medium Cluster Jewel:Channelling Skill Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Dagger and Claw Damage": [
+      {
+        "Name": "Dagger and Claw Damage",
+        "BaseType": "Large Cluster Jewel:Dagger and Claw Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Armour": [
+      {
+        "Name": "Armour",
+        "BaseType": "Small Cluster Jewel:Armour",
+        "Special": "2 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Wand Damage": [
+      {
+        "Name": "Wand Damage",
+        "BaseType": "Large Cluster Jewel:Wand Damage",
+        "Special": "8 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Life and Mana recovery from Flasks": [
+      {
+        "Name": "Life and Mana recovery from Flasks",
+        "BaseType": "Medium Cluster Jewel:Life and Mana recovery from Flasks",
+        "Special": "6 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Projectile Damage": [
+      {
+        "Name": "Projectile Damage",
+        "BaseType": "Medium Cluster Jewel:Projectile Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Chance to Dodge Attacks": [
+      {
+        "Name": "Chance to Dodge Attacks",
+        "BaseType": "Small Cluster Jewel:Chance to Dodge Attacks",
+        "Special": "3 passives",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Cold Damage over Time Multiplier": [
+      {
+        "Name": "Cold Damage over Time Multiplier",
+        "BaseType": "Medium Cluster Jewel:Cold Damage over Time Multiplier",
+        "Special": "5 passives",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Trap and Mine Damage": [
+      {
+        "Name": "Trap and Mine Damage",
+        "BaseType": "Medium Cluster Jewel:Trap and Mine Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Damage while you have a Herald": [
+      {
+        "Name": "Damage while you have a Herald",
+        "BaseType": "Medium Cluster Jewel:Damage while you have a Herald",
+        "Special": "6 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Totem Damage": [
+      {
+        "Name": "Totem Damage",
+        "BaseType": "Medium Cluster Jewel:Totem Damage",
+        "Special": "4 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Chance to Block Attack Damage": [
+      {
+        "Name": "Chance to Block Attack Damage",
+        "BaseType": "Small Cluster Jewel:Chance to Block Attack Damage",
+        "Special": "2 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Evasion": [
+      {
+        "Name": "Evasion",
+        "BaseType": "Small Cluster Jewel:Evasion",
+        "Special": "2 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Fire Resistance": [
+      {
+        "Name": "Fire Resistance",
+        "BaseType": "Small Cluster Jewel:Fire Resistance",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Chance to Block Spell Damage": [
+      {
+        "Name": "Chance to Block Spell Damage",
+        "BaseType": "Small Cluster Jewel:Chance to Block Spell Damage",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Lightning Resistance": [
+      {
+        "Name": "Lightning Resistance",
+        "BaseType": "Small Cluster Jewel:Lightning Resistance",
+        "Special": "3 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Cold Resistance": [
+      {
+        "Name": "Cold Resistance",
+        "BaseType": "Small Cluster Jewel:Cold Resistance",
+        "Special": "2 passives",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Attack Damage while holding a Shield": [
+      {
+        "Name": "Attack Damage while holding a Shield",
+        "BaseType": "Large Cluster Jewel:Attack Damage while holding a Shield",
+        "Special": "12",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Damage over Time": [
+      {
+        "Name": "Damage over Time",
+        "BaseType": "Medium Cluster Jewel:Damage over Time",
+        "Special": "4",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel:Fire Damage over Time": [
+      {
+        "Name": "Fire Damage over Time",
+        "BaseType": "Medium Cluster Jewel:Fire Damage over Time",
+        "Special": "4",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Curse Effect": [
+      {
+        "Name": "Curse Effect",
+        "BaseType": "Small Cluster Jewel:Curse Effect",
+        "Special": "2",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Reservation Efficiency": [
+      {
+        "Name": "Reservation Efficiency",
+        "BaseType": "Small Cluster Jewel:Reservation Efficiency",
+        "Special": "2",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Attack Damage while Dual Wielding": [
+      {
+        "Name": "Attack Damage while Dual Wielding",
+        "BaseType": "Large Cluster Jewel:Attack Damage while Dual Wielding",
+        "Special": "12",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Small Cluster Jewel:Suppres": [
+      {
+        "Name": "Suppres",
+        "BaseType": "Small Cluster Jewel:Suppres",
+        "Special": "2",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Large Cluster Jewel:Damage with Two Handed Weapons": [
+      {
+        "Name": "Damage with Two Handed Weapons",
+        "BaseType": "Large Cluster Jewel:Damage with Two Handed Weapons",
+        "Special": "12",
+        "Aspects": []
+      }
+    ]
+  }
+}

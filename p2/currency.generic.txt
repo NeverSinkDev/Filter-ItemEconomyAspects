@@ -1,0 +1,226 @@
+{
+  "Aspects": {
+    "Mirror of Kalandra": [
+      {
+        "Name": "Mirror of Kalandra",
+        "BaseType": "Mirror of Kalandra",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Jeweller's Orb": [
+      {
+        "Name": "Perfect Jeweller's Orb",
+        "BaseType": "Perfect Jeweller's Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Orb": [
+      {
+        "Name": "Divine Orb",
+        "BaseType": "Divine Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Annulment": [
+      {
+        "Name": "Orb of Annulment",
+        "BaseType": "Orb of Annulment",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Greater Jeweller's Orb": [
+      {
+        "Name": "Greater Jeweller's Orb",
+        "BaseType": "Greater Jeweller's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Chaos Orb": [
+      {
+        "Name": "Chaos Orb",
+        "BaseType": "Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Orb of Chance": [
+      {
+        "Name": "Orb of Chance",
+        "BaseType": "Orb of Chance",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Transmutation Shard": [
+      {
+        "Name": "Transmutation Shard",
+        "BaseType": "Transmutation Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glassblower's Bauble": [
+      {
+        "Name": "Glassblower's Bauble",
+        "BaseType": "Glassblower's Bauble",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Gemcutter's Prism": [
+      {
+        "Name": "Gemcutter's Prism",
+        "BaseType": "Gemcutter's Prism",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Scroll of Wisdom": [
+      {
+        "Name": "Scroll of Wisdom",
+        "BaseType": "Scroll of Wisdom",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Artificer's Shard": [
+      {
+        "Name": "Artificer's Shard",
+        "BaseType": "Artificer's Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Exalted Orb": [
+      {
+        "Name": "Exalted Orb",
+        "BaseType": "Exalted Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Jeweller's Orb": [
+      {
+        "Name": "Lesser Jeweller's Orb",
+        "BaseType": "Lesser Jeweller's Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Regal Shard": [
+      {
+        "Name": "Regal Shard",
+        "BaseType": "Regal Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blacksmith's Whetstone": [
+      {
+        "Name": "Blacksmith's Whetstone",
+        "BaseType": "Blacksmith's Whetstone",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Armourer's Scrap": [
+      {
+        "Name": "Armourer's Scrap",
+        "BaseType": "Armourer's Scrap",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcanist's Etcher": [
+      {
+        "Name": "Arcanist's Etcher",
+        "BaseType": "Arcanist's Etcher",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Orb": [
+      {
+        "Name": "Vaal Orb",
+        "BaseType": "Vaal Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Artificer's Orb": [
+      {
+        "Name": "Artificer's Orb",
+        "BaseType": "Artificer's Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Alchemy": [
+      {
+        "Name": "Orb of Alchemy",
+        "BaseType": "Orb of Alchemy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Regal Orb": [
+      {
+        "Name": "Regal Orb",
+        "BaseType": "Regal Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Transmutation": [
+      {
+        "Name": "Orb of Transmutation",
+        "BaseType": "Orb of Transmutation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Augmentation": [
+      {
+        "Name": "Orb of Augmentation",
+        "BaseType": "Orb of Augmentation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "Aspects": {
+    "Omen of Sinistral Erasure": [
+      {
+        "Name": "Omen of Sinistral Erasure",
+        "BaseType": "Omen of Sinistral Erasure",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Annulment": [
+      {
+        "Name": "Omen of Sinistral Annulment",
+        "BaseType": "Omen of Sinistral Annulment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Erasure": [
+      {
+        "Name": "Omen of Dextral Erasure",
+        "BaseType": "Omen of Dextral Erasure",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Annulment": [
+      {
+        "Name": "Omen of Dextral Annulment",
+        "BaseType": "Omen of Dextral Annulment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Whittling": [
+      {
+        "Name": "Omen of Whittling",
+        "BaseType": "Omen of Whittling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Corruption": [
+      {
+        "Name": "Omen of Corruption",
+        "BaseType": "Omen of Corruption",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Amelioration": [
+      {
+        "Name": "Omen of Amelioration",
+        "BaseType": "Omen of Amelioration",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Greater Annulment": [
+      {
+        "Name": "Omen of Greater Annulment",
+        "BaseType": "Omen of Greater Annulment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Resurgence": [
+      {
+        "Name": "Omen of Resurgence",
+        "BaseType": "Omen of Resurgence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Exaltation": [
+      {
+        "Name": "Omen of Sinistral Exaltation",
+        "BaseType": "Omen of Sinistral Exaltation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Alchemy": [
+      {
+        "Name": "Omen of Sinistral Alchemy",
+        "BaseType": "Omen of Sinistral Alchemy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Exaltation": [
+      {
+        "Name": "Omen of Dextral Exaltation",
+        "BaseType": "Omen of Dextral Exaltation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Coronation": [
+      {
+        "Name": "Omen of Sinistral Coronation",
+        "BaseType": "Omen of Sinistral Coronation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Coronation": [
+      {
+        "Name": "Omen of Dextral Coronation",
+        "BaseType": "Omen of Dextral Coronation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Alchemy": [
+      {
+        "Name": "Omen of Dextral Alchemy",
+        "BaseType": "Omen of Dextral Alchemy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Greater Exaltation": [
+      {
+        "Name": "Omen of Greater Exaltation",
+        "BaseType": "Omen of Greater Exaltation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Refreshment": [
+      {
+        "Name": "Omen of Refreshment",
+        "BaseType": "Omen of Refreshment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,9157 @@
+{
+  "Aspects": {
+    "Prophecy Wand": [
+      {
+        "Name": "Void Battery",
+        "BaseType": "Prophecy Wand",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Grace of the Goddess",
+        "BaseType": "Prophecy Wand",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Maelström Staff": [
+      {
+        "Name": "Duskdawn",
+        "BaseType": "Maelström Staff",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Disintegrator",
+        "BaseType": "Maelström Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Taryn's Shiver",
+        "BaseType": "Maelström Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cutlass": [
+      {
+        "Name": "United in Dream",
+        "BaseType": "Cutlass",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Severed in Sleep",
+        "BaseType": "Cutlass",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Sage Wand": [
+      {
+        "Name": "Shade of Solaris",
+        "BaseType": "Sage Wand",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Twyzel",
+        "BaseType": "Sage Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Relic of the Pact",
+        "BaseType": "Sage Wand",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Assassin Bow": [
+      {
+        "Name": "Arborix",
+        "BaseType": "Assassin Bow",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Chin Sol",
+        "BaseType": "Assassin Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Darkscorn",
+        "BaseType": "Assassin Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Imperial Bow": [
+      {
+        "Name": "Windripper",
+        "BaseType": "Imperial Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Lioneye's Glare",
+        "BaseType": "Imperial Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Royal Axe": [
+      {
+        "Name": "Rigwald's Savagery",
+        "BaseType": "Royal Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fiend Dagger": [
+      {
+        "Name": "Arakaali's Fang",
+        "BaseType": "Fiend Dagger",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Consuming Dark",
+        "BaseType": "Fiend Dagger",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eternal Sword": [
+      {
+        "Name": "Grelwood Shank",
+        "BaseType": "Eternal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Beltimber Blade",
+        "BaseType": "Eternal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Dreamfeather",
+        "BaseType": "Eternal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Axe": [
+      {
+        "Name": "Atziri's Disfavour",
+        "BaseType": "Vaal Axe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Uul-Netol's Embrace",
+        "BaseType": "Vaal Axe",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Hezmana's Bloodlust",
+        "BaseType": "Vaal Axe",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Uul-Netol's Kiss",
+        "BaseType": "Vaal Axe",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Sceptre": [
+      {
+        "Name": "Doryani's Catalyst",
+        "BaseType": "Vaal Sceptre",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Doon Cuebiyari",
+        "BaseType": "Vaal Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Yaomac's Accord",
+        "BaseType": "Vaal Sceptre",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Infernal Sword": [
+      {
+        "Name": "Starforge",
+        "BaseType": "Infernal Sword",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Voidforge",
+        "BaseType": "Infernal Sword",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Oro's Sacrifice",
+        "BaseType": "Infernal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Echoforge",
+        "BaseType": "Infernal Sword",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Judgement Staff": [
+      {
+        "Name": "The Grey Spire",
+        "BaseType": "Judgement Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hegemony's Era",
+        "BaseType": "Judgement Staff",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Pledge of Hands",
+        "BaseType": "Judgement Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Atziri's Rule",
+        "BaseType": "Judgement Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Midnight Blade": [
+      {
+        "Name": "Rigwald's Command",
+        "BaseType": "Midnight Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Razor of the Seventh Sun",
+        "BaseType": "Midnight Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ahn's Might",
+        "BaseType": "Midnight Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gemstone Sword": [
+      {
+        "Name": "Fate of the Vaal",
+        "BaseType": "Gemstone Sword",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Story of the Vaal",
+        "BaseType": "Gemstone Sword",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Jewelled Foil": [
+      {
+        "Name": "Cospri's Malice",
+        "BaseType": "Jewelled Foil",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Carved Wand": [
+      {
+        "Name": "The Poet's Pen",
+        "BaseType": "Carved Wand",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Ashcaller",
+        "BaseType": "Carved Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Highborn Staff": [
+      {
+        "Name": "Martyr of Innocence",
+        "BaseType": "Highborn Staff",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Witchhunter's Judgment",
+        "BaseType": "Highborn Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Despot Axe": [
+      {
+        "Name": "Kingmaker",
+        "BaseType": "Despot Axe",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Debeon's Dirge",
+        "BaseType": "Despot Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Long Bow": [
+      {
+        "Name": "Storm Cloud",
+        "BaseType": "Long Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Death Bow": [
+      {
+        "Name": "Death's Harp",
+        "BaseType": "Death Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Iron Commander",
+        "BaseType": "Death Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Sword": [
+      {
+        "Name": "The Rippling Thoughts",
+        "BaseType": "Legion Sword",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hyaon's Fury",
+        "BaseType": "Legion Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Saviour",
+        "BaseType": "Legion Sword",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Surging Thoughts",
+        "BaseType": "Legion Sword",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Imperial Claw": [
+      {
+        "Name": "Hand of Wisdom and Action",
+        "BaseType": "Imperial Claw",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Touch of Anguish",
+        "BaseType": "Imperial Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hand of Thought and Motion",
+        "BaseType": "Imperial Claw",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Vaal Rapier": [
+      {
+        "Name": "Paradoxica",
+        "BaseType": "Vaal Rapier",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Elegant Sword": [
+      {
+        "Name": "The Goddess Scorned",
+        "BaseType": "Elegant Sword",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Lakishu's Blade",
+        "BaseType": "Elegant Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Blade": [
+      {
+        "Name": "Varunastra",
+        "BaseType": "Vaal Blade",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest",
+          "PreventHiding",
+          "Buff"
+        ]
+      },
+      {
+        "Name": "Rebuke of the Vaal",
+        "BaseType": "Vaal Blade",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Iron Staff": [
+      {
+        "Name": "Dying Breath",
+        "BaseType": "Iron Staff",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      },
+      {
+        "Name": "Realmshaper",
+        "BaseType": "Iron Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Pillar of the Caged God",
+        "BaseType": "Iron Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rusted Sword": [
+      {
+        "Name": "Redbeak",
+        "BaseType": "Rusted Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Carnal Sceptre": [
+      {
+        "Name": "Breath of the Council",
+        "BaseType": "Carnal Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Siege Axe": [
+      {
+        "Name": "Soul Taker",
+        "BaseType": "Siege Axe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jade Hatchet": [
+      {
+        "Name": "The Screaming Eagle",
+        "BaseType": "Jade Hatchet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reaver Sword": [
+      {
+        "Name": "Hiltless",
+        "BaseType": "Reaver Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Dancing Dervish",
+        "BaseType": "Reaver Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Royal Bow": [
+      {
+        "Name": "Doomfletch",
+        "BaseType": "Royal Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gavel": [
+      {
+        "Name": "Mjölner",
+        "BaseType": "Gavel",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Cameria's Avarice",
+        "BaseType": "Gavel",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Cameria's Maul",
+        "BaseType": "Gavel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crude Bow": [
+      {
+        "Name": "Silverbranch",
+        "BaseType": "Crude Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Widowhail",
+        "BaseType": "Crude Bow",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Woodsplitter": [
+      {
+        "Name": "Limbsplit",
+        "BaseType": "Woodsplitter",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blood Sceptre": [
+      {
+        "Name": "Cerberus Limb",
+        "BaseType": "Blood Sceptre",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Imperial Staff": [
+      {
+        "Name": "Agnerod West",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Agnerod East",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Agnerod North",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Agnerod South",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Enmity Divine",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Yielding Mortality",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Ornate Sword": [
+      {
+        "Name": "Queen's Decree",
+        "BaseType": "Ornate Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Staff": [
+      {
+        "Name": "Soulwrest",
+        "BaseType": "Ezomyte Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Cane of Unravelling",
+        "BaseType": "Ezomyte Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Fulcrum",
+        "BaseType": "Ezomyte Staff",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "War Hammer": [
+      {
+        "Name": "Brightbeak",
+        "BaseType": "War Hammer",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Lavianga's Wisdom",
+        "BaseType": "War Hammer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tornado Wand": [
+      {
+        "Name": "Shimmeron",
+        "BaseType": "Tornado Wand",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Nightmare Mace": [
+      {
+        "Name": "Nebuloch",
+        "BaseType": "Nightmare Mace",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Steelwood Bow": [
+      {
+        "Name": "The Crimson Storm",
+        "BaseType": "Steelwood Bow",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Cleaver": [
+      {
+        "Name": "Dreadarc",
+        "BaseType": "Cleaver",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ritual Sceptre": [
+      {
+        "Name": "Brutus' Lead Sprinkler",
+        "BaseType": "Ritual Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Platinum Sceptre": [
+      {
+        "Name": "Singularity",
+        "BaseType": "Platinum Sceptre",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Jasper Chopper": [
+      {
+        "Name": "The Harvest",
+        "BaseType": "Jasper Chopper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Great Mallet": [
+      {
+        "Name": "Trypanon",
+        "BaseType": "Great Mallet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Chober Chaber",
+        "BaseType": "Great Mallet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Coiled Staff": [
+      {
+        "Name": "Xirgil's Crank",
+        "BaseType": "Coiled Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Citadel Bow": [
+      {
+        "Name": "Xoph's Nurture",
+        "BaseType": "Citadel Bow",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Gluttonous Tide",
+        "BaseType": "Citadel Bow",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Xoph's Inception",
+        "BaseType": "Citadel Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Imperial Maul": [
+      {
+        "Name": "Tidebreaker",
+        "BaseType": "Imperial Maul",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Skinning Knife": [
+      {
+        "Name": "Goredrill",
+        "BaseType": "Skinning Knife",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Axe": [
+      {
+        "Name": "Kitava's Feast",
+        "BaseType": "Void Axe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Royal Staff": [
+      {
+        "Name": "The Stormheart",
+        "BaseType": "Royal Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sledgehammer": [
+      {
+        "Name": "Hrimnor's Hymn",
+        "BaseType": "Sledgehammer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gnarled Branch": [
+      {
+        "Name": "The Blood Thorn",
+        "BaseType": "Gnarled Branch",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Fencoil",
+        "BaseType": "Gnarled Branch",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Terror Claw": [
+      {
+        "Name": "The Scourge",
+        "BaseType": "Terror Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rive",
+        "BaseType": "Terror Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spiraled Wand": [
+      {
+        "Name": "Reverberation Rod",
+        "BaseType": "Spiraled Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Storm Prison",
+        "BaseType": "Spiraled Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hellion's Paw": [
+      {
+        "Name": "Bloodseeker",
+        "BaseType": "Hellion's Paw",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Law of the Wilds",
+        "BaseType": "Hellion's Paw",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Meatgrinder": [
+      {
+        "Name": "Brain Rattler",
+        "BaseType": "Meatgrinder",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Etched Greatsword": [
+      {
+        "Name": "Edge of Madness",
+        "BaseType": "Etched Greatsword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Corsair Sword": [
+      {
+        "Name": "Ichimonji",
+        "BaseType": "Corsair Sword",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Steelhead": [
+      {
+        "Name": "Jorrhast's Blacksteel",
+        "BaseType": "Steelhead",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Driftwood Wand": [
+      {
+        "Name": "Lifesprig",
+        "BaseType": "Driftwood Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Short Bow": [
+      {
+        "Name": "Quill Rain",
+        "BaseType": "Short Bow",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Harbinger Bow": [
+      {
+        "Name": "Slivertongue",
+        "BaseType": "Harbinger Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Nuro's Harp",
+        "BaseType": "Harbinger Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shadow Sceptre": [
+      {
+        "Name": "The Dark Seer",
+        "BaseType": "Shadow Sceptre",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Bitterdream",
+        "BaseType": "Shadow Sceptre",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "War Sword": [
+      {
+        "Name": "The Tempestuous Steel",
+        "BaseType": "War Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Opal Sceptre": [
+      {
+        "Name": "Balefire",
+        "BaseType": "Opal Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Demon Dagger": [
+      {
+        "Name": "Vulconus",
+        "BaseType": "Demon Dagger",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ranger Bow": [
+      {
+        "Name": "Hopeshredder",
+        "BaseType": "Ranger Bow",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Null's Inclination",
+        "BaseType": "Ranger Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Sceptre": [
+      {
+        "Name": "Augyre",
+        "BaseType": "Void Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mon'tregul's Grasp",
+        "BaseType": "Void Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Nebulis",
+        "BaseType": "Void Sceptre",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Brass Maul": [
+      {
+        "Name": "Geofri's Baptism",
+        "BaseType": "Brass Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jagged Maul": [
+      {
+        "Name": "Quecholli",
+        "BaseType": "Jagged Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyssal Axe": [
+      {
+        "Name": "Ngamahu's Flame",
+        "BaseType": "Abyssal Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bronze Sceptre": [
+      {
+        "Name": "Axiom Perpetuum",
+        "BaseType": "Bronze Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Royal Skean": [
+      {
+        "Name": "Heartbreaker",
+        "BaseType": "Royal Skean",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spine Bow": [
+      {
+        "Name": "Reach of the Council",
+        "BaseType": "Spine Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Voltaxic Rift",
+        "BaseType": "Spine Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Gut Ripper": [
+      {
+        "Name": "Advancing Fortress",
+        "BaseType": "Gut Ripper",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ornament of the East",
+        "BaseType": "Gut Ripper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Claw": [
+      {
+        "Name": "Allure",
+        "BaseType": "Vaal Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Essentia Sanguis",
+        "BaseType": "Vaal Claw",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Opal Wand": [
+      {
+        "Name": "Tulfall",
+        "BaseType": "Opal Wand",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Tulborn",
+        "BaseType": "Opal Wand",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Slaughter Knife": [
+      {
+        "Name": "Bino's Kitchen Knife",
+        "BaseType": "Slaughter Knife",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Auric Mace": [
+      {
+        "Name": "Callinellus Malleus",
+        "BaseType": "Auric Mace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rock Breaker": [
+      {
+        "Name": "Clayshaper",
+        "BaseType": "Rock Breaker",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Karui Sceptre": [
+      {
+        "Name": "Death's Hand",
+        "BaseType": "Karui Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Maata's Teaching",
+        "BaseType": "Karui Sceptre",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Imperial Skean": [
+      {
+        "Name": "Divinarius",
+        "BaseType": "Imperial Skean",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "White Wind",
+        "BaseType": "Imperial Skean",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lion Sword": [
+      {
+        "Name": "Doomsower",
+        "BaseType": "Lion Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dusk Blade": [
+      {
+        "Name": "Ephemeral Edge",
+        "BaseType": "Dusk Blade",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Primordial Staff": [
+      {
+        "Name": "Femurs of the Saints",
+        "BaseType": "Primordial Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Burden of Shadows",
+        "BaseType": "Primordial Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Jagged Foil": [
+      {
+        "Name": "Fidelitas' Spike",
+        "BaseType": "Jagged Foil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spiked Club": [
+      {
+        "Name": "Gorebreaker",
+        "BaseType": "Spiked Club",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decimation Bow": [
+      {
+        "Name": "Infractem",
+        "BaseType": "Decimation Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elder Sword": [
+      {
+        "Name": "Innsbury Edge",
+        "BaseType": "Elder Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Karui Chopper": [
+      {
+        "Name": "Kaom's Primacy",
+        "BaseType": "Karui Chopper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Blade": [
+      {
+        "Name": "Kondo's Pride",
+        "BaseType": "Ezomyte Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Living Blade",
+        "BaseType": "Ezomyte Blade",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Terror Maul": [
+      {
+        "Name": "Kongor's Undying Rage",
+        "BaseType": "Terror Maul",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Nailed Fist": [
+      {
+        "Name": "Last Resort",
+        "BaseType": "Nailed Fist",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Platinum Kris": [
+      {
+        "Name": "Mark of the Doubting Knight",
+        "BaseType": "Platinum Kris",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Engraved Wand": [
+      {
+        "Name": "Midnight Bargain",
+        "BaseType": "Engraved Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eclipse Solaris",
+        "BaseType": "Engraved Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flaying Knife": [
+      {
+        "Name": "Mightflay",
+        "BaseType": "Flaying Knife",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fright Claw": [
+      {
+        "Name": "Mortem Morsu",
+        "BaseType": "Fright Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crystal Sceptre": [
+      {
+        "Name": "Nycta's Lantern",
+        "BaseType": "Crystal Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Supreme Truth",
+        "BaseType": "Crystal Sceptre",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Twilight Blade": [
+      {
+        "Name": "Prismatic Eclipse",
+        "BaseType": "Twilight Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shadow Axe": [
+      {
+        "Name": "Reaper's Pursuit",
+        "BaseType": "Shadow Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Highland Blade": [
+      {
+        "Name": "Rigwald's Charge",
+        "BaseType": "Highland Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gladius": [
+      {
+        "Name": "Scaeva",
+        "BaseType": "Gladius",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Iron Mass",
+        "BaseType": "Gladius",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Tiger Sword": [
+      {
+        "Name": "Terminus Est",
+        "BaseType": "Tiger Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Whalebone Rapier": [
+      {
+        "Name": "The Goddess Bound",
+        "BaseType": "Whalebone Rapier",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sabre": [
+      {
+        "Name": "The Princess",
+        "BaseType": "Sabre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lathi": [
+      {
+        "Name": "The Searing Touch",
+        "BaseType": "Lathi",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vile Staff": [
+      {
+        "Name": "The Whispering Ice",
+        "BaseType": "Vile Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Military Staff": [
+      {
+        "Name": "Tremor Rod",
+        "BaseType": "Military Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boot Knife": [
+      {
+        "Name": "Ungil's Gauche",
+        "BaseType": "Boot Knife",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Antique Rapier": [
+      {
+        "Name": "Ewar's Mirage",
+        "BaseType": "Antique Rapier",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambusher": [
+      {
+        "Name": "Taproot",
+        "BaseType": "Ambusher",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Hidden Blade",
+        "BaseType": "Ambusher",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Goblinedge",
+        "BaseType": "Ambusher",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Throat Stabber": [
+      {
+        "Name": "The Wasp Nest",
+        "BaseType": "Throat Stabber",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Grinning Fetish": [
+      {
+        "Name": "Earendel's Embrace",
+        "BaseType": "Grinning Fetish",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Axe": [
+      {
+        "Name": "Sinvicta's Mettle",
+        "BaseType": "Ezomyte Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Wings of Entropy",
+        "BaseType": "Ezomyte Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Infernal Axe": [
+      {
+        "Name": "Dyadus",
+        "BaseType": "Infernal Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Karui Maul": [
+      {
+        "Name": "Marohi Erqi",
+        "BaseType": "Karui Maul",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tomahawk": [
+      {
+        "Name": "Moonbender's Wing",
+        "BaseType": "Tomahawk",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bastard Sword": [
+      {
+        "Name": "Shiversting",
+        "BaseType": "Bastard Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thresher Claw": [
+      {
+        "Name": "Cybil's Paw",
+        "BaseType": "Thresher Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Hatchet": [
+      {
+        "Name": "Jack, the Axe",
+        "BaseType": "Vaal Hatchet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Headsman Axe": [
+      {
+        "Name": "The Blood Reaper",
+        "BaseType": "Headsman Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen Wand": [
+      {
+        "Name": "Apep's Rage",
+        "BaseType": "Omen Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serpentine Staff": [
+      {
+        "Name": "Sire of Shards",
+        "BaseType": "Serpentine Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Cane of Kulemak",
+        "BaseType": "Serpentine Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Imbued Wand": [
+      {
+        "Name": "Moonsorrow",
+        "BaseType": "Imbued Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Obliteration",
+        "BaseType": "Imbued Wand",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Piscator's Vigil",
+        "BaseType": "Imbued Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ornate Mace": [
+      {
+        "Name": "Frostbreath",
+        "BaseType": "Ornate Mace",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Poleaxe": [
+      {
+        "Name": "Wideswing",
+        "BaseType": "Poleaxe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boot Blade": [
+      {
+        "Name": "Widowmaker",
+        "BaseType": "Boot Blade",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dream Mace": [
+      {
+        "Name": "Flesh-Eater",
+        "BaseType": "Dream Mace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decorative Axe": [
+      {
+        "Name": "Relentless Fury",
+        "BaseType": "Decorative Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Recurve Bow": [
+      {
+        "Name": "Roth's Reach",
+        "BaseType": "Recurve Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Goat's Horn": [
+      {
+        "Name": "Abberath's Horn",
+        "BaseType": "Goat's Horn",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Timeworn Claw": [
+      {
+        "Name": "Al Dhih",
+        "BaseType": "Timeworn Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Basket Rapier": [
+      {
+        "Name": "Aurumvorax",
+        "BaseType": "Basket Rapier",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Estoc": [
+      {
+        "Name": "Daresso's Passion",
+        "BaseType": "Estoc",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Awl": [
+      {
+        "Name": "Wildslash",
+        "BaseType": "Awl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stiletto": [
+      {
+        "Name": "Bloodplay",
+        "BaseType": "Stiletto",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dread Maul": [
+      {
+        "Name": "Voidhome",
+        "BaseType": "Dread Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Quartz Flask": [
+      {
+        "Name": "Soul Ripper",
+        "BaseType": "Quartz Flask",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Forbidden Taste",
+        "BaseType": "Quartz Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Soul Catcher",
+        "BaseType": "Quartz Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sulphur Flask": [
+      {
+        "Name": "Bottled Faith",
+        "BaseType": "Sulphur Flask",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Overflowing Chalice",
+        "BaseType": "Sulphur Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Sorrow of the Divine",
+        "BaseType": "Sulphur Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ruby Flask": [
+      {
+        "Name": "Dying Sun",
+        "BaseType": "Ruby Flask",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Coruscating Elixir",
+        "BaseType": "Ruby Flask",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Stibnite Flask": [
+      {
+        "Name": "Sin's Rebirth",
+        "BaseType": "Stibnite Flask",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Witchfire Brew",
+        "BaseType": "Stibnite Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sapphire Flask": [
+      {
+        "Name": "Taste of Hate",
+        "BaseType": "Sapphire Flask",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Grand Mana Flask": [
+      {
+        "Name": "Zerphi's Last Breath",
+        "BaseType": "Grand Mana Flask",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Silver Flask": [
+      {
+        "Name": "Cinderswallow Urn",
+        "BaseType": "Silver Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Kiara's Determination",
+        "BaseType": "Silver Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bismuth Flask": [
+      {
+        "Name": "The Wise Oak",
+        "BaseType": "Bismuth Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Oriath's End",
+        "BaseType": "Bismuth Flask",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Topaz Flask": [
+      {
+        "Name": "Vessel of Vinktar",
+        "BaseType": "Topaz Flask",
+        "Special": "Added Attacks",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sanctified Life Flask": [
+      {
+        "Name": "Blood of the Karui",
+        "BaseType": "Sanctified Life Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Granite Flask": [
+      {
+        "Name": "Rumi's Concoction",
+        "BaseType": "Granite Flask",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Lion's Roar",
+        "BaseType": "Granite Flask",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Amethyst Flask": [
+      {
+        "Name": "Atziri's Promise",
+        "BaseType": "Amethyst Flask",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Progenesis",
+        "BaseType": "Amethyst Flask",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Large Hybrid Flask": [
+      {
+        "Name": "Divination Distillate",
+        "BaseType": "Large Hybrid Flask",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Sanctified Mana Flask": [
+      {
+        "Name": "Lavianga's Spirit",
+        "BaseType": "Sanctified Mana Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hallowed Hybrid Flask": [
+      {
+        "Name": "The Writhing Jar",
+        "BaseType": "Hallowed Hybrid Flask",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Greater Mana Flask": [
+      {
+        "Name": "Doedre's Elixir",
+        "BaseType": "Greater Mana Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Quicksilver Flask": [
+      {
+        "Name": "Rotgut",
+        "BaseType": "Quicksilver Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diamond Flask": [
+      {
+        "Name": "Coralito's Signature",
+        "BaseType": "Diamond Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Golden Buckler": [
+      {
+        "Name": "Atziri's Reflection",
+        "BaseType": "Golden Buckler",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Triumphant Lamellar": [
+      {
+        "Name": "Farrul's Fur",
+        "BaseType": "Triumphant Lamellar",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Cherrubim's Maleficence",
+        "BaseType": "Triumphant Lamellar",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rawhide Boots": [
+      {
+        "Name": "Seven-League Step",
+        "BaseType": "Rawhide Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Sadist Garb": [
+      {
+        "Name": "Inpulsa's Broken Heart",
+        "BaseType": "Sadist Garb",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Tinkerskin",
+        "BaseType": "Sadist Garb",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doppelgänger Guise",
+        "BaseType": "Sadist Garb",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Vaal Gauntlets": [
+      {
+        "Name": "Atziri's Acuity",
+        "BaseType": "Vaal Gauntlets",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Doryani's Fist",
+        "BaseType": "Vaal Gauntlets",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Two-Point Arrow Quiver": [
+      {
+        "Name": "Rigwald's Quills",
+        "BaseType": "Two-Point Arrow Quiver",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Skirmish",
+        "BaseType": "Two-Point Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Asphyxia's Wrath",
+        "BaseType": "Two-Point Arrow Quiver",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Steelscale Gauntlets": [
+      {
+        "Name": "Tombfist",
+        "BaseType": "Steelscale Gauntlets",
+        "Special": "2 Jewels",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Aurseize",
+        "BaseType": "Steelscale Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Spirit Shield": [
+      {
+        "Name": "Apep's Supremacy",
+        "BaseType": "Vaal Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Esh's Visage",
+        "BaseType": "Vaal Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Apep's Slumber",
+        "BaseType": "Vaal Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Esh's Mirror",
+        "BaseType": "Vaal Spirit Shield",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      }
+    ],
+    "Occultist's Vestment": [
+      {
+        "Name": "Shavronne's Wrappings",
+        "BaseType": "Occultist's Vestment",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Simple Robe": [
+      {
+        "Name": "Tabula Rasa",
+        "BaseType": "Simple Robe",
+        "Aspects": [
+          "Handled",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Thousand Ribbons",
+        "BaseType": "Simple Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Skin of the Loyal",
+        "BaseType": "Simple Robe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Skin of the Lords",
+        "BaseType": "Simple Robe",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      }
+    ],
+    "Blood Raiment": [
+      {
+        "Name": "The Eternity Shroud",
+        "BaseType": "Blood Raiment",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Saqawal's Nest",
+        "BaseType": "Blood Raiment",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sacrificial Garb": [
+      {
+        "Name": "Atziri's Splendour",
+        "BaseType": "Sacrificial Garb",
+        "Special": "Evasion/ES",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Shadowstitch",
+        "BaseType": "Sacrificial Garb",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Murder Boots": [
+      {
+        "Name": "Bubonic Trail",
+        "BaseType": "Murder Boots",
+        "Special": "2 Jewels",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Voidwalker",
+        "BaseType": "Murder Boots",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Glorious Plate": [
+      {
+        "Name": "Kaom's Heart",
+        "BaseType": "Glorious Plate",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Perfidy",
+        "BaseType": "Glorious Plate",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Carnal Armour": [
+      {
+        "Name": "Shroud of the Lightless",
+        "BaseType": "Carnal Armour",
+        "Special": "1 Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "The Restless Ward",
+        "BaseType": "Carnal Armour",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Stasis Prison",
+        "BaseType": "Carnal Armour",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sorcerer Boots": [
+      {
+        "Name": "Skyforth",
+        "BaseType": "Sorcerer Boots",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Sorcerer Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Steppan Eard",
+        "BaseType": "Sorcerer Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Riveted Gloves": [
+      {
+        "Name": "Command of the Pit",
+        "BaseType": "Riveted Gloves",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Nubuck Boots": [
+      {
+        "Name": "Goldwyrm",
+        "BaseType": "Nubuck Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crusader Boots": [
+      {
+        "Name": "Death's Door",
+        "BaseType": "Crusader Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Legion Gloves": [
+      {
+        "Name": "Null and Void",
+        "BaseType": "Legion Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Offering to the Serpent",
+        "BaseType": "Legion Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Jingling Spirit Shield": [
+      {
+        "Name": "Light of Lunaris",
+        "BaseType": "Jingling Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Great Crown": [
+      {
+        "Name": "Lightpoacher",
+        "BaseType": "Great Crown",
+        "Special": "2 Jewels",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Geofri's Crest",
+        "BaseType": "Great Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Forbidden Shako",
+        "BaseType": "Great Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Magistrate Crown": [
+      {
+        "Name": "Crown of the Tyrant",
+        "BaseType": "Magistrate Crown",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mask of the Stitched Demon",
+        "BaseType": "Magistrate Crown",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Craiceann's Chitin",
+        "BaseType": "Magistrate Crown",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mask of the Tribunal",
+        "BaseType": "Magistrate Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Mask of the Spirit Drinker",
+        "BaseType": "Magistrate Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Callous Mask": [
+      {
+        "Name": "The Tempest's Binding",
+        "BaseType": "Callous Mask",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eye of Malice",
+        "BaseType": "Callous Mask",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "The Tempest's Liberation",
+        "BaseType": "Callous Mask",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Necromancer Circlet": [
+      {
+        "Name": "The Devouring Diadem",
+        "BaseType": "Necromancer Circlet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Fenumus' Toxins",
+        "BaseType": "Necromancer Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Chitus' Apex",
+        "BaseType": "Necromancer Circlet",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      },
+      {
+        "Name": "Sandstorm Visage",
+        "BaseType": "Necromancer Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Elegant Ringmail": [
+      {
+        "Name": "Loreweave",
+        "BaseType": "Elegant Ringmail",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Geofri's Sanctuary",
+        "BaseType": "Elegant Ringmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Tower Shield": [
+      {
+        "Name": "The Surrender",
+        "BaseType": "Ezomyte Tower Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Anticipation",
+        "BaseType": "Ezomyte Tower Shield",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush Mitts": [
+      {
+        "Name": "Slavedriver's Hand",
+        "BaseType": "Ambush Mitts",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Abhorrent Interrogation",
+        "BaseType": "Ambush Mitts",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Architect's Hand",
+        "BaseType": "Ambush Mitts",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Stormseeker",
+        "BaseType": "Ambush Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Widowsilk Robe": [
+      {
+        "Name": "Fenumus' Shroud",
+        "BaseType": "Widowsilk Robe",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doedre's Skin",
+        "BaseType": "Widowsilk Robe",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Infernal Mantle",
+        "BaseType": "Widowsilk Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Carnal Boots": [
+      {
+        "Name": "Omeyocan",
+        "BaseType": "Carnal Boots",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Corpsewalker",
+        "BaseType": "Carnal Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Dance of the Offered",
+        "BaseType": "Carnal Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Ornate Quiver": [
+      {
+        "Name": "Maloney's Mechanism",
+        "BaseType": "Ornate Quiver",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Hubris Circlet": [
+      {
+        "Name": "Eber's Unification",
+        "BaseType": "Hubris Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ylfeban's Trickery",
+        "BaseType": "Hubris Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Indigon",
+        "BaseType": "Hubris Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Crown of Eyes",
+        "BaseType": "Hubris Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Archon Kite Shield": [
+      {
+        "Name": "The Unshattered Will",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Prism Guardian",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Invictus Solaris",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Unyielding Flame",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Broken Faith",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "The Immortal Will",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Reinforced Greaves": [
+      {
+        "Name": "Windscream",
+        "BaseType": "Reinforced Greaves",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Golden Plate": [
+      {
+        "Name": "Craiceann's Carapace",
+        "BaseType": "Golden Plate",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Greed's Embrace",
+        "BaseType": "Golden Plate",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Carnal Mitts": [
+      {
+        "Name": "Fenumus' Weave",
+        "BaseType": "Carnal Mitts",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Embalmer",
+        "BaseType": "Carnal Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Algor Mortis",
+        "BaseType": "Carnal Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Soul Ascension",
+        "BaseType": "Carnal Mitts",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Rawhide Tower Shield": [
+      {
+        "Name": "Lycosidae",
+        "BaseType": "Rawhide Tower Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Leather Hood": [
+      {
+        "Name": "Heatshiver",
+        "BaseType": "Leather Hood",
+        "Aspects": [
+          "Handled",
+          "VaalTarget",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Callous Mask Piece": [
+      {
+        "Name": "Second Piece of Storms",
+        "BaseType": "Callous Mask Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "First Piece of Storms",
+        "BaseType": "Callous Mask Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Third Piece of Storms",
+        "BaseType": "Callous Mask Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Goathide Boots": [
+      {
+        "Name": "Abberath's Hooves",
+        "BaseType": "Goathide Boots",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Victario's Flight",
+        "BaseType": "Goathide Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titan Greaves": [
+      {
+        "Name": "The Red Trail",
+        "BaseType": "Titan Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Titan Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Kaom's Roots",
+        "BaseType": "Titan Greaves",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Infinite Pursuit",
+        "BaseType": "Titan Greaves",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Wyrmscale Doublet": [
+      {
+        "Name": "Gruthkul's Pelt",
+        "BaseType": "Wyrmscale Doublet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Penetrating Arrow Quiver": [
+      {
+        "Name": "Drillneck",
+        "BaseType": "Penetrating Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Mask": [
+      {
+        "Name": "The Vertex",
+        "BaseType": "Vaal Mask",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Fractal Thoughts",
+        "BaseType": "Vaal Mask",
+        "Aspects": [
+          "Handled",
+          "VaalTarget",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Glimpse of Chaos",
+        "BaseType": "Vaal Mask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tarnished Spirit Shield": [
+      {
+        "Name": "Brinerot Flag",
+        "BaseType": "Tarnished Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Matua Tupuna",
+        "BaseType": "Tarnished Spirit Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zodiac Leather": [
+      {
+        "Name": "The Perfect Form",
+        "BaseType": "Zodiac Leather",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Hyrri's Ire",
+        "BaseType": "Zodiac Leather",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "The Snowblind Grace",
+        "BaseType": "Zodiac Leather",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      }
+    ],
+    "Velvet Gloves": [
+      {
+        "Name": "Doedre's Tenure",
+        "BaseType": "Velvet Gloves",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Champion Kite Shield": [
+      {
+        "Name": "Aegis Aurora",
+        "BaseType": "Champion Kite Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Blunt Arrow Quiver": [
+      {
+        "Name": "The Fracturing Spinner",
+        "BaseType": "Blunt Arrow Quiver",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Shattered Divinity",
+        "BaseType": "Blunt Arrow Quiver",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rearguard",
+        "BaseType": "Blunt Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pinnacle Tower Shield": [
+      {
+        "Name": "Magna Eclipsis",
+        "BaseType": "Pinnacle Tower Shield",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Lioneye's Remorse",
+        "BaseType": "Pinnacle Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Mask": [
+      {
+        "Name": "Malachai's Simula",
+        "BaseType": "Iron Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harlequin Mask": [
+      {
+        "Name": "Farrul's Bite",
+        "BaseType": "Harlequin Mask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Mind of the Council",
+        "BaseType": "Harlequin Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crusader Plate": [
+      {
+        "Name": "The Iron Fortress",
+        "BaseType": "Crusader Plate",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Lioneye's Vision",
+        "BaseType": "Crusader Plate",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prophet Crown": [
+      {
+        "Name": "The Brine Crown",
+        "BaseType": "Prophet Crown",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Broken Crown",
+        "BaseType": "Prophet Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Speaker's Wreath",
+        "BaseType": "Prophet Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Crown of the Inward Eye",
+        "BaseType": "Prophet Crown",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Nightmare Bascinet": [
+      {
+        "Name": "Devoto's Devotion",
+        "BaseType": "Nightmare Bascinet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Bringer of Rain",
+        "BaseType": "Nightmare Bascinet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ebony Tower Shield": [
+      {
+        "Name": "Tukohama's Fortress",
+        "BaseType": "Ebony Tower Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Chernobog's Pillar",
+        "BaseType": "Ebony Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Circlet": [
+      {
+        "Name": "Asenath's Mark",
+        "BaseType": "Iron Circlet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Wreath of Phrecia",
+        "BaseType": "Iron Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sharktooth Arrow Quiver": [
+      {
+        "Name": "Hyrri's Bite",
+        "BaseType": "Sharktooth Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ahuana's Bite",
+        "BaseType": "Sharktooth Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Clasped Mitts": [
+      {
+        "Name": "Shadows and Dust",
+        "BaseType": "Clasped Mitts",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Aukuna's Will",
+        "BaseType": "Clasped Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lacquered Garb": [
+      {
+        "Name": "Cloak of Defiance",
+        "BaseType": "Lacquered Garb",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Victario's Influence",
+        "BaseType": "Lacquered Garb",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Goathide Gloves": [
+      {
+        "Name": "Hrimsorrow",
+        "BaseType": "Goathide Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcanist Slippers": [
+      {
+        "Name": "Inya's Epiphany",
+        "BaseType": "Arcanist Slippers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Archon Kite Shield Piece": [
+      {
+        "Name": "First Piece of Focus",
+        "BaseType": "Archon Kite Shield Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Third Piece of Focus",
+        "BaseType": "Archon Kite Shield Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Second Piece of Focus",
+        "BaseType": "Archon Kite Shield Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Fourth Piece of Focus",
+        "BaseType": "Archon Kite Shield Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Regalia": [
+      {
+        "Name": "The Queen's Hunger",
+        "BaseType": "Vaal Regalia",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "The Beast Fur Shawl",
+        "BaseType": "Vaal Regalia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Savant's Robe": [
+      {
+        "Name": "Cloak of Tawm'r Isley",
+        "BaseType": "Savant's Robe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Garb of the Ephemeral",
+        "BaseType": "Savant's Robe",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Plank Kite Shield": [
+      {
+        "Name": "Springleaf",
+        "BaseType": "Plank Kite Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Clasped Boots": [
+      {
+        "Name": "Sundance",
+        "BaseType": "Clasped Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Boots": [
+      {
+        "Name": "Fenumus' Spinnerets",
+        "BaseType": "Assassin's Boots",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Stampede",
+        "BaseType": "Assassin's Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Varnished Coat": [
+      {
+        "Name": "Carcass Jack",
+        "BaseType": "Varnished Coat",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "The Admiral",
+        "BaseType": "Varnished Coat",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Gilded Sallet": [
+      {
+        "Name": "Deidbell",
+        "BaseType": "Gilded Sallet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Destiny Leather": [
+      {
+        "Name": "Queen of the Forest",
+        "BaseType": "Destiny Leather",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Crusader Gloves": [
+      {
+        "Name": "Shaper's Touch",
+        "BaseType": "Crusader Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Repentance",
+        "BaseType": "Crusader Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hands of the High Templar",
+        "BaseType": "Crusader Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Stealth Boots": [
+      {
+        "Name": "Sin Trek",
+        "BaseType": "Stealth Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Garukhan's Flight",
+        "BaseType": "Stealth Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Gladiator Plate": [
+      {
+        "Name": "The Brass Dome",
+        "BaseType": "Gladiator Plate",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Plate Vest": [
+      {
+        "Name": "Bramblejack",
+        "BaseType": "Plate Vest",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Gauntlets": [
+      {
+        "Name": "Winds of Change",
+        "BaseType": "Ancient Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hateforge",
+        "BaseType": "Ancient Gauntlets",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Slink Boots": [
+      {
+        "Name": "Farrul's Chase",
+        "BaseType": "Slink Boots",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Slink Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Atziri's Step",
+        "BaseType": "Slink Boots",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      }
+    ],
+    "Hydrascale Gauntlets": [
+      {
+        "Name": "Farrul's Pounce",
+        "BaseType": "Hydrascale Gauntlets",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Breathstealer",
+        "BaseType": "Hydrascale Gauntlets",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Gravebind",
+        "BaseType": "Hydrascale Gauntlets",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Raven Mask": [
+      {
+        "Name": "The Gull",
+        "BaseType": "Raven Mask",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Full Wyrmscale": [
+      {
+        "Name": "Belly of the Beast",
+        "BaseType": "Full Wyrmscale",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Full Dragonscale": [
+      {
+        "Name": "Daresso's Defiance",
+        "BaseType": "Full Dragonscale",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leather Cap": [
+      {
+        "Name": "Goldrim",
+        "BaseType": "Leather Cap",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Arcanist Gloves": [
+      {
+        "Name": "Grip of the Council",
+        "BaseType": "Arcanist Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Exquisite Leather": [
+      {
+        "Name": "Kintsugi",
+        "BaseType": "Exquisite Leather",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Yriel's Fostering",
+        "BaseType": "Exquisite Leather",
+        "Special": "Bleeding",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Iron Gauntlets": [
+      {
+        "Name": "Lochtonial Caress",
+        "BaseType": "Iron Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vine Circlet": [
+      {
+        "Name": "Crown of Thorns",
+        "BaseType": "Vine Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scholar Boots": [
+      {
+        "Name": "Shavronne's Pace",
+        "BaseType": "Scholar Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spike-Point Arrow Quiver": [
+      {
+        "Name": "Soul Strike",
+        "BaseType": "Spike-Point Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Royal Burgonet": [
+      {
+        "Name": "The Formless Inferno",
+        "BaseType": "Royal Burgonet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Echoes of Creation",
+        "BaseType": "Royal Burgonet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Formless Flame",
+        "BaseType": "Royal Burgonet",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      }
+    ],
+    "Blunt Arrow Quiver Piece": [
+      {
+        "Name": "First Piece of Directions",
+        "BaseType": "Blunt Arrow Quiver Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Third Piece of Directions",
+        "BaseType": "Blunt Arrow Quiver Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Second Piece of Directions",
+        "BaseType": "Blunt Arrow Quiver Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Zealot Gloves": [
+      {
+        "Name": "Volkuur's Guidance",
+        "BaseType": "Zealot Gloves",
+        "Special": "Lightning",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Hand of the Fervent",
+        "BaseType": "Zealot Gloves",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Cardinal Round Shield": [
+      {
+        "Name": "Vix Lunaris",
+        "BaseType": "Cardinal Round Shield",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Velvet Slippers": [
+      {
+        "Name": "Wondertrap",
+        "BaseType": "Velvet Slippers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wild Leather": [
+      {
+        "Name": "Foxshade",
+        "BaseType": "Wild Leather",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Spirit Shield": [
+      {
+        "Name": "Kongming's Stratagem",
+        "BaseType": "Ancient Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Mind Cage": [
+      {
+        "Name": "Hale Negator",
+        "BaseType": "Mind Cage",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Scold's Bridle",
+        "BaseType": "Mind Cage",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rime Gaze",
+        "BaseType": "Mind Cage",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Goliath Greaves": [
+      {
+        "Name": "Craiceann's Tracks",
+        "BaseType": "Goliath Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Tempest Rising",
+        "BaseType": "Goliath Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Ezomyte Burgonet": [
+      {
+        "Name": "Abyssus",
+        "BaseType": "Ezomyte Burgonet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Cowl of the Thermophile",
+        "BaseType": "Ezomyte Burgonet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sinner Tricorne": [
+      {
+        "Name": "Alpha's Howl",
+        "BaseType": "Sinner Tricorne",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Assailum",
+        "BaseType": "Sinner Tricorne",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serrated Arrow Quiver": [
+      {
+        "Name": "Craghead",
+        "BaseType": "Serrated Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Astral Plate": [
+      {
+        "Name": "Death's Oath",
+        "BaseType": "Astral Plate",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Blunderbore",
+        "BaseType": "Astral Plate",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Iron Hat": [
+      {
+        "Name": "Ezomyte Peak",
+        "BaseType": "Iron Hat",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Deicide Mask": [
+      {
+        "Name": "Heretic's Veil",
+        "BaseType": "Deicide Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Saintly Chainmail": [
+      {
+        "Name": "Incandescent Heart",
+        "BaseType": "Saintly Chainmail",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Chains of Command",
+        "BaseType": "Saintly Chainmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Painted Buckler": [
+      {
+        "Name": "Kaltenhalt",
+        "BaseType": "Painted Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Festival Mask": [
+      {
+        "Name": "Leer Cast",
+        "BaseType": "Festival Mask",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Lion Pelt": [
+      {
+        "Name": "Obscurantis",
+        "BaseType": "Lion Pelt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Conjurer Boots": [
+      {
+        "Name": "Rainbowstride",
+        "BaseType": "Conjurer Boots",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Titanium Spirit Shield": [
+      {
+        "Name": "Rathpith Globe",
+        "BaseType": "Titanium Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Bitterbind Point",
+        "BaseType": "Titanium Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Ursine Pelt": [
+      {
+        "Name": "Rat's Nest",
+        "BaseType": "Ursine Pelt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Branded Kite Shield": [
+      {
+        "Name": "Saffell's Frame",
+        "BaseType": "Branded Kite Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Brass Spirit Shield": [
+      {
+        "Name": "Sentari's Answer",
+        "BaseType": "Brass Spirit Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Silken Hood": [
+      {
+        "Name": "Starkonja's Head",
+        "BaseType": "Silken Hood",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Saqawal's Flock",
+        "BaseType": "Silken Hood",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Cowl of the Cryophile",
+        "BaseType": "Silken Hood",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sharkskin Tunic": [
+      {
+        "Name": "The Rat Cage",
+        "BaseType": "Sharkskin Tunic",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "War Buckler": [
+      {
+        "Name": "Chalice of Horrors",
+        "BaseType": "War Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Necromancer Silks": [
+      {
+        "Name": "Vis Mortis",
+        "BaseType": "Necromancer Silks",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Fleshcrafter",
+        "BaseType": "Necromancer Silks",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Wool Shoes": [
+      {
+        "Name": "Wanderlust",
+        "BaseType": "Wool Shoes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serpentscale Gauntlets": [
+      {
+        "Name": "Haemophilia",
+        "BaseType": "Serpentscale Gauntlets",
+        "Aspects": [
+          "Handled",
+          "VaalTarget",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Destroyer Regalia": [
+      {
+        "Name": "The Coming Calamity",
+        "BaseType": "Destroyer Regalia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Nubuck Gloves": [
+      {
+        "Name": "Oskarm",
+        "BaseType": "Nubuck Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Praetor Crown": [
+      {
+        "Name": "Memory Vault",
+        "BaseType": "Praetor Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Voll's Vision",
+        "BaseType": "Praetor Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ahn's Contempt",
+        "BaseType": "Praetor Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Viridi's Veil",
+        "BaseType": "Praetor Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Malachai's Vision",
+        "BaseType": "Praetor Crown",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Ironscale Boots": [
+      {
+        "Name": "Dusktoe",
+        "BaseType": "Ironscale Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Latticed Ringmail": [
+      {
+        "Name": "Icetomb",
+        "BaseType": "Latticed Ringmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hydrascale Boots": [
+      {
+        "Name": "Saqawal's Talons",
+        "BaseType": "Hydrascale Boots",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Gamblesprint",
+        "BaseType": "Hydrascale Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Soldier Gloves": [
+      {
+        "Name": "Saqawal's Winds",
+        "BaseType": "Soldier Gloves",
+        "Aspects": [
+          "NonWorldDrop",
+          "HighVariety",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Southbound",
+        "BaseType": "Soldier Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titan Gauntlets": [
+      {
+        "Name": "Craiceann's Pincers",
+        "BaseType": "Titan Gauntlets",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Veruso's Battering Rams",
+        "BaseType": "Titan Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Kaom's Spirit",
+        "BaseType": "Titan Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Strapped Mitts": [
+      {
+        "Name": "Facebreaker",
+        "BaseType": "Strapped Mitts",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Satin Gloves": [
+      {
+        "Name": "Demon Stitcher",
+        "BaseType": "Satin Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Allelopathy",
+        "BaseType": "Satin Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Embroidered Gloves": [
+      {
+        "Name": "Vixen's Entrapment",
+        "BaseType": "Embroidered Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trapper Boots": [
+      {
+        "Name": "Brinerot Whalers",
+        "BaseType": "Trapper Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Deerskin Gloves": [
+      {
+        "Name": "Maligaro's Virtuosity",
+        "BaseType": "Deerskin Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Solaris Circlet": [
+      {
+        "Name": "Thundersight",
+        "BaseType": "Solaris Circlet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Flamesight",
+        "BaseType": "Solaris Circlet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Galesight",
+        "BaseType": "Solaris Circlet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Cowl of the Ceraunophile",
+        "BaseType": "Solaris Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Wilma's Requital",
+        "BaseType": "Solaris Circlet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Conjurer Gloves": [
+      {
+        "Name": "Voidbringer",
+        "BaseType": "Conjurer Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mirrored Spiked Shield": [
+      {
+        "Name": "Leper's Alms",
+        "BaseType": "Mirrored Spiked Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Font of Thunder",
+        "BaseType": "Mirrored Spiked Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Ironscale Gauntlets": [
+      {
+        "Name": "Flesh and Spirit",
+        "BaseType": "Ironscale Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soldier Boots": [
+      {
+        "Name": "Alberon's Warpath",
+        "BaseType": "Soldier Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Silk Gloves": [
+      {
+        "Name": "Asenath's Gentle Touch",
+        "BaseType": "Silk Gloves",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Cutthroat's Garb": [
+      {
+        "Name": "Bronn's Lithe",
+        "BaseType": "Cutthroat's Garb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Garb": [
+      {
+        "Name": "Cospri's Will",
+        "BaseType": "Assassin's Garb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pine Buckler": [
+      {
+        "Name": "Crest of Perandus",
+        "BaseType": "Pine Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Regicide Mask": [
+      {
+        "Name": "Crown of the Pale King",
+        "BaseType": "Regicide Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Gorgon's Gaze",
+        "BaseType": "Regicide Mask",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Akoya's Gaze",
+        "BaseType": "Regicide Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dragonscale Boots": [
+      {
+        "Name": "Darkray Vectors",
+        "BaseType": "Dragonscale Boots",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Annihilation's Approach",
+        "BaseType": "Dragonscale Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Lunaris Circlet": [
+      {
+        "Name": "Doedre's Scorn",
+        "BaseType": "Lunaris Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Goliath Gauntlets": [
+      {
+        "Name": "Empire's Grasp",
+        "BaseType": "Goliath Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Celestial Brace",
+        "BaseType": "Goliath Gauntlets",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Legion Boots": [
+      {
+        "Name": "Gang's Momentum",
+        "BaseType": "Legion Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "March of the Legion",
+        "BaseType": "Legion Boots",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest",
+          "STRONK"
+        ]
+      }
+    ],
+    "Corrugated Buckler": [
+      {
+        "Name": "Great Old One's Ward",
+        "BaseType": "Corrugated Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Supreme Spiked Shield": [
+      {
+        "Name": "Jaws of Agony",
+        "BaseType": "Supreme Spiked Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zealot Helmet": [
+      {
+        "Name": "Kitava's Thirst",
+        "BaseType": "Zealot Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ravenous Passion",
+        "BaseType": "Zealot Helmet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Ornate Ringmail": [
+      {
+        "Name": "Lightbane Raiment",
+        "BaseType": "Ornate Ringmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Desert Brigandine": [
+      {
+        "Name": "Lightning Coil",
+        "BaseType": "Desert Brigandine",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Harmonic Spirit Shield": [
+      {
+        "Name": "Malachai's Loop",
+        "BaseType": "Harmonic Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Steel Gauntlets": [
+      {
+        "Name": "Meginord's Vise",
+        "BaseType": "Steel Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Aventail Helmet": [
+      {
+        "Name": "Mindspiral",
+        "BaseType": "Aventail Helmet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Enameled Buckler": [
+      {
+        "Name": "Mutewind Pennant",
+        "BaseType": "Enameled Buckler",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Serpentscale Boots": [
+      {
+        "Name": "Mutewind Whispersteps",
+        "BaseType": "Serpentscale Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Wrapped Mitts": [
+      {
+        "Name": "Ondar's Clasp",
+        "BaseType": "Wrapped Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Broadhead Arrow Quiver": [
+      {
+        "Name": "Steelworm",
+        "BaseType": "Broadhead Arrow Quiver",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Painted Tower Shield": [
+      {
+        "Name": "Redblade Banner",
+        "BaseType": "Painted Tower Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ancient Greaves": [
+      {
+        "Name": "Redblade Tramplers",
+        "BaseType": "Ancient Greaves",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Kahuturoa's Certainty",
+        "BaseType": "Ancient Greaves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mosaic Kite Shield": [
+      {
+        "Name": "Rise of the Phoenix",
+        "BaseType": "Mosaic Kite Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wool Gloves": [
+      {
+        "Name": "Sadima's Touch",
+        "BaseType": "Wool Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chain Gloves": [
+      {
+        "Name": "Shackles of the Wretched",
+        "BaseType": "Chain Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Secutor Helm": [
+      {
+        "Name": "Skullhead",
+        "BaseType": "Secutor Helm",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Mitts": [
+      {
+        "Name": "Snakebite",
+        "BaseType": "Assassin's Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Blasphemer's Grasp",
+        "BaseType": "Assassin's Mitts",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Storm's Gift",
+        "BaseType": "Assassin's Mitts",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Entropic Devastation",
+        "BaseType": "Assassin's Mitts",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Copper Plate": [
+      {
+        "Name": "Solaris Lorica",
+        "BaseType": "Copper Plate",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spidersilk Robe": [
+      {
+        "Name": "Soul Mantle",
+        "BaseType": "Spidersilk Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Covenant",
+        "BaseType": "Spidersilk Robe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Dragonscale Gauntlets": [
+      {
+        "Name": "Surgebinders",
+        "BaseType": "Dragonscale Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sharkskin Boots": [
+      {
+        "Name": "The Blood Dance",
+        "BaseType": "Sharkskin Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Golden Mask": [
+      {
+        "Name": "The Three Dragons",
+        "BaseType": "Golden Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Willclash",
+        "BaseType": "Golden Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Murder Mitts": [
+      {
+        "Name": "Thunderfist",
+        "BaseType": "Murder Mitts",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Malachai's Mark",
+        "BaseType": "Murder Mitts",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Machina Mitts",
+        "BaseType": "Murder Mitts",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Reinforced Tower Shield": [
+      {
+        "Name": "Titucius' Span",
+        "BaseType": "Reinforced Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cedar Tower Shield": [
+      {
+        "Name": "Trolltimber Spire",
+        "BaseType": "Cedar Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bronzescale Gauntlets": [
+      {
+        "Name": "Vaal Caress",
+        "BaseType": "Bronzescale Gauntlets",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Slitherpinch",
+        "BaseType": "Bronzescale Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Laminated Kite Shield": [
+      {
+        "Name": "Victario's Charity",
+        "BaseType": "Laminated Kite Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mesh Boots": [
+      {
+        "Name": "Wake of Destruction",
+        "BaseType": "Mesh Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wyrmscale Gauntlets": [
+      {
+        "Name": "Wyrmsign",
+        "BaseType": "Wyrmscale Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Tanu Ahi",
+        "BaseType": "Wyrmscale Gauntlets",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Close Helmet": [
+      {
+        "Name": "The Baron",
+        "BaseType": "Close Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Colossal Tower Shield": [
+      {
+        "Name": "Ahn's Heritage",
+        "BaseType": "Colossal Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Dawnbreaker",
+        "BaseType": "Colossal Tower Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Sentinel Jacket": [
+      {
+        "Name": "Dendrobate",
+        "BaseType": "Sentinel Jacket",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Expedition's End",
+        "BaseType": "Sentinel Jacket",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Sage's Robe": [
+      {
+        "Name": "Dialla's Malefaction",
+        "BaseType": "Sage's Robe",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Zahndethus' Cassock",
+        "BaseType": "Sage's Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bone Circlet": [
+      {
+        "Name": "Wraithlord",
+        "BaseType": "Bone Circlet",
+        "Aspects": [
+          "Handled",
+          "Exclude",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Plume of Pursuit",
+        "BaseType": "Bone Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Samite Gloves": [
+      {
+        "Name": "Kalisa's Grace",
+        "BaseType": "Samite Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bone Armour": [
+      {
+        "Name": "Bloodbond",
+        "BaseType": "Bone Armour",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Riveted Boots": [
+      {
+        "Name": "Ralakesh's Impatience",
+        "BaseType": "Riveted Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Tribal Circlet": [
+      {
+        "Name": "Mark of the Red Covenant",
+        "BaseType": "Tribal Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Polished Spiked Shield": [
+      {
+        "Name": "Zeel's Amplifier",
+        "BaseType": "Polished Spiked Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chiming Spirit Shield": [
+      {
+        "Name": "The Eternal Apple",
+        "BaseType": "Chiming Spirit Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Scales of Justice",
+        "BaseType": "Chiming Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Shagreen Boots": [
+      {
+        "Name": "Three-step Assault",
+        "BaseType": "Shagreen Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Temptation Step",
+        "BaseType": "Shagreen Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Buckskin Tunic": [
+      {
+        "Name": "Ashrend",
+        "BaseType": "Buckskin Tunic",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soldier Helmet": [
+      {
+        "Name": "Honourhome",
+        "BaseType": "Soldier Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Baroque Round Shield": [
+      {
+        "Name": "Daresso's Courage",
+        "BaseType": "Baroque Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lacquered Helmet": [
+      {
+        "Name": "Black Sun Crest",
+        "BaseType": "Lacquered Helmet",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "The Fledgling",
+        "BaseType": "Lacquered Helmet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Studded Round Shield": [
+      {
+        "Name": "The Deep One's Hide",
+        "BaseType": "Studded Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rotted Round Shield": [
+      {
+        "Name": "Wheel of the Stormsail",
+        "BaseType": "Rotted Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Strapped Boots": [
+      {
+        "Name": "Nomic's Storm",
+        "BaseType": "Strapped Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crusader Chainmail": [
+      {
+        "Name": "Ambu's Charge",
+        "BaseType": "Crusader Chainmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Silk Slippers": [
+      {
+        "Name": "Bones of Ullr",
+        "BaseType": "Silk Slippers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Great Helmet": [
+      {
+        "Name": "Veil of the Night",
+        "BaseType": "Great Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Conquest Chainmail": [
+      {
+        "Name": "Kingsguard",
+        "BaseType": "Conquest Chainmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scholar's Robe": [
+      {
+        "Name": "Cloak of Flame",
+        "BaseType": "Scholar's Robe",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Deerskin Boots": [
+      {
+        "Name": "Deerstalker",
+        "BaseType": "Deerskin Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tricorne": [
+      {
+        "Name": "Fairgraves' Tricorne",
+        "BaseType": "Tricorne",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bronzescale Boots": [
+      {
+        "Name": "Lioneye's Paws",
+        "BaseType": "Bronzescale Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Compound Spiked Shield": [
+      {
+        "Name": "Maligaro's Lens",
+        "BaseType": "Compound Spiked Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Chainmail": [
+      {
+        "Name": "Voll's Protector",
+        "BaseType": "Holy Chainmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bronze Gauntlets": [
+      {
+        "Name": "Giantsbane",
+        "BaseType": "Bronze Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Plated Greaves": [
+      {
+        "Name": "Stormcharger",
+        "BaseType": "Plated Greaves",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Plague Mask": [
+      {
+        "Name": "Curtain Call",
+        "BaseType": "Plague Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Buckler": [
+      {
+        "Name": "Thousand Teeth Temu",
+        "BaseType": "Vaal Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leather Belt": [
+      {
+        "Name": "Headhunter",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Hyperboreus",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Umbilicus Immortalis",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Cyclopean Coil",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Gluttony",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Immortal Flesh",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Wurm's Molt",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Leash of Oblation",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Bear's Girdle",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Pyroshock Clasp",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Paua Amulet": [
+      {
+        "Name": "Zerphi's Heart",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Atziri's Foible",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Sacrificial Heart",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Sidhebreath",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Defiance of Destiny",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jade Amulet": [
+      {
+        "Name": "The Pandemonius",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Halcyon",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Hyrri's Truth",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Karui Ward",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rashkaldor's Patience",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Willowgift",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Amber Amulet": [
+      {
+        "Name": "Xoph's Blood",
+        "BaseType": "Amber Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Xoph's Heart",
+        "BaseType": "Amber Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "The Anvil",
+        "BaseType": "Amber Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Bloodsoaked Medallion",
+        "BaseType": "Amber Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Blood of Corruption",
+        "BaseType": "Amber Amulet",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Onyx Amulet": [
+      {
+        "Name": "Solstice Vigil",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Presence of Chayula",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Aul's Uprising",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Impresence",
+        "BaseType": "Onyx Amulet",
+        "Special": "Chaos",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Yoke of Suffering",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Astramentis",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Hinekora's Sight",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Carnage Heart",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eye of Chayula",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Stranglegasp",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Ashes of the Stars",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "NonWorldDrop",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Crystallised Omniscience",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Eternal Struggle",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Leadership's Price",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Replica Dragonfang's Flight",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Topaz Ring": [
+      {
+        "Name": "Putembo's Mountain",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Precursor's Emblem",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Valako's Sign",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Putembo's Meadow",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Putembo's Valley",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Kikazaru",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Circle of Regret",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Astral Projector",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Storm Secret",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Nimis",
+        "BaseType": "Topaz Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Prismatic Ring": [
+      {
+        "Name": "The Taming",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Precursor's Emblem",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Thief's Torment",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Lori's Lantern",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Circle of Ambition",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      }
+    ],
+    "Two-Stone Ring": [
+      {
+        "Name": "Berek's Respite",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Call of the Brotherhood",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Precursor's Emblem",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Berek's Grip",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rigwald's Crest",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Berek's Pass",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ruby Ring": [
+      {
+        "Name": "Precursor's Emblem",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Ahkeli's Meadow",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Ahkeli's Valley",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Ahkeli's Mountain",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Emberwake",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ngamahu's Sign",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mokou's Embrace",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Circle of Anguish",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Warrior's Legacy",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Gold Ring": [
+      {
+        "Name": "Ventor's Gamble",
+        "BaseType": "Gold Ring",
+        "Aspects": [
+          "HighVariety",
+          "Handled",
+          "PreventHiding",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Andvarius",
+        "BaseType": "Gold Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Highwayman",
+        "BaseType": "Gold Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sapphire Ring": [
+      {
+        "Name": "Uzaza's Valley",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Precursor's Emblem",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Uzaza's Mountain",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Dream Fragments",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Snakepit",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Pyre",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Tasalio's Sign",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Uzaza's Meadow",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Circle of Fear",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Call of the Void",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Agate Amulet": [
+      {
+        "Name": "Voll's Devotion",
+        "BaseType": "Agate Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Shaper's Seed",
+        "BaseType": "Agate Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Aylardex",
+        "BaseType": "Agate Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Extractor Mentis",
+        "BaseType": "Agate Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eternal Damnation",
+        "BaseType": "Agate Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Lapis Amulet": [
+      {
+        "Name": "Choir of the Storm",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Voice of the Storm",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Marylene's Fallacy",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Stone of Lazhwar",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Tear of Purity",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Ephemeral Bond",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doedre's Tongue",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unset Ring": [
+      {
+        "Name": "The Pariah",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Essence Worm",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mark of Submission",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Vivinsect",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Brinerot Mark",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Redblade Band",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Voideye",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Hungry Loop",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Malachai's Artifice",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mutewind Seal",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Uncommon",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Angler's Plait",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Profane Proxy",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rotblood Promise",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Triumvirate Authority",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Chain Belt": [
+      {
+        "Name": "Coward's Legacy",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ascent From Flesh",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Coward's Chains",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Bated Breath",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Maligaro's Restraint",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Chains of Emancipation",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Chain of Endurance",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Heavy Belt": [
+      {
+        "Name": "Bisco's Leash",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doryani's Invitation",
+        "BaseType": "Heavy Belt",
+        "Special": "Physical",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Belt of the Deceiver",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Dyadian Dawn",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Meginord's Girdle",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Siegebreaker",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mother's Embrace",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Survivor's Guilt",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Mageblood",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Kaom's Binding",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "String of Servitude",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Gold Amulet": [
+      {
+        "Name": "Perquil's Toe",
+        "BaseType": "Gold Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Ignomon",
+        "BaseType": "Gold Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Winterheart",
+        "BaseType": "Gold Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Untouched Soul",
+        "BaseType": "Gold Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Opal Ring": [
+      {
+        "Name": "Mark of the Shaper",
+        "BaseType": "Opal Ring",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Stormfire",
+        "BaseType": "Opal Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Polaric Devastation",
+        "BaseType": "Opal Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Greatwolf Talisman": [
+      {
+        "Name": "Eyes of the Greatwolf",
+        "BaseType": "Greatwolf Talisman",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Moonstone Ring": [
+      {
+        "Name": "Shavronne's Revelation",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Heartbound Loop",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Timeclasp",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Valyrium",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Anathema",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Tawhanuku's Timing",
+        "BaseType": "Moonstone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wereclaw Talisman": [
+      {
+        "Name": "Rigwald's Curse",
+        "BaseType": "Wereclaw Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Coral Ring": [
+      {
+        "Name": "Winterweave",
+        "BaseType": "Coral Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Kaom's Sign",
+        "BaseType": "Coral Ring",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Sibyl's Lament",
+        "BaseType": "Coral Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Honoured Alliance",
+        "BaseType": "Coral Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Rotfeather Talisman": [
+      {
+        "Name": "Natural Hierarchy",
+        "BaseType": "Rotfeather Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Clutching Talisman": [
+      {
+        "Name": "Blightwell",
+        "BaseType": "Clutching Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cloth Belt": [
+      {
+        "Name": "The Flow Untethered",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Perandus Blazon",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Soulthirst",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Sunblast",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Soul Tether",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Torrent's Reclamation",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "The Druggery",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Arn's Anguish",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Olesya's Delight",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Graven's Secret",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Ceinture of Benevolence",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Bound Fate",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Nevalius Inheritance",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rustic Sash": [
+      {
+        "Name": "The Retch",
+        "BaseType": "Rustic Sash",
+        "Aspects": [
+          "NonDrop",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Faminebind",
+        "BaseType": "Rustic Sash",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Feastbind",
+        "BaseType": "Rustic Sash",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Prismweave",
+        "BaseType": "Rustic Sash",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Studded Belt": [
+      {
+        "Name": "Ryslatha's Coil",
+        "BaseType": "Studded Belt",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "The Magnate",
+        "BaseType": "Studded Belt",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Ynda's Stand",
+        "BaseType": "Studded Belt",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Coral Amulet": [
+      {
+        "Name": "The Primordial Chain",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Araku Tiki",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Tavukai",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Tainted Pact",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ikiaho's Promise",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ngamahu Tiki",
+        "BaseType": "Coral Amulet",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Diamond Ring": [
+      {
+        "Name": "Gifts from Above",
+        "BaseType": "Diamond Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Romira's Banquet",
+        "BaseType": "Diamond Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Grattus Signet",
+        "BaseType": "Diamond Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cloth Belt Piece": [
+      {
+        "Name": "First Piece of Time",
+        "BaseType": "Cloth Belt Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Second Piece of Time",
+        "BaseType": "Cloth Belt Piece",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Citrine Amulet": [
+      {
+        "Name": "Eye of Innocence",
+        "BaseType": "Citrine Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Daresso's Salute",
+        "BaseType": "Citrine Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Jinxed Juju",
+        "BaseType": "Citrine Amulet",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Retaliation Charm",
+        "BaseType": "Citrine Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Felbog Fang",
+        "BaseType": "Citrine Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Iron Ring": [
+      {
+        "Name": "Le Heup of All",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "The Warden's Brand",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Blackheart",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Venopuncture",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Icefang Orbit",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Circle of Guilt",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      }
+    ],
+    "Paua Ring": [
+      {
+        "Name": "Perandus Signet",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled",
+          "NoValueEarly"
+        ]
+      },
+      {
+        "Name": "Doedre's Damning",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Praxis",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Fated End",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Soulbound",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Steel Ring": [
+      {
+        "Name": "Mark of the Elder",
+        "BaseType": "Steel Ring",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Amethyst Ring": [
+      {
+        "Name": "Death Rush",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Ming's Heart",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Circle of Nostalgia",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Blackflame",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Original Sin",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Black Maw Talisman": [
+      {
+        "Name": "Night's Hold",
+        "BaseType": "Black Maw Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crystal Belt": [
+      {
+        "Name": "Auxium",
+        "BaseType": "Crystal Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Burden of Truth",
+        "BaseType": "Crystal Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Blue Pearl Amulet": [
+      {
+        "Name": "Gloomfang",
+        "BaseType": "Blue Pearl Amulet",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Stygian Vise": [
+      {
+        "Name": "Darkness Enthroned",
+        "BaseType": "Stygian Vise",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Turquoise Amulet": [
+      {
+        "Name": "Victario's Acuity",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ungil's Harmony",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Warped Timepiece",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Maligaro's Cruelty",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Badge of the Brotherhood",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Fury Valve",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vanguard Belt": [
+      {
+        "Name": "Perseverance",
+        "BaseType": "Vanguard Belt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "The Tides of Time",
+        "BaseType": "Vanguard Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Marble Amulet": [
+      {
+        "Name": "Bloodgrip",
+        "BaseType": "Marble Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Golden Hoop": [
+      {
+        "Name": "Demigod's Eye",
+        "BaseType": "Golden Hoop",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Golden Wreath": [
+      {
+        "Name": "Demigod's Triumph",
+        "BaseType": "Golden Wreath",
+        "Aspects": [
+          "Anchor"
+        ]
+      }
+    ],
+    "Golden Mantle": [
+      {
+        "Name": "Demigod's Dominance",
+        "BaseType": "Golden Mantle",
+        "Aspects": [
+          "Anchor"
+        ]
+      }
+    ],
+    "Tyrant's Sekhem": [
+      {
+        "Name": "Sign of the Sin Eater",
+        "BaseType": "Tyrant's Sekhem",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Steel Circlet": [
+      {
+        "Name": "Maw of Conquest",
+        "BaseType": "Steel Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Sudden Dawn",
+        "BaseType": "Steel Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Golden Visage": [
+      {
+        "Name": "Demigod's Immortality ",
+        "BaseType": "Golden Visage",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Demigod's Immortality",
+        "BaseType": "Golden Visage",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Golden Flame": [
+      {
+        "Name": "Demigod's Beacon",
+        "BaseType": "Golden Flame",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Ezomyte Dagger": [
+      {
+        "Name": "Cold Iron Point",
+        "BaseType": "Ezomyte Dagger",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Saint's Hauberk": [
+      {
+        "Name": "Sporeguard",
+        "BaseType": "Saint's Hauberk",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Ivory Tower",
+        "BaseType": "Saint's Hauberk",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Doryani's Prototype",
+        "BaseType": "Saint's Hauberk",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Mesh Gloves": [
+      {
+        "Name": "Triad Grip",
+        "BaseType": "Mesh Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Hand of Phrecia",
+        "BaseType": "Mesh Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Antique Greaves": [
+      {
+        "Name": "Torchoak Step",
+        "BaseType": "Antique Greaves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Spiked Shield": [
+      {
+        "Name": "Perepiteia",
+        "BaseType": "Ezomyte Spiked Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Royal Sceptre": [
+      {
+        "Name": "The Black Cane",
+        "BaseType": "Royal Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lacquered Buckler": [
+      {
+        "Name": "Mistwall",
+        "BaseType": "Lacquered Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shagreen Gloves": [
+      {
+        "Name": "Painseeker",
+        "BaseType": "Shagreen Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Two-Toned Boots": [
+      {
+        "Name": "Beacon of Madness",
+        "BaseType": "Two-Toned Boots",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Imperial Staff Piece": [
+      {
+        "Name": "First Piece of Brutality",
+        "BaseType": "Imperial Staff Piece",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Second Piece of Brutality",
+        "BaseType": "Imperial Staff Piece",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Third Piece of Brutality",
+        "BaseType": "Imperial Staff Piece",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Sword Piece": [
+      {
+        "Name": "Second Piece of the Arcane",
+        "BaseType": "Legion Sword Piece",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "First Piece of the Arcane",
+        "BaseType": "Legion Sword Piece",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Third Piece of the Arcane",
+        "BaseType": "Legion Sword Piece",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eelskin Gloves": [
+      {
+        "Name": "Great Old One's Tentacles",
+        "BaseType": "Eelskin Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Steel Kite Shield": [
+      {
+        "Name": "Emperor's Vigilance",
+        "BaseType": "Steel Kite Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Mahuxotl's Machination",
+        "BaseType": "Steel Kite Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Butcher Axe": [
+      {
+        "Name": "Actum",
+        "BaseType": "Butcher Axe",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Fluted Bascinet": [
+      {
+        "Name": "Crest of Desire",
+        "BaseType": "Fluted Bascinet",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Crimson Round Shield": [
+      {
+        "Name": "Shattershard",
+        "BaseType": "Crimson Round Shield",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Slink Gloves": [
+      {
+        "Name": "Mercenary's Lot",
+        "BaseType": "Slink Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Teak Round Shield": [
+      {
+        "Name": "The Ghastly Theatre",
+        "BaseType": "Teak Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bone Helmet": [
+      {
+        "Name": "Maw of Mischief",
+        "BaseType": "Bone Helmet",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "Ancient Skull",
+        "BaseType": "Bone Helmet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Wyrmscale Boots": [
+      {
+        "Name": "Legacy of Fury",
+        "BaseType": "Wyrmscale Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Samnite Helmet": [
+      {
+        "Name": "Hrimnor's Resolve",
+        "BaseType": "Samnite Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sovereign Spiked Shield": [
+      {
+        "Name": "Qotra's Regulator",
+        "BaseType": "Sovereign Spiked Shield",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Golden Blade": [
+      {
+        "Name": "Demigod's Authority",
+        "BaseType": "Golden Blade",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Iron Flask": [
+      {
+        "Name": "Olroth's Resolve",
+        "BaseType": "Iron Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Starlight Chalice",
+        "BaseType": "Iron Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Vorana's Preparation",
+        "BaseType": "Iron Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Elixir of the Unbroken Circle",
+        "BaseType": "Iron Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Runic Crown": [
+      {
+        "Name": "Cadigan's Crown",
+        "BaseType": "Runic Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Runic Sabatons": [
+      {
+        "Name": "Vorana's March",
+        "BaseType": "Runic Sabatons",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Runic Sollerets": [
+      {
+        "Name": "Olroth's Charge",
+        "BaseType": "Runic Sollerets",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Runic Helm": [
+      {
+        "Name": "Faithguard",
+        "BaseType": "Runic Helm",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Runic Gages": [
+      {
+        "Name": "Nightgrip",
+        "BaseType": "Runic Gages",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Runic Gauntlets": [
+      {
+        "Name": "Medved's Challenge",
+        "BaseType": "Runic Gauntlets",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Eternal Burgonet": [
+      {
+        "Name": "Usurper's Penance",
+        "BaseType": "Eternal Burgonet",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Elegant Round Shield": [
+      {
+        "Name": "The Squire",
+        "BaseType": "Elegant Round Shield",
+        "Aspects": [
+          "Handled",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "The Oppressor",
+        "BaseType": "Elegant Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unset Amulet": [
+      {
+        "Name": "Uul-Netol's Vow",
+        "BaseType": "Unset Amulet",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Quarterstaff": [
+      {
+        "Name": "The Annihilating Light",
+        "BaseType": "Quarterstaff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Primal Arrow Quiver": [
+      {
+        "Name": "Voidfletcher",
+        "BaseType": "Primal Arrow Quiver",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Poised Prism",
+        "BaseType": "Primal Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fingerless Silk Gloves": [
+      {
+        "Name": "Black Zenith",
+        "BaseType": "Fingerless Silk Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Spiked Gloves": [
+      {
+        "Name": "Ceaseless Feast",
+        "BaseType": "Spiked Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Blazing Arrow Quiver": [
+      {
+        "Name": "Blackgleam",
+        "BaseType": "Blazing Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Feathered Arrow Quiver": [
+      {
+        "Name": "Saemus' Gift",
+        "BaseType": "Feathered Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Asphyxia's Wrath",
+        "BaseType": "Feathered Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fugitive Boots": [
+      {
+        "Name": "Inextricable Fate",
+        "BaseType": "Fugitive Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Heavy Arrow Quiver": [
+      {
+        "Name": "Scorpion's Call",
+        "BaseType": "Heavy Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vile Arrow Quiver": [
+      {
+        "Name": "Maloney's Nightfall",
+        "BaseType": "Vile Arrow Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Golden Bracers": [
+      {
+        "Name": "Demigod's Touch",
+        "BaseType": "Golden Bracers",
+        "Aspects": []
+      }
+    ],
+    "Barbute Helmet": [
+      {
+        "Name": "Thrillsteel",
+        "BaseType": "Barbute Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Silken Vest": [
+      {
+        "Name": "Ghostwrithe",
+        "BaseType": "Silken Vest",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wolf Pelt": [
+      {
+        "Name": "Elevore",
+        "BaseType": "Wolf Pelt",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Sun Leather": [
+      {
+        "Name": "Briskwrap",
+        "BaseType": "Sun Leather",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lacewood Spirit Shield": [
+      {
+        "Name": "Manastorm",
+        "BaseType": "Lacewood Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ring": [
+      {
+        "Name": "Kalandra's Touch",
+        "BaseType": "Ring",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Foul Staff": [
+      {
+        "Name": "The Winds of Fate",
+        "BaseType": "Foul Staff",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Vaal Greaves": [
+      {
+        "Name": "Dawnstrider",
+        "BaseType": "Vaal Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Long Staff": [
+      {
+        "Name": "Pillar of the Caged God",
+        "BaseType": "Long Staff",
+        "Aspects": []
+      }
+    ],
+    "Eelskin Boots": [
+      {
+        "Name": "Orbala's Stand",
+        "BaseType": "Eelskin Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Devout Chainmail": [
+      {
+        "Name": "The Fourth Vow",
+        "BaseType": "Devout Chainmail",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Reaver Helmet": [
+      {
+        "Name": "Blood Price",
+        "BaseType": "Reaver Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ironwood Buckler": [
+      {
+        "Name": "Kiloava's Bluster",
+        "BaseType": "Ironwood Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Engraved Greatsword": [
+      {
+        "Name": "Rakiata's Dance",
+        "BaseType": "Engraved Greatsword",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Majestic Plate": [
+      {
+        "Name": "Utula's Hunger",
+        "BaseType": "Majestic Plate",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Large Cluster Jewel": [
+      {
+        "Name": "Voices",
+        "BaseType": "Large Cluster Jewel",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Prismatic Jewel": [
+      {
+        "Name": "Emperor's Mastery",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Watcher's Eye",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Sublime Vision",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "The Anima Stone",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Perandus Pact",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Light of Meaning",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": []
+      }
+    ],
+    "Crimson Jewel": [
+      {
+        "Name": "Emperor's Might",
+        "BaseType": "Crimson Jewel",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Immutable Force",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Bloodnotch",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Red Nightmare",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Forbidden Flame",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Inspired Learning",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Transcendent Flesh",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Rain of Splinters",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Primordial Might",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Grand Spectrum",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Thread of Hope",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Combat Focus",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Might of the Meek",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Split Personality",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Dissolution of the Flesh",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Energised Armour",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fragility",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Inertia",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Red Dream",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Firesong",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Atziri's Reign",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Efficient Training",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Tempered Flesh",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Mantra of Flames",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Ancient Waystones",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Coated Shrapnel",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Spire of Stone",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Brawn",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Combustibles",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fireborn",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Conqueror's Efficiency",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Might in All Forms",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Blood Sacrifice",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Vigil",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fragile Bloom",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Martial Artistry",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Survival Skills",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Warlord's Reach",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Wildfire",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Divine Inferno",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "That Which Was Taken",
+        "BaseType": "Crimson Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Adorned",
+        "BaseType": "Crimson Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Cobalt Jewel": [
+      {
+        "Name": "Emperor's Wit",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": [
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Rational Doctrine",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fortress Covenant",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Transcendent Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Forbidden Flesh",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Energy From Within",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Endless Misery",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Grand Spectrum",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Blue Nightmare",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Dead Reckoning",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Combat Focus",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Melding of the Flesh",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Unending Hunger",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Primordial Harmony",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "To Dust",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Witchbane",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fevered Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Healthy Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Reckless Defence",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Brute Force Solution",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Blue Dream",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Tempered Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Powerlessness",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fertile Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Soul's Wick",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Nadir Mode",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Apex Mode",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Balance of Terror",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Clear Mind",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Survival Secrets",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Conqueror's Potency",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Corrupted Energy",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "From Dust",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Spirited Response",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Unstable Payload",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Eldritch Knowledge",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Hazardous Research",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Anatomical Knowledge",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Mutated Growth",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Vaal Sentencing",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Winter's Bounty",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Rolling Flames",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Inevitability",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Brittle Barrier",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Assassin's Haste",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Malicious Intent",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Spreading Rot",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": []
+      }
+    ],
+    "Viridian Jewel": [
+      {
+        "Name": "Stormshroud",
+        "BaseType": "Viridian Jewel",
+        "Aspects": [
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Unnatural Instinct",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Lioneye's Fall",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Green Nightmare",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Quickening Covenant",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Ancestral Vision",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Transcendent Spirit",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Intuitive Leap",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Emperor's Cunning",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Impossible Escape",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Grand Spectrum",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Spirit Guards",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Combat Focus",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Seething Fury",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Primordial Eminence",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Green Dream",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Pure Talent",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Tempered Spirit",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fluid Motion",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Hidden Potential",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Pacifism",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Self-Flagellation",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "The Golden Rule",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Careful Planning",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Chill of Corruption",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Survival Instincts",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Lord of Steel",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Hotheaded",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Cold Steel",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Hungry Abyss",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Weight of Sin",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Pugilist",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Hair Trigger",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Sacrificial Harvest",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Ring of Blades",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Conqueror's Longevity",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Poacher's Aim",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Static Electricity",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Volley Fire",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Omen on the Winds",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Fight for Survival",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      },
+      {
+        "Name": "Might and Influence",
+        "BaseType": "Viridian Jewel",
+        "Aspects": []
+      }
+    ],
+    "Ghastly Eye Jewel": [
+      {
+        "Name": "Amanamu's Gaze",
+        "BaseType": "Ghastly Eye Jewel",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Jewel": [
+      {
+        "Name": "Lethal Pride",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Elegant Hubris",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Brutal Restraint",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Glorious Vanity",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Militant Faith",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Medium Cluster Jewel": [
+      {
+        "Name": "Megalomaniac",
+        "BaseType": "Medium Cluster Jewel",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "Anchor",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Small Cluster Jewel": [
+      {
+        "Name": "One With Nothing",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Natural Affinity",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Interrogation",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Calamitous Visions",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Front Line",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Siege",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Kitava's Teachings",
+        "BaseType": "Small Cluster Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Murderous Eye Jewel": [
+      {
+        "Name": "Tecrod's Gaze",
+        "BaseType": "Murderous Eye Jewel",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Hypnotic Eye Jewel": [
+      {
+        "Name": "Kurgal's Gaze",
+        "BaseType": "Hypnotic Eye Jewel",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Searching Eye Jewel": [
+      {
+        "Name": "Ulaman's Gaze",
+        "BaseType": "Searching Eye Jewel",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Papyrus Relic": [
+      {
+        "Name": "The Original Scripture",
+        "BaseType": "Papyrus Relic",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Processional Relic": [
+      {
+        "Name": "The Gilded Chalice",
+        "BaseType": "Processional Relic",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Chains of Castigation",
+        "BaseType": "Processional Relic",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Censer Relic": [
+      {
+        "Name": "The Hour of Divinity",
+        "BaseType": "Censer Relic",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Blood of Innocence",
+        "BaseType": "Censer Relic",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Coffer Relic": [
+      {
+        "Name": "The First Crest",
+        "BaseType": "Coffer Relic",
+        "Special": "Relics",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Candlestick Relic": [
+      {
+        "Name": "The Second Sacrament",
+        "BaseType": "Candlestick Relic",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Tome Relic": [
+      {
+        "Name": "The Power and the Promise",
+        "BaseType": "Tome Relic",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Broken Censer",
+        "BaseType": "Tome Relic",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Urn Relic": [
+      {
+        "Name": "The Night Lamp",
+        "BaseType": "Urn Relic",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Graceful Sword": [
+      {
+        "Name": "Nametaker",
+        "BaseType": "Graceful Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Colosseum Plate": [
+      {
+        "Name": "Pragmatism",
+        "BaseType": "Colosseum Plate",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Visored Sallet": [
+      {
+        "Name": "The Trickster's Smile",
+        "BaseType": "Visored Sallet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Maple Round Shield": [
+      {
+        "Name": "The Flawed Refuge",
+        "BaseType": "Maple Round Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cabalist Regalia": [
+      {
+        "Name": "The Apostate",
+        "BaseType": "Cabalist Regalia",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Pig-Faced Bascinet": [
+      {
+        "Name": "The Devourer of Minds",
+        "BaseType": "Pig-Faced Bascinet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Shackled Boots": [
+      {
+        "Name": "Veruso's Ambition",
+        "BaseType": "Shackled Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Aspect": [
+      {
+        "Name": "Curiosity",
+        "BaseType": "Vaal Aspect",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Ambition",
+        "BaseType": "Vaal Aspect",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "Exclude"
+        ]
+      },
+      {
+        "Name": "Cooperation",
+        "BaseType": "Vaal Aspect",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Beauty",
+        "BaseType": "Vaal Aspect",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Primordial Fragment": [
+      {
+        "Name": "Curio of Decay",
+        "BaseType": "Primordial Fragment",
+        "Aspects": [
+          "Handled",
+          "Exclude",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Curio of Consumption",
+        "BaseType": "Primordial Fragment",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Curio of Potential",
+        "BaseType": "Primordial Fragment",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      },
+      {
+        "Name": "Curio of Absorption",
+        "BaseType": "Primordial Fragment",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Phantom Mace": [
+      {
+        "Name": "Serle's Masterwork",
+        "BaseType": "Phantom Mace",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Piledriver": [
+      {
+        "Name": "Tawhoa's Felling",
+        "BaseType": "Piledriver",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Antique Gauntlets": [
+      {
+        "Name": "Admiral's Arrogance",
+        "BaseType": "Antique Gauntlets",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Girded Tower Shield": [
+      {
+        "Name": "Svalinn",
+        "BaseType": "Girded Tower Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Siege Helmet": [
+      {
+        "Name": "Kaom's Command",
+        "BaseType": "Siege Helmet",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Nameless Ring": [
+      {
+        "Name": "The Hateful Accuser",
+        "BaseType": "Nameless Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "The Queller of Minds",
+        "BaseType": "Nameless Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      },
+      {
+        "Name": "The Selfish Shepherd",
+        "BaseType": "Nameless Ring",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "Aspects": {
+    "Greater Essence of Haste": [
+      {
+        "Name": "Greater Essence of Haste",
+        "BaseType": "Greater Essence of Haste",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of the Infinite": [
+      {
+        "Name": "Greater Essence of the Infinite",
+        "BaseType": "Greater Essence of the Infinite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Electricity": [
+      {
+        "Name": "Greater Essence of Electricity",
+        "BaseType": "Greater Essence of Electricity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Torment": [
+      {
+        "Name": "Greater Essence of Torment",
+        "BaseType": "Greater Essence of Torment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of the Mind": [
+      {
+        "Name": "Greater Essence of the Mind",
+        "BaseType": "Greater Essence of the Mind",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Sorcery": [
+      {
+        "Name": "Greater Essence of Sorcery",
+        "BaseType": "Greater Essence of Sorcery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Enhancement": [
+      {
+        "Name": "Greater Essence of Enhancement",
+        "BaseType": "Greater Essence of Enhancement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Battle": [
+      {
+        "Name": "Greater Essence of Battle",
+        "BaseType": "Greater Essence of Battle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of the Body": [
+      {
+        "Name": "Greater Essence of the Body",
+        "BaseType": "Greater Essence of the Body",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Ruin": [
+      {
+        "Name": "Greater Essence of Ruin",
+        "BaseType": "Greater Essence of Ruin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Ice": [
+      {
+        "Name": "Greater Essence of Ice",
+        "BaseType": "Greater Essence of Ice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Flames": [
+      {
+        "Name": "Greater Essence of Flames",
+        "BaseType": "Greater Essence of Flames",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Ruin": [
+      {
+        "Name": "Essence of Ruin",
+        "BaseType": "Essence of Ruin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Ice": [
+      {
+        "Name": "Essence of Ice",
+        "BaseType": "Essence of Ice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Haste": [
+      {
+        "Name": "Essence of Haste",
+        "BaseType": "Essence of Haste",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Electricity": [
+      {
+        "Name": "Essence of Electricity",
+        "BaseType": "Essence of Electricity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Torment": [
+      {
+        "Name": "Essence of Torment",
+        "BaseType": "Essence of Torment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of the Mind": [
+      {
+        "Name": "Essence of the Mind",
+        "BaseType": "Essence of the Mind",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of the Infinite": [
+      {
+        "Name": "Essence of the Infinite",
+        "BaseType": "Essence of the Infinite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Battle": [
+      {
+        "Name": "Essence of Battle",
+        "BaseType": "Essence of Battle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Sorcery": [
+      {
+        "Name": "Essence of Sorcery",
+        "BaseType": "Essence of Sorcery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Enhancement": [
+      {
+        "Name": "Essence of Enhancement",
+        "BaseType": "Essence of Enhancement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of the Body": [
+      {
+        "Name": "Essence of the Body",
+        "BaseType": "Essence of the Body",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Flames": [
+      {
+        "Name": "Essence of Flames",
+        "BaseType": "Essence of Flames",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

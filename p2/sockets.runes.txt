@@ -1,0 +1,74 @@
+{
+  "Aspects": {
+    "Vision Rune": [
+      {
+        "Name": "Vision Rune",
+        "BaseType": "Vision Rune",
+        "Aspects": []
+      }
+    ],
+    "Iron Rune": [
+      {
+        "Name": "Iron Rune",
+        "BaseType": "Iron Rune",
+        "Aspects": []
+      }
+    ],
+    "Glacial Rune": [
+      {
+        "Name": "Glacial Rune",
+        "BaseType": "Glacial Rune",
+        "Aspects": []
+      }
+    ],
+    "Desert Rune": [
+      {
+        "Name": "Desert Rune",
+        "BaseType": "Desert Rune",
+        "Aspects": []
+      }
+    ],
+    "Stone Rune": [
+      {
+        "Name": "Stone Rune",
+        "BaseType": "Stone Rune",
+        "Aspects": []
+      }
+    ],
+    "Storm Rune": [
+      {
+        "Name": "Storm Rune",
+        "BaseType": "Storm Rune",
+        "Aspects": []
+      }
+    ],
+    "Mind Rune": [
+      {
+        "Name": "Mind Rune",
+        "BaseType": "Mind Rune",
+        "Aspects": []
+      }
+    ],
+    "Inspiration Rune": [
+      {
+        "Name": "Inspiration Rune",
+        "BaseType": "Inspiration Rune",
+        "Aspects": []
+      }
+    ],
+    "Body Rune": [
+      {
+        "Name": "Body Rune",
+        "BaseType": "Body Rune",
+        "Aspects": []
+      }
+    ],
+    "Rebirth Rune": [
+      {
+        "Name": "Rebirth Rune",
+        "BaseType": "Rebirth Rune",
+        "Aspects": []
+      }
+    ]
+  }
+}

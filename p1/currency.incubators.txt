@@ -1,0 +1,263 @@
+{
+  "Aspects": {
+    "Geomancer's Incubator": [
+      {
+        "Name": "Geomancer's Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fine Incubator": [
+      {
+        "Name": "Fine Incubator",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Whispering Incubator": [
+      {
+        "Name": "Whispering Incubator",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Time-Lost Incubator": [
+      {
+        "Name": "Time-Lost Incubator",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Time-Lost Incubator",
+        "BaseType": "Time-Lost Incubator",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Thaumaturge's Incubator": [
+      {
+        "Name": "Thaumaturge's Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Obscured Incubator": [
+      {
+        "Name": "Obscured Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Otherworldly Incubator": [
+      {
+        "Name": "Otherworldly Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Celestial Jeweller's Incubator": [
+      {
+        "Name": "Celestial Jeweller's Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Celestial Armoursmith's Incubator": [
+      {
+        "Name": "Celestial Armoursmith's Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Foreboding Incubator": [
+      {
+        "Name": "Foreboding Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Celestial Blacksmith's Incubator": [
+      {
+        "Name": "Celestial Blacksmith's Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Ornate Incubator": [
+      {
+        "Name": "Ornate Incubator",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Infused Incubator": [
+      {
+        "Name": "Infused Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Skittering Incubator": [
+      {
+        "Name": "Skittering Incubator",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Singular Incubator": [
+      {
+        "Name": "Singular Incubator",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Primal Incubator": [
+      {
+        "Name": "Primal Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop",
+          "Anchor"
+        ]
+      }
+    ],
+    "Enchanted Incubator": [
+      {
+        "Name": "Enchanted Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Cartographer's Incubator": [
+      {
+        "Name": "Cartographer's Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Diviner's Incubator": [
+      {
+        "Name": "Diviner's Incubator",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fossilised Incubator": [
+      {
+        "Name": "Fossilised Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mysterious Incubator": [
+      {
+        "Name": "Mysterious Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fragmented Incubator": [
+      {
+        "Name": "Fragmented Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Abyssal Incubator": [
+      {
+        "Name": "Abyssal Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Morphing Incubator": [
+      {
+        "Name": "Morphing Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Maddening Incubator": [
+      {
+        "Name": "Maddening Incubator",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Blighted Incubator": [
+      {
+        "Name": "Blighted Incubator",
+        "Aspects": [
+          "Handled",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Kalguuran Incubator": [
+      {
+        "Name": "Kalguuran Incubator",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Gemcutter's Incubator": [
+      {
+        "Name": "Gemcutter's Incubator",
+        "BaseType": "Gemcutter's Incubator",
+        "Aspects": []
+      }
+    ]
+  }
+}

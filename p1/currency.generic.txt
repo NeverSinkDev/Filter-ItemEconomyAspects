@@ -1,0 +1,1767 @@
+{
+  "Aspects": {
+    "Mirror of Kalandra": [
+      {
+        "Name": "Mirror of Kalandra",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mirror Shard": [
+      {
+        "Name": "Mirror Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mirror Shard",
+        "BaseType": "Mirror Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Exalted Orb": [
+      {
+        "Name": "Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom",
+          "Anchor"
+        ]
+      }
+    ],
+    "Blessing of Chayula": [
+      {
+        "Name": "Blessing of Chayula",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Blessing of Chayula",
+        "BaseType": "Blessing of Chayula",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ancient Orb": [
+      {
+        "Name": "Ancient Orb",
+        "Aspects": [
+          "Handled",
+          "ChaosBottom",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Orb of Annulment": [
+      {
+        "Name": "Orb of Annulment",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Divine Orb": [
+      {
+        "Name": "Divine Orb",
+        "Aspects": [
+          "Handled",
+          "DivineBottom",
+          "Tierable",
+          "Anchor"
+        ]
+      }
+    ],
+    "Harbinger's Orb": [
+      {
+        "Name": "Harbinger's Orb",
+        "Aspects": [
+          "Handled",
+          "ChaosBottom",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Exalted Shard": [
+      {
+        "Name": "Exalted Shard",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Blessing of Uul-Netol": [
+      {
+        "Name": "Blessing of Uul-Netol",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Blessing of Uul-Netol",
+        "BaseType": "Blessing of Uul-Netol",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Stacked Deck": [
+      {
+        "Name": "Stacked Deck",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Blessing of Esh": [
+      {
+        "Name": "Blessing of Esh",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Blessing of Esh",
+        "BaseType": "Blessing of Esh",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Blessing of Xoph": [
+      {
+        "Name": "Blessing of Xoph",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Blessing of Xoph",
+        "BaseType": "Blessing of Xoph",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Blessing of Tul": [
+      {
+        "Name": "Blessing of Tul",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Blessing of Tul",
+        "BaseType": "Blessing of Tul",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Splinter of Chayula": [
+      {
+        "Name": "Splinter of Chayula",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Splinter of Chayula",
+        "BaseType": "Splinter of Chayula",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Annulment Shard": [
+      {
+        "Name": "Annulment Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Gemcutter's Prism": [
+      {
+        "Name": "Gemcutter's Prism",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Orb of Scouring": [
+      {
+        "Name": "Orb of Scouring",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "SilverBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Vaal Orb": [
+      {
+        "Name": "Vaal Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom",
+          "EarlyLeagueInterest",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Cartographer's Chisel": [
+      {
+        "Name": "Cartographer's Chisel",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "SilverBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Engineer's Orb": [
+      {
+        "Name": "Engineer's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PoorDrop",
+          "EarlyLeagueInterest",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Orb of Fusing": [
+      {
+        "Name": "Orb of Fusing",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "SilverBottom"
+        ]
+      }
+    ],
+    "Orb of Regret": [
+      {
+        "Name": "Orb of Regret",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "SilverBottom"
+        ]
+      }
+    ],
+    "Orb of Horizons": [
+      {
+        "Name": "Orb of Horizons",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "ChanceBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Regal Orb": [
+      {
+        "Name": "Regal Orb",
+        "Aspects": [
+          "Handled",
+          "ChanceBottom",
+          "EarlyLeagueInterest",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Orb of Alchemy": [
+      {
+        "Name": "Orb of Alchemy",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Splinter of Uul-Netol": [
+      {
+        "Name": "Splinter of Uul-Netol",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Splinter of Uul-Netol",
+        "BaseType": "Splinter of Uul-Netol",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Binding": [
+      {
+        "Name": "Orb of Binding",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Eternal Orb": [
+      {
+        "Name": "Eternal Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eternal Orb",
+        "BaseType": "Eternal Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Splinter of Tul": [
+      {
+        "Name": "Splinter of Tul",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Splinter of Tul",
+        "BaseType": "Splinter of Tul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Alteration": [
+      {
+        "Name": "Orb of Alteration",
+        "Aspects": [
+          "Handled",
+          "ChanceBottom",
+          "Tierable",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Orb of Chance": [
+      {
+        "Name": "Orb of Chance",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Splinter of Xoph": [
+      {
+        "Name": "Splinter of Xoph",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Splinter of Xoph",
+        "BaseType": "Splinter of Xoph",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glassblower's Bauble": [
+      {
+        "Name": "Glassblower's Bauble",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Jeweller's Orb": [
+      {
+        "Name": "Jeweller's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom",
+          "StackedCurrency",
+          "Anchor"
+        ]
+      }
+    ],
+    "Chromatic Orb": [
+      {
+        "Name": "Chromatic Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Splinter of Esh": [
+      {
+        "Name": "Splinter of Esh",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Splinter of Esh",
+        "BaseType": "Splinter of Esh",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Augmentation": [
+      {
+        "Name": "Orb of Augmentation",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "Anchor"
+        ]
+      }
+    ],
+    "Armourer's Scrap": [
+      {
+        "Name": "Armourer's Scrap",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Armourer's Scrap",
+        "BaseType": "Armourer's Scrap",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blessed Orb": [
+      {
+        "Name": "Blessed Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "PoorDrop",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Orb of Transmutation": [
+      {
+        "Name": "Orb of Transmutation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blacksmith's Whetstone": [
+      {
+        "Name": "Blacksmith's Whetstone",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Portal Scroll": [
+      {
+        "Name": "Portal Scroll",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Portal Scroll",
+        "BaseType": "Portal Scroll",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scroll of Wisdom": [
+      {
+        "Name": "Scroll of Wisdom",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Scroll of Wisdom",
+        "BaseType": "Scroll of Wisdom",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hunter's Exalted Orb": [
+      {
+        "Name": "Hunter's Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Warlord's Exalted Orb": [
+      {
+        "Name": "Warlord's Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Awakener's Orb": [
+      {
+        "Name": "Awakener's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Crusader's Exalted Orb": [
+      {
+        "Name": "Crusader's Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "DivineBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Redeemer's Exalted Orb": [
+      {
+        "Name": "Redeemer's Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Prismatic Catalyst": [
+      {
+        "Name": "Prismatic Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Fertile Catalyst": [
+      {
+        "Name": "Fertile Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Tempering Catalyst": [
+      {
+        "Name": "Tempering Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Awakened Sextant": [
+      {
+        "Name": "Awakened Sextant",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Turbulent Catalyst": [
+      {
+        "Name": "Turbulent Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom",
+          "EarlyLeagueInterest",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Intrinsic Catalyst": [
+      {
+        "Name": "Intrinsic Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "ChanceBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Abrasive Catalyst": [
+      {
+        "Name": "Abrasive Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "ChanceBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Imbued Catalyst": [
+      {
+        "Name": "Imbued Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "ChanceBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Tempering Orb": [
+      {
+        "Name": "Tempering Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Tailoring Orb": [
+      {
+        "Name": "Tailoring Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Prime Regrading Lens": [
+      {
+        "Name": "Prime Regrading Lens",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "DivineBottom",
+          "Anchor"
+        ]
+      }
+    ],
+    "Secondary Regrading Lens": [
+      {
+        "Name": "Secondary Regrading Lens",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "EarlyLeagueInterest",
+          "DivineBottom",
+          "Anchor"
+        ]
+      }
+    ],
+    "Rogue's Marker": [
+      {
+        "Name": "Rogue's Marker",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Rogue's Marker",
+        "BaseType": "Rogue's Marker",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Maven's Orb": [
+      {
+        "Name": "Maven's Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Maven's Orb",
+        "BaseType": "Maven's Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elevated Sextant": [
+      {
+        "Name": "Elevated Sextant",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "Anchor"
+        ]
+      }
+    ],
+    "Orb of Unmaking": [
+      {
+        "Name": "Orb of Unmaking",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Ritual Vessel": [
+      {
+        "Name": "Ritual Vessel",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Unstable Catalyst": [
+      {
+        "Name": "Unstable Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Accelerating Catalyst": [
+      {
+        "Name": "Accelerating Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Noxious Catalyst": [
+      {
+        "Name": "Noxious Catalyst",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Tainted Divine Teardrop": [
+      {
+        "Name": "Tainted Divine Teardrop",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Divine Teardrop",
+        "BaseType": "Tainted Divine Teardrop",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Tainted Mythic Orb": [
+      {
+        "Name": "Tainted Mythic Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Mythic Orb",
+        "BaseType": "Tainted Mythic Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Sacred Orb": [
+      {
+        "Name": "Sacred Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Tainted Orb of Fusing": [
+      {
+        "Name": "Tainted Orb of Fusing",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Tainted Orb of Fusing",
+        "BaseType": "Tainted Orb of Fusing",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Tainted Exalted Orb": [
+      {
+        "Name": "Tainted Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Exalted Orb",
+        "BaseType": "Tainted Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Infused Engineer's Orb": [
+      {
+        "Name": "Infused Engineer's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      },
+      {
+        "Name": "Infused Engineer's Orb",
+        "BaseType": "Infused Engineer's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Tainted Chromatic Orb": [
+      {
+        "Name": "Tainted Chromatic Orb",
+        "Aspects": [
+          "Tierable",
+          "Handled",
+          "ChanceBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Chromatic Orb",
+        "BaseType": "Tainted Chromatic Orb",
+        "Aspects": [
+          "Tierable",
+          "Handled",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Tainted Chaos Orb": [
+      {
+        "Name": "Tainted Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Chaos Orb",
+        "BaseType": "Tainted Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Tainted Blessing": [
+      {
+        "Name": "Tainted Blessing",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Tainted Blacksmith's Whetstone": [
+      {
+        "Name": "Tainted Blacksmith's Whetstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Blacksmith's Whetstone",
+        "BaseType": "Tainted Blacksmith's Whetstone",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Tainted Jeweller's Orb": [
+      {
+        "Name": "Tainted Jeweller's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Jeweller's Orb",
+        "BaseType": "Tainted Jeweller's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Tainted Armourer's Scrap": [
+      {
+        "Name": "Tainted Armourer's Scrap",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      },
+      {
+        "Name": "Tainted Armourer's Scrap",
+        "BaseType": "Tainted Armourer's Scrap",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Instilling Orb": [
+      {
+        "Name": "Instilling Orb",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Enkindling Orb": [
+      {
+        "Name": "Enkindling Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Kalguuran Delirium Orb": [
+      {
+        "Name": "Kalguuran Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Kalguuran Delirium Orb",
+        "BaseType": "Kalguuran Delirium Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Shard": [
+      {
+        "Name": "Ancient Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "SilverBottom"
+        ]
+      }
+    ],
+    "Regal Shard": [
+      {
+        "Name": "Regal Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Harbinger's Shard": [
+      {
+        "Name": "Harbinger's Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Alchemy Shard": [
+      {
+        "Name": "Alchemy Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Alteration Shard": [
+      {
+        "Name": "Alteration Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Binding Shard": [
+      {
+        "Name": "Binding Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Orb of Dominance": [
+      {
+        "Name": "Orb of Dominance",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Eldritch Chaos Orb": [
+      {
+        "Name": "Eldritch Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "ChaosBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Orb of Conflict": [
+      {
+        "Name": "Orb of Conflict",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Charged Compass": [
+      {
+        "Name": "Charged Compass",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eldritch Exalted Orb": [
+      {
+        "Name": "Eldritch Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "ChaosBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Grand Eldritch Ember": [
+      {
+        "Name": "Grand Eldritch Ember",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Exceptional Eldritch Ember": [
+      {
+        "Name": "Exceptional Eldritch Ember",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Eldritch Orb of Annulment": [
+      {
+        "Name": "Eldritch Orb of Annulment",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Lesser Eldritch Ember": [
+      {
+        "Name": "Lesser Eldritch Ember",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "SilverBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Greater Eldritch Ember": [
+      {
+        "Name": "Greater Eldritch Ember",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Lesser Eldritch Ichor": [
+      {
+        "Name": "Lesser Eldritch Ichor",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "SilverBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Greater Eldritch Ichor": [
+      {
+        "Name": "Greater Eldritch Ichor",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Grand Eldritch Ichor": [
+      {
+        "Name": "Grand Eldritch Ichor",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "StackedCurrency",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Exceptional Eldritch Ichor": [
+      {
+        "Name": "Exceptional Eldritch Ichor",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom"
+        ]
+      }
+    ],
+    "Surveyor's Compass": [
+      {
+        "Name": "Surveyor's Compass",
+        "Aspects": [
+          "Handled",
+          "ChanceBottom"
+        ]
+      }
+    ],
+    "Prime Sextant": [
+      {
+        "Name": "Prime Sextant",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Prime Sextant",
+        "BaseType": "Prime Sextant",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Otherworldly Scouting Report": [
+      {
+        "Name": "Otherworldly Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Comprehensive Scouting Report": [
+      {
+        "Name": "Comprehensive Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest",
+          "NoValueEarly"
+        ]
+      }
+    ],
+    "Delirious Scouting Report": [
+      {
+        "Name": "Delirious Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Operative's Scouting Report": [
+      {
+        "Name": "Operative's Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Operative's Scouting Report",
+        "BaseType": "Operative's Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Blighted Scouting Report": [
+      {
+        "Name": "Blighted Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Influenced Scouting Report": [
+      {
+        "Name": "Influenced Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Vaal Scouting Report": [
+      {
+        "Name": "Vaal Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "SilverBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Singular Scouting Report": [
+      {
+        "Name": "Singular Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Explorer's Scouting Report": [
+      {
+        "Name": "Explorer's Scouting Report",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "SilverBottom",
+          "EarlyLeagueInterest",
+          "PoorDrop"
+        ]
+      }
+    ],
+    "Silver Coin": [
+      {
+        "Name": "Silver Coin",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Silver Coin",
+        "BaseType": "Silver Coin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Horizon Shard": [
+      {
+        "Name": "Horizon Shard",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Burial Medallion": [
+      {
+        "Name": "Burial Medallion",
+        "Aspects": [
+          "Handled",
+          "AlchemyBottom",
+          "StackedCurrency",
+          "Tierable"
+        ]
+      }
+    ],
+    "Exotic Coinage": [
+      {
+        "Name": "Exotic Coinage",
+        "Aspects": [
+          "Handled",
+          "AlchemyBottom",
+          "Tierable",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Astragali": [
+      {
+        "Name": "Astragali",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Scrap Metal": [
+      {
+        "Name": "Scrap Metal",
+        "Aspects": [
+          "Handled",
+          "StackedCurrency",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Armour Recombinator": [
+      {
+        "Name": "Armour Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Armour Recombinator",
+        "BaseType": "Armour Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jewellery Recombinator": [
+      {
+        "Name": "Jewellery Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Jewellery Recombinator",
+        "BaseType": "Jewellery Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Weapon Recombinator": [
+      {
+        "Name": "Weapon Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Weapon Recombinator",
+        "BaseType": "Weapon Recombinator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacred Crystallised Lifeforce": [
+      {
+        "Name": "Sacred Crystallised Lifeforce",
+        "Aspects": [
+          "Handled",
+          "ChaosBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Wild Crystallised Lifeforce": [
+      {
+        "Name": "Wild Crystallised Lifeforce",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Primal Crystallised Lifeforce": [
+      {
+        "Name": "Primal Crystallised Lifeforce",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vivid Crystallised Lifeforce": [
+      {
+        "Name": "Vivid Crystallised Lifeforce",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fracturing Orb": [
+      {
+        "Name": "Fracturing Orb",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "DivineBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Fracturing Shard": [
+      {
+        "Name": "Fracturing Shard",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "ChaosBottom",
+          "StackedCurrency"
+        ]
+      }
+    ],
+    "Hinekora's Lock": [
+      {
+        "Name": "Hinekora's Lock",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tainted Catalyst": [
+      {
+        "Name": "Tainted Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Reality Fragment": [
+      {
+        "Name": "Reality Fragment",
+        "Aspects": []
+      }
+    ],
+    "Devouring Fragment": [
+      {
+        "Name": "Devouring Fragment",
+        "Aspects": []
+      }
+    ],
+    "Veiled Orb": [
+      {
+        "Name": "Veiled Orb",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Tierable"
+        ]
+      }
+    ],
+    "Blazing Fragment": [
+      {
+        "Name": "Blazing Fragment",
+        "Aspects": []
+      }
+    ],
+    "Synthesising Fragment": [
+      {
+        "Name": "Synthesising Fragment",
+        "Aspects": []
+      }
+    ],
+    "Awakening Fragment": [
+      {
+        "Name": "Awakening Fragment",
+        "Aspects": []
+      }
+    ],
+    "Decaying Fragment": [
+      {
+        "Name": "Decaying Fragment",
+        "Aspects": []
+      }
+    ],
+    "Cosmic Fragment": [
+      {
+        "Name": "Cosmic Fragment",
+        "Aspects": []
+      }
+    ],
+    "Veiled Scarab": [
+      {
+        "Name": "Veiled Scarab",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Oil Extractor": [
+      {
+        "Name": "Oil Extractor",
+        "Aspects": []
+      }
+    ],
+    "Reflecting Mist": [
+      {
+        "Name": "Reflecting Mist",
+        "Aspects": [
+          "DivineBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Maven's Chisel of Proliferation": [
+      {
+        "Name": "Maven's Chisel of Proliferation",
+        "Aspects": [
+          "Handled",
+          "AlchemyBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Maven's Chisel of Scarabs": [
+      {
+        "Name": "Maven's Chisel of Scarabs",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Maven's Chisel of Divination": [
+      {
+        "Name": "Maven's Chisel of Divination",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Maven's Chisel of Avarice": [
+      {
+        "Name": "Maven's Chisel of Avarice",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Maven's Chisel of Procurement": [
+      {
+        "Name": "Maven's Chisel of Procurement",
+        "Aspects": [
+          "Handled",
+          "AlchemyBottom",
+          "Tierable"
+        ]
+      }
+    ]
+  }
+}

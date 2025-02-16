@@ -1,0 +1,88 @@
+{
+  "Aspects": {
+    "Adaptive Catalyst": [
+      {
+        "Name": "Adaptive Catalyst",
+        "BaseType": "Adaptive Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Carapace Catalyst": [
+      {
+        "Name": "Carapace Catalyst",
+        "BaseType": "Carapace Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Chayula's Catalyst": [
+      {
+        "Name": "Chayula's Catalyst",
+        "BaseType": "Chayula's Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Esh's Catalyst": [
+      {
+        "Name": "Esh's Catalyst",
+        "BaseType": "Esh's Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Neural Catalyst": [
+      {
+        "Name": "Neural Catalyst",
+        "BaseType": "Neural Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Reaver Catalyst": [
+      {
+        "Name": "Reaver Catalyst",
+        "BaseType": "Reaver Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Xoph's Catalyst": [
+      {
+        "Name": "Xoph's Catalyst",
+        "BaseType": "Xoph's Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Tul's Catalyst": [
+      {
+        "Name": "Tul's Catalyst",
+        "BaseType": "Tul's Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Uul-Netol's Catalyst": [
+      {
+        "Name": "Uul-Netol's Catalyst",
+        "BaseType": "Uul-Netol's Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Skittering Catalyst": [
+      {
+        "Name": "Skittering Catalyst",
+        "BaseType": "Skittering Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Sibilant Catalyst": [
+      {
+        "Name": "Sibilant Catalyst",
+        "BaseType": "Sibilant Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Flesh Catalyst": [
+      {
+        "Name": "Flesh Catalyst",
+        "BaseType": "Flesh Catalyst",
+        "Aspects": []
+      }
+    ]
+  }
+}

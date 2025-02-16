@@ -1,0 +1,83 @@
+{
+  "Aspects": {
+    "Vial of the Ghost": [
+      {
+        "Name": "Vial of the Ghost",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Sacrifice": [
+      {
+        "Name": "Vial of Sacrifice",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Vial of Sacrifice",
+        "BaseType": "Vial of Sacrifice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Summoning": [
+      {
+        "Name": "Vial of Summoning",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Transcendence": [
+      {
+        "Name": "Vial of Transcendence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Awakening": [
+      {
+        "Name": "Vial of Awakening",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Consequence": [
+      {
+        "Name": "Vial of Consequence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Dominance": [
+      {
+        "Name": "Vial of Dominance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of the Ritual": [
+      {
+        "Name": "Vial of the Ritual",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vial of Fate": [
+      {
+        "Name": "Vial of Fate",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "Aspects": {
+    "Fractured Fossil": [
+      {
+        "Name": "Fractured Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Faceted Fossil": [
+      {
+        "Name": "Faceted Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hollow Fossil": [
+      {
+        "Name": "Hollow Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bloodstained Fossil": [
+      {
+        "Name": "Bloodstained Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sanctified Fossil": [
+      {
+        "Name": "Sanctified Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glyphic Fossil": [
+      {
+        "Name": "Glyphic Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dense Fossil": [
+      {
+        "Name": "Dense Fossil",
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
+      }
+    ],
+    "Gilded Fossil": [
+      {
+        "Name": "Gilded Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tangled Fossil": [
+      {
+        "Name": "Tangled Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shuddering Fossil": [
+      {
+        "Name": "Shuddering Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prismatic Fossil": [
+      {
+        "Name": "Prismatic Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Aetheric Fossil": [
+      {
+        "Name": "Aetheric Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pristine Fossil": [
+      {
+        "Name": "Pristine Fossil",
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Fossil": [
+      {
+        "Name": "Perfect Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serrated Fossil": [
+      {
+        "Name": "Serrated Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frigid Fossil": [
+      {
+        "Name": "Frigid Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bound Fossil": [
+      {
+        "Name": "Bound Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Metallic Fossil": [
+      {
+        "Name": "Metallic Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jagged Fossil": [
+      {
+        "Name": "Jagged Fossil",
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
+      }
+    ],
+    "Aberrant Fossil": [
+      {
+        "Name": "Aberrant Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scorched Fossil": [
+      {
+        "Name": "Scorched Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Corroded Fossil": [
+      {
+        "Name": "Corroded Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lucent Fossil": [
+      {
+        "Name": "Lucent Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Deft Fossil": [
+      {
+        "Name": "Deft Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fundamental Fossil": [
+      {
+        "Name": "Fundamental Fossil",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Opulent Fossil": [
+      {
+        "Name": "Opulent Fossil",
+        "BaseType": "Opulent Fossil",
+        "Aspects": []
+      }
+    ]
+  }
+}

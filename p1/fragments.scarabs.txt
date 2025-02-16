@@ -1,0 +1,1202 @@
+{
+  "Aspects": {
+    "Divination Scarab of Completion": [
+      {
+        "Name": "Divination Scarab of Completion",
+        "BaseType": "Divination Scarab of Completion",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Reliquary Scarab of Vision": [
+      {
+        "Name": "Reliquary Scarab of Vision",
+        "BaseType": "Reliquary Scarab of Vision",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Horned Scarab of Preservation": [
+      {
+        "Name": "Horned Scarab of Preservation",
+        "BaseType": "Horned Scarab of Preservation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Horned Scarab of Bloodlines": [
+      {
+        "Name": "Horned Scarab of Bloodlines",
+        "BaseType": "Horned Scarab of Bloodlines",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Divination Scarab of Curation": [
+      {
+        "Name": "Divination Scarab of Curation",
+        "BaseType": "Divination Scarab of Curation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Breach Scarab of the Dreamer": [
+      {
+        "Name": "Breach Scarab of the Dreamer",
+        "BaseType": "Breach Scarab of the Dreamer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bestiary Scarab of the Shadowed Crow": [
+      {
+        "Name": "Bestiary Scarab of the Shadowed Crow",
+        "BaseType": "Bestiary Scarab of the Shadowed Crow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Scarab of Calcification": [
+      {
+        "Name": "Essence Scarab of Calcification",
+        "BaseType": "Essence Scarab of Calcification",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Horned Scarab of Awakening": [
+      {
+        "Name": "Horned Scarab of Awakening",
+        "BaseType": "Horned Scarab of Awakening",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Harvest Scarab of Cornucopia": [
+      {
+        "Name": "Harvest Scarab of Cornucopia",
+        "BaseType": "Harvest Scarab of Cornucopia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab of Terrors": [
+      {
+        "Name": "Domination Scarab of Terrors",
+        "BaseType": "Domination Scarab of Terrors",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ambush Scarab of Containment": [
+      {
+        "Name": "Ambush Scarab of Containment",
+        "BaseType": "Ambush Scarab of Containment",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Horned Scarab of Pandemonium": [
+      {
+        "Name": "Horned Scarab of Pandemonium",
+        "BaseType": "Horned Scarab of Pandemonium",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Horned Scarab of Glittering": [
+      {
+        "Name": "Horned Scarab of Glittering",
+        "BaseType": "Horned Scarab of Glittering",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Horned Scarab of Nemeses": [
+      {
+        "Name": "Horned Scarab of Nemeses",
+        "BaseType": "Horned Scarab of Nemeses",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab of Blooming": [
+      {
+        "Name": "Blight Scarab of Blooming",
+        "BaseType": "Blight Scarab of Blooming",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ultimatum Scarab of Catalysing": [
+      {
+        "Name": "Ultimatum Scarab of Catalysing",
+        "BaseType": "Ultimatum Scarab of Catalysing",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Horned Scarab of Tradition": [
+      {
+        "Name": "Horned Scarab of Tradition",
+        "BaseType": "Horned Scarab of Tradition",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Scarab of Snares": [
+      {
+        "Name": "Breach Scarab of Snares",
+        "BaseType": "Breach Scarab of Snares",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Scarab of Archaeology": [
+      {
+        "Name": "Expedition Scarab of Archaeology",
+        "BaseType": "Expedition Scarab of Archaeology",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Scarab of Eternal Conflict": [
+      {
+        "Name": "Legion Scarab of Eternal Conflict",
+        "BaseType": "Legion Scarab of Eternal Conflict",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Scarab of Ascent": [
+      {
+        "Name": "Essence Scarab of Ascent",
+        "BaseType": "Essence Scarab of Ascent",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Incursion Scarab of Timelines": [
+      {
+        "Name": "Incursion Scarab of Timelines",
+        "BaseType": "Incursion Scarab of Timelines",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab of Teachings": [
+      {
+        "Name": "Domination Scarab of Teachings",
+        "BaseType": "Domination Scarab of Teachings",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bestiary Scarab of Duplicating": [
+      {
+        "Name": "Bestiary Scarab of Duplicating",
+        "BaseType": "Bestiary Scarab of Duplicating",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harvest Scarab of Doubling": [
+      {
+        "Name": "Harvest Scarab of Doubling",
+        "BaseType": "Harvest Scarab of Doubling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ultimatum Scarab of Dueling": [
+      {
+        "Name": "Ultimatum Scarab of Dueling",
+        "BaseType": "Ultimatum Scarab of Dueling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Scarab of the Skald": [
+      {
+        "Name": "Expedition Scarab of the Skald",
+        "BaseType": "Expedition Scarab of the Skald",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Influencing Scarab of Conversion": [
+      {
+        "Name": "Influencing Scarab of Conversion",
+        "BaseType": "Influencing Scarab of Conversion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Scarab": [
+      {
+        "Name": "Legion Scarab",
+        "BaseType": "Legion Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush Scarab of Discernment": [
+      {
+        "Name": "Ambush Scarab of Discernment",
+        "BaseType": "Ambush Scarab of Discernment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reliquary Scarab of Overlords": [
+      {
+        "Name": "Reliquary Scarab of Overlords",
+        "BaseType": "Reliquary Scarab of Overlords",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Scarab of Lordship": [
+      {
+        "Name": "Breach Scarab of Lordship",
+        "BaseType": "Breach Scarab of Lordship",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab of Bounty": [
+      {
+        "Name": "Blight Scarab of Bounty",
+        "BaseType": "Blight Scarab of Bounty",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Scarab of Warhoards": [
+      {
+        "Name": "Harbinger Scarab of Warhoards",
+        "BaseType": "Harbinger Scarab of Warhoards",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Stability": [
+      {
+        "Name": "Scarab of Stability",
+        "BaseType": "Scarab of Stability",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ritual Scarab of Abundance": [
+      {
+        "Name": "Ritual Scarab of Abundance",
+        "BaseType": "Ritual Scarab of Abundance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Scarab of Officers": [
+      {
+        "Name": "Legion Scarab of Officers",
+        "BaseType": "Legion Scarab of Officers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Singularity": [
+      {
+        "Name": "Cartography Scarab of Singularity",
+        "BaseType": "Cartography Scarab of Singularity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Delirium Scarab of Neuroses": [
+      {
+        "Name": "Delirium Scarab of Neuroses",
+        "BaseType": "Delirium Scarab of Neuroses",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab of Oils": [
+      {
+        "Name": "Blight Scarab of Oils",
+        "BaseType": "Blight Scarab of Oils",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bestiary Scarab of the Herd": [
+      {
+        "Name": "Bestiary Scarab of the Herd",
+        "BaseType": "Bestiary Scarab of the Herd",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Duplication": [
+      {
+        "Name": "Cartography Scarab of Duplication",
+        "BaseType": "Cartography Scarab of Duplication",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Beyond Scarab of the Invasion": [
+      {
+        "Name": "Beyond Scarab of the Invasion",
+        "BaseType": "Beyond Scarab of the Invasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Scarab of Edifice": [
+      {
+        "Name": "Abyss Scarab of Edifice",
+        "BaseType": "Abyss Scarab of Edifice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Scarab of Runefinding": [
+      {
+        "Name": "Expedition Scarab of Runefinding",
+        "BaseType": "Expedition Scarab of Runefinding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Scarab of Regency": [
+      {
+        "Name": "Harbinger Scarab of Regency",
+        "BaseType": "Harbinger Scarab of Regency",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Anarchy Scarab of Partnership": [
+      {
+        "Name": "Anarchy Scarab of Partnership",
+        "BaseType": "Anarchy Scarab of Partnership",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab of Abnormality": [
+      {
+        "Name": "Domination Scarab of Abnormality",
+        "BaseType": "Domination Scarab of Abnormality",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Beyond Scarab of Resurgence": [
+      {
+        "Name": "Beyond Scarab of Resurgence",
+        "BaseType": "Beyond Scarab of Resurgence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Beyond Scarab of Corruption": [
+      {
+        "Name": "Beyond Scarab of Corruption",
+        "BaseType": "Beyond Scarab of Corruption",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Scarab": [
+      {
+        "Name": "Essence Scarab",
+        "BaseType": "Essence Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Betrayal Scarab of Intelligence": [
+      {
+        "Name": "Betrayal Scarab of Intelligence",
+        "BaseType": "Betrayal Scarab of Intelligence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Scarab of Stability": [
+      {
+        "Name": "Essence Scarab of Stability",
+        "BaseType": "Essence Scarab of Stability",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Scarab of Command": [
+      {
+        "Name": "Legion Scarab of Command",
+        "BaseType": "Legion Scarab of Command",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Corruption": [
+      {
+        "Name": "Cartography Scarab of Corruption",
+        "BaseType": "Cartography Scarab of Corruption",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sulphite Scarab of Fumes": [
+      {
+        "Name": "Sulphite Scarab of Fumes",
+        "BaseType": "Sulphite Scarab of Fumes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Delirium Scarab of Mania": [
+      {
+        "Name": "Delirium Scarab of Mania",
+        "BaseType": "Delirium Scarab of Mania",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Scarab of Discernment": [
+      {
+        "Name": "Harbinger Scarab of Discernment",
+        "BaseType": "Harbinger Scarab of Discernment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush Scarab": [
+      {
+        "Name": "Ambush Scarab",
+        "BaseType": "Ambush Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Anarchy Scarab of Gigantification": [
+      {
+        "Name": "Anarchy Scarab of Gigantification",
+        "BaseType": "Anarchy Scarab of Gigantification",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Hunted Traitors": [
+      {
+        "Name": "Scarab of Hunted Traitors",
+        "BaseType": "Scarab of Hunted Traitors",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Influencing Scarab of Hordes": [
+      {
+        "Name": "Influencing Scarab of Hordes",
+        "BaseType": "Influencing Scarab of Hordes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Ascension": [
+      {
+        "Name": "Cartography Scarab of Ascension",
+        "BaseType": "Cartography Scarab of Ascension",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Scarab of Emptiness": [
+      {
+        "Name": "Abyss Scarab of Emptiness",
+        "BaseType": "Abyss Scarab of Emptiness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Delirium Scarab of Delusions": [
+      {
+        "Name": "Delirium Scarab of Delusions",
+        "BaseType": "Delirium Scarab of Delusions",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ultimatum Scarab of Inscription": [
+      {
+        "Name": "Ultimatum Scarab of Inscription",
+        "BaseType": "Ultimatum Scarab of Inscription",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Incursion Scarab of Champions": [
+      {
+        "Name": "Incursion Scarab of Champions",
+        "BaseType": "Incursion Scarab of Champions",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Betrayal Scarab of Perpetuation": [
+      {
+        "Name": "Betrayal Scarab of Perpetuation",
+        "BaseType": "Betrayal Scarab of Perpetuation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Legion Scarab of The Sekhema": [
+      {
+        "Name": "Legion Scarab of The Sekhema",
+        "BaseType": "Legion Scarab of The Sekhema",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Delirium Scarab of Paranoia": [
+      {
+        "Name": "Delirium Scarab of Paranoia",
+        "BaseType": "Delirium Scarab of Paranoia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Scarab of Splintering": [
+      {
+        "Name": "Breach Scarab of Splintering",
+        "BaseType": "Breach Scarab of Splintering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush Scarab of Hidden Compartments": [
+      {
+        "Name": "Ambush Scarab of Hidden Compartments",
+        "BaseType": "Ambush Scarab of Hidden Compartments",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Anarchy Scarab": [
+      {
+        "Name": "Anarchy Scarab",
+        "BaseType": "Anarchy Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reliquary Scarab": [
+      {
+        "Name": "Reliquary Scarab",
+        "BaseType": "Reliquary Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Monstrous Lineage": [
+      {
+        "Name": "Scarab of Monstrous Lineage",
+        "BaseType": "Scarab of Monstrous Lineage",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sulphite Scarab": [
+      {
+        "Name": "Sulphite Scarab",
+        "BaseType": "Sulphite Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Torment Scarab of Peculiarity": [
+      {
+        "Name": "Torment Scarab of Peculiarity",
+        "BaseType": "Torment Scarab of Peculiarity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sulphite Scarab of Greed": [
+      {
+        "Name": "Sulphite Scarab of Greed",
+        "BaseType": "Sulphite Scarab of Greed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harvest Scarab": [
+      {
+        "Name": "Harvest Scarab",
+        "BaseType": "Harvest Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ritual Scarab of Selectiveness": [
+      {
+        "Name": "Ritual Scarab of Selectiveness",
+        "BaseType": "Ritual Scarab of Selectiveness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Scarab": [
+      {
+        "Name": "Breach Scarab",
+        "BaseType": "Breach Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ritual Scarab of Recognition": [
+      {
+        "Name": "Ritual Scarab of Recognition",
+        "BaseType": "Ritual Scarab of Recognition",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Scarab of Verisium Powder": [
+      {
+        "Name": "Expedition Scarab of Verisium Powder",
+        "BaseType": "Expedition Scarab of Verisium Powder",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Beyond Scarab": [
+      {
+        "Name": "Beyond Scarab",
+        "BaseType": "Beyond Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Incursion Scarab": [
+      {
+        "Name": "Incursion Scarab",
+        "BaseType": "Incursion Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab": [
+      {
+        "Name": "Blight Scarab",
+        "BaseType": "Blight Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Incursion Scarab of Invasion": [
+      {
+        "Name": "Incursion Scarab of Invasion",
+        "BaseType": "Incursion Scarab of Invasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ultimatum Scarab": [
+      {
+        "Name": "Ultimatum Scarab",
+        "BaseType": "Ultimatum Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush Scarab of Potency": [
+      {
+        "Name": "Ambush Scarab of Potency",
+        "BaseType": "Ambush Scarab of Potency",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Adversaries": [
+      {
+        "Name": "Scarab of Adversaries",
+        "BaseType": "Scarab of Adversaries",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Scarab": [
+      {
+        "Name": "Harbinger Scarab",
+        "BaseType": "Harbinger Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Scarab": [
+      {
+        "Name": "Abyss Scarab",
+        "BaseType": "Abyss Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Delirium Scarab": [
+      {
+        "Name": "Delirium Scarab",
+        "BaseType": "Delirium Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Torment Scarab": [
+      {
+        "Name": "Torment Scarab",
+        "BaseType": "Torment Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Influencing Scarab of the Shaper": [
+      {
+        "Name": "Influencing Scarab of the Shaper",
+        "BaseType": "Influencing Scarab of the Shaper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab": [
+      {
+        "Name": "Cartography Scarab",
+        "BaseType": "Cartography Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mysterious Scarab": [
+      {
+        "Name": "Mysterious Scarab",
+        "BaseType": "Mysterious Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Scarab of Multitudes": [
+      {
+        "Name": "Abyss Scarab of Multitudes",
+        "BaseType": "Abyss Scarab of Multitudes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ultimatum Scarab of Bribing": [
+      {
+        "Name": "Ultimatum Scarab of Bribing",
+        "BaseType": "Ultimatum Scarab of Bribing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bestiary Scarab": [
+      {
+        "Name": "Bestiary Scarab",
+        "BaseType": "Bestiary Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divination Scarab": [
+      {
+        "Name": "Divination Scarab",
+        "BaseType": "Divination Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Scarab": [
+      {
+        "Name": "Expedition Scarab",
+        "BaseType": "Expedition Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Betrayal Scarab": [
+      {
+        "Name": "Betrayal Scarab",
+        "BaseType": "Betrayal Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab": [
+      {
+        "Name": "Domination Scarab",
+        "BaseType": "Domination Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Influencing Scarab of the Elder": [
+      {
+        "Name": "Influencing Scarab of the Elder",
+        "BaseType": "Influencing Scarab of the Elder",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Beyond Scarab of Haemophilia": [
+      {
+        "Name": "Beyond Scarab of Haemophilia",
+        "BaseType": "Beyond Scarab of Haemophilia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Torment Scarab of Release": [
+      {
+        "Name": "Torment Scarab of Release",
+        "BaseType": "Torment Scarab of Release",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Betrayal Scarab of Reinforcements": [
+      {
+        "Name": "Betrayal Scarab of Reinforcements",
+        "BaseType": "Betrayal Scarab of Reinforcements",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab of Invigoration": [
+      {
+        "Name": "Blight Scarab of Invigoration",
+        "BaseType": "Blight Scarab of Invigoration",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Scarab of Profound Depth": [
+      {
+        "Name": "Abyss Scarab of Profound Depth",
+        "BaseType": "Abyss Scarab of Profound Depth",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Scarab of Adaptation": [
+      {
+        "Name": "Essence Scarab of Adaptation",
+        "BaseType": "Essence Scarab of Adaptation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Scarab of Resonant Cascade": [
+      {
+        "Name": "Breach Scarab of Resonant Cascade",
+        "BaseType": "Breach Scarab of Resonant Cascade",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Radiant Storms": [
+      {
+        "Name": "Scarab of Radiant Storms",
+        "BaseType": "Scarab of Radiant Storms",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Wisps": [
+      {
+        "Name": "Scarab of Wisps",
+        "BaseType": "Scarab of Wisps",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Torment Scarab of Possession": [
+      {
+        "Name": "Torment Scarab of Possession",
+        "BaseType": "Torment Scarab of Possession",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divination Scarab of Pilfering": [
+      {
+        "Name": "Divination Scarab of Pilfering",
+        "BaseType": "Divination Scarab of Pilfering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of the Multitude": [
+      {
+        "Name": "Cartography Scarab of the Multitude",
+        "BaseType": "Cartography Scarab of the Multitude",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divination Scarab of The Cloister": [
+      {
+        "Name": "Divination Scarab of The Cloister",
+        "BaseType": "Divination Scarab of The Cloister",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titanic Scarab of Treasures": [
+      {
+        "Name": "Titanic Scarab of Treasures",
+        "BaseType": "Titanic Scarab of Treasures",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Escalation": [
+      {
+        "Name": "Cartography Scarab of Escalation",
+        "BaseType": "Cartography Scarab of Escalation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight Scarab of the Blightheart": [
+      {
+        "Name": "Blight Scarab of the Blightheart",
+        "BaseType": "Blight Scarab of the Blightheart",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ritual Scarab of Wisps": [
+      {
+        "Name": "Ritual Scarab of Wisps",
+        "BaseType": "Ritual Scarab of Wisps",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cartography Scarab of Risk": [
+      {
+        "Name": "Cartography Scarab of Risk",
+        "BaseType": "Cartography Scarab of Risk",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divination Scarab of Plenty": [
+      {
+        "Name": "Divination Scarab of Plenty",
+        "BaseType": "Divination Scarab of Plenty",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Divinity": [
+      {
+        "Name": "Scarab of Divinity",
+        "BaseType": "Scarab of Divinity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Harbinger Scarab of Obelisks": [
+      {
+        "Name": "Harbinger Scarab of Obelisks",
+        "BaseType": "Harbinger Scarab of Obelisks",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab of Apparitions": [
+      {
+        "Name": "Domination Scarab of Apparitions",
+        "BaseType": "Domination Scarab of Apparitions",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Domination Scarab of Evolution": [
+      {
+        "Name": "Domination Scarab of Evolution",
+        "BaseType": "Domination Scarab of Evolution",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titanic Scarab of Legend": [
+      {
+        "Name": "Titanic Scarab of Legend",
+        "BaseType": "Titanic Scarab of Legend",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of Bisection": [
+      {
+        "Name": "Scarab of Bisection",
+        "BaseType": "Scarab of Bisection",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titanic Scarab": [
+      {
+        "Name": "Titanic Scarab",
+        "BaseType": "Titanic Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  }
+}
