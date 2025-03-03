@@ -737,8 +737,7 @@
         "Name": "Tailoring Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -813,7 +812,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "StackedCurrency"
         ]
       }
@@ -1190,8 +1188,7 @@
         "Name": "Orb of Conflict",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1630,7 +1627,9 @@
     "Tainted Catalyst": [
       {
         "Name": "Tainted Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Tierable"
+        ]
       }
     ],
     "Reality Fragment": [
@@ -1763,5 +1762,1248 @@
         ]
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Tailoring Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Orb of Conflict": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Sacred Crystallised Lifeforce": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Exceptional Eldritch Ember": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Blessing of Tul": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1",
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Exceptional Eldritch Ichor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Blessing of Uul-Netol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1",
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Blessing of Xoph": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Tempering Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Blessing of Esh": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Eldritch Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Eldritch Orb of Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Tainted Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Fracturing Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Sacred Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Maven's Chisel of Proliferation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Maven's Chisel of Scarabs": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Prismatic Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Eldritch Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Maven's Chisel of Avarice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Tainted Orb of Fusing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Fertile Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Tainted Mythic Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Grand Eldritch Ember": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Ancient Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Comprehensive Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Ritual Vessel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Tainted Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Maven's Chisel of Divination": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Tainted Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Orb of Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Otherworldly Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Tempering Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Grand Eldritch Ichor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Singular Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Influenced Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Tainted Chromatic Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Maven's Chisel of Procurement": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Blighted Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Unstable Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Delirious Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Stacked Deck": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Tainted Armourer's Scrap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Harbinger's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Gemcutter's Prism": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Turbulent Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Intrinsic Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Noxious Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Accelerating Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Vaal Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Operative's Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Explorer's Scouting Report": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Abrasive Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Greater Eldritch Ember": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Imbued Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Tainted Jeweller's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Cartographer's Chisel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Engineer's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Tainted Blacksmith's Whetstone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Regal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Glassblower's Bauble": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Vaal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Enkindling Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Greater Eldritch Ichor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Orb of Scouring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Orb of Unmaking": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Orb of Regret": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Orb of Alteration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ],
+      "Blessed Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Orb of Horizons": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Lesser Eldritch Ember": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Lesser Eldritch Ichor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Instilling Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Orb of Fusing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Chromatic Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ],
+      "Jeweller's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ],
+      "Orb of Chance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ],
+      "Orb of Binding": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Astragali": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Scrap Metal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Burial Medallion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Exotic Coinage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t2divine",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Ancient Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Annulment Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4chaos",
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Harbinger's Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ]
+    }
   }
 }

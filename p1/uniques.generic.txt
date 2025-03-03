@@ -1479,8 +1479,7 @@
         "Name": "Kongor's Undying Rage",
         "BaseType": "Terror Maul",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -3228,8 +3227,7 @@
         "Name": "Doedre's Tenure",
         "BaseType": "Velvet Gloves",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -7643,7 +7641,8 @@
         "BaseType": "Runic Gages",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -9153,5 +9152,396 @@
         ]
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Dusk Blade": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Branded Kite Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "multispecial"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Destiny Leather": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "multispecial"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Vaal Axe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "multispecial",
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Sinner Tricorne": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "multispecial",
+            "multispecialhigh",
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Desert Brigandine": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Ezomyte Dagger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Cleaver": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "multispecial",
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Shadow Sceptre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "multispecial",
+            "t2",
+            "t1",
+            "t3boss"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Nightmare Bascinet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "multispecial"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Imbued Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "multispecial",
+            "multispecialhigh"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Close Helmet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable",
+            "hideable2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Sanctified Life Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable",
+            "hideable2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Cutthroat's Garb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Tricorne": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Mesh Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Carnal Sceptre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Gold Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "multispecialhigh"
+          ],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Varnished Coat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Citrine Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Legion Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Granite Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Necromancer Silks": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Lacquered Garb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Scholar's Robe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable2",
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ]
+    }
   }
 }
