@@ -13,7 +13,8 @@
         "Name": "Cloak of Flame",
         "BaseType": "Silk Robe",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Anchor"
         ]
       }
     ],
@@ -68,6 +69,13 @@
           "PreventHiding",
           "EarlyLeagueInterest",
           "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Essentia Sanguis",
+        "BaseType": "Furtive Wraps",
+        "Aspects": [
+          "Handled"
         ]
       }
     ],
@@ -154,7 +162,8 @@
         "BaseType": "Crucible Tower Shield",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -306,7 +315,8 @@
         "BaseType": "Felt Cap",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -342,7 +352,8 @@
         "Name": "Corpsewade",
         "BaseType": "Iron Greaves",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -687,6 +698,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "The Deepest Tower",
+        "BaseType": "Spiritbone Crown",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Full Plate": [
@@ -852,6 +870,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Widow's Reign",
+        "BaseType": "Knight Armour",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Gauze Wraps": [
@@ -950,7 +975,8 @@
         "BaseType": "Grand Manchettes",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -962,6 +988,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Tabula Rasa",
+        "BaseType": "Garment",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Spined Bracers": [
@@ -969,7 +1002,8 @@
         "Name": "Snakebite",
         "BaseType": "Spined Bracers",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1053,6 +1087,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Road Warrior",
+        "BaseType": "Raider Plate",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Bronze Greaves": [
@@ -1096,7 +1137,8 @@
         "Name": "The Three Dragons",
         "BaseType": "Solid Mask",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1186,7 +1228,8 @@
         "Name": "Wake of Destruction",
         "BaseType": "Secured Leggings",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1213,7 +1256,8 @@
         "Name": "Windscream",
         "BaseType": "Feathered Sandals",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1314,7 +1358,8 @@
         "Name": "Atziri's Disdain",
         "BaseType": "Gold Circlet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1323,8 +1368,7 @@
         "Name": "Aurseize",
         "BaseType": "Layered Gauntlets",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -1352,7 +1396,9 @@
         "Name": "Birth of Fury",
         "BaseType": "Stone Greaves",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1566,6 +1612,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Waistgate",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Utility Belt": [
@@ -1590,6 +1643,13 @@
       },
       {
         "Name": "Death Rush",
+        "BaseType": "Emerald Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Vigilant View",
         "BaseType": "Emerald Ring",
         "Aspects": [
           "Handled"
@@ -1728,6 +1788,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Evergrasping Ring",
+        "BaseType": "Pearl Ring",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Lazuli Ring": [
@@ -1804,6 +1871,27 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Venopuncture",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Prized Pain",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Icefang Orbit",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Azure Amulet": [
@@ -1829,7 +1917,8 @@
         "Name": "Meginord's Girdle",
         "BaseType": "Rawhide Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -1863,6 +1952,13 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Stone of Lazhwar",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled"
         ]
       }
     ],
@@ -1914,6 +2010,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Gnashing Sash",
+        "BaseType": "Wide Belt",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Fine Belt": [
@@ -1941,11 +2044,26 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Yoke of Suffering",
+        "BaseType": "Bloodstone Amulet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       }
     ],
     "Plate Belt": [
       {
         "Name": "Infernoclasp",
+        "BaseType": "Plate Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Goregirdle",
         "BaseType": "Plate Belt",
         "Aspects": [
           "Handled"
@@ -2087,6 +2205,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Sire of Shards",
+        "BaseType": "Chiming Staff",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Torment Club": [
@@ -2096,6 +2221,14 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Mjölner",
+        "BaseType": "Torment Club",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2306,7 +2439,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "HighVariety"
+          "HighVariety",
+          "Anchor"
         ]
       }
     ],
@@ -2412,6 +2546,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Megalomaniac",
+        "BaseType": "Diamond",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Emerald": [
@@ -2423,11 +2564,920 @@
           "HighVariety"
         ]
       }
+    ],
+    "Armoured Vest": [
+      {
+        "Name": "Hyrri's Ire",
+        "BaseType": "Armoured Vest",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Heroic Armour": [
+      {
+        "Name": "The Coming Calamity",
+        "BaseType": "Heroic Armour",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Embroidered Gloves": [
+      {
+        "Name": "Leopold's Applause",
+        "BaseType": "Embroidered Gloves",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Blacksteel Tower Shield": [
+      {
+        "Name": "Chernobog's Pillar",
+        "BaseType": "Blacksteel Tower Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Magus Tiara": [
+      {
+        "Name": "Indigon",
+        "BaseType": "Magus Tiara",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Intricate Crest Shield": [
+      {
+        "Name": "Prism Guardian",
+        "BaseType": "Intricate Crest Shield",
+        "Aspects": [
+          "PreventHiding",
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Sacred Focus": [
+      {
+        "Name": "Rathpith Globe",
+        "BaseType": "Sacred Focus",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Velvet Cap": [
+      {
+        "Name": "Heatshiver",
+        "BaseType": "Velvet Cap",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Ornate Gauntlets": [
+      {
+        "Name": "Death Articulated",
+        "BaseType": "Ornate Gauntlets",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Enlightened Robe": [
+      {
+        "Name": "Silks of Veneration",
+        "BaseType": "Enlightened Robe",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Array Buckler": [
+      {
+        "Name": "Sunsplinter",
+        "BaseType": "Array Buckler",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Scalper's Jacket": [
+      {
+        "Name": "Zerphi's Serape",
+        "BaseType": "Scalper's Jacket",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Decorated Helm": [
+      {
+        "Name": "The Bringer of Rain",
+        "BaseType": "Decorated Helm",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Havoc Raiment": [
+      {
+        "Name": "Cloak of Defiance",
+        "BaseType": "Havoc Raiment",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Corsair Cap": [
+      {
+        "Name": "The Black Insignia",
+        "BaseType": "Corsair Cap",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Bolstered Mitts": [
+      {
+        "Name": "Dreadfist",
+        "BaseType": "Bolstered Mitts",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Barricade Tower Shield": [
+      {
+        "Name": "Window to Paradise",
+        "BaseType": "Barricade Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacrificial Mantle": [
+      {
+        "Name": "Soul Mantle",
+        "BaseType": "Sacrificial Mantle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Antler Focus": [
+      {
+        "Name": "Effigy of Cruelty",
+        "BaseType": "Antler Focus",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lamellar Mail": [
+      {
+        "Name": "The Fallen Formation",
+        "BaseType": "Lamellar Mail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blunt Quiver": [
+      {
+        "Name": "Rearguard",
+        "BaseType": "Blunt Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacral Quiver": [
+      {
+        "Name": "The Lethal Draw",
+        "BaseType": "Sacral Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wooden Buckler": [
+      {
+        "Name": "Nocturne",
+        "BaseType": "Wooden Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Buckler": [
+      {
+        "Name": "Bloodbarrier",
+        "BaseType": "Iron Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spiked Buckler": [
+      {
+        "Name": "Silverthorne",
+        "BaseType": "Spiked Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Plate Gauntlets": [
+      {
+        "Name": "Valako's Vice",
+        "BaseType": "Plate Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leather Buckler": [
+      {
+        "Name": "Dunkelhalt",
+        "BaseType": "Leather Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Plated Buckler": [
+      {
+        "Name": "Rondel de Ezo",
+        "BaseType": "Plated Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elementalist Robe": [
+      {
+        "Name": "Gloamgown",
+        "BaseType": "Elementalist Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pauascale Gloves": [
+      {
+        "Name": "Nightscale",
+        "BaseType": "Pauascale Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diviner Cuffs": [
+      {
+        "Name": "The Prisoner's Manacles",
+        "BaseType": "Diviner Cuffs",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shrouded Vest": [
+      {
+        "Name": "Sands of Silk",
+        "BaseType": "Shrouded Vest",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Voodoo Focus": [
+      {
+        "Name": "Apep's Supremacy",
+        "BaseType": "Voodoo Focus",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Corvus Mantle": [
+      {
+        "Name": "Sacrosanctum",
+        "BaseType": "Corvus Mantle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tideseer Mantle": [
+      {
+        "Name": "Waveshaper",
+        "BaseType": "Tideseer Mantle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Coral Circlet": [
+      {
+        "Name": "Crown of Eyes",
+        "BaseType": "Coral Circlet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Cleric Vestments": [
+      {
+        "Name": "The Mutable Star",
+        "BaseType": "Cleric Vestments",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Heraldric Tower Shield": [
+      {
+        "Name": "Redblade Banner",
+        "BaseType": "Heraldric Tower Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fierce Greathelm": [
+      {
+        "Name": "Blood Price",
+        "BaseType": "Fierce Greathelm",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ornate Buckler": [
+      {
+        "Name": "Calgyra's Arc",
+        "BaseType": "Ornate Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titan Mitts": [
+      {
+        "Name": "Empire's Grasp",
+        "BaseType": "Titan Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jade Tiara": [
+      {
+        "Name": "Scold's Bridle",
+        "BaseType": "Jade Tiara",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Plated Raiment": [
+      {
+        "Name": "Vis Mortis",
+        "BaseType": "Plated Raiment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Strider Vest": [
+      {
+        "Name": "Yriel's Fostering",
+        "BaseType": "Strider Vest",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leatherbound Hood": [
+      {
+        "Name": "Starkonja's Head",
+        "BaseType": "Leatherbound Hood",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Unset Ring": [
+      {
+        "Name": "Bursting Decay",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Double Belt": [
+      {
+        "Name": "Bijouborne",
+        "BaseType": "Double Belt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Prismatic Ring": [
+      {
+        "Name": "Gifts from Above",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Silver Charm": [
+      {
+        "Name": "The Fall of the Axe",
+        "BaseType": "Silver Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Stone Charm": [
+      {
+        "Name": "For Utopia",
+        "BaseType": "Stone Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Thawing Charm": [
+      {
+        "Name": "Nascent Hope",
+        "BaseType": "Thawing Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Amethyst Charm": [
+      {
+        "Name": "Forsaken Bangle",
+        "BaseType": "Amethyst Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Topaz Charm": [
+      {
+        "Name": "Valako's Roar",
+        "BaseType": "Topaz Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Antidote Charm": [
+      {
+        "Name": "Arakaali's Gift",
+        "BaseType": "Antidote Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Sapphire Charm": [
+      {
+        "Name": "Breath of the Mountains",
+        "BaseType": "Sapphire Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ruby Charm": [
+      {
+        "Name": "Ngamahu's Chosen",
+        "BaseType": "Ruby Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Dousing Charm": [
+      {
+        "Name": "Beira's Anguish",
+        "BaseType": "Dousing Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Staunching Charm": [
+      {
+        "Name": "Sanguis Heroum",
+        "BaseType": "Staunching Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Grounding Charm": [
+      {
+        "Name": "The Black Cat",
+        "BaseType": "Grounding Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Giant Maul": [
+      {
+        "Name": "The Hammer of Faith",
+        "BaseType": "Giant Maul",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Helix Spear": [
+      {
+        "Name": "Spire of Ire",
+        "BaseType": "Helix Spear",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Winged Spear": [
+      {
+        "Name": "Skysliver",
+        "BaseType": "Winged Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Barbed Spear": [
+      {
+        "Name": "Saitha's Spear",
+        "BaseType": "Barbed Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Forked Spear": [
+      {
+        "Name": "Tangletongue",
+        "BaseType": "Forked Spear",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Hunting Spear": [
+      {
+        "Name": "Chainsting",
+        "BaseType": "Hunting Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Acrid Wand": [
+      {
+        "Name": "Cursecarver",
+        "BaseType": "Acrid Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cultist Greathammer": [
+      {
+        "Name": "The Empty Roar",
+        "BaseType": "Cultist Greathammer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "War Spear": [
+      {
+        "Name": "Daevata's Wind",
+        "BaseType": "War Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warpick": [
+      {
+        "Name": "Sculpted Suffering",
+        "BaseType": "Warpick",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Temple Maul": [
+      {
+        "Name": "Shyaba",
+        "BaseType": "Temple Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ironhead Spear": [
+      {
+        "Name": "Tyranny's Grip",
+        "BaseType": "Ironhead Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Withered Wand": [
+      {
+        "Name": "The Wicked Quill",
+        "BaseType": "Withered Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hardwood Spear": [
+      {
+        "Name": "Splinter of Loratta",
+        "BaseType": "Hardwood Spear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zealot Bow": [
+      {
+        "Name": "Slivertongue",
+        "BaseType": "Zealot Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Composite Bow": [
+      {
+        "Name": "Doomfletch",
+        "BaseType": "Composite Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fanatic Bow": [
+      {
+        "Name": "Voltaxic Rift",
+        "BaseType": "Fanatic Bow",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Pointed Maul": [
+      {
+        "Name": "Tidebreaker",
+        "BaseType": "Pointed Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Execratus Hammer": [
+      {
+        "Name": "Nebuloch",
+        "BaseType": "Execratus Hammer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Timeless Jewel": [
+      {
+        "Name": "Heroic Tragedy",
+        "BaseType": "Timeless Jewel",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ruby": [
+      {
+        "Name": "Grand Spectrum",
+        "BaseType": "Ruby",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
     "TieringRanges": {
-      
+      "Burnished Gauntlets": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Lazuli Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "multispecialhigh"
+          ],
+          "FallbackTier": "multispecial"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t1",
+            "t3",
+            "multispecialhigh",
+            "multispecial"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Emerald Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "multispecial",
+            "multispecialhigh",
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "multispecialhigh",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Jewelled Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Spiked Club": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "multispecial"
+          ],
+          "FallbackTier": "t2"
+        }
+      ]
     }
   }
 }

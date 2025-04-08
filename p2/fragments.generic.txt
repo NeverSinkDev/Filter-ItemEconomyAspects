@@ -104,6 +104,96 @@
           "Handled"
         ]
       }
+    ],
+    "Simulacrum Splinter": [
+      {
+        "Name": "Simulacrum Splinter",
+        "BaseType": "Simulacrum Splinter",
+        "Aspects": []
+      }
+    ],
+    "Breach Splinter": [
+      {
+        "Name": "Breach Splinter",
+        "BaseType": "Breach Splinter",
+        "Aspects": []
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "An Audience with the King": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Simulacrum": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Breachstone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Cowardly Fate": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Victorious Fate": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ]
+    }
   }
 }

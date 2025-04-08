@@ -128,7 +128,8 @@
         "Name": "Lesser Jeweller's Orb",
         "BaseType": "Lesser Jeweller's Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Anchor"
         ]
       }
     ],
@@ -221,6 +222,163 @@
           "Handled"
         ]
       }
+    ],
+    "Fracturing Orb": [
+      {
+        "Name": "Fracturing Orb",
+        "BaseType": "Fracturing Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Chance Shard": [
+      {
+        "Name": "Chance Shard",
+        "BaseType": "Chance Shard",
+        "Aspects": []
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Glassblower's Bauble": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Orb of Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "d"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Greater Jeweller's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "d"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "s"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Orb of Chance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Lesser Jeweller's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "b",
+            "a",
+            "s",
+            "c"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "a",
+            "b"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Fracturing Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c",
+            "s"
+          ],
+          "FallbackTier": "b"
+        }
+      ]
+    }
   }
 }
