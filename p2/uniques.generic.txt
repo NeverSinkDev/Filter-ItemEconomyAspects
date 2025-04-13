@@ -1545,6 +1545,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Strugglescream",
+        "BaseType": "Stellar Amulet",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Sapphire Ring": [
@@ -2015,7 +2022,9 @@
         "Name": "The Gnashing Sash",
         "BaseType": "Wide Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -2654,7 +2663,8 @@
         "BaseType": "Ornate Gauntlets",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3001,7 +3011,8 @@
         "Name": "Bursting Decay",
         "BaseType": "Unset Ring",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3182,7 +3193,8 @@
         "BaseType": "Forked Spear",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3263,7 +3275,8 @@
         "Name": "Splinter of Loratta",
         "BaseType": "Hardwood Spear",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3329,6 +3342,26 @@
         "BaseType": "Ruby",
         "Aspects": [
           "Handled"
+        ]
+      }
+    ],
+    "Golden Charm": [
+      {
+        "Name": "Rite of Passage",
+        "BaseType": "Golden Charm",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Wyrm Quarterstaff": [
+      {
+        "Name": "Collapsing Horizon",
+        "BaseType": "Wyrm Quarterstaff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ]
@@ -3474,6 +3507,34 @@
           "Tiers": [
             "t1",
             "multispecial"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Time-Lost Diamond": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Timeless Jewel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
           ],
           "FallbackTier": "t2"
         }
