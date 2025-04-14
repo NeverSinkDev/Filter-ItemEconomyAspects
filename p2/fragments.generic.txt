@@ -193,6 +193,21 @@
           ],
           "FallbackTier": "a"
         }
+      ],
+      "Deadly Fate": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
       ]
     }
   }

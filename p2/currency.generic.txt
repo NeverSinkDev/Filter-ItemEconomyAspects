@@ -256,7 +256,7 @@
             "a",
             "s"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Orb of Annulment": [
@@ -377,6 +377,70 @@
             "s"
           ],
           "FallbackTier": "b"
+        }
+      ],
+      "Orb of Alchemy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Vaal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Armourer's Scrap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Regal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s",
+            "e"
+          ],
+          "FallbackTier": "d"
         }
       ]
     }

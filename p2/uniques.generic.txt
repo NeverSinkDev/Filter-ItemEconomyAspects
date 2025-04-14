@@ -1860,7 +1860,8 @@
         "BaseType": "Crimson Amulet",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       },
       {
@@ -3341,7 +3342,8 @@
         "Name": "Grand Spectrum",
         "BaseType": "Ruby",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Anchor"
         ]
       }
     ],
@@ -3363,6 +3365,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      }
+    ],
+    "Dull Hatchet": [
+      {
+        "Name": "INCOMPLETE",
+        "BaseType": "Dull Hatchet",
+        "Aspects": []
       }
     ]
   },
