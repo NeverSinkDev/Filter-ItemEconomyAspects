@@ -156,7 +156,8 @@
         "Name": "Armourer's Scrap",
         "BaseType": "Armourer's Scrap",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -174,7 +175,8 @@
         "Name": "Vaal Orb",
         "BaseType": "Vaal Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -192,7 +194,8 @@
         "Name": "Orb of Alchemy",
         "BaseType": "Orb of Alchemy",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -201,7 +204,8 @@
         "Name": "Regal Orb",
         "BaseType": "Regal Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
