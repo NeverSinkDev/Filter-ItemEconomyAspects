@@ -3197,7 +3197,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "HighVariety"
         ]
       }
     ],
@@ -3575,6 +3576,21 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "Forked Spear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "multispecial"
         }
       ]
     }
