@@ -4657,6 +4657,20 @@
           "Tiers": [],
           "FallbackTier": "t4"
         }
+      ],
+      "Turn the Other Cheek": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
       ]
     }
   }
