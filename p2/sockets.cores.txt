@@ -134,6 +134,105 @@
           "Handled"
         ]
       }
+    ],
+    "Rabbit Talisman": [
+      {
+        "Name": "Rabbit Talisman",
+        "BaseType": "Rabbit Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fox Talisman": [
+      {
+        "Name": "Fox Talisman",
+        "BaseType": "Fox Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stag Talisman": [
+      {
+        "Name": "Stag Talisman",
+        "BaseType": "Stag Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cat Talisman": [
+      {
+        "Name": "Cat Talisman",
+        "BaseType": "Cat Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boar Talisman": [
+      {
+        "Name": "Boar Talisman",
+        "BaseType": "Boar Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Owl Talisman": [
+      {
+        "Name": "Owl Talisman",
+        "BaseType": "Owl Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bear Talisman": [
+      {
+        "Name": "Bear Talisman",
+        "BaseType": "Bear Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serpent Talisman": [
+      {
+        "Name": "Serpent Talisman",
+        "BaseType": "Serpent Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wolf Talisman": [
+      {
+        "Name": "Wolf Talisman",
+        "BaseType": "Wolf Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ox Talisman": [
+      {
+        "Name": "Ox Talisman",
+        "BaseType": "Ox Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Primate Talisman": [
+      {
+        "Name": "Primate Talisman",
+        "BaseType": "Primate Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
