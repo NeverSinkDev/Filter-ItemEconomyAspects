@@ -236,6 +236,31 @@
     ]
   },
   "TieringRangeList": {
-    "TieringRanges": {}
+    "TieringRanges": {
+      "Rabbit Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Fox Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ]
+    }
   }
 }
