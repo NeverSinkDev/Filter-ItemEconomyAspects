@@ -260,6 +260,37 @@
           "Tiers": [],
           "FallbackTier": "s"
         }
+      ],
+      "Soul Core of Zantipi": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c",
+            "d"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Ticaba": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "b"
+        }
       ]
     }
   }

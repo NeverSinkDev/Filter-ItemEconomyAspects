@@ -215,6 +215,98 @@
           "Handled"
         ]
       }
+    ],
+    "Essence of Delirium": [
+      {
+        "Name": "Essence of Delirium",
+        "BaseType": "Essence of Delirium",
+        "Aspects": []
+      }
+    ],
+    "Essence of Insanity": [
+      {
+        "Name": "Essence of Insanity",
+        "BaseType": "Essence of Insanity",
+        "Aspects": []
+      }
+    ],
+    "Essence of Horror": [
+      {
+        "Name": "Essence of Horror",
+        "BaseType": "Essence of Horror",
+        "Aspects": []
+      }
+    ],
+    "Essence of Hysteria": [
+      {
+        "Name": "Essence of Hysteria",
+        "BaseType": "Essence of Hysteria",
+        "Aspects": []
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Essence of Hysteria": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Essence of Horror": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Essence of Insanity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Essence of Delirium": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ]
+    }
   }
 }
