@@ -90,5 +90,156 @@
         ]
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Distilled Ire": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "d"
+          ],
+          "FallbackTier": "e"
+        }
+      ],
+      "Distilled Guilt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Distilled Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Distilled Paranoia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Distilled Envy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "d",
+            "e"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Distilled Disgust": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Distilled Despair": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "d",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Distilled Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Distilled Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Distilled Isolation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ]
+    }
   }
 }
