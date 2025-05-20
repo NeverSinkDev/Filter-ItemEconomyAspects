@@ -37,7 +37,8 @@
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       }
     ],
@@ -85,7 +86,8 @@
         "BaseType": "Fine Bracers",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       }
     ],
@@ -95,7 +97,8 @@
         "BaseType": "Tribal Mask",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       },
       {
@@ -114,7 +117,8 @@
         "BaseType": "Stone Tower Shield",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       }
     ],
@@ -135,7 +139,8 @@
         "BaseType": "Chain Tiara",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       },
       {
@@ -172,7 +177,8 @@
         "Name": "Cornathaum",
         "BaseType": "Heavy Crown",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -227,7 +233,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       }
     ],
@@ -588,7 +595,8 @@
         "Name": "Gravebind",
         "BaseType": "Rope Cuffs",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -994,7 +1002,8 @@
         "Name": "Tabula Rasa",
         "BaseType": "Garment",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2613,7 +2622,8 @@
         "BaseType": "Blacksteel Tower Shield",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
