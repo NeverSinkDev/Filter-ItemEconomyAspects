@@ -1453,7 +1453,8 @@
         "Name": "Kaom's Primacy",
         "BaseType": "Karui Chopper",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -9151,6 +9152,18 @@
           "NonDrop"
         ]
       }
+    ],
+    "Fishing Rod": [
+      {
+        "Name": "Reefbane",
+        "BaseType": "Fishing Rod",
+        "Aspects": []
+      },
+      {
+        "Name": "Song of the Sirens",
+        "BaseType": "Fishing Rod",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -9540,6 +9553,21 @@
             "hideable"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "Karui Chopper": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "earlyleague"
         }
       ]
     }

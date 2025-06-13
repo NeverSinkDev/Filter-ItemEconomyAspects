@@ -1651,7 +1651,8 @@
           "Handled",
           "PreventHiding",
           "EarlyLeagueInterest",
-          "Tierable"
+          "Tierable",
+          "Anchor"
         ]
       }
     ],
