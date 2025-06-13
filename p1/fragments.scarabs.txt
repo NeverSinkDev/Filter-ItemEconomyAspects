@@ -6,7 +6,8 @@
         "BaseType": "Horned Scarab of Preservation",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "Anchor"
         ]
       }
     ],
@@ -963,6 +964,1079 @@
     ]
   },
   "TieringRangeList": {
-    "TieringRanges": {}
+    "TieringRanges": {
+      "Ultimatum Scarab of Catalysing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Horned Scarab of Glittering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Horned Scarab of Awakening": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Horned Scarab of Pandemonium": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Domination Scarab of Terrors": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Ritual Scarab of Abundance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Harvest Scarab of Doubling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Cartography Scarab of Corruption": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Cartography Scarab of the Multitude": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Harbinger Scarab of Regency": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Blight Scarab of Blooming": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Harbinger Scarab of Warhoards": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Bestiary Scarab of the Herd": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Bestiary Scarab of Duplicating": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Domination Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Breach Scarab of Resonant Cascade": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Breach Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ritual Scarab of Selectiveness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Divination Scarab of Plenty": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Betrayal Scarab of Intelligence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Expedition Scarab of Runefinding": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Delirium Scarab of Mania": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Anarchy Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Essence Scarab of Stability": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Legion Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Expedition Scarab of Verisium Powder": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ambush Scarab of Potency": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Abyss Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Torment Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4",
+            "t3"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Abyss Scarab of Multitudes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Breach Scarab of Lordship": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Beyond Scarab of the Invasion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ambush Scarab of Hidden Compartments": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Influencing Scarab of the Elder": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Hunted Traitors": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Abyss Scarab of Edifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Anarchy Scarab of Partnership": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Betrayal Scarab of Reinforcements": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Incursion Scarab of Champions": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Expedition Scarab of Archaeology": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Legion Scarab of Officers": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Wisps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Radiant Storms": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Divinity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ritual Scarab of Wisps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Blight Scarab of the Blightheart": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Titanic Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Sulphite Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Harvest Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Delirium Scarab of Neuroses": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Delirium Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Influencing Scarab of Hordes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Domination Scarab of Evolution": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Essence Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Blight Scarab of Invigoration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ultimatum Scarab of Inscription": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Adversaries": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Influencing Scarab of Conversion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Cartography Scarab of Escalation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Anarchy Scarab of Gigantification": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Scarab of Monstrous Lineage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Titanic Scarab of Legend": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Abyss Scarab of Profound Depth": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Horned Scarab of Tradition": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ultimatum Scarab of Bribing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Harbinger Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Delirium Scarab of Paranoia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Cartography Scarab of Risk": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Legion Scarab of Eternal Conflict": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Essence Scarab of Ascent": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Divination Scarab of The Cloister": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Horned Scarab of Nemeses": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Ambush Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Titanic Scarab of Treasures": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Essence Scarab of Adaptation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Breach Scarab of Snares": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ]
+    }
   }
 }

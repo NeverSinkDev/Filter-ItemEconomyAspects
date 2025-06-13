@@ -863,7 +863,7 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom"
+          "DivineBottom"
         ]
       },
       {
@@ -872,7 +872,7 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom"
+          "DivineBottom"
         ]
       }
     ],
@@ -1804,7 +1804,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3annul"
+            "t3annul",
+            "t1"
           ],
           "FallbackTier": "t2divine"
         }
@@ -2135,8 +2136,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine",
-            "t4chaos"
+            "t2divine"
           ],
           "FallbackTier": "t3annul"
         }
@@ -2224,10 +2224,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine",
-            "t4chaos"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         }
       ],
       "Tempering Catalyst": [
@@ -2240,7 +2239,8 @@
           },
           "Tiers": [
             "t3annul",
-            "t2divine"
+            "t2divine",
+            "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
         }
@@ -2269,7 +2269,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos",
             "t2divine"
           ],
           "FallbackTier": "t3annul"
@@ -2284,7 +2283,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos",
             "t2divine"
           ],
           "FallbackTier": "t3annul"
@@ -2315,10 +2313,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3annul",
+            "t4chaos",
             "t2divine"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t3annul"
         }
       ],
       "Blighted Scouting Report": [
@@ -2496,10 +2494,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t5alchemy",
-            "t4chaos"
+            "t3annul",
+            "t2divine"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Operative's Scouting Report": [
@@ -2604,6 +2602,31 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Engineer's Orb": [
@@ -2613,6 +2636,31 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
           },
           "Tiers": [
             "t6chrom"
@@ -2629,8 +2677,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos",
-            "t6chrom"
+            "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
         }
@@ -2657,10 +2704,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Vaal Orb": [
@@ -2700,8 +2745,19 @@
             "RangeType": 0,
             "ValidTime": 1
           },
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
           "Tiers": [
-            "t5alchemy"
+            "t5alchemy",
+            "t3annul"
           ],
           "FallbackTier": "t4chaos"
         }
@@ -2771,7 +2827,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t6chrom",
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
@@ -2786,7 +2841,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Lesser Eldritch Ember": [
@@ -2882,7 +2937,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t7chance"
+            "t5alchemy"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -3003,6 +3058,20 @@
             "t7chance"
           ],
           "FallbackTier": "t6chrom"
+        }
+      ],
+      "Exalted Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ]
     }

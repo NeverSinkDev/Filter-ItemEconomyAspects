@@ -104,23 +104,6 @@
         ]
       }
     ],
-    "The Mayor": [
-      {
-        "Name": "The Mayor",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      },
-      {
-        "Name": "The Mayor",
-        "BaseType": "The Mayor",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      }
-    ],
     "The Samurai's Eye": [
       {
         "Name": "The Samurai's Eye",
@@ -590,23 +573,6 @@
           "Handled",
           "TimelessResult",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Monochrome": [
-      {
-        "Name": "Monochrome",
-        "Aspects": [
-          "CurrencyType",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Monochrome",
-        "BaseType": "Monochrome",
-        "Aspects": [
-          "CurrencyType",
-          "Handled"
         ]
       }
     ],
@@ -2778,23 +2744,6 @@
         ]
       }
     ],
-    "The Bargain": [
-      {
-        "Name": "The Bargain",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      },
-      {
-        "Name": "The Bargain",
-        "BaseType": "The Bargain",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      }
-    ],
     "Void of the Elements": [
       {
         "Name": "Void of the Elements",
@@ -3002,21 +2951,6 @@
         ]
       }
     ],
-    "Squandered Prosperity": [
-      {
-        "Name": "Squandered Prosperity",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Squandered Prosperity",
-        "BaseType": "Squandered Prosperity",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Divine Justice": [
       {
         "Name": "Divine Justice",
@@ -3025,17 +2959,6 @@
           "HighVariety",
           "TimelessResult",
           "STRONK"
-        ]
-      }
-    ],
-    "Underground Forest": [
-      {
-        "Name": "Underground Forest",
-        "Aspects": [
-          "Handled",
-          "CurrencyType",
-          "PreventHiding",
-          "TimelessResult"
         ]
       }
     ],
@@ -3713,25 +3636,6 @@
           "Handled",
           "CurrencyType",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Sambodhi's Wisdom": [
-      {
-        "Name": "Sambodhi's Wisdom",
-        "Aspects": [
-          "Handled",
-          "LateLeagueValueLoss",
-          "HighVariety"
-        ]
-      },
-      {
-        "Name": "Sambodhi's Wisdom",
-        "BaseType": "Sambodhi's Wisdom",
-        "Aspects": [
-          "Handled",
-          "LateLeagueValueLoss",
-          "HighVariety"
         ]
       }
     ],
@@ -4610,17 +4514,6 @@
         ]
       }
     ],
-    "Avian Pursuit": [
-      {
-        "Name": "Avian Pursuit",
-        "BaseType": "Avian Pursuit",
-        "Aspects": [
-          "Handled",
-          "CurrencyType",
-          "TimelessResult"
-        ]
-      }
-    ],
     "Temperance": [
       {
         "Name": "Temperance",
@@ -4641,6 +4534,13 @@
           "LateLeagueValueLoss",
           "NoResolution"
         ]
+      }
+    ],
+    "Avian Pursuit": [
+      {
+        "Name": "Avian Pursuit",
+        "BaseType": "Avian Pursuit",
+        "Aspects": []
       }
     ]
   },
@@ -4670,6 +4570,126 @@
             "t4"
           ],
           "FallbackTier": "t5"
+        }
+      ],
+      "Darker Half": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Emptiness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Long Con": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Misery in Darkness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Auspicious Ambitions": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Luminous Trove": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Damned": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Who Asked": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Artist": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Betrayal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ]
     }
