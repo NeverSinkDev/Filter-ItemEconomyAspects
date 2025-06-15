@@ -4540,7 +4540,108 @@
       {
         "Name": "Avian Pursuit",
         "BaseType": "Avian Pursuit",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "History": [
+      {
+        "Name": "History",
+        "BaseType": "History",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Squandered Prosperity": [
+      {
+        "Name": "Squandered Prosperity",
+        "BaseType": "Squandered Prosperity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Mayor": [
+      {
+        "Name": "The Mayor",
+        "BaseType": "The Mayor",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Bargain": [
+      {
+        "Name": "The Bargain",
+        "BaseType": "The Bargain",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Sambodhi's Wisdom": [
+      {
+        "Name": "Sambodhi's Wisdom",
+        "BaseType": "Sambodhi's Wisdom",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Monochrome": [
+      {
+        "Name": "Monochrome",
+        "BaseType": "Monochrome",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "Underground Forest": [
+      {
+        "Name": "Underground Forest",
+        "BaseType": "Underground Forest",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Runic Luck": [
+      {
+        "Name": "Runic Luck",
+        "BaseType": "Runic Luck",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "When Currents Blaze": [
+      {
+        "Name": "When Currents Blaze",
+        "BaseType": "When Currents Blaze",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },

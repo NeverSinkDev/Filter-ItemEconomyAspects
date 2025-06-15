@@ -309,6 +309,11 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Legacy of the Rose",
+        "BaseType": "Judgement Staff",
+        "Aspects": []
       }
     ],
     "Midnight Blade": [
@@ -1218,6 +1223,13 @@
         "BaseType": "Abyssal Axe",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "Starcaller",
+        "BaseType": "Abyssal Axe",
+        "Aspects": [
+          "NonWorldDrop"
         ]
       }
     ],
@@ -4048,6 +4060,14 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Howlcrack",
+        "BaseType": "Ezomyte Burgonet",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
       }
     ],
     "Sinner Tricorne": [
@@ -6350,6 +6370,14 @@
           "NonWorldDrop",
           "HighVariety"
         ]
+      },
+      {
+        "Name": "Squirming Terror",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Chain Belt": [
@@ -6768,6 +6796,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Arkhon's Tools",
+        "BaseType": "Cloth Belt",
+        "Aspects": []
       }
     ],
     "Rustic Sash": [
@@ -7000,6 +7033,13 @@
           "NonWorldDrop",
           "Exclude"
         ]
+      },
+      {
+        "Name": "Prospero's Protection",
+        "BaseType": "Iron Ring",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Paua Ring": [
@@ -7052,6 +7092,14 @@
           "NonWorldDrop",
           "Handled"
         ]
+      },
+      {
+        "Name": "Betrayal's Sting",
+        "BaseType": "Steel Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Amethyst Ring": [
@@ -7097,6 +7145,14 @@
         "Aspects": [
           "Handled",
           "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Coiling Whisper",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
           "NonWorldDrop"
         ]
       }
@@ -7206,6 +7262,14 @@
       },
       {
         "Name": "The Tides of Time",
+        "BaseType": "Vanguard Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Binds of Bloody Vengeance",
         "BaseType": "Vanguard Belt",
         "Aspects": [
           "Handled",
@@ -7394,6 +7458,14 @@
         "BaseType": "Lacquered Buckler",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "Azadi Crest",
+        "BaseType": "Lacquered Buckler",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
         ]
       }
     ],
@@ -7840,6 +7912,14 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Spinehail",
+        "BaseType": "Vile Arrow Quiver",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
       }
     ],
     "Golden Bracers": [
@@ -8053,6 +8133,14 @@
         "Name": "The Light of Meaning",
         "BaseType": "Prismatic Jewel",
         "Aspects": []
+      },
+      {
+        "Name": "Bound By Destiny",
+        "BaseType": "Prismatic Jewel",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
       }
     ],
     "Crimson Jewel": [
@@ -9210,6 +9298,107 @@
         "Name": "Song of the Sirens",
         "BaseType": "Fishing Rod",
         "Aspects": []
+      }
+    ],
+    "Pagan Wand": [
+      {
+        "Name": "Mystic Refractor",
+        "BaseType": "Pagan Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gold Flask": [
+      {
+        "Name": "Wine of the Prophet",
+        "BaseType": "Gold Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Lich's Circlet": [
+      {
+        "Name": "The Dark Monarch",
+        "BaseType": "Lich's Circlet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Waxed Garb": [
+      {
+        "Name": "Seven Teachings",
+        "BaseType": "Waxed Garb",
+        "Aspects": [
+          "HighVariety",
+          "NonWorldDrop",
+          "Handled"
+        ]
+      }
+    ],
+    "Martyr Gloves": [
+      {
+        "Name": "Hand of Heresy",
+        "BaseType": "Martyr Gloves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Torturer Garb": [
+      {
+        "Name": "Servant of Decay",
+        "BaseType": "Torturer Garb",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Satin Slippers": [
+      {
+        "Name": "Scornflux",
+        "BaseType": "Satin Slippers",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Vermillion Ring": [
+      {
+        "Name": "Enmity's Embrace",
+        "BaseType": "Vermillion Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Seaglass Amulet": [
+      {
+        "Name": "Whispers of Infinity",
+        "BaseType": "Seaglass Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Astrolabe Amulet": [
+      {
+        "Name": "Venarius' Astrolabe",
+        "BaseType": "Astrolabe Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ]
   },
