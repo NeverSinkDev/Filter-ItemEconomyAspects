@@ -1762,6 +1762,61 @@
           "Tierable"
         ]
       }
+    ],
+    "Veiled Exalted Orb": [
+      {
+        "Name": "Veiled Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Orb of Unravelling": [
+      {
+        "Name": "Orb of Unravelling",
+        "Aspects": []
+      }
+    ],
+    "Orb of Remembrance": [
+      {
+        "Name": "Orb of Remembrance",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Shaper's Exalted Orb": [
+      {
+        "Name": "Shaper's Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Elder's Exalted Orb": [
+      {
+        "Name": "Elder's Exalted Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Orb of Intention": [
+      {
+        "Name": "Orb of Intention",
+        "Aspects": []
+      }
+    ],
+    "Veiled Chaos Orb": [
+      {
+        "Name": "Veiled Chaos Orb",
+        "Aspects": [
+          "Tierable"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -1779,6 +1834,18 @@
             "t4chaos"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Orb of Conflict": [
@@ -1791,6 +1858,18 @@
           },
           "Tiers": [
             "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
           ],
           "FallbackTier": "t2divine"
         }
@@ -1808,6 +1887,18 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Exceptional Eldritch Ember": [
@@ -1822,6 +1913,20 @@
             "t2divine"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Blessing of Tul": [
@@ -1835,6 +1940,18 @@
           "Tiers": [
             "t1",
             "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
           ],
           "FallbackTier": "t2divine"
         }
@@ -1851,6 +1968,20 @@
             "t2divine"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Blessing of Uul-Netol": [
@@ -1878,6 +2009,18 @@
           },
           "Tiers": [
             "t3annul",
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
             "t1"
           ],
           "FallbackTier": "t2divine"
@@ -1909,6 +2052,18 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Eldritch Chaos Orb": [
@@ -1920,6 +2075,19 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
             "t3annul"
           ],
           "FallbackTier": "t2divine"
@@ -1937,6 +2105,19 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Tainted Exalted Orb": [
@@ -1948,6 +2129,19 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
             "t3annul"
           ],
           "FallbackTier": "t2divine"
@@ -1965,6 +2159,18 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Sacred Orb": [
@@ -1977,6 +2183,19 @@
           },
           "Tiers": [],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Maven's Chisel of Proliferation": [
@@ -1988,6 +2207,20 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
             "t3annul",
             "t4chaos"
           ],
@@ -2007,6 +2240,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Prismatic Catalyst": [
@@ -2036,6 +2283,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Maven's Chisel of Avarice": [
@@ -2050,6 +2311,16 @@
             "t3annul",
             "t4chaos"
           ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ],
@@ -2095,6 +2366,19 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Grand Eldritch Ember": [
@@ -2123,6 +2407,20 @@
           "Tiers": [
             "t2divine",
             "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         }
@@ -2199,6 +2497,20 @@
             "t2divine"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Orb of Annulment": [
@@ -2213,6 +2525,20 @@
             "t2divine"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Otherworldly Scouting Report": [
@@ -2302,6 +2628,20 @@
             "t2divine"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Maven's Chisel of Procurement": [
@@ -3072,6 +3412,164 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Orb of Remembrance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Elder's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Shaper's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Crusader's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Redeemer's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Orb of Unravelling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Hunter's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Reflecting Mist": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Veiled Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Orb of Intention": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Veiled Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine",
+            "t1"
+          ],
+          "FallbackTier": "t3annul"
         }
       ]
     }

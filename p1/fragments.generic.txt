@@ -967,6 +967,42 @@
         "Name": "Synthesising Fragment",
         "Aspects": []
       }
+    ],
+    "Syndicate Medallion": [
+      {
+        "Name": "Syndicate Medallion",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Echo of Reverence": [
+      {
+        "Name": "Echo of Reverence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Echo of Loneliness": [
+      {
+        "Name": "Echo of Loneliness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Echo of Trauma": [
+      {
+        "Name": "Echo of Trauma",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {}
   }
 }
