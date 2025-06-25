@@ -148,6 +148,18 @@
             "s"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Breachstone": [
@@ -162,6 +174,19 @@
             "s"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Cowardly Fate": [
@@ -174,6 +199,18 @@
           },
           "Tiers": [
             "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
             "b"
           ],
           "FallbackTier": "a"
@@ -192,6 +229,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Deadly Fate": [
@@ -205,6 +254,18 @@
           "Tiers": [
             "b",
             "s"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "b"
           ],
           "FallbackTier": "a"
         }

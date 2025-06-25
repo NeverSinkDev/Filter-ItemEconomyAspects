@@ -1,0 +1,2084 @@
+{
+  "Aspects": {
+    "Vision Rune": [
+      {
+        "Name": "Vision Rune",
+        "BaseType": "Vision Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Rune": [
+      {
+        "Name": "Iron Rune",
+        "BaseType": "Iron Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glacial Rune": [
+      {
+        "Name": "Glacial Rune",
+        "BaseType": "Glacial Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Desert Rune": [
+      {
+        "Name": "Desert Rune",
+        "BaseType": "Desert Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stone Rune": [
+      {
+        "Name": "Stone Rune",
+        "BaseType": "Stone Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Storm Rune": [
+      {
+        "Name": "Storm Rune",
+        "BaseType": "Storm Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mind Rune": [
+      {
+        "Name": "Mind Rune",
+        "BaseType": "Mind Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Inspiration Rune": [
+      {
+        "Name": "Inspiration Rune",
+        "BaseType": "Inspiration Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Body Rune": [
+      {
+        "Name": "Body Rune",
+        "BaseType": "Body Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rebirth Rune": [
+      {
+        "Name": "Rebirth Rune",
+        "BaseType": "Rebirth Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Jiquani": [
+      {
+        "Name": "Soul Core of Jiquani",
+        "BaseType": "Soul Core of Jiquani",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Guatelitzi's Soul Core of Endurance": [
+      {
+        "Name": "Guatelitzi's Soul Core of Endurance",
+        "BaseType": "Guatelitzi's Soul Core of Endurance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Ticaba": [
+      {
+        "Name": "Soul Core of Ticaba",
+        "BaseType": "Soul Core of Ticaba",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tacati's Soul Core of Affliction": [
+      {
+        "Name": "Tacati's Soul Core of Affliction",
+        "BaseType": "Tacati's Soul Core of Affliction",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tzamoto's Soul Core of Ferocity": [
+      {
+        "Name": "Tzamoto's Soul Core of Ferocity",
+        "BaseType": "Tzamoto's Soul Core of Ferocity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Estazunti's Soul Core of Convalescence": [
+      {
+        "Name": "Estazunti's Soul Core of Convalescence",
+        "BaseType": "Estazunti's Soul Core of Convalescence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Zantipi": [
+      {
+        "Name": "Soul Core of Zantipi",
+        "BaseType": "Soul Core of Zantipi",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Cholotl": [
+      {
+        "Name": "Soul Core of Cholotl",
+        "BaseType": "Soul Core of Cholotl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Xopec's Soul Core of Power": [
+      {
+        "Name": "Xopec's Soul Core of Power",
+        "BaseType": "Xopec's Soul Core of Power",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zalatl's Soul Core of Insulation": [
+      {
+        "Name": "Zalatl's Soul Core of Insulation",
+        "BaseType": "Zalatl's Soul Core of Insulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Azcapa": [
+      {
+        "Name": "Soul Core of Azcapa",
+        "BaseType": "Soul Core of Azcapa",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Xopec": [
+      {
+        "Name": "Soul Core of Xopec",
+        "BaseType": "Soul Core of Xopec",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Zalatl": [
+      {
+        "Name": "Soul Core of Zalatl",
+        "BaseType": "Soul Core of Zalatl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Topotante": [
+      {
+        "Name": "Soul Core of Topotante",
+        "BaseType": "Soul Core of Topotante",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cholotl's Soul Core of War": [
+      {
+        "Name": "Cholotl's Soul Core of War",
+        "BaseType": "Cholotl's Soul Core of War",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Puhuarte": [
+      {
+        "Name": "Soul Core of Puhuarte",
+        "BaseType": "Soul Core of Puhuarte",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Atmohua's Soul Core of Retreat": [
+      {
+        "Name": "Atmohua's Soul Core of Retreat",
+        "BaseType": "Atmohua's Soul Core of Retreat",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Quipolatl's Soul Core of Flow": [
+      {
+        "Name": "Quipolatl's Soul Core of Flow",
+        "BaseType": "Quipolatl's Soul Core of Flow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Atmohua": [
+      {
+        "Name": "Soul Core of Atmohua",
+        "BaseType": "Soul Core of Atmohua",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Quipolatl": [
+      {
+        "Name": "Soul Core of Quipolatl",
+        "BaseType": "Soul Core of Quipolatl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uromoti's Soul Core of Attenuation": [
+      {
+        "Name": "Uromoti's Soul Core of Attenuation",
+        "BaseType": "Uromoti's Soul Core of Attenuation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Tzamoto": [
+      {
+        "Name": "Soul Core of Tzamoto",
+        "BaseType": "Soul Core of Tzamoto",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Tacati": [
+      {
+        "Name": "Soul Core of Tacati",
+        "BaseType": "Soul Core of Tacati",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hayoxi's Soul Core of Heatproofing": [
+      {
+        "Name": "Hayoxi's Soul Core of Heatproofing",
+        "BaseType": "Hayoxi's Soul Core of Heatproofing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Citaqualotl's Soul Core of Foulness": [
+      {
+        "Name": "Citaqualotl's Soul Core of Foulness",
+        "BaseType": "Citaqualotl's Soul Core of Foulness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Opiloti's Soul Core of Assault": [
+      {
+        "Name": "Opiloti's Soul Core of Assault",
+        "BaseType": "Opiloti's Soul Core of Assault",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Topotante's Soul Core of Dampening": [
+      {
+        "Name": "Topotante's Soul Core of Dampening",
+        "BaseType": "Topotante's Soul Core of Dampening",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Citaqualotl": [
+      {
+        "Name": "Soul Core of Citaqualotl",
+        "BaseType": "Soul Core of Citaqualotl",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Core of Opiloti": [
+      {
+        "Name": "Soul Core of Opiloti",
+        "BaseType": "Soul Core of Opiloti",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Xipocado's Soul Core of Dominion": [
+      {
+        "Name": "Xipocado's Soul Core of Dominion",
+        "BaseType": "Xipocado's Soul Core of Dominion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rabbit Talisman": [
+      {
+        "Name": "Rabbit Talisman",
+        "BaseType": "Rabbit Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fox Talisman": [
+      {
+        "Name": "Fox Talisman",
+        "BaseType": "Fox Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Maxarius": [
+      {
+        "Name": "Talisman of Maxarius",
+        "BaseType": "Talisman of Maxarius",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Egrin": [
+      {
+        "Name": "Talisman of Egrin",
+        "BaseType": "Talisman of Egrin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Sirrius": [
+      {
+        "Name": "Talisman of Sirrius",
+        "BaseType": "Talisman of Sirrius",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ox Talisman": [
+      {
+        "Name": "Ox Talisman",
+        "BaseType": "Ox Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Ralakesh": [
+      {
+        "Name": "Talisman of Ralakesh",
+        "BaseType": "Talisman of Ralakesh",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cat Talisman": [
+      {
+        "Name": "Cat Talisman",
+        "BaseType": "Cat Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bear Talisman": [
+      {
+        "Name": "Bear Talisman",
+        "BaseType": "Bear Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Eeshta": [
+      {
+        "Name": "Talisman of Eeshta",
+        "BaseType": "Talisman of Eeshta",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Thruldana": [
+      {
+        "Name": "Talisman of Thruldana",
+        "BaseType": "Talisman of Thruldana",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wolf Talisman": [
+      {
+        "Name": "Wolf Talisman",
+        "BaseType": "Wolf Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Primate Talisman": [
+      {
+        "Name": "Primate Talisman",
+        "BaseType": "Primate Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boar Talisman": [
+      {
+        "Name": "Boar Talisman",
+        "BaseType": "Boar Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stag Talisman": [
+      {
+        "Name": "Stag Talisman",
+        "BaseType": "Stag Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Talisman of Grold": [
+      {
+        "Name": "Talisman of Grold",
+        "BaseType": "Talisman of Grold",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Serpent Talisman": [
+      {
+        "Name": "Serpent Talisman",
+        "BaseType": "Serpent Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Owl Talisman": [
+      {
+        "Name": "Owl Talisman",
+        "BaseType": "Owl Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Countess Seske's Rune of Archery": [
+      {
+        "Name": "Countess Seske's Rune of Archery",
+        "BaseType": "Countess Seske's Rune of Archery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Farrul's Rune of the Chase": [
+      {
+        "Name": "Farrul's Rune of the Chase",
+        "BaseType": "Farrul's Rune of the Chase",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Saqawal's Rune of Memory": [
+      {
+        "Name": "Saqawal's Rune of Memory",
+        "BaseType": "Saqawal's Rune of Memory",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hedgewitch Assandra's Rune of Wisdom": [
+      {
+        "Name": "Hedgewitch Assandra's Rune of Wisdom",
+        "BaseType": "Hedgewitch Assandra's Rune of Wisdom",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thane Leld's Rune of Spring": [
+      {
+        "Name": "Thane Leld's Rune of Spring",
+        "BaseType": "Thane Leld's Rune of Spring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Saqawal's Rune of the Sky": [
+      {
+        "Name": "Saqawal's Rune of the Sky",
+        "BaseType": "Saqawal's Rune of the Sky",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Rune of Alacrity": [
+      {
+        "Name": "Greater Rune of Alacrity",
+        "BaseType": "Greater Rune of Alacrity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Rune of Tithing": [
+      {
+        "Name": "Greater Rune of Tithing",
+        "BaseType": "Greater Rune of Tithing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Courtesan Mannan's Rune of Cruelty": [
+      {
+        "Name": "Courtesan Mannan's Rune of Cruelty",
+        "BaseType": "Courtesan Mannan's Rune of Cruelty",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Greatwolf's Rune of Willpower": [
+      {
+        "Name": "The Greatwolf's Rune of Willpower",
+        "BaseType": "The Greatwolf's Rune of Willpower",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Craiceann's Rune of Warding": [
+      {
+        "Name": "Craiceann's Rune of Warding",
+        "BaseType": "Craiceann's Rune of Warding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Farrul's Rune of Grace": [
+      {
+        "Name": "Farrul's Rune of Grace",
+        "BaseType": "Farrul's Rune of Grace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Inspiration Rune": [
+      {
+        "Name": "Lesser Inspiration Rune",
+        "BaseType": "Lesser Inspiration Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Farrul's Rune of the Hunt": [
+      {
+        "Name": "Farrul's Rune of the Hunt",
+        "BaseType": "Farrul's Rune of the Hunt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thane Grannell's Rune of Mastery": [
+      {
+        "Name": "Thane Grannell's Rune of Mastery",
+        "BaseType": "Thane Grannell's Rune of Mastery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fenumus' Rune of Spinning": [
+      {
+        "Name": "Fenumus' Rune of Spinning",
+        "BaseType": "Fenumus' Rune of Spinning",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fenumus' Rune of Agony": [
+      {
+        "Name": "Fenumus' Rune of Agony",
+        "BaseType": "Fenumus' Rune of Agony",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lady Hestra's Rune of Winter": [
+      {
+        "Name": "Lady Hestra's Rune of Winter",
+        "BaseType": "Lady Hestra's Rune of Winter",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thane Myrk's Rune of Summer": [
+      {
+        "Name": "Thane Myrk's Rune of Summer",
+        "BaseType": "Thane Myrk's Rune of Summer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Adept Rune": [
+      {
+        "Name": "Lesser Adept Rune",
+        "BaseType": "Lesser Adept Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Craiceann's Rune of Recovery": [
+      {
+        "Name": "Craiceann's Rune of Recovery",
+        "BaseType": "Craiceann's Rune of Recovery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Greatwolf's Rune of Claws": [
+      {
+        "Name": "The Greatwolf's Rune of Claws",
+        "BaseType": "The Greatwolf's Rune of Claws",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fenumus' Rune of Draining": [
+      {
+        "Name": "Fenumus' Rune of Draining",
+        "BaseType": "Fenumus' Rune of Draining",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thane Girt's Rune of Wildness": [
+      {
+        "Name": "Thane Girt's Rune of Wildness",
+        "BaseType": "Thane Girt's Rune of Wildness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Storm Rune": [
+      {
+        "Name": "Greater Storm Rune",
+        "BaseType": "Greater Storm Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Robust Rune": [
+      {
+        "Name": "Lesser Robust Rune",
+        "BaseType": "Lesser Robust Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Rune of Nobility": [
+      {
+        "Name": "Greater Rune of Nobility",
+        "BaseType": "Greater Rune of Nobility",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Robust Rune": [
+      {
+        "Name": "Robust Rune",
+        "BaseType": "Robust Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Vision Rune": [
+      {
+        "Name": "Lesser Vision Rune",
+        "BaseType": "Lesser Vision Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Iron Rune": [
+      {
+        "Name": "Lesser Iron Rune",
+        "BaseType": "Lesser Iron Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Inspiration Rune": [
+      {
+        "Name": "Greater Inspiration Rune",
+        "BaseType": "Greater Inspiration Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Robust Rune": [
+      {
+        "Name": "Greater Robust Rune",
+        "BaseType": "Greater Robust Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Resolve Rune": [
+      {
+        "Name": "Greater Resolve Rune",
+        "BaseType": "Greater Resolve Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Glacial Rune": [
+      {
+        "Name": "Greater Glacial Rune",
+        "BaseType": "Greater Glacial Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Desert Rune": [
+      {
+        "Name": "Greater Desert Rune",
+        "BaseType": "Greater Desert Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Rune of Leadership": [
+      {
+        "Name": "Greater Rune of Leadership",
+        "BaseType": "Greater Rune of Leadership",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Storm Rune": [
+      {
+        "Name": "Lesser Storm Rune",
+        "BaseType": "Lesser Storm Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Mind Rune": [
+      {
+        "Name": "Lesser Mind Rune",
+        "BaseType": "Lesser Mind Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Rebirth Rune": [
+      {
+        "Name": "Greater Rebirth Rune",
+        "BaseType": "Greater Rebirth Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Body Rune": [
+      {
+        "Name": "Greater Body Rune",
+        "BaseType": "Greater Body Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Saqawal's Rune of Erosion": [
+      {
+        "Name": "Saqawal's Rune of Erosion",
+        "BaseType": "Saqawal's Rune of Erosion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Stone Rune": [
+      {
+        "Name": "Lesser Stone Rune",
+        "BaseType": "Lesser Stone Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Iron Rune": [
+      {
+        "Name": "Greater Iron Rune",
+        "BaseType": "Greater Iron Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Adept Rune": [
+      {
+        "Name": "Greater Adept Rune",
+        "BaseType": "Greater Adept Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Body Rune": [
+      {
+        "Name": "Lesser Body Rune",
+        "BaseType": "Lesser Body Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Rebirth Rune": [
+      {
+        "Name": "Lesser Rebirth Rune",
+        "BaseType": "Lesser Rebirth Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Desert Rune": [
+      {
+        "Name": "Lesser Desert Rune",
+        "BaseType": "Lesser Desert Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Adept Rune": [
+      {
+        "Name": "Adept Rune",
+        "BaseType": "Adept Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Resolve Rune": [
+      {
+        "Name": "Lesser Resolve Rune",
+        "BaseType": "Lesser Resolve Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Mind Rune": [
+      {
+        "Name": "Greater Mind Rune",
+        "BaseType": "Greater Mind Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Vision Rune": [
+      {
+        "Name": "Greater Vision Rune",
+        "BaseType": "Greater Vision Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Glacial Rune": [
+      {
+        "Name": "Lesser Glacial Rune",
+        "BaseType": "Lesser Glacial Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Resolve Rune": [
+      {
+        "Name": "Resolve Rune",
+        "BaseType": "Resolve Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Stone Rune": [
+      {
+        "Name": "Greater Stone Rune",
+        "BaseType": "Greater Stone Rune",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Soul Core of Jiquani": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Guatelitzi's Soul Core of Endurance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Ticaba": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Tacati's Soul Core of Affliction": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Tzamoto's Soul Core of Ferocity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Estazunti's Soul Core of Convalescence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Zantipi": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Cholotl": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Xopec's Soul Core of Power": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Zalatl's Soul Core of Insulation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Azcapa": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Xopec": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Zalatl": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Topotante": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Cholotl's Soul Core of War": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Puhuarte": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atmohua's Soul Core of Retreat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Quipolatl's Soul Core of Flow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Quipolatl": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Atmohua": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Uromoti's Soul Core of Attenuation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Tzamoto": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Tacati": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Hayoxi's Soul Core of Heatproofing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Citaqualotl's Soul Core of Foulness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Opiloti's Soul Core of Assault": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Topotante's Soul Core of Dampening": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Soul Core of Citaqualotl": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Soul Core of Opiloti": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Xipocado's Soul Core of Dominion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Rabbit Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Fox Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Talisman of Maxarius": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Talisman of Egrin": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Talisman of Sirrius": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ox Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Talisman of Ralakesh": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Cat Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Bear Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Talisman of Eeshta": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Talisman of Thruldana": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Wolf Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Primate Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Boar Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Stag Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Talisman of Grold": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Serpent Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Owl Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Countess Seske's Rune of Archery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Farrul's Rune of the Chase": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Saqawal's Rune of Memory": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Hedgewitch Assandra's Rune of Wisdom": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Thane Leld's Rune of Spring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Saqawal's Rune of the Sky": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Greater Rune of Alacrity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Greater Rune of Tithing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Courtesan Mannan's Rune of Cruelty": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "The Greatwolf's Rune of Willpower": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Craiceann's Rune of Warding": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Farrul's Rune of Grace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Farrul's Rune of the Hunt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Thane Grannell's Rune of Mastery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Fenumus' Rune of Spinning": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Fenumus' Rune of Agony": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Lady Hestra's Rune of Winter": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Thane Myrk's Rune of Summer": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Craiceann's Rune of Recovery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "The Greatwolf's Rune of Claws": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Fenumus' Rune of Draining": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Thane Girt's Rune of Wildness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c",
+            "s"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Greater Rune of Nobility": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Greater Rune of Leadership": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Saqawal's Rune of Erosion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "d",
+            "b"
+          ],
+          "FallbackTier": "c"
+        }
+      ]
+    }
+  }
+}

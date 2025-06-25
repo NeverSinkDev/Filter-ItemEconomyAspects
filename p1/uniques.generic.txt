@@ -860,6 +860,11 @@
           "Handled",
           "EarlyLeagueInterest"
         ]
+      },
+      {
+        "Name": "Cadigan's Authority",
+        "BaseType": "Platinum Sceptre",
+        "Aspects": []
       }
     ],
     "Jasper Chopper": [

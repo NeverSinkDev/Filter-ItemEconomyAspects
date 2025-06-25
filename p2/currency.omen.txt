@@ -152,6 +152,358 @@
           "Handled"
         ]
       }
+    ],
+    "Omen of the Hunt": [
+      {
+        "Name": "Omen of the Hunt",
+        "BaseType": "Omen of the Hunt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Secret Compartments": [
+      {
+        "Name": "Omen of Secret Compartments",
+        "BaseType": "Omen of Secret Compartments",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Reinforcements": [
+      {
+        "Name": "Omen of Reinforcements",
+        "BaseType": "Omen of Reinforcements",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Answered Prayers": [
+      {
+        "Name": "Omen of Answered Prayers",
+        "BaseType": "Omen of Answered Prayers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Omen of Whittling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Omen of Greater Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Corruption": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Amelioration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Reinforcements": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "c"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Sinistral Erasure": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Dextral Erasure": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Sinistral Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Dextral Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of the Hunt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Secret Compartments": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Answered Prayers": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Sinistral Exaltation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "a",
+            "d"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Refreshment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of Dextral Alchemy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of Resurgence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of Sinistral Alchemy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of Sinistral Coronation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of Greater Exaltation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of Dextral Coronation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ]
+    }
   }
 }

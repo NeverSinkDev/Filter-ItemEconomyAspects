@@ -1775,7 +1775,10 @@
     "Orb of Unravelling": [
       {
         "Name": "Orb of Unravelling",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Orb of Remembrance": [
@@ -1800,14 +1803,18 @@
       {
         "Name": "Elder's Exalted Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
     "Orb of Intention": [
       {
         "Name": "Orb of Intention",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Veiled Chaos Orb": [
@@ -2204,27 +2211,25 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [
-            "t3annul",
+            "t2divine",
             "t4chaos"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t3annul"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [
-            "t1",
-            "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t3annul"
         }
       ],
       "Maven's Chisel of Scarabs": [
@@ -2233,25 +2238,23 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [
-            "t3annul",
+            "t2divine",
             "t4chaos"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t3annul"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [
-            "t1",
-            "t2divine",
-            "t4chaos"
+            "t2divine"
           ],
           "FallbackTier": "t3annul"
         }
@@ -2305,23 +2308,25 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [
-            "t3annul",
+            "t2divine",
             "t4chaos"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t3annul"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2divine"
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Tainted Orb of Fusing": [
@@ -2467,6 +2472,19 @@
             "t2divine"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t8trans",
+            "t7chance"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Maven's Chisel of Divination": [
@@ -2475,12 +2493,22 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [
             "t2divine",
             "t4chaos"
           ],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t3annul"
         }
       ],
@@ -2650,12 +2678,22 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [
-            "t4chaos",
-            "t2divine"
+            "t2divine",
+            "t4chaos"
           ],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t3annul"
         }
       ],
@@ -2718,6 +2756,20 @@
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t3annul",
+            "t6chrom"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Tainted Armourer's Scrap": [
@@ -3034,6 +3086,31 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Glassblower's Bauble": [
@@ -3046,6 +3123,20 @@
           },
           "Tiers": [],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Vaal Orb": [
@@ -3057,6 +3148,19 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
@@ -3073,6 +3177,19 @@
           "Tiers": [
             "t6chrom",
             "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t7chance"
           ],
           "FallbackTier": "t5alchemy"
         }
@@ -3114,6 +3231,19 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Unmaking": [
@@ -3128,6 +3258,20 @@
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t6chrom",
+            "t7chance"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Regret": [
@@ -3156,6 +3300,20 @@
             "t7chance"
           ],
           "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Blessed Orb": [
@@ -3170,6 +3328,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Orb of Horizons": [
@@ -3182,6 +3354,20 @@
           },
           "Tiers": [],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Lesser Eldritch Ember": [
@@ -3196,6 +3382,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t6chrom",
+            "t7chance"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Lesser Eldritch Ichor": [
@@ -3207,6 +3407,19 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
@@ -3224,6 +3437,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Orb of Fusing": [
@@ -3238,6 +3465,20 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Chromatic Orb": [
@@ -3250,6 +3491,20 @@
           },
           "Tiers": [
             "t7chance"
+          ],
+          "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t7chance",
+            "t5alchemy",
+            "t8trans"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -3266,6 +3521,20 @@
             "t7chance"
           ],
           "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t7chance",
+            "t8trans",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Orb of Chance": [
@@ -3278,6 +3547,20 @@
           },
           "Tiers": [
             "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -3294,6 +3577,20 @@
             "t6chrom"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t7chance",
+            "t8trans"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Astragali": [
@@ -3570,6 +3867,48 @@
             "t1"
           ],
           "FallbackTier": "t3annul"
+        }
+      ],
+      "Warlord's Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Awakener's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Tainted Divine Teardrop": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
         }
       ]
     }

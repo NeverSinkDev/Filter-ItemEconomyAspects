@@ -1,0 +1,270 @@
+{
+  "Aspects": {
+    "Runegraft of the Angler": [
+      {
+        "Name": "Runegraft of the Angler",
+        "BaseType": "Runegraft of the Angler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Gemcraft": [
+      {
+        "Name": "Runegraft of Gemcraft",
+        "BaseType": "Runegraft of Gemcraft",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Fortress": [
+      {
+        "Name": "Runegraft of the Fortress",
+        "BaseType": "Runegraft of the Fortress",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Treachery": [
+      {
+        "Name": "Runegraft of Treachery",
+        "BaseType": "Runegraft of Treachery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Warp": [
+      {
+        "Name": "Runegraft of the Warp",
+        "BaseType": "Runegraft of the Warp",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Blasphemy": [
+      {
+        "Name": "Runegraft of Blasphemy",
+        "BaseType": "Runegraft of Blasphemy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Bound": [
+      {
+        "Name": "Runegraft of the Bound",
+        "BaseType": "Runegraft of the Bound",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Stability": [
+      {
+        "Name": "Runegraft of Stability",
+        "BaseType": "Runegraft of Stability",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Witchmark": [
+      {
+        "Name": "Runegraft of the Witchmark",
+        "BaseType": "Runegraft of the Witchmark",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Soulwick": [
+      {
+        "Name": "Runegraft of the Soulwick",
+        "BaseType": "Runegraft of the Soulwick",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Bellows": [
+      {
+        "Name": "Runegraft of Bellows",
+        "BaseType": "Runegraft of Bellows",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Time": [
+      {
+        "Name": "Runegraft of Time",
+        "BaseType": "Runegraft of Time",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Restitching": [
+      {
+        "Name": "Runegraft of Restitching",
+        "BaseType": "Runegraft of Restitching",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Novamark": [
+      {
+        "Name": "Runegraft of the Novamark",
+        "BaseType": "Runegraft of the Novamark",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Quaffing": [
+      {
+        "Name": "Runegraft of Quaffing",
+        "BaseType": "Runegraft of Quaffing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the River": [
+      {
+        "Name": "Runegraft of the River",
+        "BaseType": "Runegraft of the River",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Combatant": [
+      {
+        "Name": "Runegraft of the Combatant",
+        "BaseType": "Runegraft of the Combatant",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Recompense": [
+      {
+        "Name": "Runegraft of Recompense",
+        "BaseType": "Runegraft of Recompense",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Sinistral": [
+      {
+        "Name": "Runegraft of the Sinistral",
+        "BaseType": "Runegraft of the Sinistral",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Jeweller": [
+      {
+        "Name": "Runegraft of the Jeweller",
+        "BaseType": "Runegraft of the Jeweller",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Loyalty": [
+      {
+        "Name": "Runegraft of Loyalty",
+        "BaseType": "Runegraft of Loyalty",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Runegraft of the Angler": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Runegraft of Gemcraft": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of the Fortress": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of the Warp": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of Treachery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ]
+    }
+  }
+}

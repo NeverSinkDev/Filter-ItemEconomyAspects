@@ -2206,6 +2206,29 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Palm of the Dreamer",
+        "BaseType": "Shrine Sceptre",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Guiding Palm of the Eye",
+        "BaseType": "Shrine Sceptre",
+        "Aspects": []
+      },
+      {
+        "Name": "Guiding Palm of the Heart",
+        "BaseType": "Shrine Sceptre",
+        "Aspects": []
+      },
+      {
+        "Name": "Guiding Palm of the Mind",
+        "BaseType": "Shrine Sceptre",
+        "Aspects": []
       }
     ],
     "Dualstring Bow": [
@@ -3387,6 +3410,62 @@
         "BaseType": "Dull Hatchet",
         "Aspects": []
       }
+    ],
+    "Primed Quiver": [
+      {
+        "Name": "Cadiro's Gambit",
+        "BaseType": "Primed Quiver",
+        "Aspects": []
+      }
+    ],
+    "Death Mask": [
+      {
+        "Name": "Mind of the Council",
+        "BaseType": "Death Mask",
+        "Aspects": []
+      }
+    ],
+    "Toxic Quiver": [
+      {
+        "Name": "Murkshaft",
+        "BaseType": "Toxic Quiver",
+        "Aspects": []
+      }
+    ],
+    "Viper Cap": [
+      {
+        "Name": "Constricting Command",
+        "BaseType": "Viper Cap",
+        "Aspects": []
+      }
+    ],
+    "Permafrost Staff": [
+      {
+        "Name": "The Whispering Ice",
+        "BaseType": "Permafrost Staff",
+        "Aspects": []
+      }
+    ],
+    "Desolate Crossbow": [
+      {
+        "Name": "The Last Lament",
+        "BaseType": "Desolate Crossbow",
+        "Aspects": []
+      }
+    ],
+    "Siphoning Wand": [
+      {
+        "Name": "Adonia's Ego",
+        "BaseType": "Siphoning Wand",
+        "Aspects": []
+      }
+    ],
+    "Heavy Bow": [
+      {
+        "Name": "Lioneye's Glare",
+        "BaseType": "Heavy Bow",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -3628,6 +3707,16 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Shrine Sceptre": [
@@ -3768,6 +3857,236 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Incense Relic": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Armoured Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Ultimate Life Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Golden Charm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Silver Charm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Blacksteel Tower Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Scalper's Jacket": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Sacral Quiver": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Embroidered Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Grand Visage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t3boss"
+        }
+      ],
+      "Unset Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Sacred Focus": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Armoured Vest": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Grand Manchettes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t3boss"
         }
       ]
     }

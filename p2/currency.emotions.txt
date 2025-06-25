@@ -205,10 +205,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "a",
-            "s"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Distilled Suffering": [

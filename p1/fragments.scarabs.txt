@@ -961,6 +961,114 @@
           "Handled"
         ]
       }
+    ],
+    "Kalguuran Scarab of Refinement": [
+      {
+        "Name": "Kalguuran Scarab of Refinement",
+        "BaseType": "Kalguuran Scarab of Refinement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kalguuran Scarab": [
+      {
+        "Name": "Kalguuran Scarab",
+        "BaseType": "Kalguuran Scarab",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kalguuran Scarab of Guarded Riches": [
+      {
+        "Name": "Kalguuran Scarab of Guarded Riches",
+        "BaseType": "Kalguuran Scarab of Guarded Riches",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Betrayal Scarab of the Allflame": [
+      {
+        "Name": "Betrayal Scarab of the Allflame",
+        "BaseType": "Betrayal Scarab of the Allflame",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of the Ethereal": [
+      {
+        "Name": "Allflame Ember of the Ethereal",
+        "BaseType": "Allflame Ember of the Ethereal",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of the Gilded": [
+      {
+        "Name": "Allflame Ember of the Gilded",
+        "BaseType": "Allflame Ember of the Gilded",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of Kulemak": [
+      {
+        "Name": "Allflame Ember of Kulemak",
+        "BaseType": "Allflame Ember of Kulemak",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of Propagation": [
+      {
+        "Name": "Allflame Ember of Propagation",
+        "BaseType": "Allflame Ember of Propagation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of Toads": [
+      {
+        "Name": "Allflame Ember of Toads",
+        "BaseType": "Allflame Ember of Toads",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of Flesh": [
+      {
+        "Name": "Allflame Ember of Flesh",
+        "BaseType": "Allflame Ember of Flesh",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of the Wildwood": [
+      {
+        "Name": "Allflame Ember of the Wildwood",
+        "BaseType": "Allflame Ember of the Wildwood",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Allflame Ember of Resplendence": [
+      {
+        "Name": "Allflame Ember of Resplendence",
+        "BaseType": "Allflame Ember of Resplendence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -2329,6 +2437,64 @@
             "t3"
           ],
           "FallbackTier": "t4"
+        }
+      ],
+      "Allflame Ember of the Gilded": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Allflame Ember of the Ethereal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Allflame Ember of Kulemak": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Allflame Ember of Propagation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ]
     }

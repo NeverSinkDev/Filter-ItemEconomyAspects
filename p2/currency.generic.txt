@@ -14,7 +14,8 @@
         "Name": "Perfect Jeweller's Orb",
         "BaseType": "Perfect Jeweller's Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -268,13 +269,12 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
-            "d",
-            "s"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -299,14 +299,13 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
-            "s"
+            "b"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "a"
         }
       ],
       "Orb of Chance": [
@@ -378,7 +377,6 @@
           },
           "Tiers": [
             "a",
-            "c",
             "s"
           ],
           "FallbackTier": "b"
@@ -446,6 +444,71 @@
             "e"
           ],
           "FallbackTier": "d"
+        }
+      ],
+      "Perfect Jeweller's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Chance Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Gemcutter's Prism": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
         }
       ]
     }
