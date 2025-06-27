@@ -14,7 +14,8 @@
         "BaseType": "Prophecy Wand",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "HighVariety"
         ]
       }
     ],
@@ -313,7 +314,11 @@
       {
         "Name": "Legacy of the Rose",
         "BaseType": "Judgement Staff",
-        "Aspects": []
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled",
+          "Uncommon"
+        ]
       }
     ],
     "Midnight Blade": [
@@ -864,7 +869,10 @@
       {
         "Name": "Cadigan's Authority",
         "BaseType": "Platinum Sceptre",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
       }
     ],
     "Jasper Chopper": [
@@ -1234,7 +1242,9 @@
         "Name": "Starcaller",
         "BaseType": "Abyssal Axe",
         "Aspects": [
-          "NonWorldDrop"
+          "Handled",
+          "NonWorldDrop",
+          "Uncommon"
         ]
       }
     ],
@@ -4702,7 +4712,9 @@
         "Name": "Empire's Grasp",
         "BaseType": "Goliath Gauntlets",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety",
+          "Uncommon"
         ]
       },
       {
@@ -5794,7 +5806,6 @@
         "BaseType": "Onyx Amulet",
         "Aspects": [
           "Handled",
-          "Uncommon",
           "NonWorldDrop"
         ]
       },
@@ -6380,8 +6391,7 @@
         "Name": "Squirming Terror",
         "BaseType": "Unset Ring",
         "Aspects": [
-          "Handled",
-          "NonWorldDrop"
+          "Handled"
         ]
       }
     ],
@@ -6805,7 +6815,10 @@
       {
         "Name": "The Arkhon's Tools",
         "BaseType": "Cloth Belt",
-        "Aspects": []
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
       }
     ],
     "Rustic Sash": [
@@ -7103,6 +7116,7 @@
         "BaseType": "Steel Ring",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "NonWorldDrop"
         ]
       }
@@ -7278,7 +7292,7 @@
         "BaseType": "Vanguard Belt",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "Uncommon"
         ]
       }
     ],
@@ -7470,6 +7484,7 @@
         "BaseType": "Lacquered Buckler",
         "Aspects": [
           "Handled",
+          "Uncommon",
           "HighVariety"
         ]
       }
@@ -7609,8 +7624,7 @@
         "Name": "Mercenary's Lot",
         "BaseType": "Slink Gloves",
         "Aspects": [
-          "Handled",
-          "Uncommon"
+          "Handled"
         ]
       }
     ],
@@ -7915,7 +7929,8 @@
         "Name": "Maloney's Nightfall",
         "BaseType": "Vile Arrow Quiver",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop"
         ]
       },
       {
@@ -8130,20 +8145,20 @@
         ]
       },
       {
-        "Name": "The Perandus Pact",
-        "BaseType": "Prismatic Jewel",
-        "Aspects": []
-      },
-      {
         "Name": "The Light of Meaning",
         "BaseType": "Prismatic Jewel",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
       },
       {
         "Name": "Bound By Destiny",
         "BaseType": "Prismatic Jewel",
         "Aspects": [
           "Handled",
+          "NonWorldDrop",
           "HighVariety"
         ]
       }
@@ -9217,16 +9232,6 @@
         ]
       }
     ],
-    "Phantom Mace": [
-      {
-        "Name": "Serle's Masterwork",
-        "BaseType": "Phantom Mace",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
-      }
-    ],
     "Piledriver": [
       {
         "Name": "Tawhoa's Felling",
@@ -9320,7 +9325,8 @@
         "BaseType": "Gold Flask",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Uncommon"
         ]
       }
     ],
@@ -9352,7 +9358,7 @@
         "BaseType": "Martyr Gloves",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "Uncommon"
         ]
       }
     ],
@@ -9402,6 +9408,7 @@
         "BaseType": "Astrolabe Amulet",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "NonWorldDrop"
         ]
       }
