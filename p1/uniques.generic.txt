@@ -711,32 +711,28 @@
         "Name": "Agnerod West",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       },
       {
         "Name": "Agnerod East",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       },
       {
         "Name": "Agnerod North",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       },
       {
         "Name": "Agnerod South",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       },
       {
@@ -9927,6 +9923,21 @@
         }
       ],
       "Ezomyte Staff": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable",
+            "hideable2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Imperial Staff": [
         {
           "Settings": {
             "IsEnabled": true,
