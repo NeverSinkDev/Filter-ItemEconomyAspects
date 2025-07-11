@@ -5439,7 +5439,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t4",
             "t2"
           ],
           "FallbackTier": "t3"
