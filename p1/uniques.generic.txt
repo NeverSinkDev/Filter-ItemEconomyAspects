@@ -7934,7 +7934,8 @@
         "BaseType": "Vile Arrow Quiver",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "NonWorldDrop"
         ]
       }
     ],
