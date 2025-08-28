@@ -63,15 +63,6 @@
         ]
       }
     ],
-    "Omen of Greater Annulment": [
-      {
-        "Name": "Omen of Greater Annulment",
-        "BaseType": "Omen of Greater Annulment",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Omen of Resurgence": [
       {
         "Name": "Omen of Resurgence",
@@ -90,46 +81,10 @@
         ]
       }
     ],
-    "Omen of Sinistral Alchemy": [
-      {
-        "Name": "Omen of Sinistral Alchemy",
-        "BaseType": "Omen of Sinistral Alchemy",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Omen of Dextral Exaltation": [
       {
         "Name": "Omen of Dextral Exaltation",
         "BaseType": "Omen of Dextral Exaltation",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Sinistral Coronation": [
-      {
-        "Name": "Omen of Sinistral Coronation",
-        "BaseType": "Omen of Sinistral Coronation",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Dextral Coronation": [
-      {
-        "Name": "Omen of Dextral Coronation",
-        "BaseType": "Omen of Dextral Coronation",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Dextral Alchemy": [
-      {
-        "Name": "Omen of Dextral Alchemy",
-        "BaseType": "Omen of Dextral Alchemy",
         "Aspects": [
           "Handled"
         ]
@@ -204,20 +159,6 @@
             "a"
           ],
           "FallbackTier": "s"
-        }
-      ],
-      "Omen of Greater Annulment": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
         }
       ],
       "Omen of Corruption": [
@@ -417,20 +358,6 @@
           "FallbackTier": "d"
         }
       ],
-      "Omen of Dextral Alchemy": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "d"
-        }
-      ],
       "Omen of Resurgence": [
         {
           "Settings": {
@@ -443,36 +370,6 @@
             "c"
           ],
           "FallbackTier": "d"
-        }
-      ],
-      "Omen of Sinistral Alchemy": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "d"
-          ],
-          "FallbackTier": "c"
-        }
-      ],
-      "Omen of Sinistral Coronation": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "d"
-          ],
-          "FallbackTier": "c"
         }
       ],
       "Omen of Greater Exaltation": [
@@ -488,20 +385,6 @@
             "d"
           ],
           "FallbackTier": "c"
-        }
-      ],
-      "Omen of Dextral Coronation": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "d"
         }
       ]
     }
