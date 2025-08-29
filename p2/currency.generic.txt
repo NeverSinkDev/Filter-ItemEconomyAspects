@@ -261,7 +261,7 @@
             "a",
             "s"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "c"
         }
       ],
       "Orb of Annulment": [
@@ -303,9 +303,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "b"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Orb of Chance": [
@@ -376,10 +376,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "a",
+            "b",
             "s"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Orb of Alchemy": [
@@ -408,10 +408,9 @@
           },
           "Tiers": [
             "e",
-            "a",
             "s"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "c"
         }
       ],
       "Armourer's Scrap": [
@@ -465,9 +464,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "s"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         },
         {
           "Settings": {

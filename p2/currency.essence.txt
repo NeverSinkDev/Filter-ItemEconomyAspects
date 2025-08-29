@@ -27,15 +27,6 @@
         ]
       }
     ],
-    "Greater Essence of Torment": [
-      {
-        "Name": "Greater Essence of Torment",
-        "BaseType": "Greater Essence of Torment",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Greater Essence of the Mind": [
       {
         "Name": "Greater Essence of the Mind",
@@ -139,15 +130,6 @@
       {
         "Name": "Essence of Electricity",
         "BaseType": "Essence of Electricity",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Essence of Torment": [
-      {
-        "Name": "Essence of Torment",
-        "BaseType": "Essence of Torment",
         "Aspects": [
           "Handled"
         ]
