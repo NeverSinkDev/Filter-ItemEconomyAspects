@@ -1,15 +1,5 @@
 {
   "Aspects": {
-    "An Audience with the King": [
-      {
-        "Name": "An Audience with the King",
-        "BaseType": "An Audience with the King",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
     "Faded Crisis Fragment": [
       {
         "Name": "Faded Crisis Fragment",
@@ -28,16 +18,6 @@
         ]
       }
     ],
-    "Breachstone": [
-      {
-        "Name": "Breachstone",
-        "BaseType": "Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
     "Ancient Crisis Fragment": [
       {
         "Name": "Ancient Crisis Fragment",
@@ -51,16 +31,6 @@
       {
         "Name": "Deadly Fate",
         "BaseType": "Deadly Fate",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
-    "Simulacrum": [
-      {
-        "Name": "Simulacrum",
-        "BaseType": "Simulacrum",
         "Aspects": [
           "Handled",
           "Tierable"
@@ -241,6 +211,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Deadly Fate": [
@@ -267,6 +247,16 @@
           "Tiers": [
             "b"
           ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ]

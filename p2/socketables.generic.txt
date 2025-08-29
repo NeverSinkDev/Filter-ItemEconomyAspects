@@ -1024,6 +1024,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Guatelitzi's Soul Core of Endurance": [
@@ -1036,6 +1048,18 @@
           },
           "Tiers": [
             "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "c"
           ],
           "FallbackTier": "b"
@@ -1053,6 +1077,16 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Tacati's Soul Core of Affliction": [
@@ -1065,6 +1099,18 @@
           },
           "Tiers": [
             "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "c"
           ],
           "FallbackTier": "b"
@@ -1083,6 +1129,18 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
@@ -1097,6 +1155,16 @@
             "a",
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1113,6 +1181,18 @@
             "c"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Cholotl": [
@@ -1128,6 +1208,18 @@
             "c"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Xopec's Soul Core of Power": [
@@ -1143,6 +1235,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Zalatl's Soul Core of Insulation": [
@@ -1157,6 +1259,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Azcapa": [
@@ -1169,6 +1281,16 @@
           },
           "Tiers": [],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Soul Core of Xopec": [
@@ -1183,6 +1305,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Zalatl": [
@@ -1197,6 +1329,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Topotante": [
@@ -1212,6 +1356,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Cholotl's Soul Core of War": [
@@ -1225,6 +1379,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1240,6 +1404,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Atmohua's Soul Core of Retreat": [
@@ -1252,6 +1428,18 @@
           },
           "Tiers": [
             "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "c"
           ],
           "FallbackTier": "b"
@@ -1270,6 +1458,18 @@
             "a"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Quipolatl": [
@@ -1286,6 +1486,16 @@
             "c"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Atmohua": [
@@ -1300,6 +1510,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Uromoti's Soul Core of Attenuation": [
@@ -1313,6 +1533,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1329,6 +1559,16 @@
             "a"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Tacati": [
@@ -1344,6 +1584,16 @@
             "c"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Hayoxi's Soul Core of Heatproofing": [
@@ -1357,6 +1607,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1372,6 +1632,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Opiloti's Soul Core of Assault": [
@@ -1386,6 +1656,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Topotante's Soul Core of Dampening": [
@@ -1398,6 +1678,18 @@
           },
           "Tiers": [
             "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1415,6 +1707,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Opiloti": [
@@ -1430,6 +1732,16 @@
             "c"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Xipocado's Soul Core of Dominion": [
@@ -1443,6 +1755,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1458,6 +1780,16 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Fox Talisman": [
@@ -1472,6 +1804,18 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Talisman of Maxarius": [
@@ -1484,6 +1828,18 @@
           },
           "Tiers": [
             "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "a"
           ],
           "FallbackTier": "b"
@@ -1502,6 +1858,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Talisman of Sirrius": [
@@ -1517,6 +1883,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Ox Talisman": [
@@ -1531,6 +1907,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Talisman of Ralakesh": [
@@ -1546,6 +1932,18 @@
             "a"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Cat Talisman": [
@@ -1558,6 +1956,18 @@
           },
           "Tiers": [
             "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1574,6 +1984,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Talisman of Eeshta": [
@@ -1588,6 +2008,16 @@
             "a",
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1604,6 +2034,18 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Wolf Talisman": [
@@ -1616,6 +2058,18 @@
           },
           "Tiers": [
             "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1632,6 +2086,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Boar Talisman": [
@@ -1647,6 +2111,18 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Stag Talisman": [
@@ -1660,6 +2136,16 @@
           "Tiers": [
             "b"
           ],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "c"
         }
       ],
@@ -1675,6 +2161,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Serpent Talisman": [
@@ -1689,6 +2185,18 @@
             "b"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Owl Talisman": [
@@ -1703,6 +2211,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Countess Seske's Rune of Archery": [
@@ -1712,6 +2230,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "s"
@@ -1729,6 +2257,16 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Saqawal's Rune of Memory": [
@@ -1743,6 +2281,18 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Hedgewitch Assandra's Rune of Wisdom": [
@@ -1756,6 +2306,16 @@
           "Tiers": [
             "a"
           ],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "s"
         }
       ],
@@ -1772,6 +2332,18 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Saqawal's Rune of the Sky": [
@@ -1786,6 +2358,18 @@
             "a"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Greater Rune of Alacrity": [
@@ -1828,6 +2412,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Courtesan Mannan's Rune of Cruelty": [
@@ -1842,6 +2436,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "The Greatwolf's Rune of Willpower": [
@@ -1856,6 +2462,18 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Craiceann's Rune of Warding": [
@@ -1870,6 +2488,16 @@
             "a",
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1886,6 +2514,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Farrul's Rune of the Hunt": [
@@ -1898,6 +2536,18 @@
           },
           "Tiers": [
             "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "a"
           ],
           "FallbackTier": "b"
@@ -1916,6 +2566,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Fenumus' Rune of Spinning": [
@@ -1929,6 +2589,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1945,6 +2615,16 @@
             "a"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Lady Hestra's Rune of Winter": [
@@ -1958,6 +2638,16 @@
           "Tiers": [
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1973,6 +2663,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Craiceann's Rune of Recovery": [
@@ -1987,6 +2687,16 @@
             "b"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "The Greatwolf's Rune of Claws": [
@@ -2002,6 +2712,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Fenumus' Rune of Draining": [
@@ -2014,6 +2734,18 @@
           },
           "Tiers": [
             "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -2032,6 +2764,18 @@
             "s"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Greater Rune of Nobility": [
@@ -2047,6 +2791,18 @@
             "d"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Greater Rune of Leadership": [
@@ -2062,6 +2818,18 @@
             "d"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Saqawal's Rune of Erosion": [
@@ -2077,6 +2845,16 @@
             "b"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ]
     }
