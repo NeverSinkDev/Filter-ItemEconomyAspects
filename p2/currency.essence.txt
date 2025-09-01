@@ -202,28 +202,531 @@
       {
         "Name": "Essence of Delirium",
         "BaseType": "Essence of Delirium",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Essence of Insanity": [
       {
         "Name": "Essence of Insanity",
         "BaseType": "Essence of Insanity",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Essence of Horror": [
       {
         "Name": "Essence of Horror",
         "BaseType": "Essence of Horror",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Essence of Hysteria": [
       {
         "Name": "Essence of Hysteria",
         "BaseType": "Essence of Hysteria",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Battle": [
+      {
+        "Name": "Perfect Essence of Battle",
+        "BaseType": "Perfect Essence of Battle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Sorcery": [
+      {
+        "Name": "Perfect Essence of Sorcery",
+        "BaseType": "Perfect Essence of Sorcery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Haste": [
+      {
+        "Name": "Perfect Essence of Haste",
+        "BaseType": "Perfect Essence of Haste",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Haste": [
+      {
+        "Name": "Lesser Essence of Haste",
+        "BaseType": "Lesser Essence of Haste",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Command": [
+      {
+        "Name": "Essence of Command",
+        "BaseType": "Essence of Command",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Opulence": [
+      {
+        "Name": "Lesser Essence of Opulence",
+        "BaseType": "Lesser Essence of Opulence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Abrasion": [
+      {
+        "Name": "Greater Essence of Abrasion",
+        "BaseType": "Greater Essence of Abrasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Ruin": [
+      {
+        "Name": "Lesser Essence of Ruin",
+        "BaseType": "Lesser Essence of Ruin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Abrasion": [
+      {
+        "Name": "Essence of Abrasion",
+        "BaseType": "Essence of Abrasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Alacrity": [
+      {
+        "Name": "Essence of Alacrity",
+        "BaseType": "Essence of Alacrity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Command": [
+      {
+        "Name": "Lesser Essence of Command",
+        "BaseType": "Lesser Essence of Command",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Abrasion": [
+      {
+        "Name": "Perfect Essence of Abrasion",
+        "BaseType": "Perfect Essence of Abrasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Electricity": [
+      {
+        "Name": "Perfect Essence of Electricity",
+        "BaseType": "Perfect Essence of Electricity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Insulation": [
+      {
+        "Name": "Greater Essence of Insulation",
+        "BaseType": "Greater Essence of Insulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Flames": [
+      {
+        "Name": "Lesser Essence of Flames",
+        "BaseType": "Lesser Essence of Flames",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Thawing": [
+      {
+        "Name": "Greater Essence of Thawing",
+        "BaseType": "Greater Essence of Thawing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Seeking": [
+      {
+        "Name": "Essence of Seeking",
+        "BaseType": "Essence of Seeking",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Grounding": [
+      {
+        "Name": "Greater Essence of Grounding",
+        "BaseType": "Greater Essence of Grounding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Opulence": [
+      {
+        "Name": "Greater Essence of Opulence",
+        "BaseType": "Greater Essence of Opulence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Grounding": [
+      {
+        "Name": "Lesser Essence of Grounding",
+        "BaseType": "Lesser Essence of Grounding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Alacrity": [
+      {
+        "Name": "Lesser Essence of Alacrity",
+        "BaseType": "Lesser Essence of Alacrity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Enhancement": [
+      {
+        "Name": "Lesser Essence of Enhancement",
+        "BaseType": "Lesser Essence of Enhancement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Opulence": [
+      {
+        "Name": "Essence of Opulence",
+        "BaseType": "Essence of Opulence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Command": [
+      {
+        "Name": "Greater Essence of Command",
+        "BaseType": "Greater Essence of Command",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of the Body": [
+      {
+        "Name": "Lesser Essence of the Body",
+        "BaseType": "Lesser Essence of the Body",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Enhancement": [
+      {
+        "Name": "Perfect Essence of Enhancement",
+        "BaseType": "Perfect Essence of Enhancement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Insulation": [
+      {
+        "Name": "Essence of Insulation",
+        "BaseType": "Essence of Insulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Thawing": [
+      {
+        "Name": "Essence of Thawing",
+        "BaseType": "Essence of Thawing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Opulence": [
+      {
+        "Name": "Perfect Essence of Opulence",
+        "BaseType": "Perfect Essence of Opulence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of the Body": [
+      {
+        "Name": "Perfect Essence of the Body",
+        "BaseType": "Perfect Essence of the Body",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Ruin": [
+      {
+        "Name": "Perfect Essence of Ruin",
+        "BaseType": "Perfect Essence of Ruin",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of Grounding": [
+      {
+        "Name": "Essence of Grounding",
+        "BaseType": "Essence of Grounding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Alacrity": [
+      {
+        "Name": "Perfect Essence of Alacrity",
+        "BaseType": "Perfect Essence of Alacrity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Abrasion": [
+      {
+        "Name": "Lesser Essence of Abrasion",
+        "BaseType": "Lesser Essence of Abrasion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Flames": [
+      {
+        "Name": "Perfect Essence of Flames",
+        "BaseType": "Perfect Essence of Flames",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Command": [
+      {
+        "Name": "Perfect Essence of Command",
+        "BaseType": "Perfect Essence of Command",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Alacrity": [
+      {
+        "Name": "Greater Essence of Alacrity",
+        "BaseType": "Greater Essence of Alacrity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Insulation": [
+      {
+        "Name": "Perfect Essence of Insulation",
+        "BaseType": "Perfect Essence of Insulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Seeking": [
+      {
+        "Name": "Perfect Essence of Seeking",
+        "BaseType": "Perfect Essence of Seeking",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Essence of Seeking": [
+      {
+        "Name": "Greater Essence of Seeking",
+        "BaseType": "Greater Essence of Seeking",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Ice": [
+      {
+        "Name": "Perfect Essence of Ice",
+        "BaseType": "Perfect Essence of Ice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Battle": [
+      {
+        "Name": "Lesser Essence of Battle",
+        "BaseType": "Lesser Essence of Battle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Ice": [
+      {
+        "Name": "Lesser Essence of Ice",
+        "BaseType": "Lesser Essence of Ice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of the Infinite": [
+      {
+        "Name": "Lesser Essence of the Infinite",
+        "BaseType": "Lesser Essence of the Infinite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Insulation": [
+      {
+        "Name": "Lesser Essence of Insulation",
+        "BaseType": "Lesser Essence of Insulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Sorcery": [
+      {
+        "Name": "Lesser Essence of Sorcery",
+        "BaseType": "Lesser Essence of Sorcery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Seeking": [
+      {
+        "Name": "Lesser Essence of Seeking",
+        "BaseType": "Lesser Essence of Seeking",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of the Infinite": [
+      {
+        "Name": "Perfect Essence of the Infinite",
+        "BaseType": "Perfect Essence of the Infinite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Thawing": [
+      {
+        "Name": "Perfect Essence of Thawing",
+        "BaseType": "Perfect Essence of Thawing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of the Mind": [
+      {
+        "Name": "Perfect Essence of the Mind",
+        "BaseType": "Perfect Essence of the Mind",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Essence of Grounding": [
+      {
+        "Name": "Perfect Essence of Grounding",
+        "BaseType": "Perfect Essence of Grounding",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Electricity": [
+      {
+        "Name": "Lesser Essence of Electricity",
+        "BaseType": "Lesser Essence of Electricity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence of the Abyss": [
+      {
+        "Name": "Essence of the Abyss",
+        "BaseType": "Essence of the Abyss",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of Thawing": [
+      {
+        "Name": "Lesser Essence of Thawing",
+        "BaseType": "Lesser Essence of Thawing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Essence of the Mind": [
+      {
+        "Name": "Lesser Essence of the Mind",
+        "BaseType": "Lesser Essence of the Mind",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },
@@ -287,6 +790,32 @@
             "b"
           ],
           "FallbackTier": "a"
+        }
+      ],
+      "Essence of the Abyss": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "d",
+            "a"
+          ],
+          "FallbackTier": "c"
         }
       ]
     }

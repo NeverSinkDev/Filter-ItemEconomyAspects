@@ -1564,6 +1564,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Hinekora's Sight",
+        "BaseType": "Stellar Amulet",
+        "Aspects": []
       }
     ],
     "Sapphire Ring": [
@@ -1960,6 +1965,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Umbilicus Immortalis",
+        "BaseType": "Linen Belt",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Lapis Amulet": [
@@ -2043,6 +2055,11 @@
           "NonWorldDrop",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Byrnabas",
+        "BaseType": "Wide Belt",
+        "Aspects": []
       }
     ],
     "Fine Belt": [
@@ -2050,7 +2067,17 @@
         "Name": "Shavronne's Satchel",
         "BaseType": "Fine Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Darkness Enthroned",
+        "BaseType": "Fine Belt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -2603,6 +2630,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Heart of the Well",
+        "BaseType": "Diamond",
+        "Aspects": []
       }
     ],
     "Emerald": [
@@ -3320,6 +3352,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Splinter of Lorrata",
+        "BaseType": "Hardwood Spear",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Zealot Bow": [
@@ -3488,6 +3527,126 @@
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Utility Wraps": [
+      {
+        "Name": "Thunderfist",
+        "BaseType": "Utility Wraps",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancestral Mail": [
+      {
+        "Name": "Lightning Coil",
+        "BaseType": "Ancestral Mail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vermeil Circlet": [
+      {
+        "Name": "Crown of Eyes",
+        "BaseType": "Vermeil Circlet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ridged Buckler": [
+      {
+        "Name": "Kaltenhalt",
+        "BaseType": "Ridged Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin Garb": [
+      {
+        "Name": "Cospri's Will",
+        "BaseType": "Assassin Garb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Covered Sabatons": [
+      {
+        "Name": "Shankgonne",
+        "BaseType": "Covered Sabatons",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Verisium Cuffs": [
+      {
+        "Name": "The Prisoner's Manacles",
+        "BaseType": "Verisium Cuffs",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyssal Signet": [
+      {
+        "Name": "Grip of Kulemak",
+        "BaseType": "Abyssal Signet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
+      }
+    ],
+    "Gargantuan Life Flask": [
+      {
+        "Name": "Blood of the Warrior",
+        "BaseType": "Gargantuan Life Flask",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Totemic Greatclub": [
+      {
+        "Name": "Marohi Erqi",
+        "BaseType": "Totemic Greatclub",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Artillery Bow": [
+      {
+        "Name": "Fairgraves' Curse",
+        "BaseType": "Artillery Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ravenous Staff": [
+      {
+        "Name": "The Unborn Lich",
+        "BaseType": "Ravenous Staff",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dyad Crossbow": [
+      {
+        "Name": "Double Vision",
+        "BaseType": "Dyad Crossbow",
+        "Aspects": [
+          "Handled"
         ]
       }
     ]
@@ -4994,8 +5153,106 @@
             "RangeType": 0,
             "ValidTime": 1
           },
+          "Tiers": [
+            "earlyleague"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Utility Wraps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Abyssal Signet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
           "Tiers": [],
-          "FallbackTier": "multispecial"
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecialhigh"
+        }
+      ],
+      "Totemic Greatclub": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Artillery Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Ravenous Staff": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "multispecialhigh"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "multispecialhigh"
         }
       ]
     }

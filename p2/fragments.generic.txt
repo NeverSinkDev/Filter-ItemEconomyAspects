@@ -88,6 +88,34 @@
         "BaseType": "Breach Splinter",
         "Aspects": []
       }
+    ],
+    "Primary Calamity Fragment": [
+      {
+        "Name": "Primary Calamity Fragment",
+        "BaseType": "Primary Calamity Fragment",
+        "Aspects": []
+      }
+    ],
+    "Secondary Calamity Fragment": [
+      {
+        "Name": "Secondary Calamity Fragment",
+        "BaseType": "Secondary Calamity Fragment",
+        "Aspects": []
+      }
+    ],
+    "Tertiary Calamity Fragment": [
+      {
+        "Name": "Tertiary Calamity Fragment",
+        "BaseType": "Tertiary Calamity Fragment",
+        "Aspects": []
+      }
+    ],
+    "Runic Splinter": [
+      {
+        "Name": "Runic Splinter",
+        "BaseType": "Runic Splinter",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -167,10 +195,7 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [
-            "s",
-            "b"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         },
         {
@@ -184,6 +209,16 @@
             "b"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Victorious Fate": [
@@ -194,10 +229,7 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [
-            "s",
-            "b"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         },
         {
@@ -231,10 +263,7 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [
-            "b",
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         },
         {
