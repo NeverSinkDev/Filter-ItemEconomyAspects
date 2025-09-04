@@ -53,8 +53,7 @@
         "Name": "Chaos Orb",
         "BaseType": "Chaos Orb",
         "Aspects": [
-          "Handled",
-          "Tierable"
+          "Handled"
         ]
       }
     ],
@@ -130,7 +129,7 @@
         "BaseType": "Lesser Jeweller's Orb",
         "Aspects": [
           "Handled",
-          "Anchor"
+          "Tierable"
         ]
       }
     ],
@@ -148,7 +147,8 @@
         "Name": "Blacksmith's Whetstone",
         "BaseType": "Blacksmith's Whetstone",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -167,7 +167,8 @@
         "Name": "Arcanist's Etcher",
         "BaseType": "Arcanist's Etcher",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -186,7 +187,8 @@
         "Name": "Artificer's Orb",
         "BaseType": "Artificer's Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -242,7 +244,236 @@
       {
         "Name": "Chance Shard",
         "BaseType": "Chance Shard",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hinekora's Lock": [
+      {
+        "Name": "Hinekora's Lock",
+        "BaseType": "Hinekora's Lock",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Perfect Exalted Orb": [
+      {
+        "Name": "Perfect Exalted Orb",
+        "BaseType": "Perfect Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Perfect Chaos Orb": [
+      {
+        "Name": "Perfect Chaos Orb",
+        "BaseType": "Perfect Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Perfect Regal Orb": [
+      {
+        "Name": "Perfect Regal Orb",
+        "BaseType": "Perfect Regal Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Greater Chaos Orb": [
+      {
+        "Name": "Greater Chaos Orb",
+        "BaseType": "Greater Chaos Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Greater Exalted Orb": [
+      {
+        "Name": "Greater Exalted Orb",
+        "BaseType": "Greater Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Perfect Orb of Augmentation": [
+      {
+        "Name": "Perfect Orb of Augmentation",
+        "BaseType": "Perfect Orb of Augmentation",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Greater Regal Orb": [
+      {
+        "Name": "Greater Regal Orb",
+        "BaseType": "Greater Regal Orb",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Orb of Transmutation": [
+      {
+        "Name": "Perfect Orb of Transmutation",
+        "BaseType": "Perfect Orb of Transmutation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Orb of Augmentation": [
+      {
+        "Name": "Greater Orb of Augmentation",
+        "BaseType": "Greater Orb of Augmentation",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Orb of Transmutation": [
+      {
+        "Name": "Greater Orb of Transmutation",
+        "BaseType": "Greater Orb of Transmutation",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Jawbone": [
+      {
+        "Name": "Ancient Jawbone",
+        "BaseType": "Ancient Jawbone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Ancient Collarbone": [
+      {
+        "Name": "Ancient Collarbone",
+        "BaseType": "Ancient Collarbone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Ancient Rib": [
+      {
+        "Name": "Ancient Rib",
+        "BaseType": "Ancient Rib",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Preserved Collarbone": [
+      {
+        "Name": "Preserved Collarbone",
+        "BaseType": "Preserved Collarbone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Kulemak's Invitation": [
+      {
+        "Name": "Kulemak's Invitation",
+        "BaseType": "Kulemak's Invitation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Preserved Cranium": [
+      {
+        "Name": "Preserved Cranium",
+        "BaseType": "Preserved Cranium",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Preserved Rib": [
+      {
+        "Name": "Preserved Rib",
+        "BaseType": "Preserved Rib",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
+      }
+    ],
+    "Gnawed Collarbone": [
+      {
+        "Name": "Gnawed Collarbone",
+        "BaseType": "Gnawed Collarbone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Preserved Jawbone": [
+      {
+        "Name": "Preserved Jawbone",
+        "BaseType": "Preserved Jawbone",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Preserved Vertebrae": [
+      {
+        "Name": "Preserved Vertebrae",
+        "BaseType": "Preserved Vertebrae",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Gnawed Rib": [
+      {
+        "Name": "Gnawed Rib",
+        "BaseType": "Gnawed Rib",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Gnawed Jawbone": [
+      {
+        "Name": "Gnawed Jawbone",
+        "BaseType": "Gnawed Jawbone",
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ]
   },
@@ -299,12 +530,24 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 0,
+            "RangeType": 1,
             "ValidTime": 0
           },
           "Tiers": [
-            "a"
+            "s",
+            "d",
+            "e"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -337,7 +580,7 @@
             "s",
             "c"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "e"
         },
         {
           "Settings": {
@@ -396,6 +639,16 @@
             "s"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Vaal Orb": [
@@ -422,7 +675,22 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
+            "b",
+            "a",
+            "s",
+            "e"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "b",
             "a",
             "s"
           ],
@@ -508,6 +776,444 @@
             "d"
           ],
           "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rib": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Collarbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Ancient Jawbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Preserved Collarbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Preserved Cranium": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Preserved Rib": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Gnawed Collarbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Preserved Jawbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Preserved Vertebrae": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Gnawed Rib": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Gnawed Jawbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Greater Orb of Augmentation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s",
+            "e"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "e"
+        }
+      ],
+      "Greater Orb of Transmutation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s",
+            "e"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Artificer's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s",
+            "e"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Blacksmith's Whetstone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Arcanist's Etcher": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Perfect Orb of Augmentation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "e"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Perfect Orb of Transmutation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s",
+            "e"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Perfect Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Perfect Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        }
+      ],
+      "Perfect Regal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s",
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Greater Chaos Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Greater Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ]
     }

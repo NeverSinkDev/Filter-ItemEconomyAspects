@@ -143,6 +143,223 @@
           "Handled"
         ]
       }
+    ],
+    "Omen of Chance": [
+      {
+        "Name": "Omen of Chance",
+        "BaseType": "Omen of Chance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Light": [
+      {
+        "Name": "Omen of Light",
+        "BaseType": "Omen of Light",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Homogenising Exaltation": [
+      {
+        "Name": "Omen of Homogenising Exaltation",
+        "BaseType": "Omen of Homogenising Exaltation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sanctification": [
+      {
+        "Name": "Omen of Sanctification",
+        "BaseType": "Omen of Sanctification",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Crystallisation": [
+      {
+        "Name": "Omen of Dextral Crystallisation",
+        "BaseType": "Omen of Dextral Crystallisation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Abyssal Echoes": [
+      {
+        "Name": "Omen of Abyssal Echoes",
+        "BaseType": "Omen of Abyssal Echoes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Recombination": [
+      {
+        "Name": "Omen of Recombination",
+        "BaseType": "Omen of Recombination",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Crystallisation": [
+      {
+        "Name": "Omen of Sinistral Crystallisation",
+        "BaseType": "Omen of Sinistral Crystallisation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Chaotic Rarity": [
+      {
+        "Name": "Omen of Chaotic Rarity",
+        "BaseType": "Omen of Chaotic Rarity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Putrefaction": [
+      {
+        "Name": "Omen of Putrefaction",
+        "BaseType": "Omen of Putrefaction",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Homogenising Coronation": [
+      {
+        "Name": "Omen of Homogenising Coronation",
+        "BaseType": "Omen of Homogenising Coronation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Sinistral Necromancy": [
+      {
+        "Name": "Omen of Sinistral Necromancy",
+        "BaseType": "Omen of Sinistral Necromancy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of the Ancients": [
+      {
+        "Name": "Omen of the Ancients",
+        "BaseType": "Omen of the Ancients",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Chaotic Quantity": [
+      {
+        "Name": "Omen of Chaotic Quantity",
+        "BaseType": "Omen of Chaotic Quantity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Chaotic Monsters": [
+      {
+        "Name": "Omen of Chaotic Monsters",
+        "BaseType": "Omen of Chaotic Monsters",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Catalysing Exaltation": [
+      {
+        "Name": "Omen of Catalysing Exaltation",
+        "BaseType": "Omen of Catalysing Exaltation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of the Blessed": [
+      {
+        "Name": "Omen of the Blessed",
+        "BaseType": "Omen of the Blessed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Dextral Necromancy": [
+      {
+        "Name": "Omen of Dextral Necromancy",
+        "BaseType": "Omen of Dextral Necromancy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of the Sovereign": [
+      {
+        "Name": "Omen of the Sovereign",
+        "BaseType": "Omen of the Sovereign",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of the Blackblooded": [
+      {
+        "Name": "Omen of the Blackblooded",
+        "BaseType": "Omen of the Blackblooded",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Bartering": [
+      {
+        "Name": "Omen of Bartering",
+        "BaseType": "Omen of Bartering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of Gambling": [
+      {
+        "Name": "Omen of Gambling",
+        "BaseType": "Omen of Gambling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Petition Splinter": [
+      {
+        "Name": "Petition Splinter",
+        "BaseType": "Petition Splinter",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Omen of the Liege": [
+      {
+        "Name": "Omen of the Liege",
+        "BaseType": "Omen of the Liege",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -159,6 +376,16 @@
             "a"
           ],
           "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Omen of Corruption": [
@@ -172,6 +399,16 @@
           "Tiers": [
             "a"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -187,6 +424,16 @@
             "a",
             "c"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -229,51 +476,19 @@
             "s"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Omen of Dextral Erasure": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        }
-      ],
-      "Omen of Sinistral Annulment": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
-        }
-      ],
-      "Omen of Dextral Annulment": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
-        }
-      ],
-      "Omen of the Hunt": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -293,11 +508,71 @@
             "RangeType": 0,
             "ValidTime": 1
           },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Omen of Sinistral Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
           "Tiers": [
-            "c",
+            "s"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Omen of Dextral Annulment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Omen of the Hunt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b",
             "a"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "c"
         }
       ],
       "Omen of Secret Compartments": [
@@ -311,6 +586,16 @@
           "Tiers": [
             "a"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -326,6 +611,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Omen of Sinistral Exaltation": [
@@ -342,6 +637,16 @@
             "d"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Omen of Refreshment": [
@@ -356,6 +661,16 @@
             "c"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Omen of Resurgence": [
@@ -370,6 +685,16 @@
             "c"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Omen of Greater Exaltation": [
@@ -385,6 +710,350 @@
             "d"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Chance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Omen of Light": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Homogenising Exaltation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Sanctification": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Dextral Crystallisation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Abyssal Echoes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Recombination": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Sinistral Crystallisation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Chaotic Rarity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Putrefaction": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Omen of Homogenising Coronation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Sinistral Necromancy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of the Ancients": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Chaotic Quantity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Chaotic Monsters": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of Catalysing Exaltation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of the Blessed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of Dextral Necromancy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Omen of the Sovereign": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of the Blackblooded": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of Bartering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of Gambling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Omen of the Liege": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Omen of Dextral Exaltation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ]
     }

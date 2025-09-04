@@ -1,0 +1,653 @@
+{
+  "Aspects": {
+    "Adaptive Catalyst": [
+      {
+        "Name": "Adaptive Catalyst",
+        "BaseType": "Adaptive Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Carapace Catalyst": [
+      {
+        "Name": "Carapace Catalyst",
+        "BaseType": "Carapace Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chayula's Catalyst": [
+      {
+        "Name": "Chayula's Catalyst",
+        "BaseType": "Chayula's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Esh's Catalyst": [
+      {
+        "Name": "Esh's Catalyst",
+        "BaseType": "Esh's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Neural Catalyst": [
+      {
+        "Name": "Neural Catalyst",
+        "BaseType": "Neural Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reaver Catalyst": [
+      {
+        "Name": "Reaver Catalyst",
+        "BaseType": "Reaver Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Xoph's Catalyst": [
+      {
+        "Name": "Xoph's Catalyst",
+        "BaseType": "Xoph's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tul's Catalyst": [
+      {
+        "Name": "Tul's Catalyst",
+        "BaseType": "Tul's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uul-Netol's Catalyst": [
+      {
+        "Name": "Uul-Netol's Catalyst",
+        "BaseType": "Uul-Netol's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Skittering Catalyst": [
+      {
+        "Name": "Skittering Catalyst",
+        "BaseType": "Skittering Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sibilant Catalyst": [
+      {
+        "Name": "Sibilant Catalyst",
+        "BaseType": "Sibilant Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flesh Catalyst": [
+      {
+        "Name": "Flesh Catalyst",
+        "BaseType": "Flesh Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dialla's Desire": [
+      {
+        "Name": "Dialla's Desire",
+        "BaseType": "Dialla's Desire",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rakiata's Flow": [
+      {
+        "Name": "Rakiata's Flow",
+        "BaseType": "Rakiata's Flow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Atalui's Bloodletting": [
+      {
+        "Name": "Atalui's Bloodletting",
+        "BaseType": "Atalui's Bloodletting",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Augury": [
+      {
+        "Name": "Uhtred's Augury",
+        "BaseType": "Uhtred's Augury",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uul-Netol's Embrace": [
+      {
+        "Name": "Uul-Netol's Embrace",
+        "BaseType": "Uul-Netol's Embrace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Omen": [
+      {
+        "Name": "Uhtred's Omen",
+        "BaseType": "Uhtred's Omen",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Brutus' Brain": [
+      {
+        "Name": "Brutus' Brain",
+        "BaseType": "Brutus' Brain",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Esh's Radiance": [
+      {
+        "Name": "Esh's Radiance",
+        "BaseType": "Esh's Radiance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rigwald's Ferocity": [
+      {
+        "Name": "Rigwald's Ferocity",
+        "BaseType": "Rigwald's Ferocity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tul's Stillness": [
+      {
+        "Name": "Tul's Stillness",
+        "BaseType": "Tul's Stillness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Exodus": [
+      {
+        "Name": "Uhtred's Exodus",
+        "BaseType": "Uhtred's Exodus",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arjun's Medal": [
+      {
+        "Name": "Arjun's Medal",
+        "BaseType": "Arjun's Medal",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ixchel's Torment": [
+      {
+        "Name": "Ixchel's Torment",
+        "BaseType": "Ixchel's Torment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Xoph's Pyre": [
+      {
+        "Name": "Xoph's Pyre",
+        "BaseType": "Xoph's Pyre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ratha's Assault": [
+      {
+        "Name": "Ratha's Assault",
+        "BaseType": "Ratha's Assault",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arbiter's Ignition": [
+      {
+        "Name": "Arbiter's Ignition",
+        "BaseType": "Arbiter's Ignition",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Garukhan's Resolve": [
+      {
+        "Name": "Garukhan's Resolve",
+        "BaseType": "Garukhan's Resolve",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Atziri's Allure": [
+      {
+        "Name": "Atziri's Allure",
+        "BaseType": "Atziri's Allure",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ailith's Chimes": [
+      {
+        "Name": "Ailith's Chimes",
+        "BaseType": "Ailith's Chimes",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tecrod's Revenge": [
+      {
+        "Name": "Tecrod's Revenge",
+        "BaseType": "Tecrod's Revenge",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Einhar's Beastrite": [
+      {
+        "Name": "Einhar's Beastrite",
+        "BaseType": "Einhar's Beastrite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Paquate's Pact": [
+      {
+        "Name": "Paquate's Pact",
+        "BaseType": "Paquate's Pact",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ahn's Citadel": [
+      {
+        "Name": "Ahn's Citadel",
+        "BaseType": "Ahn's Citadel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kaom's Madness": [
+      {
+        "Name": "Kaom's Madness",
+        "BaseType": "Kaom's Madness",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Piety's Mercy": [
+      {
+        "Name": "Piety's Mercy",
+        "BaseType": "Piety's Mercy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zarokh's Refrain": [
+      {
+        "Name": "Zarokh's Refrain",
+        "BaseType": "Zarokh's Refrain",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Doedre's Undoing": [
+      {
+        "Name": "Doedre's Undoing",
+        "BaseType": "Doedre's Undoing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sione's Temper": [
+      {
+        "Name": "Sione's Temper",
+        "BaseType": "Sione's Temper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tawhoa's Tending": [
+      {
+        "Name": "Tawhoa's Tending",
+        "BaseType": "Tawhoa's Tending",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vilenta's Propulsion": [
+      {
+        "Name": "Vilenta's Propulsion",
+        "BaseType": "Vilenta's Propulsion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Daresso's Passion": [
+      {
+        "Name": "Daresso's Passion",
+        "BaseType": "Daresso's Passion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Varashta's Blessing": [
+      {
+        "Name": "Varashta's Blessing",
+        "BaseType": "Varashta's Blessing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arakaali's Lust": [
+      {
+        "Name": "Arakaali's Lust",
+        "BaseType": "Arakaali's Lust",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kulemak's Dominion": [
+      {
+        "Name": "Kulemak's Dominion",
+        "BaseType": "Kulemak's Dominion",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uruk's Smelting": [
+      {
+        "Name": "Uruk's Smelting",
+        "BaseType": "Uruk's Smelting",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tacati's Ire": [
+      {
+        "Name": "Tacati's Ire",
+        "BaseType": "Tacati's Ire",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kurgal's Leash": [
+      {
+        "Name": "Kurgal's Leash",
+        "BaseType": "Kurgal's Leash",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Dialla's Desire": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Rakiata's Flow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Atalui's Bloodletting": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Uhtred's Augury": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Uul-Netol's Embrace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Uhtred's Omen": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Esh's Radiance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Brutus' Brain": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Rigwald's Ferocity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Tul's Stillness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Uhtred's Exodus": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Arjun's Medal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ixchel's Torment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Xoph's Pyre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ratha's Assault": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Arbiter's Ignition": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Garukhan's Resolve": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ]
+    }
+  }
+}

@@ -118,7 +118,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -157,7 +158,8 @@
         "BaseType": "Trimmed Greaves",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1005,7 +1007,8 @@
         "BaseType": "Garment",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1371,7 +1374,8 @@
         "BaseType": "Gold Circlet",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2517,7 +2521,8 @@
           "Handled",
           "PreventHiding",
           "HighVariety",
-          "Anchor"
+          "Anchor",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2836,7 +2841,9 @@
         "Name": "Effigy of Cruelty",
         "BaseType": "Antler Focus",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -3386,7 +3393,8 @@
         "BaseType": "Fanatic Bow",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3599,8 +3607,9 @@
         "BaseType": "Abyssal Signet",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "NonWorldDrop",
-          "HighVariety"
+          "Anchor"
         ]
       }
     ],
@@ -3659,35 +3668,23 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t1",
-            "t3"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
             "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         }
@@ -3741,35 +3738,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "multispecial",
-            "multispecialhigh",
-            "t3",
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "multispecialhigh",
-            "t2",
-            "t1"
-          ],
-          "FallbackTier": "multispecial"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -3784,13 +3752,28 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "earlyleague"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "hideable"
           ],
-          "FallbackTier": "t2"
-        },
+          "FallbackTier": "t3"
+        }
+      ],
+      "Rope Cuffs": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -3800,61 +3783,10 @@
           },
           "Tiers": [
             "t2",
-            "t1"
-          ],
-          "FallbackTier": "earlyleague"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
             "t1",
-            "t3"
-          ],
-          "FallbackTier": "t2"
-        }
-      ],
-      "Spiked Club": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1",
-            "multispecial"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t1",
-            "multispecial",
-            "t2"
+            "earlyleague"
           ],
           "FallbackTier": "t3"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "multispecial"
         }
       ],
       "Time-Lost Diamond": [
@@ -3885,68 +3817,15 @@
           "FallbackTier": "t2"
         }
       ],
-      "Forked Spear": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2",
-            "t1"
-          ],
-          "FallbackTier": "multispecial"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
       "Giant Maul": [
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4147,18 +4026,6 @@
           },
           "Tiers": [],
           "FallbackTier": "t1"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
         }
       ],
       "Ultimate Life Flask": [
@@ -4182,6 +4049,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "t1"
@@ -4212,30 +4089,6 @@
         }
       ],
       "Blacksteel Tower Shield": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t1"
-        }
-      ],
-      "Scalper's Jacket": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -4380,9 +4233,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Grand Manchettes": [
@@ -4543,20 +4396,6 @@
           "FallbackTier": "t3"
         }
       ],
-      "Spired Greathelm": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "earlyleague"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
       "Coral Circlet": [
         {
           "Settings": {
@@ -4571,20 +4410,6 @@
           "FallbackTier": "t3"
         }
       ],
-      "Smuggler Coat": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        }
-      ],
       "Amethyst Charm": [
         {
           "Settings": {
@@ -4593,9 +4418,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4621,9 +4444,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
+          "Tiers": [],
           "FallbackTier": "multispecial"
         }
       ],
@@ -4664,9 +4485,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Stone Charm": [
@@ -4717,20 +4538,6 @@
           },
           "Tiers": [],
           "FallbackTier": "multispecialhigh"
-        }
-      ],
-      "Crude Bow": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "multispecial"
-          ],
-          "FallbackTier": "t3"
         }
       ],
       "Sapphire Ring": [
@@ -4995,9 +4802,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
+          "Tiers": [],
           "FallbackTier": "t3"
         }
       ],
@@ -5016,20 +4821,6 @@
         }
       ],
       "Jade Tiara": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
-      "Antler Focus": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -5173,38 +4964,6 @@
           "FallbackTier": "t2"
         }
       ],
-      "Abyssal Signet": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [],
-          "FallbackTier": "multispecialhigh"
-        }
-      ],
       "Totemic Greatclub": [
         {
           "Settings": {
@@ -5235,12 +4994,70 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecialhigh"
+        }
+      ],
+      "Furtive Wraps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Bloodstone Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Stellar Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "multispecialhigh"
+        }
+      ],
+      "Face Mask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Grand Regalia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         },
         {
           "Settings": {
@@ -5249,10 +5066,44 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "multispecialhigh"
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Chain Tiara": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Viper Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Thawing Charm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }

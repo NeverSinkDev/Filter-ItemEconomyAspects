@@ -4,88 +4,257 @@
       {
         "Name": "Adaptive Catalyst",
         "BaseType": "Adaptive Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Carapace Catalyst": [
       {
         "Name": "Carapace Catalyst",
         "BaseType": "Carapace Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Chayula's Catalyst": [
       {
         "Name": "Chayula's Catalyst",
         "BaseType": "Chayula's Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Esh's Catalyst": [
       {
         "Name": "Esh's Catalyst",
         "BaseType": "Esh's Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Neural Catalyst": [
       {
         "Name": "Neural Catalyst",
         "BaseType": "Neural Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Reaver Catalyst": [
       {
         "Name": "Reaver Catalyst",
         "BaseType": "Reaver Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Xoph's Catalyst": [
       {
         "Name": "Xoph's Catalyst",
         "BaseType": "Xoph's Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Tul's Catalyst": [
       {
         "Name": "Tul's Catalyst",
         "BaseType": "Tul's Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Uul-Netol's Catalyst": [
       {
         "Name": "Uul-Netol's Catalyst",
         "BaseType": "Uul-Netol's Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Skittering Catalyst": [
       {
         "Name": "Skittering Catalyst",
         "BaseType": "Skittering Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Sibilant Catalyst": [
       {
         "Name": "Sibilant Catalyst",
         "BaseType": "Sibilant Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Flesh Catalyst": [
       {
         "Name": "Flesh Catalyst",
         "BaseType": "Flesh Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },
   "TieringRangeList": {
-    "TieringRanges": {}
+    "TieringRanges": {
+      "Skittering Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Neural Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Sibilant Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Uul-Netol's Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Carapace Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Flesh Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Adaptive Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Tul's Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Chayula's Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Xoph's Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Esh's Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Reaver Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ]
+    }
   }
 }

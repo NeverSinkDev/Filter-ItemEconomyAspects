@@ -1017,25 +1017,12 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s",
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Guatelitzi's Soul Core of Endurance": [
@@ -1059,9 +1046,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1071,22 +1056,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "s"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Tacati's Soul Core of Affliction": [
@@ -1110,9 +1083,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1137,9 +1108,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1164,7 +1133,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1189,9 +1160,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1216,9 +1185,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1243,8 +1210,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Zalatl's Soul Core of Insulation": [
@@ -1290,22 +1259,10 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "s"
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Xopec": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1323,22 +1280,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1349,23 +1294,12 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s",
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Cholotl's Soul Core of War": [
@@ -1388,7 +1322,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1398,22 +1334,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1424,23 +1348,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1466,10 +1377,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Quipolatl": [
@@ -1494,7 +1403,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1504,21 +1415,11 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1577,22 +1478,11 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "c"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1664,7 +1554,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1688,9 +1580,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1715,7 +1605,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1839,9 +1731,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1866,7 +1756,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1925,25 +1817,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c",
-            "a"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Cat Talisman": [
@@ -1966,9 +1843,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2042,10 +1917,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Wolf Talisman": [
@@ -2068,9 +1941,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2094,7 +1965,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2146,7 +2019,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Talisman of Grold": [
@@ -2193,9 +2066,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2275,18 +2146,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "s"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -2325,19 +2184,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -2352,18 +2198,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -2373,19 +2207,6 @@
         }
       ],
       "Greater Rune of Alacrity": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s",
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -2420,23 +2241,13 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Courtesan Mannan's Rune of Cruelty": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -2451,18 +2262,6 @@
         }
       ],
       "The Greatwolf's Rune of Willpower": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -2547,9 +2346,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2598,7 +2395,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2623,7 +2422,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2647,7 +2448,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2671,8 +2474,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Craiceann's Rune of Recovery": [
@@ -2705,23 +2510,12 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Fenumus' Rune of Draining": [
@@ -2744,9 +2538,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2799,9 +2591,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2826,9 +2616,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -2854,7 +2642,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ]
     }
