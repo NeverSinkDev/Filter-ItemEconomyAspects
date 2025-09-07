@@ -785,7 +785,8 @@
           },
           "Tiers": [
             "s",
-            "b"
+            "b",
+            "c"
           ],
           "FallbackTier": "a"
         },
@@ -835,6 +836,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Essence of Alacrity": [
@@ -844,6 +855,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
           },
           "Tiers": [],
           "FallbackTier": "c"
@@ -859,6 +880,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Essence of Command": [
@@ -868,6 +899,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
           },
           "Tiers": [],
           "FallbackTier": "c"
@@ -895,6 +936,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Essence of Grounding": [
@@ -904,6 +955,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
           },
           "Tiers": [],
           "FallbackTier": "c"
@@ -919,9 +980,19 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
-      "Essence of Ice": [
+      "Essence of Enhancement": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1015,6 +1086,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Essence of the Infinite": [
@@ -1027,6 +1108,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Essence of the Mind": [
@@ -1036,6 +1127,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
           },
           "Tiers": [],
           "FallbackTier": "c"
@@ -1711,6 +1812,18 @@
           },
           "Tiers": [],
           "FallbackTier": "b"
+        }
+      ],
+      "Essence of Ice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ]
     }

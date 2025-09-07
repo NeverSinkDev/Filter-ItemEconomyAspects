@@ -658,7 +658,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "e"
           ],
           "FallbackTier": "d"
         },

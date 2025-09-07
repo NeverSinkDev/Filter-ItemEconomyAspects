@@ -907,24 +907,19 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 0,
+            "RangeType": 1,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "c"
+          "Tiers": [
+            "e",
+            "a",
+            "s",
+            "b"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Gnawed Jawbone": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "c"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -934,6 +929,21 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "s",
+            "a",
+            "b"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Greater Orb of Augmentation": [
@@ -947,7 +957,8 @@
           "Tiers": [
             "a",
             "s",
-            "e"
+            "e",
+            "b"
           ],
           "FallbackTier": "d"
         },
@@ -960,7 +971,8 @@
           },
           "Tiers": [
             "a",
-            "s"
+            "s",
+            "b"
           ],
           "FallbackTier": "e"
         }
@@ -1005,7 +1017,8 @@
           "Tiers": [
             "a",
             "s",
-            "e"
+            "e",
+            "b"
           ],
           "FallbackTier": "d"
         },
@@ -1018,7 +1031,8 @@
           },
           "Tiers": [
             "a",
-            "s"
+            "s",
+            "b"
           ],
           "FallbackTier": "d"
         },

@@ -1716,19 +1716,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c",
-            "a"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1922,18 +1909,6 @@
         }
       ],
       "Wolf Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,

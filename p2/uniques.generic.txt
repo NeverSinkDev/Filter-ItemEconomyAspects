@@ -2308,7 +2308,8 @@
         "BaseType": "Torment Club",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "HighVariety"
         ]
       }
     ],
@@ -2946,15 +2947,6 @@
         ]
       }
     ],
-    "Diviner Cuffs": [
-      {
-        "Name": "The Prisoner's Manacles",
-        "BaseType": "Diviner Cuffs",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Shrouded Vest": [
       {
         "Name": "Sands of Silk",
@@ -2989,16 +2981,6 @@
         "BaseType": "Tideseer Mantle",
         "Aspects": [
           "Handled"
-        ]
-      }
-    ],
-    "Coral Circlet": [
-      {
-        "Name": "Crown of Eyes",
-        "BaseType": "Coral Circlet",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
         ]
       }
     ],
@@ -3878,40 +3860,11 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t2",
-            "multispecialhigh",
-            "t1"
-          ],
-          "FallbackTier": "multispecial"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "multispecialhigh",
-            "t2",
-            "t1"
-          ],
-          "FallbackTier": "multispecial"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
             "multispecialhigh",
-            "multispecial",
-            "t1"
+            "t3boss"
           ],
           "FallbackTier": "t2"
         }
@@ -4218,18 +4171,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -4383,20 +4324,6 @@
         }
       ],
       "Iron Buckler": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
-      "Coral Circlet": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -5054,20 +4981,20 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "multispecialhigh"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "multispecialhigh"
         }
       ],
       "Chain Tiara": [
