@@ -1031,19 +1031,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1068,19 +1055,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1093,19 +1067,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1113,19 +1074,6 @@
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1145,19 +1093,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "c"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1165,19 +1100,6 @@
         }
       ],
       "Soul Core of Cholotl": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "c"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1222,18 +1144,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1246,7 +1156,7 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "a"
@@ -1256,9 +1166,13 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "s",
+            "b",
+            "c"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1303,18 +1217,6 @@
         }
       ],
       "Cholotl's Soul Core of War": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1365,10 +1267,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c",
             "a"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": null
         },
         {
           "Settings": {
@@ -1382,20 +1283,6 @@
         }
       ],
       "Soul Core of Quipolatl": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s",
-            "b",
-            "c"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1429,18 +1316,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1448,19 +1323,6 @@
         }
       ],
       "Soul Core of Tzamoto": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c",
-            "a"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1516,18 +1378,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1535,18 +1385,6 @@
         }
       ],
       "Opiloti's Soul Core of Assault": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1566,18 +1404,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1585,19 +1411,6 @@
         }
       ],
       "Soul Core of Citaqualotl": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "s",
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1617,19 +1430,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b",
-            "c"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1637,18 +1437,6 @@
         }
       ],
       "Xipocado's Soul Core of Dominion": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1728,19 +1516,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -1759,7 +1534,8 @@
           },
           "Tiers": [
             "s",
-            "b"
+            "b",
+            "c"
           ],
           "FallbackTier": "a"
         },
@@ -1816,18 +1592,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1835,18 +1599,6 @@
         }
       ],
       "Bear Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1864,19 +1616,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1884,19 +1623,6 @@
         }
       ],
       "Talisman of Thruldana": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1921,18 +1647,6 @@
         }
       ],
       "Primate Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -1979,18 +1693,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "c"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -1998,18 +1700,6 @@
         }
       ],
       "Talisman of Grold": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -2027,18 +1717,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "c"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -2046,18 +1724,6 @@
         }
       ],
       "Owl Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -2077,7 +1743,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "s"
         },
         {
@@ -2138,7 +1806,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "a"
+            "a",
+            "b"
           ],
           "FallbackTier": "s"
         },
@@ -2205,7 +1874,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2260,7 +1930,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2285,7 +1956,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2310,7 +1982,8 @@
           },
           "Tiers": [
             "c",
-            "a"
+            "a",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2335,7 +2008,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2359,7 +2033,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "a",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2386,7 +2062,8 @@
           },
           "Tiers": [
             "c",
-            "a"
+            "a",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2412,7 +2089,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "a",
+            "d"
           ],
           "FallbackTier": "b"
         },
@@ -2435,18 +2114,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -2464,7 +2131,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "b"
+            "b",
+            "a",
+            "d"
           ],
           "FallbackTier": "c"
         },
@@ -2502,7 +2171,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "d",
+            "a"
           ],
           "FallbackTier": "b"
         },
@@ -2555,7 +2226,8 @@
           },
           "Tiers": [
             "b",
-            "d"
+            "d",
+            "a"
           ],
           "FallbackTier": "c"
         },
@@ -2580,7 +2252,8 @@
           },
           "Tiers": [
             "b",
-            "d"
+            "d",
+            "a"
           ],
           "FallbackTier": "c"
         },
@@ -2605,7 +2278,8 @@
           },
           "Tiers": [
             "d",
-            "b"
+            "b",
+            "a"
           ],
           "FallbackTier": "c"
         },

@@ -519,10 +519,21 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
-            "d"
+            "e"
           ],
           "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Chaos Orb": [

@@ -845,7 +845,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Alacrity": [
@@ -867,7 +867,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Battle": [
@@ -889,7 +889,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Command": [
@@ -911,7 +911,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Electricity": [
@@ -924,6 +924,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Flames": [
@@ -945,7 +955,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Grounding": [
@@ -967,7 +977,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Haste": [
@@ -989,7 +999,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Enhancement": [
@@ -1001,7 +1011,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of Insulation": [
@@ -1014,6 +1024,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Opulence": [
@@ -1026,6 +1046,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Ruin": [
@@ -1038,6 +1068,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Seeking": [
@@ -1050,6 +1090,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Sorcery": [
@@ -1062,6 +1112,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of Thawing": [
@@ -1074,6 +1134,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Essence of the Body": [
@@ -1095,7 +1165,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of the Infinite": [
@@ -1117,7 +1187,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Essence of the Mind": [
@@ -1139,7 +1209,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Greater Essence of Abrasion": [
@@ -1824,6 +1894,16 @@
           },
           "Tiers": [],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ]
     }
