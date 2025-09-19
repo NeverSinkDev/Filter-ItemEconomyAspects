@@ -245,7 +245,8 @@
         "Name": "Chance Shard",
         "BaseType": "Chance Shard",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -324,7 +325,8 @@
         "Name": "Greater Regal Orb",
         "BaseType": "Greater Regal Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -333,7 +335,8 @@
         "Name": "Perfect Orb of Transmutation",
         "BaseType": "Perfect Orb of Transmutation",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -493,6 +496,31 @@
             "s"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Orb of Annulment": [
@@ -575,6 +603,16 @@
             "c"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Lesser Jeweller's Orb": [
@@ -755,7 +793,8 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s"
+            "s",
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -766,10 +805,20 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
             "ValidTime": 0
           },
           "Tiers": [
-            "d"
+            "e"
           ],
           "FallbackTier": "c"
         }
@@ -784,8 +833,19 @@
           },
           "Tiers": [
             "b",
-            "d"
+            "d",
+            "a"
           ],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "c"
         }
       ],
@@ -837,10 +897,22 @@
             "RangeType": 0,
             "ValidTime": 1
           },
+          "Tiers": [],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
           "Tiers": [
-            "b"
+            "c",
+            "a",
+            "d"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Preserved Cranium": [
@@ -864,7 +936,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "c"
         }
       ],
       "Gnawed Collarbone": [
@@ -876,7 +948,20 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Preserved Jawbone": [
@@ -912,7 +997,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -922,7 +1007,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
             "a",
             "s",
             "b"
@@ -939,7 +1023,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -949,7 +1033,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "e",
             "s",
             "a",
             "b"
@@ -1088,6 +1171,16 @@
             "s"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Perfect Orb of Augmentation": [
@@ -1113,6 +1206,18 @@
             "e"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "c"
         }
       ],
       "Perfect Orb of Transmutation": [
@@ -1128,6 +1233,28 @@
             "e"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "c"
         }
       ],
       "Perfect Exalted Orb": [
@@ -1210,7 +1337,8 @@
           },
           "Tiers": [
             "s",
-            "b"
+            "b",
+            "c"
           ],
           "FallbackTier": "a"
         }
@@ -1235,10 +1363,59 @@
             "RangeType": 0,
             "ValidTime": 1
           },
+          "Tiers": [],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
           "Tiers": [
-            "s"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Greater Regal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "c"
         }
       ]
     }

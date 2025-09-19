@@ -1354,22 +1354,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "c"
         }
       ],
       "Citaqualotl's Soul Core of Foulness": [
@@ -1478,24 +1466,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "s"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Talisman of Maxarius": [
@@ -1556,22 +1530,12 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [
             "b"
           ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "c"
         }
       ],
       "Talisman of Ralakesh": [
@@ -1666,25 +1630,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a",
-            "c"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Stag Talisman": [

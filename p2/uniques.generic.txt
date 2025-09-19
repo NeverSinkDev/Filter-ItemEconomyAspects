@@ -2521,9 +2521,7 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "HighVariety",
-          "Anchor",
-          "EarlyLeagueInterest"
+          "Anchor"
         ]
       }
     ],
@@ -3227,8 +3225,7 @@
         "BaseType": "Helix Spear",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest",
-          "PreventHiding"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3870,18 +3867,6 @@
         }
       ],
       "Helix Spear": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -4924,7 +4909,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "multispecialhigh"
+          "FallbackTier": "t3boss"
         }
       ],
       "Furtive Wraps": [
@@ -5031,6 +5016,42 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        }
+      ],
+      "Abyssal Signet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t3boss"
+        }
+      ],
+      "Crude Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
         }
       ]
     }

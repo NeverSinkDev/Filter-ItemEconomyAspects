@@ -1043,6 +1043,16 @@
             "e"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Omen of Dextral Exaltation": [
