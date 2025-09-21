@@ -543,25 +543,33 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
             "RangeType": 1,
             "ValidTime": 0
           },
           "Tiers": [
             "e"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "c"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
+            "RangeType": 1,
+            "ValidTime": 2
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ],
       "Chaos Orb": [
@@ -695,6 +703,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
           },
           "Tiers": [],
           "FallbackTier": "d"
