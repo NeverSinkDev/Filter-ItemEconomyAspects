@@ -547,30 +547,37 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
-            "e"
+            "a",
+            "c"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 2
           },
-          "Tiers": [],
-          "FallbackTier": "c"
+          "Tiers": [
+            "b",
+            "c",
+            "a"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Chaos Orb": [
@@ -1294,8 +1301,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "s"
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         },
         {
           "Settings": {
@@ -1303,6 +1312,18 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
           },
           "Tiers": [
             "a"
@@ -1390,35 +1411,13 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
             "a",
-            "c"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "c"
         }
       ],
       "Greater Regal Orb": [
