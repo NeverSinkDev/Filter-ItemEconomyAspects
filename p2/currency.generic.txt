@@ -533,7 +533,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "s"
           ],
           "FallbackTier": "b"
         }
@@ -777,6 +778,16 @@
             "s",
             "e"
           ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [],
           "FallbackTier": "d"
         }
       ],

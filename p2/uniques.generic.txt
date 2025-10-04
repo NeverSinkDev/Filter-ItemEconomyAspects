@@ -3616,7 +3616,8 @@
         "Name": "Fairgraves' Curse",
         "BaseType": "Artillery Bow",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -4865,18 +4866,6 @@
         }
       ],
       "Totemic Greatclub": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        }
-      ],
-      "Artillery Bow": [
         {
           "Settings": {
             "IsEnabled": true,
