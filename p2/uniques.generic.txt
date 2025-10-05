@@ -25,8 +25,7 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "Uncommon",
-          "Anchor"
+          "Uncommon"
         ]
       }
     ],
@@ -2520,8 +2519,7 @@
         "BaseType": "Crude Bow",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "Anchor"
+          "PreventHiding"
         ]
       }
     ],
@@ -5022,8 +5020,18 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
           },
           "Tiers": [
             "hideable"
