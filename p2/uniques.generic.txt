@@ -1571,7 +1571,9 @@
       {
         "Name": "Hinekora's Sight",
         "BaseType": "Stellar Amulet",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Sapphire Ring": [
@@ -2062,7 +2064,9 @@
       {
         "Name": "Byrnabas",
         "BaseType": "Wide Belt",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Fine Belt": [
@@ -2236,34 +2240,39 @@
         ]
       },
       {
-        "Name": "Guiding Palm",
-        "BaseType": "Shrine Sceptre",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
         "Name": "Palm of the Dreamer",
         "BaseType": "Shrine Sceptre",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonDrop"
         ]
       },
       {
         "Name": "Guiding Palm of the Eye",
         "BaseType": "Shrine Sceptre",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
       },
       {
         "Name": "Guiding Palm of the Heart",
         "BaseType": "Shrine Sceptre",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
       },
       {
         "Name": "Guiding Palm of the Mind",
         "BaseType": "Shrine Sceptre",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "PreventHiding"
+        ]
       }
     ],
     "Dualstring Bow": [
@@ -2636,7 +2645,11 @@
       {
         "Name": "Heart of the Well",
         "BaseType": "Diamond",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
       }
     ],
     "Emerald": [
@@ -3409,7 +3422,7 @@
         "BaseType": "Ruby",
         "Aspects": [
           "Handled",
-          "Anchor"
+          "PreventHiding"
         ]
       }
     ],
@@ -5037,6 +5050,34 @@
             "hideable"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "Ruby": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Emerald": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ]
     }
