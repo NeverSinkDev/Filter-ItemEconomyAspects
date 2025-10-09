@@ -2980,7 +2980,9 @@
         "Name": "Sacrosanctum",
         "BaseType": "Corvus Mantle",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "HighVariety"
         ]
       }
     ],
