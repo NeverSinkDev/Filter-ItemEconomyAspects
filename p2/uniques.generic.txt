@@ -3916,6 +3916,18 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Intricate Crest Shield": [
@@ -3951,9 +3963,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Incense Relic": [
@@ -4048,8 +4060,35 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Sacral Quiver": [
@@ -4425,9 +4464,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t1"
         }
       ],
       "Fine Bracers": [
@@ -4846,7 +4885,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2"
+          ],
           "FallbackTier": "t1"
         }
       ],
