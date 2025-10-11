@@ -585,24 +585,12 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
-            "s",
-            "d",
-            "e"
+            "a"
           ],
-          "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -616,7 +604,7 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "s"
           ],
           "FallbackTier": "b"
         },
@@ -1251,7 +1239,8 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s"
+            "s",
+            "e"
           ],
           "FallbackTier": "c"
         }
@@ -1288,7 +1277,8 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s"
+            "s",
+            "e"
           ],
           "FallbackTier": "c"
         }
@@ -1413,11 +1403,8 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [
-            "a",
-            "b"
-          ],
-          "FallbackTier": "c"
+          "Tiers": [],
+          "FallbackTier": "b"
         },
         {
           "Settings": {
@@ -1428,19 +1415,6 @@
           },
           "Tiers": [],
           "FallbackTier": "b"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "a",
-            "b"
-          ],
-          "FallbackTier": "c"
         }
       ],
       "Greater Regal Orb": [
