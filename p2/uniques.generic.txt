@@ -4281,6 +4281,18 @@
             "t3"
           ],
           "FallbackTier": "hideable"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Tattered Robe": [
