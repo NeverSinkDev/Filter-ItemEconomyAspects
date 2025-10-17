@@ -3488,7 +3488,9 @@
         "BaseType": "Viper Cap",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "HighVariety",
+          "PreventHiding"
         ]
       }
     ],
