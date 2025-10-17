@@ -5049,6 +5049,19 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "multispecial"
         }
       ],
       "Thawing Charm": [
