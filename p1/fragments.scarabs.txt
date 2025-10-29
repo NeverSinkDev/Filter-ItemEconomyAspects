@@ -1093,8 +1093,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Horned Scarab of Awakening": [
@@ -1120,7 +1122,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -1134,9 +1137,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Ritual Scarab of Abundance": [
@@ -1159,7 +1163,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
           "FallbackTier": "t3"
         }
       ],
@@ -1252,10 +1259,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Domination Scarab": [
@@ -1280,10 +1286,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t4"
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ],
       "Breach Scarab": [
@@ -1365,7 +1369,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -1604,9 +1609,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t4",
+            "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Expedition Scarab of Archaeology": [
@@ -1660,7 +1666,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -1830,7 +1837,7 @@
           "Tiers": [
             "t3"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t2"
         }
       ],
       "Ultimatum Scarab of Inscription": [
@@ -1870,10 +1877,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Cartography Scarab of Escalation": [
@@ -1900,10 +1906,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Scarab of Monstrous Lineage": [
@@ -1946,7 +1951,8 @@
           },
           "Tiers": [
             "t3",
-            "t2"
+            "t2",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -1990,8 +1996,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
-            "t2"
+            "t3"
           ],
           "FallbackTier": "t4"
         }
@@ -2005,8 +2010,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
-            "t2"
+            "t3"
           ],
           "FallbackTier": "t4"
         }
@@ -2035,10 +2039,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Essence Scarab of Ascent": [
@@ -2050,10 +2053,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
+            "t4",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Divination Scarab of The Cloister": [
@@ -2065,10 +2068,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
+            "t4",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Horned Scarab of Nemeses": [
@@ -2139,7 +2142,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2",
             "t3"
           ],
           "FallbackTier": "t4"
@@ -2495,6 +2497,139 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "Ambush Scarab of Containment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Harvest Scarab of Cornucopia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Horned Scarab of Bloodlines": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Incursion Scarab of Timelines": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Kalguuran Scarab of Refinement": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Divination Scarab of Pilfering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Ultimatum Scarab of Dueling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Ambush Scarab of Discernment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Kalguuran Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Kalguuran Scarab of Guarded Riches": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ]
     }

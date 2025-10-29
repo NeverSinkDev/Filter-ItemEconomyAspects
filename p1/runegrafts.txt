@@ -204,6 +204,16 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Runegraft of Gemcraft": [
@@ -218,6 +228,16 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Runegraft of the Fortress": [
@@ -231,6 +251,18 @@
           "Tiers": [
             "t1",
             "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -248,6 +280,18 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Runegraft of Treachery": [
@@ -260,6 +304,34 @@
           },
           "Tiers": [
             "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of Stability": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of the Soulwick": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "t1"
           ],
           "FallbackTier": "t2"
