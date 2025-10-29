@@ -1535,7 +1535,8 @@
         "Name": "Eclipse Solaris",
         "BaseType": "Engraved Wand",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -7798,8 +7799,7 @@
         "Name": "Usurper's Penance",
         "BaseType": "Eternal Burgonet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -9555,7 +9555,8 @@
             "multispecial",
             "t2",
             "t1",
-            "t3boss"
+            "t3boss",
+            "multispecialhigh"
           ],
           "FallbackTier": "earlyleague"
         }
@@ -10552,7 +10553,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -10733,7 +10736,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "multispecial"
         }
       ],
       "Gladiator Plate": [
@@ -11281,6 +11284,70 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        }
+      ],
+      "Royal Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Grand Mana Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Royal Skean": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Engraved Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "multispecial",
+            "t1"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Carved Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ]
     }

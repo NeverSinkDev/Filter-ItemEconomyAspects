@@ -3723,6 +3723,16 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Elder's Exalted Orb": [
@@ -3736,6 +3746,16 @@
           "Tiers": [
             "t1"
           ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3751,6 +3771,16 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Crusader's Exalted Orb": [
@@ -3765,6 +3795,16 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Redeemer's Exalted Orb": [
@@ -3778,6 +3818,16 @@
           "Tiers": [
             "t1"
           ],
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3807,6 +3857,16 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Reflecting Mist": [
@@ -3851,6 +3911,16 @@
             "t4chaos"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Veiled Chaos Orb": [
@@ -3881,6 +3951,16 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Awakener's Orb": [
