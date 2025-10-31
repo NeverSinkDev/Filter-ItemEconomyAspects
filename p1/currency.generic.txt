@@ -2339,9 +2339,9 @@
           },
           "Tiers": [
             "t3annul",
-            "t1"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t1"
         }
       ],
       "Fertile Catalyst": [
@@ -2650,11 +2650,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3annul",
-            "t5alchemy",
-            "t2divine"
-          ],
+          "Tiers": [],
           "FallbackTier": "t4chaos"
         },
         {
@@ -2705,11 +2701,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t5alchemy",
-            "t3annul",
-            "t2divine"
-          ],
+          "Tiers": [],
           "FallbackTier": "t4chaos"
         }
       ],
@@ -2780,10 +2772,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t5alchemy",
-            "t3annul"
-          ],
+          "Tiers": [],
           "FallbackTier": "t4chaos"
         }
       ],
@@ -2900,10 +2889,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3annul",
-            "t5alchemy"
-          ],
+          "Tiers": [],
           "FallbackTier": "t4chaos"
         }
       ],
@@ -2915,10 +2901,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t5alchemy",
-            "t3annul"
-          ],
+          "Tiers": [],
           "FallbackTier": "t4chaos"
         }
       ],
@@ -3174,10 +3157,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t6chrom",
-            "t4chaos"
-          ],
+          "Tiers": [],
           "FallbackTier": "t5alchemy"
         },
         {
@@ -3433,10 +3413,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -3732,7 +3710,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t1"
         }
       ],
       "Elder's Exalted Orb": [

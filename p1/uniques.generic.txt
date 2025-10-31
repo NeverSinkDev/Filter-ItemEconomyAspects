@@ -1081,8 +1081,7 @@
         "Name": "Quill Rain",
         "BaseType": "Short Bow",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -1788,7 +1787,8 @@
         "Name": "Apep's Rage",
         "BaseType": "Omen Wand",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2554,7 +2554,8 @@
         "BaseType": "Nubuck Boots",
         "Aspects": [
           "Handled",
-          "MercUnique"
+          "MercUnique",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3005,7 +3006,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -3203,7 +3205,8 @@
         "Name": "Doedre's Tenure",
         "BaseType": "Velvet Gloves",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3949,8 +3952,7 @@
         "Name": "Kongming's Stratagem",
         "BaseType": "Ancient Spirit Shield",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -4774,7 +4776,6 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "EarlyLeagueInterest",
           "MercUnique"
         ]
       }
@@ -5247,7 +5248,8 @@
         "Name": "Honourhome",
         "BaseType": "Soldier Helmet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -7444,7 +7446,8 @@
         "BaseType": "Two-Toned Boots",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -7895,7 +7898,8 @@
         "Name": "Thrillsteel",
         "BaseType": "Barbute Helmet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -9353,6 +9357,47 @@
           "NonWorldDrop"
         ]
       }
+    ],
+    "Carved Wand": [
+      {
+        "Name": "The Poet's Pen",
+        "BaseType": "Carved Wand",
+        "Aspects": []
+      },
+      {
+        "Name": "Ashcaller",
+        "BaseType": "Carved Wand",
+        "Aspects": []
+      }
+    ],
+    "Engraved Wand": [
+      {
+        "Name": "Eclipse Solaris",
+        "BaseType": "Engraved Wand",
+        "Aspects": []
+      },
+      {
+        "Name": "Midnight Bargain",
+        "BaseType": "Engraved Wand",
+        "Aspects": []
+      }
+    ],
+    "Imbued Wand": [
+      {
+        "Name": "Piscator's Vigil",
+        "BaseType": "Imbued Wand",
+        "Aspects": []
+      },
+      {
+        "Name": "Obliteration",
+        "BaseType": "Imbued Wand",
+        "Aspects": []
+      },
+      {
+        "Name": "Moonsorrow",
+        "BaseType": "Imbued Wand",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -9459,12 +9504,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3",
-            "t2",
-            "t1"
-          ],
-          "FallbackTier": "earlyleague"
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Cleaver": [
@@ -9970,9 +10011,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -10314,9 +10353,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -10488,12 +10525,10 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t3boss"
         }
       ],
@@ -10572,7 +10607,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -10752,9 +10789,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t1"
         }
       ],
       "Vaal Gauntlets": [
@@ -10765,8 +10802,11 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2",
+            "t3boss"
+          ],
+          "FallbackTier": "multispecial"
         }
       ],
       "Visored Sallet": [
@@ -10945,8 +10985,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Full Dragonscale": [
@@ -11235,6 +11277,126 @@
         }
       ],
       "Royal Skean": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Demon Dagger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Necromancer Circlet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Riveted Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Widowsilk Robe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3boss"
+        }
+      ],
+      "Crimson Round Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Vaal Greaves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3boss"
+        }
+      ],
+      "Saintly Chainmail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Reaver Helmet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Graceful Sword": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Royal Sceptre": [
         {
           "Settings": {
             "IsEnabled": true,
