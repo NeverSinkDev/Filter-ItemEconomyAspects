@@ -372,23 +372,6 @@
         ]
       }
     ],
-    "Carved Wand": [
-      {
-        "Name": "The Poet's Pen",
-        "BaseType": "Carved Wand",
-        "Aspects": [
-          "Handled",
-          "Uncommon"
-        ]
-      },
-      {
-        "Name": "Ashcaller",
-        "BaseType": "Carved Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Highborn Staff": [
       {
         "Name": "Martyr of Innocence",
@@ -1523,23 +1506,6 @@
         ]
       }
     ],
-    "Engraved Wand": [
-      {
-        "Name": "Midnight Bargain",
-        "BaseType": "Engraved Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Eclipse Solaris",
-        "BaseType": "Engraved Wand",
-        "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
     "Flaying Knife": [
       {
         "Name": "Mightflay",
@@ -1841,31 +1807,6 @@
           "Handled",
           "NonWorldDrop",
           "HighVariety"
-        ]
-      }
-    ],
-    "Imbued Wand": [
-      {
-        "Name": "Moonsorrow",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Obliteration",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled",
-          "HighVariety",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Piscator's Vigil",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -9576,23 +9517,6 @@
           "FallbackTier": "earlyleague"
         }
       ],
-      "Imbued Wand": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3",
-            "t2",
-            "multispecial",
-            "multispecialhigh"
-          ],
-          "FallbackTier": "earlyleague"
-        }
-      ],
       "Close Helmet": [
         {
           "Settings": {
@@ -11320,34 +11244,6 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
-        }
-      ],
-      "Engraved Wand": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2",
-            "multispecial",
-            "t1"
-          ],
-          "FallbackTier": "earlyleague"
-        }
-      ],
-      "Carved Wand": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "earlyleague"
         }
       ]
     }
