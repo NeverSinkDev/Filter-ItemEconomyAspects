@@ -58,7 +58,7 @@
         "BaseType": "Cutlass",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -84,6 +84,13 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Unlight Extant",
+        "BaseType": "Sage Wand",
+        "Aspects": [
+          "Handled"
         ]
       }
     ],
@@ -210,7 +217,7 @@
         "Name": "Uul-Netol's Kiss",
         "BaseType": "Vaal Axe",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       }
@@ -488,7 +495,7 @@
         "BaseType": "Imperial Claw",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -719,6 +726,14 @@
         ]
       },
       {
+        "Name": "Jiquani's Potential",
+        "BaseType": "Imperial Staff",
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
+      },
+      {
         "Name": "The Enmity Divine",
         "BaseType": "Imperial Staff",
         "Aspects": [
@@ -911,7 +926,7 @@
         "BaseType": "Citadel Bow",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -1146,6 +1161,14 @@
           "Handled",
           "EarlyLeagueInterest"
         ]
+      },
+      {
+        "Name": "Festering Resentment",
+        "BaseType": "Demon Dagger",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Ranger Bow": [
@@ -1310,7 +1333,7 @@
         "BaseType": "Opal Wand",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -1844,6 +1867,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Flesh-Eater",
+        "BaseType": "Dream Mace",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Decorative Axe": [
@@ -2353,7 +2383,7 @@
         "Name": "Esh's Mirror",
         "BaseType": "Vaal Spirit Shield",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       }
@@ -2391,7 +2421,7 @@
         "BaseType": "Simple Robe",
         "Aspects": [
           "Handled",
-          "Uncommon",
+          "NonWorldDrop",
           "Exclude"
         ]
       },
@@ -2754,7 +2784,6 @@
         "BaseType": "Ezomyte Tower Shield",
         "Aspects": [
           "Handled",
-          "Uncommon",
           "NonWorldDrop"
         ]
       },
@@ -2762,7 +2791,7 @@
         "Name": "The Anticipation",
         "BaseType": "Ezomyte Tower Shield",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       }
@@ -3010,6 +3039,14 @@
           "PreventHiding"
         ]
       }
+      {
+        "Name": "Hand of the Lords",
+        "BaseType": "Carnal Mitts",
+        "Aspects": [
+          "NonWorldDrop",
+          "Handled"
+        ]
+      },
     ],
     "Rawhide Tower Shield": [
       {
@@ -3104,7 +3141,7 @@
         "BaseType": "Titan Greaves",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3195,7 +3232,7 @@
         "Name": "The Snowblind Grace",
         "BaseType": "Zodiac Leather",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       }
@@ -3870,7 +3907,7 @@
         "Name": "The Formless Flame",
         "BaseType": "Royal Burgonet",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       }
@@ -5565,7 +5602,6 @@
         "BaseType": "Jade Amulet",
         "Aspects": [
           "Handled",
-          "Uncommon",
           "NonWorldDrop"
         ]
       },
@@ -5574,7 +5610,7 @@
         "BaseType": "Jade Amulet",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       },
       {
@@ -5622,7 +5658,7 @@
         "BaseType": "Amber Amulet",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       },
       {
@@ -5661,7 +5697,7 @@
         "Name": "Presence of Chayula",
         "BaseType": "Onyx Amulet",
         "Aspects": [
-          "NonDrop",
+          "NonWorldDrop",
           "Handled"
         ]
       },
@@ -6172,7 +6208,6 @@
         "BaseType": "Lapis Amulet",
         "Aspects": [
           "Handled",
-          "Uncommon",
           "NonWorldDrop"
         ]
       },
@@ -6180,7 +6215,7 @@
         "Name": "Voice of the Storm",
         "BaseType": "Lapis Amulet",
         "Aspects": [
-          "Uncommon",
+          "NonWorldDrop",
           "Handled"
         ]
       },
@@ -6531,6 +6566,15 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Unseen Hue",
+        "BaseType": "Opal Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
         ]
       }
     ],
@@ -7060,6 +7104,15 @@
           "HighVariety",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Woespike",
+        "BaseType": "Steel Ring",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Amethyst Ring": [
@@ -7208,6 +7261,14 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Haunting Memories",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Vanguard Belt": [
@@ -7243,6 +7304,15 @@
         "BaseType": "Marble Amulet",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "Bonemeld",
+        "BaseType": "Marble Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
         ]
       }
     ],
@@ -7451,6 +7521,134 @@
         ]
       }
     ],
+    "Paladin Crown": [
+      {
+        "Name": "Refuge in Isolation",
+        "BaseType": "Paladin Crown",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Faithful Helmet": [
+      {
+        "Name": "The Hallowed Monarch",
+        "BaseType": "Faithful Helmet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Colossal Mana Flask": [
+      {
+        "Name": "Wellwater Phylactery",
+        "BaseType": "Colossal Mana Flask",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Spiny Round Shield": [
+      {
+        "Name": "Bitter Instinct",
+        "BaseType": "Spiny Round Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Ezomyte Tower Shield": [
+      {
+        "Name": "Cowards' Wail",
+        "BaseType": "Ezomyte Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "General's Brigandine": [
+      {
+        "Name": "Rigwald's Hunt",
+        "BaseType": "General's Brigandine",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Synaptic Ring": [
+      {
+        "Name": "The Will of Esh",
+        "BaseType": "Synaptic Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Enthalpic Ring": [
+      {
+        "Name": "The Will of Xoph",
+        "BaseType": "Enthalpic Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Cryonic Ring": [
+      {
+        "Name": "The Will of Tul",
+        "BaseType": "Cryonic Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Organic Ring": [
+      {
+        "Name": "The Will of Uul-Netol",
+        "BaseType": "Organic Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Fugitive Ring": [
+      {
+        "Name": "The Sundered Will",
+        "BaseType": "Fugitive Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Formless Ring": [
+      {
+        "Name": "Lost Unity",
+        "BaseType": "Formless Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Spectral Axe": [
+      {
+        "Name": "The Grey Wind",
+        "BaseType": "Spectral Axe",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ], 
     "Imperial Staff Piece": [
       {
         "Name": "First Piece of Brutality",
@@ -9190,6 +9388,14 @@
     "Antique Gauntlets": [
       {
         "Name": "Admiral's Arrogance",
+        "BaseType": "Antique Gauntlets",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Caged Mammoth",
         "BaseType": "Antique Gauntlets",
         "Aspects": [
           "Handled",
