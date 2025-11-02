@@ -4653,6 +4653,47 @@
         "BaseType": "Last Stand",
         "Aspects": []
       }
+    ],
+    "One Last Score": [
+      {
+        "Name": "One Last Score",
+        "BaseType": "One Last Score",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Lake": [
+      {
+        "Name": "The Lake",
+        "BaseType": "The Lake",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Last Laugh": [
+      {
+        "Name": "The Last Laugh",
+        "BaseType": "The Last Laugh",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "Bound by Flame": [
+      {
+        "Name": "Bound by Flame",
+        "BaseType": "Bound by Flame",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -5485,6 +5526,60 @@
             "t3"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "One Last Score": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Lake": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Last Laugh": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Bound by Flame": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
         }
       ]
     }

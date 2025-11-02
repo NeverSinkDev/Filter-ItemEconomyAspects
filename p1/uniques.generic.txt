@@ -72,13 +72,6 @@
         ]
       },
       {
-        "Name": "Twyzel",
-        "BaseType": "Sage Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
         "Name": "Relic of the Pact",
         "BaseType": "Sage Wand",
         "Aspects": [
@@ -1893,6 +1886,14 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Monastery Bell",
+        "BaseType": "Dream Mace",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       }
     ],
     "Decorative Axe": [
@@ -2799,10 +2800,18 @@
     ],
     "Ezomyte Tower Shield": [
       {
+        "Name": "Cowards' Wail",
+        "BaseType": "Ezomyte Tower Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
         "Name": "The Surrender",
         "BaseType": "Ezomyte Tower Shield",
         "Aspects": [
           "Handled",
+          "PreventHiding",
           "NonWorldDrop"
         ]
       },
@@ -2810,8 +2819,9 @@
         "Name": "The Anticipation",
         "BaseType": "Ezomyte Tower Shield",
         "Aspects": [
-          "NonWorldDrop",
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3057,7 +3067,7 @@
           "NonWorldDrop",
           "PreventHiding"
         ]
-      }
+      },
       {
         "Name": "Hand of the Lords",
         "BaseType": "Carnal Mitts",
@@ -3065,7 +3075,7 @@
           "NonWorldDrop",
           "Handled"
         ]
-      },
+      }
     ],
     "Rawhide Tower Shield": [
       {
@@ -7577,15 +7587,6 @@
         ]
       }
     ],
-    "Ezomyte Tower Shield": [
-      {
-        "Name": "Cowards' Wail",
-        "BaseType": "Ezomyte Tower Shield",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "General's Brigandine": [
       {
         "Name": "Rigwald's Hunt",
@@ -7664,7 +7665,7 @@
           "NonWorldDrop"
         ]
       }
-    ], 
+    ],
     "Imperial Staff Piece": [
       {
         "Name": "First Piece of Brutality",
@@ -9594,7 +9595,10 @@
       {
         "Name": "Eclipse Solaris",
         "BaseType": "Engraved Wand",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       },
       {
         "Name": "Midnight Bargain",
@@ -9606,17 +9610,54 @@
       {
         "Name": "Piscator's Vigil",
         "BaseType": "Imbued Wand",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       },
       {
         "Name": "Obliteration",
         "BaseType": "Imbued Wand",
-        "Aspects": []
-      },
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Somatic Wand": [
+      {
+        "Name": "The Poet's Pen",
+        "BaseType": "Somatic Wand",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Calling Wand": [
+      {
+        "Name": "Midnight Bargain",
+        "BaseType": "Calling Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blasting Wand": [
+      {
+        "Name": "Twyzel",
+        "BaseType": "Blasting Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kinetic Wand": [
       {
         "Name": "Moonsorrow",
-        "BaseType": "Imbued Wand",
-        "Aspects": []
+        "BaseType": "Kinetic Wand",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },
@@ -11626,6 +11667,30 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
+        }
+      ],
+      "Somatic Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Engraved Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }

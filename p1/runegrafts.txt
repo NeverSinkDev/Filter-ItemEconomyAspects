@@ -188,6 +188,15 @@
           "Handled"
         ]
       }
+    ],
+    "Runegraft of Refraction": [
+      {
+        "Name": "Runegraft of Refraction",
+        "BaseType": "Runegraft of Refraction",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -335,6 +344,18 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of Refraction": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ]
     }
