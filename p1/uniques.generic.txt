@@ -136,6 +136,15 @@
           "Uncommon",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Wing of the Wyvern",
+        "BaseType": "Imperial Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Royal Axe": [
@@ -1167,7 +1176,8 @@
         "BaseType": "Demon Dagger",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Uncommon"
         ]
       }
     ],
@@ -1408,6 +1418,15 @@
         "BaseType": "Lion Sword",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "The Golden Charlatan",
+        "BaseType": "Lion Sword",
+        "Aspects": [
+          "Handled",
+          "Uncommon",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -4057,8 +4076,7 @@
         "Name": "Howlcrack",
         "BaseType": "Ezomyte Burgonet",
         "Aspects": [
-          "Handled",
-          "Uncommon"
+          "Handled"
         ]
       }
     ],
@@ -7293,8 +7311,7 @@
         "Name": "Binds of Bloody Vengeance",
         "BaseType": "Vanguard Belt",
         "Aspects": [
-          "Handled",
-          "Uncommon"
+          "Handled"
         ]
       }
     ],
@@ -7495,7 +7512,6 @@
         "BaseType": "Lacquered Buckler",
         "Aspects": [
           "Handled",
-          "Uncommon",
           "HighVariety"
         ]
       }
@@ -9508,8 +9524,7 @@
         "Name": "Hand of Heresy",
         "BaseType": "Martyr Gloves",
         "Aspects": [
-          "Handled",
-          "Uncommon"
+          "Handled"
         ]
       }
     ],
@@ -9528,8 +9543,7 @@
         "Name": "Scornflux",
         "BaseType": "Satin Slippers",
         "Aspects": [
-          "Handled",
-          "Uncommon"
+          "Handled"
         ]
       }
     ],
