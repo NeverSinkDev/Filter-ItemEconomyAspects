@@ -1824,6 +1824,83 @@
           "Tierable"
         ]
       }
+    ],
+    "Augmentation Implant": [
+      {
+        "Name": "Augmentation Implant",
+        "BaseType": "Augmentation Implant",
+        "Aspects": [
+          "AlchemyBottom",
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Unstable Implant": [
+      {
+        "Name": "Unstable Implant",
+        "BaseType": "Unstable Implant",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Exalted Implant": [
+      {
+        "Name": "Exalted Implant",
+        "BaseType": "Exalted Implant",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "AlchemyBottom"
+        ]
+      }
+    ],
+    "Foulborn Exalted Orb": [
+      {
+        "Name": "Foulborn Exalted Orb",
+        "BaseType": "Foulborn Exalted Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "DivineBottom"
+        ]
+      }
+    ],
+    "Foulborn Orb of Augmentation": [
+      {
+        "Name": "Foulborn Orb of Augmentation",
+        "BaseType": "Foulborn Orb of Augmentation",
+        "Aspects": [
+          "Handled",
+          "ChanceBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Foulborn Regal Orb": [
+      {
+        "Name": "Foulborn Regal Orb",
+        "BaseType": "Foulborn Regal Orb",
+        "Aspects": [
+          "Handled",
+          "AlchemyBottom",
+          "Tierable"
+        ]
+      }
+    ],
+    "Regal Implant": [
+      {
+        "Name": "Regal Implant",
+        "BaseType": "Regal Implant",
+        "Aspects": [
+          "AlchemyBottom",
+          "Handled",
+          "Tierable"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -3967,6 +4044,94 @@
             "t2divine"
           ],
           "FallbackTier": "t1"
+        }
+      ],
+      "Unstable Implant": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Exalted Implant": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Regal Implant": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Augmentation Implant": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Foulborn Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Foulborn Orb of Augmentation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Foulborn Regal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         }
       ]
     }

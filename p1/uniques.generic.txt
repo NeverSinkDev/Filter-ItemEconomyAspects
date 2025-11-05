@@ -9581,14 +9581,11 @@
     ],
     "Carved Wand": [
       {
-        "Name": "The Poet's Pen",
-        "BaseType": "Carved Wand",
-        "Aspects": []
-      },
-      {
         "Name": "Ashcaller",
         "BaseType": "Carved Wand",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Engraved Wand": [
