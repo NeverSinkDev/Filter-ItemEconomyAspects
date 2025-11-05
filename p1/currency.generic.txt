@@ -371,8 +371,7 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "StackedCurrency",
-          "ChanceBottom"
+          "StackedCurrency"
         ]
       }
     ],
