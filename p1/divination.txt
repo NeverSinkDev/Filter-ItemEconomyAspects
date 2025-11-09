@@ -4694,6 +4694,13 @@
           "Handled"
         ]
       }
+    ],
+    "Outfoxed": [
+      {
+        "Name": "Outfoxed",
+        "BaseType": "Outfoxed",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -5580,6 +5587,61 @@
             "t3"
           ],
           "FallbackTier": "t4"
+        }
+      ],
+      "The Primordial": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4",
+            "t5",
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Beast": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Monochrome": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ]
     }
