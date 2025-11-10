@@ -1000,6 +1000,52 @@
           "Handled"
         ]
       }
+    ],
+    "Hivebrain Gland": [
+      {
+        "Name": "Hivebrain Gland",
+        "BaseType": "Hivebrain Gland",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Ritual Splinter": [
+      {
+        "Name": "Ritual Splinter",
+        "BaseType": "Ritual Splinter",
+        "Aspects": []
+      }
+    ],
+    "Ritual Vessel": [
+      {
+        "Name": "Ritual Vessel",
+        "BaseType": "Ritual Vessel",
+        "Aspects": []
+      }
+    ],
+    "Traumatic Fragment": [
+      {
+        "Name": "Traumatic Fragment",
+        "BaseType": "Traumatic Fragment",
+        "Aspects": []
+      }
+    ],
+    "Lonely Fragment": [
+      {
+        "Name": "Lonely Fragment",
+        "BaseType": "Lonely Fragment",
+        "Aspects": []
+      }
+    ],
+    "Reverent Fragment": [
+      {
+        "Name": "Reverent Fragment",
+        "BaseType": "Reverent Fragment",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
