@@ -9656,6 +9656,52 @@
           "Handled"
         ]
       }
+    ],
+    "Ironwood Tincture": [
+      {
+        "Name": "Mightblood Ire",
+        "BaseType": "Ironwood Tincture",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Oakbranch Tincture": [
+      {
+        "Name": "The Battle Within",
+        "BaseType": "Oakbranch Tincture",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sporebloom Tincture": [
+      {
+        "Name": "Grasping Nightshade",
+        "BaseType": "Sporebloom Tincture",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prismatic Tincture": [
+      {
+        "Name": "Sap of the Seasons",
+        "BaseType": "Prismatic Tincture",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ashbark Tincture": [
+      {
+        "Name": "Wildfire Phloem",
+        "BaseType": "Ashbark Tincture",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -11688,6 +11734,66 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        }
+      ],
+      "Ashbark Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Prismatic Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Sporebloom Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Oakbranch Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Ironwood Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }
