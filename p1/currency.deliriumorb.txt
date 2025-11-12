@@ -189,5 +189,45 @@
         ]
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Skittering Delirium Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Diviner's Delirium Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Fine Delirium Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ]
+    }
   }
 }
