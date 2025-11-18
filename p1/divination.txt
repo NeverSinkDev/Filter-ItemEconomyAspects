@@ -6177,7 +6177,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t1"
           ],
           "FallbackTier": "t3"
