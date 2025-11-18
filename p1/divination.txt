@@ -7648,6 +7648,20 @@
           "Tiers": [],
           "FallbackTier": "t4"
         }
+      ],
+      "The One That Got Away": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        }
       ]
     }
   }
