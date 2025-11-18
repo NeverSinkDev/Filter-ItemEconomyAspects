@@ -131,7 +131,8 @@
         "Name": "Hunter's Reward",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "TimelessResult"
         ]
       }
     ],
@@ -188,7 +189,6 @@
         "Name": "The Risk",
         "Aspects": [
           "Handled",
-          "TimelessResult",
           "HighVariety"
         ]
       }
@@ -351,7 +351,7 @@
         "Aspects": [
           "HighVariety",
           "Handled",
-          "TimelessResult"
+          "PreventHiding"
         ]
       }
     ],
@@ -369,7 +369,6 @@
         "Name": "The Celestial Justicar",
         "Aspects": [
           "Handled",
-          "TimelessResult",
           "CurrencyType",
           "EarlyLeagueInterest"
         ]
@@ -477,7 +476,8 @@
         "Name": "The Polymath",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "TimelessResult"
         ]
       }
     ],
@@ -499,7 +499,6 @@
           "HighVariety",
           "Handled",
           "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest"
         ]
       }
@@ -581,7 +580,6 @@
         "Name": "Bowyer's Dream",
         "Aspects": [
           "Handled",
-          "PreventHiding",
           "CurrencyType",
           "EarlyLeagueInterest",
           "MediumValue"
@@ -604,7 +602,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest"
         ]
       }
@@ -674,8 +671,6 @@
         "Name": "Emperor of Purity",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest",
           "MediumValue"
         ]
@@ -686,7 +681,8 @@
         "Name": "Glimmer of Hope",
         "Aspects": [
           "HighVariety",
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -715,7 +711,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest",
           "LateLeagueValueLoss",
           "MediumValue"
@@ -853,7 +848,8 @@
         "Name": "The Mad King",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "TimelessResult"
         ]
       },
       {
@@ -861,7 +857,8 @@
         "BaseType": "The Mad King",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "TimelessResult"
         ]
       }
     ],
@@ -870,8 +867,7 @@
         "Name": "The Chains that Bind",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "CurrencyType"
+          "PreventHiding"
         ]
       }
     ],
@@ -892,7 +888,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "TimelessResult"
         ]
       }
     ],
@@ -1220,8 +1217,7 @@
         "Name": "The Stormcaller",
         "Aspects": [
           "Handled",
-          "HighVariety",
-          "PreventHiding"
+          "HighVariety"
         ]
       }
     ],
@@ -1231,7 +1227,6 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "EarlyLeagueInterest",
           "MediumValue"
         ]
       }
@@ -1262,7 +1257,6 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "EarlyLeagueInterest",
           "MediumValue"
         ]
       }
@@ -1291,8 +1285,7 @@
         "Name": "The Warlord",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "CurrencyType"
+          "PreventHiding"
         ]
       }
     ],
@@ -1638,7 +1631,6 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "EarlyLeagueInterest",
           "MediumValue"
         ]
       }
@@ -1889,7 +1881,8 @@
         "Aspects": [
           "Handled",
           "PoorDrop",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "Anchor"
         ]
       }
     ],
@@ -2030,7 +2023,8 @@
         "Name": "The Dragon",
         "Aspects": [
           "Handled",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2048,8 +2042,7 @@
         "Name": "The Explorer",
         "Aspects": [
           "Handled",
-          "LateLeagueValueLoss",
-          "PreventHiding"
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -2390,7 +2383,6 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "EarlyLeagueInterest",
           "MediumValue"
         ]
       }
@@ -2482,9 +2474,7 @@
         "Aspects": [
           "CurrencyType",
           "Handled",
-          "PreventHiding",
-          "LateLeagueValueLoss",
-          "HighVariety"
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -2531,7 +2521,6 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "PreventHiding",
           "EarlyLeagueInterest",
           "MediumValue"
         ]
@@ -2543,7 +2532,6 @@
         "Aspects": [
           "Handled",
           "CurrencyType",
-          "PreventHiding",
           "LateLeagueValueLoss"
         ]
       }
@@ -2589,7 +2577,8 @@
         "Name": "Buried Treasure",
         "Aspects": [
           "Handled",
-          "CurrencyType"
+          "CurrencyType",
+          "PreventHiding"
         ]
       }
     ],
@@ -2617,10 +2606,7 @@
       {
         "Name": "Imperial Legacy",
         "Aspects": [
-          "Handled",
-          "CurrencyType",
-          "PreventHiding",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -2985,7 +2971,6 @@
         "Name": "The Chosen",
         "Aspects": [
           "Handled",
-          "TimelessResult",
           "EarlyLeagueInterest"
         ]
       }
@@ -3135,7 +3120,6 @@
         "Name": "The White Knight",
         "Aspects": [
           "Handled",
-          "TimelessResult",
           "CurrencyType",
           "EarlyLeagueInterest"
         ]
@@ -3155,7 +3139,9 @@
       {
         "Name": "The Hive of Knowledge",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
         ]
       }
     ],
@@ -3281,7 +3267,8 @@
         "Name": "The Academic",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "TimelessResult"
         ]
       }
     ],
@@ -3384,8 +3371,7 @@
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest",
-          "PreventHiding",
-          "TimelessResult"
+          "PreventHiding"
         ]
       }
     ],
@@ -3585,7 +3571,8 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "NoResolution"
+          "NoResolution",
+          "TimelessResult"
         ]
       }
     ],
@@ -3680,7 +3667,6 @@
         "Name": "The Mind's Eyes",
         "Aspects": [
           "Handled",
-          "Nerf",
           "EarlyLeagueInterest"
         ]
       }
@@ -4095,7 +4081,8 @@
           "Handled",
           "CurrencyType",
           "HighVariety",
-          "PreventHiding"
+          "PreventHiding",
+          "TimelessResult"
         ]
       }
     ],
@@ -4209,7 +4196,8 @@
         "Name": "The Enforcer",
         "Aspects": [
           "Handled",
-          "NoValueEarly"
+          "NoValueEarly",
+          "TimelessResult"
         ]
       }
     ],
@@ -4729,6 +4717,16 @@
             "t4"
           ],
           "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
         }
       ],
       "Darker Half": [
@@ -4787,7 +4785,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         },
         {
@@ -4916,6 +4916,19 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "I See Brothers": [
@@ -4951,6 +4964,16 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "t1"
@@ -5049,6 +5072,16 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Desecrated Virtue": [
@@ -5089,9 +5122,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Love Through Ice": [
@@ -5131,7 +5164,8 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         },
@@ -5142,8 +5176,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Damnation": [
@@ -5167,9 +5203,34 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "The Enlightened": [
@@ -5184,6 +5245,29 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "The Samurai's Eye": [
@@ -5197,6 +5281,16 @@
           "Tiers": [
             "t2"
           ],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t1"
         }
       ],
@@ -5252,6 +5346,16 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "The Mayor": [
@@ -5265,6 +5369,16 @@
           "Tiers": [
             "t1"
           ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -5303,10 +5417,20 @@
             "RangeType": 0,
             "ValidTime": 0
           },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
           "Tiers": [
-            "t2"
+            "t3"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Brother's Stash": [
@@ -5335,6 +5459,16 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Friendship": [
@@ -5348,6 +5482,16 @@
           "Tiers": [
             "t1"
           ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -5446,10 +5590,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t2"
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ],
       "Justified Ambition": [
@@ -5514,11 +5656,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
+            "t4",
             "t2",
             "t1"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "The Academic": [
@@ -5530,9 +5672,34 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "One Last Score": [
@@ -5599,7 +5766,6 @@
           },
           "Tiers": [
             "t4",
-            "t5",
             "t2"
           ],
           "FallbackTier": "t3"
@@ -5642,6 +5808,1621 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "The Tireless Extractor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
+        }
+      ],
+      "The Master Artisan": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
+        }
+      ],
+      "Runic Luck": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
+        }
+      ],
+      "The Rabbit's Foot": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Sacrifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Duality": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Destination": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Fateful Meeting": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Lethean Temptation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Deadly Joy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Shieldbearer": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Assassin's Gift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Leviathan": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Judging Voices": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Queen": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t4",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4",
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Winter's Embrace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Astromancer": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Strategist": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Hook": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Eternal War": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Sambodhi's Wisdom": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "A Stone Perfected": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Magnum Opus": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Long Watch": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Brotherhood in Exile": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Draped in Dreams": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Mad King": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Lachrymal Necrosis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The White Knight": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Emperor of Purity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Rain Tempter": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Rats": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shard of Fate": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Arena Champion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Battle Born": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Calling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Celestial Justicar": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Chains that Bind": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Dark Mage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Demoness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Drunken Aristocrat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Endurance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Explorer": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Fox": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Gentleman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Gladiator": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Harvester": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Hermit": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The King's Blade": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Lich": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Lord in Black": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Lover": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Lunaris Priestess": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Metalsmith's Gift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Oath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Rabid Rhoa": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Risk": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Scavenger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Spoiled Prince": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Stormcaller": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Sun": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Surveyor": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Trial": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Twins": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Warden": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Warlord": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Web": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Call to the First Ones": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Coming Storm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Standoff": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Opulent": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Three Voices": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4c"
+          ],
+          "FallbackTier": "t5c"
+        }
+      ],
+      "The Jeweller's Boon": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Imperial Legacy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Skeleton": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "The Chosen": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Easy Stroll": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ]
     }

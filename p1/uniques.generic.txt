@@ -6653,8 +6653,8 @@
         "BaseType": "Moonstone Ring",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "MercUnique",
+          "Uncommon"
         ]
       },
       {
