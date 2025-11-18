@@ -710,7 +710,6 @@
         "Name": "The Dark Mage",
         "Aspects": [
           "Handled",
-          "PreventHiding",
           "EarlyLeagueInterest",
           "LateLeagueValueLoss",
           "MediumValue"
@@ -827,7 +826,6 @@
       {
         "Name": "Alone in the Darkness",
         "Aspects": [
-          "HighVariety",
           "Handled"
         ]
       }
@@ -867,7 +865,8 @@
         "Name": "The Chains that Bind",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -918,8 +917,7 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "EarlyLeagueInterest",
-          "MediumValue"
+          "PoorDrop"
         ]
       }
     ],
@@ -1284,8 +1282,7 @@
       {
         "Name": "The Warlord",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -1365,7 +1362,6 @@
         "Name": "The Realm",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest",
           "LateLeagueValueLoss",
           "MediumValue"
         ]
@@ -1736,7 +1732,7 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "HighVariety"
+          "PoorDrop"
         ]
       }
     ],
@@ -1794,7 +1790,8 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "NoResolution"
+          "NoResolution",
+          "PoorDrop"
         ]
       }
     ],
@@ -1814,7 +1811,8 @@
         "Aspects": [
           "HighVariety",
           "Handled",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "PoorDrop"
         ]
       }
     ],
@@ -1981,8 +1979,7 @@
         "Aspects": [
           "Handled",
           "LateLeagueValueLoss",
-          "HighVariety",
-          "PreventHiding"
+          "PoorDrop"
         ]
       }
     ],
@@ -2042,7 +2039,8 @@
         "Name": "The Explorer",
         "Aspects": [
           "Handled",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "PoorDrop"
         ]
       }
     ],
@@ -2063,7 +2061,8 @@
         "Aspects": [
           "HighVariety",
           "Handled",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "PoorDrop"
         ]
       }
     ],
@@ -2102,8 +2101,9 @@
       {
         "Name": "The Gladiator",
         "Aspects": [
-          "HighVariety",
-          "Handled"
+          "Handled",
+          "LateLeagueValueLoss",
+          "PoorDrop"
         ]
       }
     ],
@@ -3278,7 +3278,7 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "PreventHiding"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -6577,9 +6577,21 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
+            "ValidTime": 1
           },
           "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
           "FallbackTier": "t5"
         }
       ],
@@ -6638,7 +6650,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t5"
+            "t5",
+            "t3"
           ],
           "FallbackTier": "t4"
         }
@@ -6677,7 +6690,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t5"
+          ],
           "FallbackTier": "t4"
         },
         {
@@ -6789,6 +6804,16 @@
           },
           "Tiers": [],
           "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ],
       "The Harvester": [
@@ -7159,7 +7184,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
           "FallbackTier": "t4"
         }
       ],
@@ -7256,9 +7284,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t5"
+            "t4"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t5"
         },
         {
           "Settings": {
@@ -7422,6 +7450,202 @@
           "Tiers": [
             "t5"
           ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Realm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Boundless Realms": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Dying Anguish": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Alone in the Darkness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4",
+            "t3"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Azure Rage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Triskaidekaphobia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t4"
         }
       ]
