@@ -7661,6 +7661,21 @@
           ],
           "FallbackTier": "t3"
         }
+      ],
+      "The Scarred Meadow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4",
+            "t3"
+          ],
+          "FallbackTier": "t5"
+        }
       ]
     }
   }
