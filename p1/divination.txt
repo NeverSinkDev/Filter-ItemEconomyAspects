@@ -4751,6 +4751,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "The Long Con": [
@@ -6568,6 +6580,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "The Calling": [
