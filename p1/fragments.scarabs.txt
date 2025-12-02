@@ -1137,10 +1137,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2",
-            "t4"
+            "t3"
           ],
-          "FallbackTier": "t3"
+          "FallbackTier": "t2"
         }
       ],
       "Ritual Scarab of Abundance": [
@@ -2024,10 +2023,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
+            "t4",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Legion Scarab of Eternal Conflict": [
@@ -2083,10 +2082,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
+            "t4",
             "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Ambush Scarab": [
@@ -2453,6 +2452,18 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Allflame Ember of the Ethereal": [
@@ -2467,6 +2478,18 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Allflame Ember of Kulemak": [
@@ -2479,6 +2502,18 @@
           },
           "Tiers": [
             "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
             "t3"
           ],
           "FallbackTier": "t2"
@@ -2573,7 +2608,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2"
+          ],
           "FallbackTier": "t3"
         }
       ],
@@ -2601,11 +2638,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
-            "t2",
-            "t5"
+            "t4",
+            "t2"
           ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Kalguuran Scarab": [
@@ -2630,6 +2666,20 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        }
+      ],
+      "Essence Scarab of Calcification": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t2"
         }
       ]
     }

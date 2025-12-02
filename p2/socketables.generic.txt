@@ -1020,7 +1020,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "s"
           ],
           "FallbackTier": "a"
         }
@@ -1072,7 +1072,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
@@ -1084,9 +1084,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "s"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Zantipi": [
@@ -1163,8 +1163,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
         },
         {
           "Settings": {
@@ -1284,7 +1286,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Quipolatl": [
@@ -1295,10 +1297,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Atmohua": [
@@ -1851,10 +1851,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "The Greatwolf's Rune of Willpower": [

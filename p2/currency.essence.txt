@@ -740,9 +740,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -755,9 +753,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "s"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Essence of Insanity": [
@@ -768,10 +766,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "b",
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -798,7 +793,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Essence of the Abyss": [
@@ -810,7 +805,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         },
         {
           "Settings": {
@@ -1705,7 +1700,7 @@
           "Tiers": [
             "a"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "s"
         }
       ],
       "Perfect Essence of Command": [
@@ -1729,7 +1724,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Perfect Essence of Enhancement": [
@@ -1753,7 +1748,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "s"
         }
       ],
       "Perfect Essence of Grounding": [
@@ -1776,10 +1771,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Perfect Essence of Ice": [
@@ -1921,7 +1914,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ]
     }

@@ -440,6 +440,20 @@
           "Handled"
         ]
       }
+    ],
+    "Romira's Requital": [
+      {
+        "Name": "Romira's Requital",
+        "BaseType": "Romira's Requital",
+        "Aspects": []
+      }
+    ],
+    "Kalisa's Crescendo": [
+      {
+        "Name": "Kalisa's Crescendo",
+        "BaseType": "Kalisa's Crescendo",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -537,7 +551,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Rigwald's Ferocity": [
@@ -585,7 +599,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Ixchel's Torment": [
@@ -621,7 +635,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Arbiter's Ignition": [
@@ -646,6 +660,78 @@
           },
           "Tiers": [],
           "FallbackTier": "a"
+        }
+      ],
+      "Varashta's Blessing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ailith's Chimes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Piety's Mercy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Allure": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Zarokh's Refrain": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Kulemak's Dominion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ]
     }

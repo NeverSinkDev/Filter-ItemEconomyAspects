@@ -222,7 +222,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "t1"
         }
       ],
       "Runegraft of Gemcraft": [
@@ -271,9 +271,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Runegraft of the Warp": [
@@ -324,9 +325,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Runegraft of Refraction": [
@@ -337,8 +339,22 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
+        }
+      ],
+      "Runegraft of Treachery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }

@@ -981,7 +981,9 @@
       {
         "Name": "Echo of Reverence",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -989,7 +991,9 @@
       {
         "Name": "Echo of Loneliness",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "Tierable"
         ]
       }
     ],
@@ -997,7 +1001,9 @@
       {
         "Name": "Echo of Trauma",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -1083,7 +1089,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Sacred Blossom": [
@@ -1408,6 +1414,42 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
+        }
+      ],
+      "Echo of Reverence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Echo of Trauma": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Echo of Loneliness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }

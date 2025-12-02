@@ -1900,6 +1900,27 @@
           "Tierable"
         ]
       }
+    ],
+    "Chaos Orb": [
+      {
+        "Name": "Chaos Orb",
+        "BaseType": "Chaos Orb",
+        "Aspects": []
+      }
+    ],
+    "Chaos Shard": [
+      {
+        "Name": "Chaos Shard",
+        "BaseType": "Chaos Shard",
+        "Aspects": []
+      }
+    ],
+    "Engineer's Shard": [
+      {
+        "Name": "Engineer's Shard",
+        "BaseType": "Engineer's Shard",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -1912,10 +1933,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3annul",
-            "t4chaos"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2divine"
         },
         {
@@ -2117,9 +2135,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3annul"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ],
@@ -2415,9 +2431,9 @@
           },
           "Tiers": [
             "t3annul",
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         }
       ],
       "Fertile Catalyst": [
@@ -3774,7 +3790,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3annul"
           ],
           "FallbackTier": "t2divine"
         },
@@ -3786,7 +3803,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         }
       ],
       "Elder's Exalted Orb": [
@@ -3894,9 +3911,22 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Hunter's Exalted Orb": [
@@ -3935,6 +3965,16 @@
             "t2divine"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Veiled Exalted Orb": [
@@ -3949,6 +3989,18 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
         }
       ],
       "Orb of Intention": [
@@ -4029,6 +4081,16 @@
             "t2divine"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Tainted Divine Teardrop": [
@@ -4038,6 +4100,18 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [
             "t2divine"
@@ -4131,6 +4205,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4chaos"
+        }
+      ],
+      "Orb of Dominance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ]
     }
