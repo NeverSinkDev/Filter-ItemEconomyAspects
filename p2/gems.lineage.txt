@@ -324,10 +324,10 @@
         ]
       }
     ],
-    "Piety's Mercy": [
+    "Dominus' Grasp": [
       {
-        "Name": "Piety's Mercy",
-        "BaseType": "Piety's Mercy",
+        "Name": "Dominus' Grasp",
+        "BaseType": "Dominus' Grasp",
         "Aspects": [
           "Handled"
         ]
@@ -686,7 +686,7 @@
           "FallbackTier": "a"
         }
       ],
-      "Piety's Mercy": [
+      "Dominus' Grasp": [
         {
           "Settings": {
             "IsEnabled": true,

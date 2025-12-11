@@ -162,15 +162,6 @@
         ]
       }
     ],
-    "Omen of Homogenising Exaltation": [
-      {
-        "Name": "Omen of Homogenising Exaltation",
-        "BaseType": "Omen of Homogenising Exaltation",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Omen of Sanctification": [
       {
         "Name": "Omen of Sanctification",
@@ -229,15 +220,6 @@
       {
         "Name": "Omen of Putrefaction",
         "BaseType": "Omen of Putrefaction",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Homogenising Coronation": [
-      {
-        "Name": "Omen of Homogenising Coronation",
-        "BaseType": "Omen of Homogenising Coronation",
         "Aspects": [
           "Handled"
         ]
@@ -745,18 +727,6 @@
           "FallbackTier": "a"
         }
       ],
-      "Omen of Homogenising Exaltation": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        }
-      ],
       "Omen of Sanctification": [
         {
           "Settings": {
@@ -852,18 +822,6 @@
           },
           "Tiers": [],
           "FallbackTier": "a"
-        }
-      ],
-      "Omen of Homogenising Coronation": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
         }
       ],
       "Omen of Sinistral Necromancy": [

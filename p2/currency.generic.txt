@@ -449,16 +449,6 @@
         ]
       }
     ],
-    "Preserved Vertebrae": [
-      {
-        "Name": "Preserved Vertebrae",
-        "BaseType": "Preserved Vertebrae",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
     "Gnawed Rib": [
       {
         "Name": "Gnawed Rib",
@@ -989,18 +979,6 @@
         }
       ],
       "Preserved Jawbone": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Preserved Vertebrae": [
         {
           "Settings": {
             "IsEnabled": true,
