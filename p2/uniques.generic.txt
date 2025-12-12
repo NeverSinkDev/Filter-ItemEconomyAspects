@@ -5419,6 +5419,18 @@
           "Tiers": [],
           "FallbackTier": "t2"
         }
+      ],
+      "Ancestral Mail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
       ]
     }
   }
