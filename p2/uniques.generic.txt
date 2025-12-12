@@ -14,7 +14,8 @@
         "BaseType": "Silk Robe",
         "Aspects": [
           "Handled",
-          "Anchor"
+          "Anchor",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -169,7 +170,8 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -255,7 +257,8 @@
         "BaseType": "Grand Visage",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -266,7 +269,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "Uncommon"
+          "Uncommon",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -372,7 +376,9 @@
         "Name": "Couture of Crimson",
         "BaseType": "Gilded Vestments",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -580,7 +586,8 @@
         "Name": "Ghostwrithe",
         "BaseType": "Tattered Robe",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -706,7 +713,8 @@
         "BaseType": "Spiritbone Crown",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       },
       {
@@ -788,7 +796,9 @@
         "Name": "Mask of the Sanguimancer",
         "BaseType": "Face Mask",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -895,7 +905,8 @@
         "Name": "Plaguefinger",
         "BaseType": "Gauze Wraps",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -941,7 +952,8 @@
         "Name": "Redflare Conduit",
         "BaseType": "Anchorite Garb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -977,7 +989,8 @@
         "Name": "Sierran Inheritance",
         "BaseType": "Marabout Garb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1215,7 +1228,9 @@
         "Name": "Veil of the Night",
         "BaseType": "Martyr Crown",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1992,7 +2007,8 @@
         "BaseType": "Lapis Amulet",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       },
       {
@@ -2102,7 +2118,8 @@
         "Name": "The Anvil",
         "BaseType": "Bloodstone Amulet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -2443,7 +2460,8 @@
         "Name": "Seeing Stars",
         "BaseType": "Plated Mace",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2793,7 +2811,8 @@
         "BaseType": "Decorated Helm",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -2842,7 +2861,9 @@
         "Name": "Soul Mantle",
         "BaseType": "Sacrificial Mantle",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -2880,7 +2901,8 @@
         "Name": "The Lethal Draw",
         "BaseType": "Sacral Quiver",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2961,7 +2983,8 @@
         "Name": "Sands of Silk",
         "BaseType": "Shrouded Vest",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2982,7 +3005,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "HighVariety"
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3537,7 +3561,9 @@
         "Name": "Thunderfist",
         "BaseType": "Utility Wraps",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3546,7 +3572,9 @@
         "Name": "Lightning Coil",
         "BaseType": "Ancestral Mail",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ],
@@ -3631,8 +3659,7 @@
         "Name": "Fairgraves' Curse",
         "BaseType": "Artillery Bow",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -3828,7 +3855,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -3998,8 +4027,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Ultimate Life Flask": [
@@ -4071,9 +4102,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         },
         {
           "Settings": {
@@ -4197,10 +4228,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Armoured Vest": [
@@ -4212,9 +4241,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t1"
         }
       ],
       "Grand Manchettes": [
@@ -4229,6 +4258,16 @@
             "t1"
           ],
           "FallbackTier": "t3boss"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Ruby Charm": [
@@ -4347,7 +4386,7 @@
           "FallbackTier": "t2"
         }
       ],
-      "Heraldric Tower Shield": [
+      "Keth Raiment": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -4355,9 +4394,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
+          "Tiers": [],
           "FallbackTier": "t3"
         }
       ],
@@ -4757,7 +4794,7 @@
           "FallbackTier": "t3"
         }
       ],
-      "Corvus Mantle": [
+      "Ironclad Vestments": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -4766,7 +4803,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t3"
+          "FallbackTier": "t2"
         }
       ],
       "Covert Hood": [
@@ -4879,7 +4916,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4891,10 +4930,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Desolate Crossbow": [
@@ -4947,7 +4984,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4961,6 +5000,16 @@
           },
           "Tiers": [],
           "FallbackTier": "t3boss"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecialhigh"
         }
       ],
       "Furtive Wraps": [
@@ -4999,16 +5048,19 @@
           "FallbackTier": "multispecialhigh"
         }
       ],
-      "Face Mask": [
+      "Artillery Bow": [
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 0,
+            "RangeType": 1,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Grand Regalia": [
@@ -5054,7 +5106,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "multispecial"
         },
         {
           "Settings": {
@@ -5078,9 +5130,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -5206,7 +5256,7 @@
           "FallbackTier": "t3"
         }
       ],
-      "Gauze Wraps": [
+      "Gilded Vestments": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -5266,9 +5316,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -5309,6 +5357,54 @@
           "Tiers": [
             "t3"
           ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Altar Robe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Topaz Charm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Sapphire Charm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Decorated Helm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ]

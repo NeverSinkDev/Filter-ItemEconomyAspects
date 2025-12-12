@@ -360,163 +360,163 @@
         ]
       }
     ],
-    "Rabbit Talisman": [
+    "Idol of Thruldana": [
       {
-        "Name": "Rabbit Talisman",
-        "BaseType": "Rabbit Talisman",
+        "Name": "Idol of Thruldana",
+        "BaseType": "Idol of Thruldana",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Fox Talisman": [
+    "Idol of Sirrius": [
       {
-        "Name": "Fox Talisman",
-        "BaseType": "Fox Talisman",
+        "Name": "Idol of Sirrius",
+        "BaseType": "Idol of Sirrius",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Maxarius": [
+    "Stag Idol": [
       {
-        "Name": "Talisman of Maxarius",
-        "BaseType": "Talisman of Maxarius",
+        "Name": "Stag Idol",
+        "BaseType": "Stag Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Egrin": [
+    "Boar Idol": [
       {
-        "Name": "Talisman of Egrin",
-        "BaseType": "Talisman of Egrin",
+        "Name": "Boar Idol",
+        "BaseType": "Boar Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Sirrius": [
+    "Fox Idol": [
       {
-        "Name": "Talisman of Sirrius",
-        "BaseType": "Talisman of Sirrius",
+        "Name": "Fox Idol",
+        "BaseType": "Fox Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Ox Talisman": [
+    "Idol of Grold": [
       {
-        "Name": "Ox Talisman",
-        "BaseType": "Ox Talisman",
+        "Name": "Idol of Grold",
+        "BaseType": "Idol of Grold",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Ralakesh": [
+    "Wolf Idol": [
       {
-        "Name": "Talisman of Ralakesh",
-        "BaseType": "Talisman of Ralakesh",
+        "Name": "Wolf Idol",
+        "BaseType": "Wolf Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Cat Talisman": [
+    "Snake Idol": [
       {
-        "Name": "Cat Talisman",
-        "BaseType": "Cat Talisman",
+        "Name": "Snake Idol",
+        "BaseType": "Snake Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Bear Talisman": [
+    "Idol of Eeshta": [
       {
-        "Name": "Bear Talisman",
-        "BaseType": "Bear Talisman",
+        "Name": "Idol of Eeshta",
+        "BaseType": "Idol of Eeshta",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Eeshta": [
+    "Bear Idol": [
       {
-        "Name": "Talisman of Eeshta",
-        "BaseType": "Talisman of Eeshta",
+        "Name": "Bear Idol",
+        "BaseType": "Bear Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Thruldana": [
+    "Rabbit Idol": [
       {
-        "Name": "Talisman of Thruldana",
-        "BaseType": "Talisman of Thruldana",
+        "Name": "Rabbit Idol",
+        "BaseType": "Rabbit Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Wolf Talisman": [
+    "Idol of Ralakesh": [
       {
-        "Name": "Wolf Talisman",
-        "BaseType": "Wolf Talisman",
+        "Name": "Idol of Ralakesh",
+        "BaseType": "Idol of Ralakesh",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Primate Talisman": [
+    "Owl Idol": [
       {
-        "Name": "Primate Talisman",
-        "BaseType": "Primate Talisman",
+        "Name": "Owl Idol",
+        "BaseType": "Owl Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Boar Talisman": [
+    "Idol of Egrin": [
       {
-        "Name": "Boar Talisman",
-        "BaseType": "Boar Talisman",
+        "Name": "Idol of Egrin",
+        "BaseType": "Idol of Egrin",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Stag Talisman": [
+    "Idol of Maxarius": [
       {
-        "Name": "Stag Talisman",
-        "BaseType": "Stag Talisman",
+        "Name": "Idol of Maxarius",
+        "BaseType": "Idol of Maxarius",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Talisman of Grold": [
+    "Ox Idol": [
       {
-        "Name": "Talisman of Grold",
-        "BaseType": "Talisman of Grold",
+        "Name": "Ox Idol",
+        "BaseType": "Ox Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Serpent Talisman": [
+    "Cat Idol": [
       {
-        "Name": "Serpent Talisman",
-        "BaseType": "Serpent Talisman",
+        "Name": "Cat Idol",
+        "BaseType": "Cat Idol",
         "Aspects": [
           "Handled"
         ]
       }
     ],
-    "Owl Talisman": [
+    "Primate Idol": [
       {
-        "Name": "Owl Talisman",
-        "BaseType": "Owl Talisman",
+        "Name": "Primate Idol",
+        "BaseType": "Primate Idol",
         "Aspects": [
           "Handled"
         ]
@@ -1020,7 +1020,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "s"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -1033,7 +1033,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1045,7 +1047,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1071,8 +1075,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
@@ -1083,10 +1089,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Zantipi": [
@@ -1149,8 +1153,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a",
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1164,9 +1167,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "s"
+          "FallbackTier": "a"
         },
         {
           "Settings": {
@@ -1203,9 +1206,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1245,9 +1246,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1260,9 +1259,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Quipolatl's Soul Core of Flow": [
@@ -1285,8 +1284,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Quipolatl": [
@@ -1297,7 +1298,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1309,9 +1312,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1323,7 +1324,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1361,7 +1364,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "c"
         }
       ],
@@ -1401,7 +1406,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1414,9 +1421,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Opiloti": [
@@ -1439,63 +1446,28 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Rabbit Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
-        }
-      ],
-      "Fox Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Talisman of Maxarius": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Talisman of Egrin": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
           "Tiers": [
             "a"
           ],
           "FallbackTier": "b"
         }
       ],
-      "Talisman of Sirrius": [
+      "Idol of Thruldana": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Idol of Sirrius": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1523,7 +1495,7 @@
           "FallbackTier": "a"
         }
       ],
-      "Ox Talisman": [
+      "Stag Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1532,98 +1504,13 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "c"
-        }
-      ],
-      "Talisman of Ralakesh": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        }
-      ],
-      "Cat Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Bear Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Talisman of Eeshta": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Talisman of Thruldana": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Wolf Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "b"
-        }
-      ],
-      "Primate Talisman": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
+            "c",
             "a"
           ],
           "FallbackTier": "b"
         }
       ],
-      "Boar Talisman": [
+      "Boar Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1631,11 +1518,14 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
-      "Stag Talisman": [
+      "Fox Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1643,11 +1533,162 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
-      "Talisman of Grold": [
+      "Idol of Grold": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Wolf Idol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Snake Idol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Idol of Eeshta": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Bear Idol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Rabbit Idol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Idol of Ralakesh": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Owl Idol": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Idol of Egrin": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Idol of Maxarius": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ox Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1657,12 +1698,12 @@
           },
           "Tiers": [
             "b",
-            "c"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "c"
         }
       ],
-      "Serpent Talisman": [
+      "Cat Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1670,11 +1711,14 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
-      "Owl Talisman": [
+      "Primate Idol": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1682,7 +1726,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1795,9 +1842,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -1851,8 +1896,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "The Greatwolf's Rune of Willpower": [
@@ -1891,7 +1938,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1917,8 +1967,11 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "b",
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Farrul's Rune of the Hunt": [
@@ -1943,7 +1996,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1969,7 +2025,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2052,7 +2111,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -2066,9 +2126,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "a",
+            "c"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Craiceann's Rune of Recovery": [
@@ -2093,7 +2154,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2106,9 +2170,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Fenumus' Rune of Draining": [
@@ -2133,7 +2197,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2188,7 +2255,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2215,7 +2285,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -2242,7 +2313,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ]
