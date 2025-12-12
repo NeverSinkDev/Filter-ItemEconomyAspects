@@ -766,7 +766,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1698,7 +1700,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "b"
           ],
           "FallbackTier": "s"
         }
@@ -1723,7 +1726,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1747,8 +1752,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "s"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Perfect Essence of Grounding": [
@@ -1913,7 +1920,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ]

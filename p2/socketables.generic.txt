@@ -1020,7 +1020,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "s"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -1033,7 +1033,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1045,7 +1047,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1071,8 +1075,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
@@ -1083,10 +1089,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Zantipi": [
@@ -1149,8 +1153,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a",
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1164,9 +1167,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "s"
+          "FallbackTier": "a"
         },
         {
           "Settings": {
@@ -1203,9 +1206,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1245,9 +1246,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1260,9 +1259,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Quipolatl's Soul Core of Flow": [
@@ -1285,8 +1284,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "Soul Core of Quipolatl": [
@@ -1297,7 +1298,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1309,9 +1312,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1323,7 +1324,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1361,7 +1364,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "c"
         }
       ],
@@ -1401,7 +1406,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1414,9 +1421,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Soul Core of Opiloti": [
@@ -1439,7 +1446,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1451,7 +1460,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1491,7 +1503,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1503,7 +1518,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1515,7 +1533,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1528,10 +1549,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
+            "a",
             "c"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Wolf Idol": [
@@ -1542,7 +1563,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1554,7 +1578,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1566,7 +1593,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1578,7 +1608,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1604,7 +1637,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1616,7 +1651,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1629,7 +1667,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -1642,7 +1681,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1655,7 +1697,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "b",
+            "a"
           ],
           "FallbackTier": "c"
         }
@@ -1668,7 +1711,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1681,7 +1727,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -1795,9 +1842,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -1851,8 +1896,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
         }
       ],
       "The Greatwolf's Rune of Willpower": [
@@ -1891,7 +1938,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1917,8 +1967,11 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "b",
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Farrul's Rune of the Hunt": [
@@ -1943,7 +1996,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1969,7 +2025,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2052,7 +2111,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -2066,9 +2126,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "a",
+            "c"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Craiceann's Rune of Recovery": [
@@ -2093,7 +2154,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2106,9 +2170,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Fenumus' Rune of Draining": [
@@ -2133,7 +2197,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2188,7 +2255,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -2215,7 +2285,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "a",
+            "c"
           ],
           "FallbackTier": "b"
         }
@@ -2242,7 +2313,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a",
+            "c"
+          ],
           "FallbackTier": "b"
         }
       ]

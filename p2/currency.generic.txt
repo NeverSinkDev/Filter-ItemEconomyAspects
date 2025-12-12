@@ -5,7 +5,8 @@
         "Name": "Mirror of Kalandra",
         "BaseType": "Mirror of Kalandra",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Anchor"
         ]
       }
     ],
@@ -468,6 +469,13 @@
           "Handled"
         ]
       }
+    ],
+    "Preserved Vertebrae": [
+      {
+        "Name": "Preserved Vertebrae",
+        "BaseType": "Preserved Vertebrae",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -495,9 +503,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "d"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "c"
         },
         {
           "Settings": {
@@ -527,6 +535,16 @@
             "s"
           ],
           "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Greater Jeweller's Orb": [
@@ -538,7 +556,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "c"
           ],
           "FallbackTier": "b"
         },
@@ -581,6 +599,16 @@
           "Tiers": [
             "a"
           ],
+          "FallbackTier": "b"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -643,14 +671,11 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a",
-            "s"
-          ],
-          "FallbackTier": "c"
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Fracturing Orb": [
@@ -665,6 +690,16 @@
             "b",
             "s"
           ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -717,6 +752,18 @@
             "s"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "d"
+          ],
+          "FallbackTier": "c"
         }
       ],
       "Armourer's Scrap": [
@@ -748,6 +795,18 @@
             "s"
           ],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Regal Orb": [
@@ -771,6 +830,16 @@
             "ImpactType": 0,
             "RangeType": 1,
             "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "d"
@@ -822,7 +891,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -860,7 +929,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Ancient Rib": [
@@ -871,7 +940,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -884,9 +955,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "s"
           ],
-          "FallbackTier": "s"
+          "FallbackTier": "a"
         }
       ],
       "Ancient Jawbone": [
@@ -1071,6 +1142,18 @@
             "b"
           ],
           "FallbackTier": "e"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "e"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Greater Orb of Transmutation": [
@@ -1139,7 +1222,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "c"
+          ],
           "FallbackTier": "d"
         }
       ],
@@ -1155,6 +1240,18 @@
             "b",
             "a",
             "s"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
           ],
           "FallbackTier": "d"
         }
@@ -1193,8 +1290,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "d"
+          ],
+          "FallbackTier": "c"
         },
         {
           "Settings": {
@@ -1244,7 +1343,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "d"
+          ],
           "FallbackTier": "c"
         },
         {
@@ -1403,10 +1504,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "c"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "c"
         },
         {
           "Settings": {
