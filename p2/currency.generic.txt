@@ -476,6 +476,34 @@
         "BaseType": "Preserved Vertebrae",
         "Aspects": []
       }
+    ],
+    "Amanamu's Gaze": [
+      {
+        "Name": "Amanamu's Gaze",
+        "BaseType": "Amanamu's Gaze",
+        "Aspects": []
+      }
+    ],
+    "Kurgal's Gaze": [
+      {
+        "Name": "Kurgal's Gaze",
+        "BaseType": "Kurgal's Gaze",
+        "Aspects": []
+      }
+    ],
+    "Tecrod's Gaze": [
+      {
+        "Name": "Tecrod's Gaze",
+        "BaseType": "Tecrod's Gaze",
+        "Aspects": []
+      }
+    ],
+    "Ulaman's Gaze": [
+      {
+        "Name": "Ulaman's Gaze",
+        "BaseType": "Ulaman's Gaze",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

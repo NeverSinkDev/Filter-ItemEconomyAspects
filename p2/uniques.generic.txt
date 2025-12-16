@@ -2668,6 +2668,11 @@
           "HighVariety",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Flesh Crucible",
+        "BaseType": "Diamond",
+        "Aspects": []
       }
     ],
     "Emerald": [
@@ -3676,6 +3681,103 @@
       {
         "Name": "Double Vision",
         "BaseType": "Dyad Crossbow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacrificial Regalia": [
+      {
+        "Name": "Atziri's Splendour",
+        "BaseType": "Sacrificial Regalia",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Penetrating Quiver": [
+      {
+        "Name": "Drillneck",
+        "BaseType": "Penetrating Quiver",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Cinched Boots": [
+      {
+        "Name": "Atziri's Step",
+        "BaseType": "Cinched Boots",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Gargantuan Mana Flask": [
+      {
+        "Name": "Lavianga's Spirits",
+        "BaseType": "Gargantuan Mana Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ashbark Talisman": [
+      {
+        "Name": "Fury of the King",
+        "BaseType": "Ashbark Talisman",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Pronged Spear": [
+      {
+        "Name": "Atziri's Contempt",
+        "BaseType": "Pronged Spear",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Reflecting Staff": [
+      {
+        "Name": "Atziri's Rule",
+        "BaseType": "Reflecting Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Vicious Talisman": [
+      {
+        "Name": "The Flesh Poppet",
+        "BaseType": "Vicious Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Changeling Talisman": [
+      {
+        "Name": "Amor Mandragora",
+        "BaseType": "Changeling Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Familial Talisman": [
+      {
+        "Name": "Hysseg's Claw",
+        "BaseType": "Familial Talisman",
         "Aspects": [
           "Handled"
         ]
@@ -5421,6 +5523,32 @@
         }
       ],
       "Ancestral Mail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Ashbark Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Pronged Spear": [
         {
           "Settings": {
             "IsEnabled": true,
