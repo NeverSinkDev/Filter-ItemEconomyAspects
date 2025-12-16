@@ -1058,7 +1058,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         },
         {
           "Settings": {
@@ -1096,7 +1096,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Gnawed Collarbone": [
@@ -1526,7 +1526,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "s"
+            "s",
+            "b"
           ],
           "FallbackTier": "a"
         },

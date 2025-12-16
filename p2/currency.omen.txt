@@ -342,20 +342,6 @@
           "Handled"
         ]
       }
-    ],
-    "Omen of Homogenising Exaltation": [
-      {
-        "Name": "Omen of Homogenising Exaltation",
-        "BaseType": "Omen of Homogenising Exaltation",
-        "Aspects": []
-      }
-    ],
-    "Omen of Homogenising Coronation": [
-      {
-        "Name": "Omen of Homogenising Coronation",
-        "BaseType": "Omen of Homogenising Coronation",
-        "Aspects": []
-      }
     ]
   },
   "TieringRangeList": {
@@ -404,7 +390,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -564,11 +552,9 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         },
         {
@@ -576,10 +562,14 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "c",
+            "b",
+            "e"
+          ],
+          "FallbackTier": "d"
         }
       ],
       "Omen of Answered Prayers": [
@@ -736,7 +726,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -774,9 +766,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "s"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Omen of Abyssal Echoes": [
@@ -787,7 +779,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -800,7 +794,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Omen of Sinistral Crystallisation": [
@@ -812,9 +806,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "s"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Omen of Chaotic Rarity": [
@@ -825,7 +819,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -910,7 +906,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Omen of Dextral Necromancy": [
@@ -1004,28 +1000,6 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "c"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "e"
-          ],
-          "FallbackTier": "d"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 2
           },
           "Tiers": [],
           "FallbackTier": "d"

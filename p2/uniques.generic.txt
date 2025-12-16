@@ -3589,7 +3589,8 @@
         "Name": "Crown of Eyes",
         "BaseType": "Vermeil Circlet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -4217,7 +4218,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         },
@@ -4331,7 +4333,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4354,22 +4358,24 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 0
+            "RangeType": 0,
+            "ValidTime": 1
           },
           "Tiers": [
             "t1"
           ],
-          "FallbackTier": "t3boss"
+          "FallbackTier": "t2"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4419,7 +4425,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4444,7 +4452,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         }
@@ -4627,8 +4636,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Fine Bracers": [
@@ -4639,7 +4650,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -5102,16 +5115,6 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "t3boss"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
           "FallbackTier": "multispecialhigh"
         }
       ],
@@ -5200,31 +5203,6 @@
           "FallbackTier": "t2"
         }
       ],
-      "Viper Cap": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "multispecial"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2",
-            "t1"
-          ],
-          "FallbackTier": "multispecial"
-        }
-      ],
       "Thawing Charm": [
         {
           "Settings": {
@@ -5267,8 +5245,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "multispecial"
+          "Tiers": [
+            "multispecial"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -5431,9 +5411,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -5544,12 +5522,60 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Pronged Spear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Enlightened Robe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Sacrificial Regalia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecialhigh"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecialhigh"
+        }
+      ],
+      "Champion Cuirass": [
         {
           "Settings": {
             "IsEnabled": true,

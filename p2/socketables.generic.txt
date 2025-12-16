@@ -1199,7 +1199,8 @@
           },
           "Tiers": [
             "a",
-            "c"
+            "c",
+            "s"
           ],
           "FallbackTier": "b"
         },
@@ -1210,10 +1211,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "Zalatl's Soul Core of Insulation": [
@@ -1423,9 +1422,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Hayoxi's Soul Core of Heatproofing": [
@@ -1695,9 +1694,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -1709,9 +1706,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],
@@ -1968,10 +1963,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "b"
+          "Tiers": [],
+          "FallbackTier": "a"
         }
       ],
       "The Greatwolf's Rune of Willpower": [
@@ -2475,9 +2468,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Ulaman's Gaze": [
