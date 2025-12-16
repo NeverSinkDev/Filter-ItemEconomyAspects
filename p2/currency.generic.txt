@@ -631,9 +631,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         },
         {
           "Settings": {
