@@ -337,14 +337,135 @@
       {
         "Name": "Romira's Requital",
         "BaseType": "Romira's Requital",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Kalisa's Crescendo": [
       {
         "Name": "Kalisa's Crescendo",
         "BaseType": "Kalisa's Crescendo",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Amanamu's Tithe": [
+      {
+        "Name": "Amanamu's Tithe",
+        "BaseType": "Amanamu's Tithe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Atziri's Impatience": [
+      {
+        "Name": "Atziri's Impatience",
+        "BaseType": "Atziri's Impatience",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zerphi's Infamy": [
+      {
+        "Name": "Zerphi's Infamy",
+        "BaseType": "Zerphi's Infamy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bhatair's Vengeance": [
+      {
+        "Name": "Bhatair's Vengeance",
+        "BaseType": "Bhatair's Vengeance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hayoxi's Fulmination": [
+      {
+        "Name": "Hayoxi's Fulmination",
+        "BaseType": "Hayoxi's Fulmination",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Khatal's Rejuvenation": [
+      {
+        "Name": "Khatal's Rejuvenation",
+        "BaseType": "Khatal's Rejuvenation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Oisín's Oath": [
+      {
+        "Name": "Oisín's Oath",
+        "BaseType": "Oisín's Oath",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zarokh's Revolt": [
+      {
+        "Name": "Zarokh's Revolt",
+        "BaseType": "Zarokh's Revolt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Morgana's Tempest": [
+      {
+        "Name": "Morgana's Tempest",
+        "BaseType": "Morgana's Tempest",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Guatelitzi's Ablation": [
+      {
+        "Name": "Guatelitzi's Ablation",
+        "BaseType": "Guatelitzi's Ablation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Xibaqua's Rending": [
+      {
+        "Name": "Xibaqua's Rending",
+        "BaseType": "Xibaqua's Rending",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cirel's Cultivation": [
+      {
+        "Name": "Cirel's Cultivation",
+        "BaseType": "Cirel's Cultivation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tasalio's Rhythm": [
+      {
+        "Name": "Tasalio's Rhythm",
+        "BaseType": "Tasalio's Rhythm",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },

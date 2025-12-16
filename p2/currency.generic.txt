@@ -470,39 +470,86 @@
         ]
       }
     ],
-    "Preserved Vertebrae": [
+    "Vaal Cultivation Orb": [
       {
-        "Name": "Preserved Vertebrae",
-        "BaseType": "Preserved Vertebrae",
-        "Aspects": []
+        "Name": "Vaal Cultivation Orb",
+        "BaseType": "Vaal Cultivation Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
       }
     ],
-    "Amanamu's Gaze": [
+    "Architect's Orb": [
       {
-        "Name": "Amanamu's Gaze",
-        "BaseType": "Amanamu's Gaze",
-        "Aspects": []
+        "Name": "Architect's Orb",
+        "BaseType": "Architect's Orb",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
       }
     ],
-    "Kurgal's Gaze": [
+    "Ancient Infuser": [
       {
-        "Name": "Kurgal's Gaze",
-        "BaseType": "Kurgal's Gaze",
-        "Aspects": []
+        "Name": "Ancient Infuser",
+        "BaseType": "Ancient Infuser",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
-    "Tecrod's Gaze": [
+    "Core Destabiliser": [
       {
-        "Name": "Tecrod's Gaze",
-        "BaseType": "Tecrod's Gaze",
-        "Aspects": []
+        "Name": "Core Destabiliser",
+        "BaseType": "Core Destabiliser",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
-    "Ulaman's Gaze": [
+    "Orb of Extraction": [
       {
-        "Name": "Ulaman's Gaze",
-        "BaseType": "Ulaman's Gaze",
-        "Aspects": []
+        "Name": "Orb of Extraction",
+        "BaseType": "Orb of Extraction",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Infuser": [
+      {
+        "Name": "Vaal Infuser",
+        "BaseType": "Vaal Infuser",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Crystallised Corruption": [
+      {
+        "Name": "Crystallised Corruption",
+        "BaseType": "Crystallised Corruption",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Siphoner": [
+      {
+        "Name": "Vaal Siphoner",
+        "BaseType": "Vaal Siphoner",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ]
   },
@@ -1178,9 +1225,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "e"
-          ],
+          "Tiers": [],
           "FallbackTier": "d"
         }
       ],
@@ -1210,6 +1255,16 @@
             "a",
             "s"
           ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "d"
         }
       ],
@@ -1544,6 +1599,114 @@
           },
           "Tiers": [
             "e"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Vaal Cultivation Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Architect's Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Infuser": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Core Destabiliser": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Orb of Extraction": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vaal Infuser": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Crystallised Corruption": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c",
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vaal Siphoner": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "b"
           ],
           "FallbackTier": "c"
         }

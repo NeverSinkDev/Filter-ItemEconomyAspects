@@ -1007,6 +1007,78 @@
           "Handled"
         ]
       }
+    ],
+    "Guatelitzi's Thesis": [
+      {
+        "Name": "Guatelitzi's Thesis",
+        "BaseType": "Guatelitzi's Thesis",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jiquani's Thesis": [
+      {
+        "Name": "Jiquani's Thesis",
+        "BaseType": "Jiquani's Thesis",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Quipolatl's Thesis": [
+      {
+        "Name": "Quipolatl's Thesis",
+        "BaseType": "Quipolatl's Thesis",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Citaqualotl's Thesis": [
+      {
+        "Name": "Citaqualotl's Thesis",
+        "BaseType": "Citaqualotl's Thesis",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Amanamu's Gaze": [
+      {
+        "Name": "Amanamu's Gaze",
+        "BaseType": "Amanamu's Gaze",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tecrod's Gaze": [
+      {
+        "Name": "Tecrod's Gaze",
+        "BaseType": "Tecrod's Gaze",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kurgal's Gaze": [
+      {
+        "Name": "Kurgal's Gaze",
+        "BaseType": "Kurgal's Gaze",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ulaman's Gaze": [
+      {
+        "Name": "Ulaman's Gaze",
+        "BaseType": "Ulaman's Gaze",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -2316,6 +2388,108 @@
           "Tiers": [
             "a",
             "c"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Guatelitzi's Thesis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Thesis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Quipolatl's Thesis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Citaqualotl's Thesis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Amanamu's Gaze": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Tecrod's Gaze": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Kurgal's Gaze": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ulaman's Gaze": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
           ],
           "FallbackTier": "b"
         }

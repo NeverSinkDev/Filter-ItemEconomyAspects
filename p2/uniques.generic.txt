@@ -2979,7 +2979,8 @@
         "Name": "Nightscale",
         "BaseType": "Pauascale Gloves",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
