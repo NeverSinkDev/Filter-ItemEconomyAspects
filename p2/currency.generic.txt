@@ -819,19 +819,6 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "e",
-            "s"
-          ],
-          "FallbackTier": "c"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
           },
@@ -839,6 +826,30 @@
             "d"
           ],
           "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "e",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Armourer's Scrap": [
