@@ -568,7 +568,7 @@
             "a",
             "s"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -581,19 +581,6 @@
             "d"
           ],
           "FallbackTier": "c"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "a",
-            "s"
-          ],
-          "FallbackTier": "d"
         }
       ],
       "Orb of Annulment": [
@@ -875,11 +862,7 @@
             "RangeType": 1,
             "ValidTime": 2
           },
-          "Tiers": [
-            "b",
-            "a",
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "d"
         },
         {
@@ -989,7 +972,7 @@
           "Tiers": [
             "e"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Gemcutter's Prism": [
@@ -1132,7 +1115,7 @@
             "a",
             "s"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "c"
         }
       ],
       "Preserved Jawbone": [
@@ -1196,7 +1179,7 @@
             "a",
             "b"
           ],
-          "FallbackTier": "d"
+          "FallbackTier": "c"
         }
       ],
       "Greater Orb of Augmentation": [
@@ -1374,6 +1357,16 @@
           },
           "Tiers": [],
           "FallbackTier": "d"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Perfect Orb of Augmentation": [
@@ -1400,7 +1393,7 @@
             "s",
             "e"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -1409,11 +1402,8 @@
             "RangeType": 1,
             "ValidTime": 2
           },
-          "Tiers": [
-            "s",
-            "e"
-          ],
-          "FallbackTier": "c"
+          "Tiers": [],
+          "FallbackTier": "d"
         }
       ],
       "Perfect Orb of Transmutation": [
@@ -1428,7 +1418,7 @@
             "s",
             "e"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "d"
         },
         {
           "Settings": {
@@ -1450,10 +1440,9 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s",
-            "e"
+            "s"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Perfect Exalted Orb": [
@@ -1612,7 +1601,7 @@
           "Tiers": [
             "e"
           ],
-          "FallbackTier": "c"
+          "FallbackTier": "d"
         }
       ],
       "Vaal Cultivation Orb": [
