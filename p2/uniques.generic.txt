@@ -3698,7 +3698,8 @@
         "Name": "The Unborn Lich",
         "BaseType": "Ravenous Staff",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -4508,6 +4509,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "multispecialhigh"
+          ],
+          "FallbackTier": "multispecial"
         }
       ],
       "Hunter Hood": [
@@ -4848,8 +4861,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "multispecialhigh"
+          "Tiers": [
+            "t3boss"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Furtive Wraps": [
@@ -4894,7 +4909,7 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "multispecialhigh"
@@ -4904,10 +4919,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "multispecialhigh"
+          "FallbackTier": "t2"
         }
       ],
       "Chain Tiara": [
@@ -5219,8 +5234,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "multispecialhigh"
+          "Tiers": [
+            "t3boss"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Champion Cuirass": [
