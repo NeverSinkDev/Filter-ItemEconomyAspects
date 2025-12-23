@@ -63,16 +63,6 @@
     ],
     "Furtive Wraps": [
       {
-        "Name": "Hand of Wisdom and Action",
-        "BaseType": "Furtive Wraps",
-        "Aspects": [
-          "Handled",
-          "PreventHiding",
-          "EarlyLeagueInterest",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "Essentia Sanguis",
         "BaseType": "Furtive Wraps",
         "Aspects": [
@@ -108,18 +98,6 @@
           "Handled",
           "NonWorldDrop",
           "HighVariety"
-        ]
-      }
-    ],
-    "Stone Tower Shield": [
-      {
-        "Name": "The Surrender",
-        "BaseType": "Stone Tower Shield",
-        "Aspects": [
-          "Handled",
-          "Uncommon",
-          "PreventHiding",
-          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -1238,15 +1216,6 @@
       {
         "Name": "Visage of Ayah",
         "BaseType": "Beaded Circlet",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Ironclad Vestments": [
-      {
-        "Name": "Voll's Protector",
-        "BaseType": "Ironclad Vestments",
         "Aspects": [
           "Handled"
         ]
@@ -2462,12 +2431,13 @@
         ]
       }
     ],
-    "Plated Mace": [
+    "Spiral Wraps": [
       {
-        "Name": "Seeing Stars",
-        "BaseType": "Plated Mace",
+        "Name": "Hand of Wisdom and Action",
+        "BaseType": "Spiral Wraps",
         "Aspects": [
           "Handled",
+          "NonWorldDrop",
           "PreventHiding"
         ]
       }
@@ -3812,6 +3782,45 @@
           "Handled"
         ]
       }
+    ],
+    "Plated Vestments": [
+      {
+        "Name": "Voll's Protector",
+        "BaseType": "Plated Vestments",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Vaal Tower Shield": [
+      {
+        "Name": "The Surrender",
+        "BaseType": "Vaal Tower Shield",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "Uncommon"
+        ]
+      }
+    ],
+    "Marching Mace": [
+      {
+        "Name": "Seeing Stars",
+        "BaseType": "Marching Mace",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Sapphire": [
+      {
+        "Name": "Grand Spectrum",
+        "BaseType": "Sapphire",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -4518,7 +4527,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "multispecialhigh"
+            "multispecialhigh",
+            "t2"
           ],
           "FallbackTier": "multispecial"
         }
@@ -5250,6 +5260,20 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        }
+      ],
+      "Vaal Tower Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
         }
       ]
     }
