@@ -8293,6 +8293,34 @@
           ],
           "FallbackTier": "t2"
         }
+      ],
+      "The Dreamland": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": null
+        }
       ]
     }
   }
