@@ -3324,24 +3324,13 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t5alchemy"
-          ],
-          "FallbackTier": "t4chaos"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 0
           },
           "Tiers": [
             "t4chaos",
             "t6chrom",
-            "t7chance"
+            "t7chance",
+            "t8trans"
           ],
           "FallbackTier": "t5alchemy"
         }

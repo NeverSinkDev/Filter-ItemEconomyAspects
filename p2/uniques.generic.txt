@@ -593,7 +593,8 @@
         "Name": "Greed's Embrace",
         "BaseType": "Vaal Cuirass",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -4527,10 +4528,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "multispecialhigh",
+            "t1",
             "t2"
           ],
-          "FallbackTier": "multispecial"
+          "FallbackTier": "multispecialhigh"
         }
       ],
       "Hunter Hood": [
