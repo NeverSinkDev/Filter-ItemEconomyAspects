@@ -970,7 +970,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "e"
+            "e",
+            "s",
+            "a"
           ],
           "FallbackTier": "d"
         }
@@ -1391,7 +1393,8 @@
           },
           "Tiers": [
             "s",
-            "e"
+            "e",
+            "a"
           ],
           "FallbackTier": "d"
         },
@@ -1402,7 +1405,10 @@
             "RangeType": 1,
             "ValidTime": 2
           },
-          "Tiers": [],
+          "Tiers": [
+            "s",
+            "a"
+          ],
           "FallbackTier": "d"
         }
       ],
@@ -1416,7 +1422,8 @@
           },
           "Tiers": [
             "s",
-            "e"
+            "e",
+            "a"
           ],
           "FallbackTier": "d"
         },
@@ -1440,7 +1447,8 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s"
+            "s",
+            "a"
           ],
           "FallbackTier": "d"
         }
