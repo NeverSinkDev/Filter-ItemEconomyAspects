@@ -3996,18 +3996,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
@@ -4017,18 +4005,6 @@
         }
       ],
       "Intricate Crest Shield": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -5246,7 +5222,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3boss"
+            "t3boss",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
