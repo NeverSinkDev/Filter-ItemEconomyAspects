@@ -2636,8 +2636,7 @@
         "Name": "Null and Void",
         "BaseType": "Legion Gloves",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -3092,8 +3091,7 @@
         "Name": "Lycosidae",
         "BaseType": "Rawhide Tower Shield",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -3786,7 +3784,8 @@
         "Name": "Daresso's Defiance",
         "BaseType": "Full Dragonscale",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -5237,8 +5236,7 @@
         "Name": "Honourhome",
         "BaseType": "Soldier Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -6562,7 +6560,8 @@
         "BaseType": "Moonstone Ring",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -7171,7 +7170,9 @@
         "Name": "Warped Timepiece",
         "BaseType": "Turquoise Amulet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding",
+          "HighVariety"
         ]
       },
       {
@@ -11091,21 +11092,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
-      "Full Dragonscale": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t1",
             "t2"
           ],
           "FallbackTier": "t3"

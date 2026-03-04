@@ -1749,10 +1749,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Maven's Chisel of Scarabs": [
@@ -1776,10 +1774,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Prismatic Catalyst": [
@@ -1846,10 +1842,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Tainted Orb of Fusing": [
@@ -2018,7 +2012,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         }
       ],
       "Tainted Chaos Orb": [
@@ -2616,9 +2610,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos"
+            "t3annul"
           ],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -2630,7 +2624,8 @@
           "Tiers": [
             "t5alchemy",
             "t7chance",
-            "t8trans"
+            "t8trans",
+            "t4chaos"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -2643,10 +2638,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -2671,10 +2664,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
