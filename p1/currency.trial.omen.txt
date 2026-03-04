@@ -59,24 +59,6 @@
         ]
       }
     ],
-    "Omen of Bequeathal": [
-      {
-        "Name": "Omen of Bequeathal",
-        "BaseType": "Omen of Bequeathal",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Revenge": [
-      {
-        "Name": "Omen of Revenge",
-        "BaseType": "Omen of Revenge",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Omen of Death's Door": [
       {
         "Name": "Omen of Death's Door",
@@ -84,15 +66,6 @@
         "Aspects": [
           "Handled",
           "Anchor"
-        ]
-      }
-    ],
-    "Omen of Resurgence": [
-      {
-        "Name": "Omen of Resurgence",
-        "BaseType": "Omen of Resurgence",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -123,15 +96,6 @@
         "Aspects": [
           "Handled",
           "Anchor"
-        ]
-      }
-    ],
-    "Omen of Acceleration": [
-      {
-        "Name": "Omen of Acceleration",
-        "BaseType": "Omen of Acceleration",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],

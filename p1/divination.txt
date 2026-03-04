@@ -327,24 +327,6 @@
         ]
       }
     ],
-    "The Master": [
-      {
-        "Name": "The Master",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "The Landing": [
-      {
-        "Name": "The Landing",
-        "Aspects": [
-          "HighVariety",
-          "Handled",
-          "PreventHiding"
-        ]
-      }
-    ],
     "The Undaunted": [
       {
         "Name": "The Undaunted",
@@ -428,25 +410,6 @@
         "Aspects": [
           "Handled",
           "HighVariety"
-        ]
-      }
-    ],
-    "The Cartographer": [
-      {
-        "Name": "The Cartographer",
-        "Aspects": [
-          "CurrencyType",
-          "Handled",
-          "PreventHiding"
-        ]
-      },
-      {
-        "Name": "The Cartographer",
-        "BaseType": "The Cartographer",
-        "Aspects": [
-          "CurrencyType",
-          "Handled",
-          "PreventHiding"
         ]
       }
     ],
@@ -639,15 +602,6 @@
         ]
       }
     ],
-    "The Journey": [
-      {
-        "Name": "The Journey",
-        "Aspects": [
-          "CurrencyType",
-          "Handled"
-        ]
-      }
-    ],
     "The Jeweller's Boon": [
       {
         "Name": "The Jeweller's Boon",
@@ -827,17 +781,6 @@
         "Name": "Alone in the Darkness",
         "Aspects": [
           "Handled"
-        ]
-      }
-    ],
-    "The Obscured": [
-      {
-        "Name": "The Obscured",
-        "Aspects": [
-          "HighVariety",
-          "Handled",
-          "CurrencyType",
-          "PreventHiding"
         ]
       }
     ],
@@ -1513,15 +1456,6 @@
           "Handled",
           "LateLeagueValueLoss",
           "PoorDrop"
-        ]
-      }
-    ],
-    "The Messenger": [
-      {
-        "Name": "The Messenger",
-        "Aspects": [
-          "HighVariety",
-          "Handled"
         ]
       }
     ],
@@ -2457,17 +2391,6 @@
         ]
       }
     ],
-    "The Puzzle": [
-      {
-        "Name": "The Puzzle",
-        "Aspects": [
-          "CurrencyType",
-          "Handled",
-          "PoorDrop",
-          "Anchor"
-        ]
-      }
-    ],
     "Three Voices": [
       {
         "Name": "Three Voices",
@@ -2720,15 +2643,6 @@
         ]
       }
     ],
-    "The Eye of Terror": [
-      {
-        "Name": "The Eye of Terror",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      }
-    ],
     "Void of the Elements": [
       {
         "Name": "Void of the Elements",
@@ -2831,25 +2745,6 @@
           "Handled",
           "CurrencyType",
           "LateLeagueValueLoss"
-        ]
-      }
-    ],
-    "The Side Quest": [
-      {
-        "Name": "The Side Quest",
-        "Aspects": [
-          "Handled",
-          "CurrencyType",
-          "PreventHiding"
-        ]
-      },
-      {
-        "Name": "The Side Quest",
-        "BaseType": "The Side Quest",
-        "Aspects": [
-          "Handled",
-          "CurrencyType",
-          "PreventHiding"
         ]
       }
     ],
@@ -3014,15 +2909,6 @@
         "BaseType": "Friendship",
         "Aspects": [
           "Handled"
-        ]
-      }
-    ],
-    "The Cheater": [
-      {
-        "Name": "The Cheater",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
         ]
       }
     ],
@@ -3231,15 +3117,6 @@
           "TimelessResult",
           "CurrencyType",
           "Anchor"
-        ]
-      }
-    ],
-    "Desecrated Virtue": [
-      {
-        "Name": "Desecrated Virtue",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
         ]
       }
     ],
@@ -3688,14 +3565,6 @@
           "Handled",
           "PreventHiding",
           "CurrencyType"
-        ]
-      }
-    ],
-    "The Emptiness": [
-      {
-        "Name": "The Emptiness",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -4401,14 +4270,6 @@
         ]
       }
     ],
-    "Soul Quenched": [
-      {
-        "Name": "Soul Quenched",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Fire Of Unknown Origin": [
       {
         "Name": "Fire Of Unknown Origin",
@@ -4561,17 +4422,6 @@
           "Handled",
           "PreventHiding",
           "HighVariety"
-        ]
-      }
-    ],
-    "The Bargain": [
-      {
-        "Name": "The Bargain",
-        "BaseType": "The Bargain",
-        "Aspects": [
-          "Handled",
-          "PreventHiding",
-          "TimelessResult"
         ]
       }
     ],
@@ -4744,30 +4594,6 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
-        }
-      ],
-      "The Emptiness": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 1,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t4"
         }
       ],
       "The Long Con": [
@@ -5074,44 +4900,6 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "t1"
-        }
-      ],
-      "The Cheater": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t1"
-        }
-      ],
-      "Desecrated Virtue": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2"
-          ],
           "FallbackTier": "t1"
         }
       ],

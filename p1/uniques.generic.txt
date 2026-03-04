@@ -1825,6 +1825,11 @@
           "Handled",
           "EarlyLeagueInterest"
         ]
+      },
+      {
+        "Name": "Obliteration",
+        "BaseType": "Omen Wand",
+        "Aspects": []
       }
     ],
     "Serpentine Staff": [
@@ -1921,6 +1926,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Ashcaller",
+        "BaseType": "Goat's Horn",
+        "Aspects": []
       }
     ],
     "Timeworn Claw": [
@@ -3098,32 +3108,6 @@
         ]
       }
     ],
-    "Callous Mask Piece": [
-      {
-        "Name": "Second Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "First Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      }
-    ],
     "Goathide Boots": [
       {
         "Name": "Abberath's Hooves",
@@ -3528,40 +3512,6 @@
         ]
       }
     ],
-    "Archon Kite Shield Piece": [
-      {
-        "Name": "First Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Fourth Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      }
-    ],
     "Vaal Regalia": [
       {
         "Name": "The Queen's Hunger",
@@ -3937,32 +3887,6 @@
         "BaseType": "Royal Burgonet",
         "Aspects": [
           "NonWorldDrop",
-          "Handled"
-        ]
-      }
-    ],
-    "Blunt Arrow Quiver Piece": [
-      {
-        "Name": "First Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
           "Handled"
         ]
       }
@@ -6961,24 +6885,6 @@
         ]
       }
     ],
-    "Cloth Belt Piece": [
-      {
-        "Name": "First Piece of Time",
-        "BaseType": "Cloth Belt Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Time",
-        "BaseType": "Cloth Belt Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      }
-    ],
     "Citrine Amulet": [
       {
         "Name": "Eye of Innocence",
@@ -7663,54 +7569,6 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
-        ]
-      }
-    ],
-    "Imperial Staff Piece": [
-      {
-        "Name": "First Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled",
-          "Anchor"
-        ]
-      },
-      {
-        "Name": "Second Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Legion Sword Piece": [
-      {
-        "Name": "Second Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "First Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled",
-          "Anchor"
-        ]
-      },
-      {
-        "Name": "Third Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -9325,38 +9183,6 @@
         ]
       }
     ],
-    "Vaal Aspect": [
-      {
-        "Name": "Curiosity",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Ambition",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled",
-          "Anchor",
-          "Exclude"
-        ]
-      },
-      {
-        "Name": "Cooperation",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Beauty",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Primordial Fragment": [
       {
         "Name": "Curio of Decay",
@@ -9579,47 +9405,6 @@
         ]
       }
     ],
-    "Carved Wand": [
-      {
-        "Name": "Ashcaller",
-        "BaseType": "Carved Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Engraved Wand": [
-      {
-        "Name": "Eclipse Solaris",
-        "BaseType": "Engraved Wand",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
-        ]
-      },
-      {
-        "Name": "Midnight Bargain",
-        "BaseType": "Engraved Wand",
-        "Aspects": []
-      }
-    ],
-    "Imbued Wand": [
-      {
-        "Name": "Piscator's Vigil",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Obliteration",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
     "Somatic Wand": [
       {
         "Name": "The Poet's Pen",
@@ -9655,6 +9440,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Piscator's Vigil",
+        "BaseType": "Kinetic Wand",
+        "Aspects": []
       }
     ],
     "Ironwood Tincture": [
@@ -9700,6 +9490,17 @@
         "BaseType": "Ashbark Tincture",
         "Aspects": [
           "Handled"
+        ]
+      }
+    ],
+    "Faun's Horn": [
+      {
+        "Name": "Eclipse Solaris",
+        "BaseType": "Faun's Horn",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest",
+          "PreventHiding"
         ]
       }
     ]
@@ -11724,18 +11525,6 @@
           "FallbackTier": "t2"
         }
       ],
-      "Engraved Wand": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        }
-      ],
       "Ashbark Tincture": [
         {
           "Settings": {
@@ -11794,6 +11583,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
+        }
+      ],
+      "Faun's Horn": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }

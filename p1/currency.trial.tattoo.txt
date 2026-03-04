@@ -483,5 +483,8 @@
         ]
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {}
   }
 }

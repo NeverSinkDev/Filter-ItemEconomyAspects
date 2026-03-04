@@ -28,35 +28,9 @@
         ]
       }
     ],
-    "Time-Lost Incubator": [
-      {
-        "Name": "Time-Lost Incubator",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
-        ]
-      },
-      {
-        "Name": "Time-Lost Incubator",
-        "BaseType": "Time-Lost Incubator",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
-        ]
-      }
-    ],
     "Thaumaturge's Incubator": [
       {
         "Name": "Thaumaturge's Incubator",
-        "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Obscured Incubator": [
-      {
-        "Name": "Obscured Incubator",
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest"
@@ -87,16 +61,6 @@
         "Aspects": [
           "Handled",
           "PoorDrop"
-        ]
-      }
-    ],
-    "Foreboding Incubator": [
-      {
-        "Name": "Foreboding Incubator",
-        "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest",
-          "PreventHiding"
         ]
       }
     ],
@@ -154,15 +118,6 @@
         ]
       }
     ],
-    "Enchanted Incubator": [
-      {
-        "Name": "Enchanted Incubator",
-        "Aspects": [
-          "Handled",
-          "PoorDrop"
-        ]
-      }
-    ],
     "Cartographer's Incubator": [
       {
         "Name": "Cartographer's Incubator",
@@ -215,15 +170,6 @@
         ]
       }
     ],
-    "Morphing Incubator": [
-      {
-        "Name": "Morphing Incubator",
-        "Aspects": [
-          "Handled",
-          "PoorDrop"
-        ]
-      }
-    ],
     "Maddening Incubator": [
       {
         "Name": "Maddening Incubator",
@@ -250,13 +196,6 @@
           "Handled",
           "PreventHiding"
         ]
-      }
-    ],
-    "Gemcutter's Incubator": [
-      {
-        "Name": "Gemcutter's Incubator",
-        "BaseType": "Gemcutter's Incubator",
-        "Aspects": []
       }
     ]
   },
