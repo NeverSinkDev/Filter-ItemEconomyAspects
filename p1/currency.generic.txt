@@ -2689,7 +2689,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t4chaos"
         },
         {
@@ -2705,6 +2707,19 @@
             "t8trans"
           ],
           "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Orb of Fusing": [
