@@ -564,8 +564,7 @@
         "Name": "The Porcupine",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "EarlyLeagueInterest"
+          "PreventHiding"
         ]
       }
     ],
@@ -4910,6 +4909,16 @@
             "t3"
           ],
           "FallbackTier": "t1"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "The Fiend": [
@@ -8129,6 +8138,18 @@
             "t1"
           ],
           "FallbackTier": null
+        }
+      ],
+      "The Encroaching Darkness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ]
     }
