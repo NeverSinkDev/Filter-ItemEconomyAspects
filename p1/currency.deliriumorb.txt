@@ -54,15 +54,6 @@
         ]
       }
     ],
-    "Obscured Delirium Orb": [
-      {
-        "Name": "Obscured Delirium Orb",
-        "BaseType": "Obscured Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Fossilised Delirium Orb": [
       {
         "Name": "Fossilised Delirium Orb",
@@ -90,37 +81,10 @@
         ]
       }
     ],
-    "Foreboding Delirium Orb": [
-      {
-        "Name": "Foreboding Delirium Orb",
-        "BaseType": "Foreboding Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Singular Delirium Orb": [
       {
         "Name": "Singular Delirium Orb",
         "BaseType": "Singular Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Amorphous Delirium Orb": [
-      {
-        "Name": "Amorphous Delirium Orb",
-        "BaseType": "Amorphous Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Imperial Delirium Orb": [
-      {
-        "Name": "Imperial Delirium Orb",
-        "BaseType": "Imperial Delirium Orb",
         "Aspects": [
           "Handled"
         ]

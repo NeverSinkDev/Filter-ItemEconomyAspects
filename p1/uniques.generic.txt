@@ -127,7 +127,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "PreventHiding",
+          "STRONK"
         ]
       },
       {
@@ -211,8 +212,7 @@
         "Name": "Hezmana's Bloodlust",
         "BaseType": "Vaal Axe",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -443,14 +443,6 @@
     ],
     "Legion Sword": [
       {
-        "Name": "The Rippling Thoughts",
-        "BaseType": "Legion Sword",
-        "Aspects": [
-          "NonDrop",
-          "Handled"
-        ]
-      },
-      {
         "Name": "Hyaon's Fury",
         "BaseType": "Legion Sword",
         "Aspects": [
@@ -471,9 +463,13 @@
         "Name": "The Surging Thoughts",
         "BaseType": "Legion Sword",
         "Aspects": [
-          "NonDrop",
           "Handled"
         ]
+      },
+      {
+        "Name": "The Rippling Thoughts",
+        "BaseType": "Legion Sword",
+        "Aspects": []
       }
     ],
     "Imperial Claw": [
@@ -537,8 +533,7 @@
           "Handled",
           "Uncommon",
           "EarlyLeagueInterest",
-          "PreventHiding",
-          "Buff"
+          "PreventHiding"
         ]
       },
       {
@@ -555,8 +550,7 @@
         "Name": "Dying Breath",
         "BaseType": "Iron Staff",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -736,20 +730,16 @@
         ]
       },
       {
-        "Name": "The Enmity Divine",
+        "Name": "The Yielding Mortality",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "NonDrop",
           "Handled"
         ]
       },
       {
-        "Name": "The Yielding Mortality",
+        "Name": "The Enmity Divine",
         "BaseType": "Imperial Staff",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
+        "Aspects": []
       }
     ],
     "Ornate Sword": [
@@ -839,8 +829,7 @@
         "Name": "Dreadarc",
         "BaseType": "Cleaver",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -1036,7 +1025,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "PreventHiding",
+          "Buff"
         ]
       },
       {
@@ -1318,7 +1308,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "PreventHiding",
+          "Buff"
         ]
       }
     ],
@@ -1347,7 +1338,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "PreventHiding",
+          "STRONK"
         ]
       }
     ],
@@ -1822,9 +1814,13 @@
         "Name": "Apep's Rage",
         "BaseType": "Omen Wand",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
+      },
+      {
+        "Name": "Obliteration",
+        "BaseType": "Omen Wand",
+        "Aspects": []
       }
     ],
     "Serpentine Staff": [
@@ -1881,18 +1877,10 @@
         ]
       },
       {
-        "Name": "Flesh-Eater",
-        "BaseType": "Dream Mace",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
         "Name": "The Monastery Bell",
         "BaseType": "Dream Mace",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -1921,6 +1909,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Ashcaller",
+        "BaseType": "Goat's Horn",
+        "Aspects": []
       }
     ],
     "Timeworn Claw": [
@@ -1928,8 +1921,7 @@
         "Name": "Al Dhih",
         "BaseType": "Timeworn Claw",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -2362,8 +2354,7 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "NonWorldDrop",
-          "MercUnique"
+          "NonWorldDrop"
         ]
       },
       {
@@ -2471,8 +2462,7 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "NonWorldDrop",
-          "MercUnique"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -2603,9 +2593,7 @@
         "Name": "Goldwyrm",
         "BaseType": "Nubuck Boots",
         "Aspects": [
-          "Handled",
-          "MercUnique",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -2626,8 +2614,7 @@
         "Name": "Null and Void",
         "BaseType": "Legion Gloves",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -2720,29 +2707,24 @@
     ],
     "Callous Mask": [
       {
-        "Name": "The Tempest's Binding",
-        "BaseType": "Callous Mask",
-        "Aspects": [
-          "NonDrop",
-          "Handled"
-        ]
-      },
-      {
         "Name": "Eye of Malice",
         "BaseType": "Callous Mask",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "EarlyLeagueInterest"
         ]
       },
       {
         "Name": "The Tempest's Liberation",
         "BaseType": "Callous Mask",
         "Aspects": [
-          "Handled",
-          "NonDrop"
+          "Handled"
         ]
+      },
+      {
+        "Name": "The Tempest's Binding",
+        "BaseType": "Callous Mask",
+        "Aspects": []
       }
     ],
     "Necromancer Circlet": [
@@ -2898,8 +2880,7 @@
         "BaseType": "Carnal Boots",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       },
       {
@@ -2926,16 +2907,14 @@
         "Name": "Eber's Unification",
         "BaseType": "Hubris Circlet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
         "Name": "Ylfeban's Trickery",
         "BaseType": "Hubris Circlet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -2955,14 +2934,6 @@
       }
     ],
     "Archon Kite Shield": [
-      {
-        "Name": "The Unshattered Will",
-        "BaseType": "Archon Kite Shield",
-        "Aspects": [
-          "NonDrop",
-          "Handled"
-        ]
-      },
       {
         "Name": "Prism Guardian",
         "BaseType": "Archon Kite Shield",
@@ -3000,9 +2971,13 @@
         "Name": "The Immortal Will",
         "BaseType": "Archon Kite Shield",
         "Aspects": [
-          "Handled",
-          "NonDrop"
+          "Handled"
         ]
+      },
+      {
+        "Name": "The Unshattered Will",
+        "BaseType": "Archon Kite Shield",
+        "Aspects": []
       }
     ],
     "Reinforced Greaves": [
@@ -3011,8 +2986,7 @@
         "BaseType": "Reinforced Greaves",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3054,8 +3028,7 @@
         "Name": "Algor Mortis",
         "BaseType": "Carnal Mitts",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -3095,32 +3068,6 @@
           "Handled",
           "VaalTarget",
           "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Callous Mask Piece": [
-      {
-        "Name": "Second Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "First Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Storms",
-        "BaseType": "Callous Mask Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
         ]
       }
     ],
@@ -3180,8 +3127,7 @@
         "BaseType": "Wyrmscale Doublet",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       }
     ],
@@ -3228,8 +3174,7 @@
         "BaseType": "Tarnished Spirit Shield",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       },
       {
@@ -3289,18 +3234,9 @@
     ],
     "Blunt Arrow Quiver": [
       {
-        "Name": "The Fracturing Spinner",
-        "BaseType": "Blunt Arrow Quiver",
-        "Aspects": [
-          "NonDrop",
-          "Handled"
-        ]
-      },
-      {
         "Name": "The Shattered Divinity",
         "BaseType": "Blunt Arrow Quiver",
         "Aspects": [
-          "NonDrop",
           "Handled"
         ]
       },
@@ -3310,6 +3246,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Fracturing Spinner",
+        "BaseType": "Blunt Arrow Quiver",
+        "Aspects": []
       }
     ],
     "Pinnacle Tower Shield": [
@@ -3468,8 +3409,7 @@
         "Name": "Ahuana's Bite",
         "BaseType": "Sharktooth Arrow Quiver",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -3524,40 +3464,6 @@
         "Name": "Inya's Epiphany",
         "BaseType": "Arcanist Slippers",
         "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Archon Kite Shield Piece": [
-      {
-        "Name": "First Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Fourth Piece of Focus",
-        "BaseType": "Archon Kite Shield Piece",
-        "Aspects": [
-          "Anchor",
           "Handled"
         ]
       }
@@ -3681,7 +3587,8 @@
         "BaseType": "Crusader Gloves",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Nerf"
         ]
       },
       {
@@ -3797,8 +3704,7 @@
         "BaseType": "Hydrascale Gauntlets",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
-          "MercUnique"
+          "NonWorldDrop"
         ]
       },
       {
@@ -3806,8 +3712,7 @@
         "BaseType": "Hydrascale Gauntlets",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       }
     ],
@@ -3836,7 +3741,8 @@
         "Name": "Daresso's Defiance",
         "BaseType": "Full Dragonscale",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -3937,32 +3843,6 @@
         "BaseType": "Royal Burgonet",
         "Aspects": [
           "NonWorldDrop",
-          "Handled"
-        ]
-      }
-    ],
-    "Blunt Arrow Quiver Piece": [
-      {
-        "Name": "First Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Directions",
-        "BaseType": "Blunt Arrow Quiver Piece",
-        "Aspects": [
-          "Anchor",
           "Handled"
         ]
       }
@@ -4184,8 +4064,7 @@
         "BaseType": "Festival Mask",
         "Aspects": [
           "Handled",
-          "NoValueEarly",
-          "MercUnique"
+          "NoValueEarly"
         ]
       }
     ],
@@ -4250,8 +4129,7 @@
         "Name": "Sentari's Answer",
         "BaseType": "Brass Spirit Shield",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -4350,8 +4228,7 @@
         "Name": "Oskarm",
         "BaseType": "Nubuck Gloves",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -4446,8 +4323,7 @@
         "Name": "Southbound",
         "BaseType": "Soldier Gloves",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -4480,8 +4356,7 @@
         "Name": "Facebreaker",
         "BaseType": "Strapped Mitts",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -4506,8 +4381,7 @@
         "Name": "Vixen's Entrapment",
         "BaseType": "Embroidered Gloves",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -4537,8 +4411,7 @@
         "BaseType": "Solaris Circlet",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       },
       {
@@ -4554,8 +4427,7 @@
         "BaseType": "Solaris Circlet",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       },
       {
@@ -4628,8 +4500,7 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -4647,8 +4518,7 @@
         "Name": "Cospri's Will",
         "BaseType": "Assassin's Garb",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -4690,8 +4560,7 @@
         "Name": "Darkray Vectors",
         "BaseType": "Dragonscale Boots",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -4746,8 +4615,7 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "EarlyLeagueInterest",
-          "STRONK"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -4840,8 +4708,7 @@
         "BaseType": "Enameled Buckler",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       }
     ],
@@ -4881,8 +4748,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -5103,8 +4969,7 @@
         "Name": "Victario's Charity",
         "BaseType": "Laminated Kite Shield",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -5113,8 +4978,7 @@
         "Name": "Wake of Destruction",
         "BaseType": "Mesh Boots",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -5186,8 +5050,7 @@
         "BaseType": "Sage's Robe",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "MercUnique"
+          "Uncommon"
         ]
       },
       {
@@ -5242,8 +5105,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "HighVariety",
-          "MercUnique"
+          "HighVariety"
         ]
       }
     ],
@@ -5313,8 +5175,7 @@
         "Name": "Honourhome",
         "BaseType": "Soldier Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -5575,8 +5436,7 @@
         "Name": "Pyroshock Clasp",
         "BaseType": "Leather Belt",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -5946,8 +5806,7 @@
         "BaseType": "Prismatic Ring",
         "Aspects": [
           "Handled",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -6203,8 +6062,7 @@
         "Name": "Shaper's Seed",
         "BaseType": "Agate Amulet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -6474,8 +6332,7 @@
         "Name": "Belt of the Deceiver",
         "BaseType": "Heavy Belt",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -6545,8 +6402,7 @@
         "Name": "Perquil's Toe",
         "BaseType": "Gold Amulet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -6638,7 +6494,8 @@
         "BaseType": "Moonstone Ring",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -6653,7 +6510,6 @@
         "BaseType": "Moonstone Ring",
         "Aspects": [
           "Handled",
-          "MercUnique",
           "Uncommon"
         ]
       },
@@ -6686,9 +6542,7 @@
         "Name": "Kaom's Sign",
         "BaseType": "Coral Ring",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -6727,14 +6581,6 @@
     ],
     "Cloth Belt": [
       {
-        "Name": "The Flow Untethered",
-        "BaseType": "Cloth Belt",
-        "Aspects": [
-          "NonDrop",
-          "Handled"
-        ]
-      },
-      {
         "Name": "Perandus Blazon",
         "BaseType": "Cloth Belt",
         "Aspects": [
@@ -6770,7 +6616,7 @@
         "BaseType": "Cloth Belt",
         "Aspects": [
           "Handled",
-          "NonDrop"
+          "HighVariety"
         ]
       },
       {
@@ -6832,6 +6678,11 @@
           "NonWorldDrop",
           "Handled"
         ]
+      },
+      {
+        "Name": "The Flow Untethered",
+        "BaseType": "Cloth Belt",
+        "Aspects": []
       }
     ],
     "Rustic Sash": [
@@ -6861,7 +6712,8 @@
         "Name": "Prismweave",
         "BaseType": "Rustic Sash",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -6942,8 +6794,7 @@
         "Name": "Gifts from Above",
         "BaseType": "Diamond Ring",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       },
       {
@@ -6957,24 +6808,6 @@
         "Name": "Grattus Signet",
         "BaseType": "Diamond Ring",
         "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Cloth Belt Piece": [
-      {
-        "Name": "First Piece of Time",
-        "BaseType": "Cloth Belt Piece",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Second Piece of Time",
-        "BaseType": "Cloth Belt Piece",
-        "Aspects": [
-          "Anchor",
           "Handled"
         ]
       }
@@ -7087,8 +6920,7 @@
         "BaseType": "Paua Ring",
         "Aspects": [
           "Handled",
-          "HighVariety",
-          "MercUnique"
+          "HighVariety"
         ]
       },
       {
@@ -7139,7 +6971,8 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Nerf"
         ]
       }
     ],
@@ -7265,7 +7098,9 @@
         "Name": "Warped Timepiece",
         "BaseType": "Turquoise Amulet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -7305,8 +7140,7 @@
         "BaseType": "Vanguard Belt",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "EarlyLeagueInterest"
+          "PreventHiding"
         ]
       },
       {
@@ -7321,7 +7155,8 @@
         "Name": "Binds of Bloody Vengeance",
         "BaseType": "Vanguard Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -7376,8 +7211,7 @@
         "Name": "Sign of the Sin Eater",
         "BaseType": "Tyrant's Sekhem",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -7458,8 +7292,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding",
-          "MercUnique"
+          "PreventHiding"
         ]
       }
     ],
@@ -7531,8 +7364,7 @@
         "Name": "Painseeker",
         "BaseType": "Shagreen Gloves",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -7543,7 +7375,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "EarlyLeagueInterest"
+          "PreventHiding"
         ]
       }
     ],
@@ -7666,54 +7498,6 @@
         ]
       }
     ],
-    "Imperial Staff Piece": [
-      {
-        "Name": "First Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled",
-          "Anchor"
-        ]
-      },
-      {
-        "Name": "Second Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Third Piece of Brutality",
-        "BaseType": "Imperial Staff Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Legion Sword Piece": [
-      {
-        "Name": "Second Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "First Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled",
-          "Anchor"
-        ]
-      },
-      {
-        "Name": "Third Piece of the Arcane",
-        "BaseType": "Legion Sword Piece",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Eelskin Gloves": [
       {
         "Name": "Great Old One's Tentacles",
@@ -7821,8 +7605,7 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop",
-          "HighVariety",
-          "MercUnique"
+          "HighVariety"
         ]
       }
     ],
@@ -8113,8 +7896,7 @@
         "Name": "Thrillsteel",
         "BaseType": "Barbute Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -8221,8 +8003,7 @@
         "Name": "Blood Price",
         "BaseType": "Reaver Helmet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -9282,8 +9063,7 @@
         "Name": "The Trickster's Smile",
         "BaseType": "Visored Sallet",
         "Aspects": [
-          "Handled",
-          "MercUnique"
+          "Handled"
         ]
       }
     ],
@@ -9320,38 +9100,6 @@
       {
         "Name": "Veruso's Ambition",
         "BaseType": "Shackled Boots",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Vaal Aspect": [
-      {
-        "Name": "Curiosity",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Ambition",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled",
-          "Anchor",
-          "Exclude"
-        ]
-      },
-      {
-        "Name": "Cooperation",
-        "BaseType": "Vaal Aspect",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Beauty",
-        "BaseType": "Vaal Aspect",
         "Aspects": [
           "Handled"
         ]
@@ -9579,47 +9327,6 @@
         ]
       }
     ],
-    "Carved Wand": [
-      {
-        "Name": "Ashcaller",
-        "BaseType": "Carved Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Engraved Wand": [
-      {
-        "Name": "Eclipse Solaris",
-        "BaseType": "Engraved Wand",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
-        ]
-      },
-      {
-        "Name": "Midnight Bargain",
-        "BaseType": "Engraved Wand",
-        "Aspects": []
-      }
-    ],
-    "Imbued Wand": [
-      {
-        "Name": "Piscator's Vigil",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Obliteration",
-        "BaseType": "Imbued Wand",
-        "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
     "Somatic Wand": [
       {
         "Name": "The Poet's Pen",
@@ -9655,6 +9362,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Piscator's Vigil",
+        "BaseType": "Kinetic Wand",
+        "Aspects": []
       }
     ],
     "Ironwood Tincture": [
@@ -9689,8 +9401,7 @@
         "Name": "Sap of the Seasons",
         "BaseType": "Prismatic Tincture",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -9700,6 +9411,16 @@
         "BaseType": "Ashbark Tincture",
         "Aspects": [
           "Handled"
+        ]
+      }
+    ],
+    "Faun's Horn": [
+      {
+        "Name": "Eclipse Solaris",
+        "BaseType": "Faun's Horn",
+        "Aspects": [
+          "Anchor",
+          "EarlyLeagueInterest"
         ]
       }
     ]
@@ -10065,7 +9786,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "earlyleague"
+          "FallbackTier": "t2"
         }
       ],
       "Karui Chopper": [
@@ -10279,7 +10000,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2"
+          ],
           "FallbackTier": "t1"
         }
       ],
@@ -10580,7 +10303,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Jingling Spirit Shield": [
@@ -10669,8 +10392,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Runic Crown": [
@@ -11184,8 +10909,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Gemstone Sword": [
@@ -11295,19 +11022,18 @@
           "FallbackTier": "t3"
         }
       ],
-      "Full Dragonscale": [
+      "Faun's Horn": [
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "t1",
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t3"
+          "FallbackTier": "t2"
         }
       ],
       "Iron Circlet": [
@@ -11453,7 +11179,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Murderous Eye Jewel": [
@@ -11724,18 +11450,6 @@
           "FallbackTier": "t2"
         }
       ],
-      "Engraved Wand": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        }
-      ],
       "Ashbark Tincture": [
         {
           "Settings": {
@@ -11785,6 +11499,96 @@
         }
       ],
       "Ironwood Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Strapped Mitts": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Nubuck Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Amethyst Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Meatgrinder": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Dream Mace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Sharktooth Arrow Quiver": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Baroque Round Shield": [
         {
           "Settings": {
             "IsEnabled": true,

@@ -525,6 +525,33 @@
         "Special": "12",
         "Aspects": []
       }
+    ],
+    "Medium Cluster Jewel:Chaos Damage over Time": [
+      {
+        "Name": "Chaos Damage over Time",
+        "BaseType": "Medium Cluster Jewel:Chaos Damage over Time",
+        "Special": "4",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Cold Damage over Time": [
+      {
+        "Name": "Cold Damage over Time",
+        "BaseType": "Medium Cluster Jewel:Cold Damage over Time",
+        "Special": "6",
+        "Aspects": []
+      }
+    ],
+    "Medium Cluster Jewel:Physical Damage over Time": [
+      {
+        "Name": "Physical Damage over Time",
+        "BaseType": "Medium Cluster Jewel:Physical Damage over Time",
+        "Special": "4",
+        "Aspects": []
+      }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {}
   }
 }

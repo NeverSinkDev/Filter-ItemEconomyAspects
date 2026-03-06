@@ -153,15 +153,6 @@
         ]
       }
     ],
-    "Runegraft of Recompense": [
-      {
-        "Name": "Runegraft of Recompense",
-        "BaseType": "Runegraft of Recompense",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Runegraft of the Sinistral": [
       {
         "Name": "Runegraft of the Sinistral",

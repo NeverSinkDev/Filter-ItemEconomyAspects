@@ -29,29 +29,7 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "DivineBottom",
-          "Anchor"
-        ]
-      }
-    ],
-    "Blessing of Chayula": [
-      {
-        "Name": "Blessing of Chayula",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Blessing of Chayula",
-        "BaseType": "Blessing of Chayula",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
+          "StackedCurrency"
         ]
       }
     ],
@@ -89,17 +67,6 @@
         ]
       }
     ],
-    "Harbinger's Orb": [
-      {
-        "Name": "Harbinger's Orb",
-        "Aspects": [
-          "Handled",
-          "ChaosBottom",
-          "Tierable",
-          "StackedCurrency"
-        ]
-      }
-    ],
     "Exalted Shard": [
       {
         "Name": "Exalted Shard",
@@ -111,27 +78,6 @@
         ]
       }
     ],
-    "Blessing of Uul-Netol": [
-      {
-        "Name": "Blessing of Uul-Netol",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Blessing of Uul-Netol",
-        "BaseType": "Blessing of Uul-Netol",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
     "Stacked Deck": [
       {
         "Name": "Stacked Deck",
@@ -140,69 +86,6 @@
           "Tierable",
           "AlchemyBottom",
           "StackedCurrency"
-        ]
-      }
-    ],
-    "Blessing of Esh": [
-      {
-        "Name": "Blessing of Esh",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Blessing of Esh",
-        "BaseType": "Blessing of Esh",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Blessing of Xoph": [
-      {
-        "Name": "Blessing of Xoph",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Blessing of Xoph",
-        "BaseType": "Blessing of Xoph",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Blessing of Tul": [
-      {
-        "Name": "Blessing of Tul",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Blessing of Tul",
-        "BaseType": "Blessing of Tul",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -268,30 +151,6 @@
         ]
       }
     ],
-    "Cartographer's Chisel": [
-      {
-        "Name": "Cartographer's Chisel",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "EarlyLeagueInterest",
-          "SilverBottom",
-          "StackedCurrency"
-        ]
-      }
-    ],
-    "Engineer's Orb": [
-      {
-        "Name": "Engineer's Orb",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "PoorDrop",
-          "EarlyLeagueInterest",
-          "StackedCurrency"
-        ]
-      }
-    ],
     "Orb of Fusing": [
       {
         "Name": "Orb of Fusing",
@@ -313,18 +172,6 @@
           "EarlyLeagueInterest",
           "StackedCurrency",
           "SilverBottom"
-        ]
-      }
-    ],
-    "Orb of Horizons": [
-      {
-        "Name": "Orb of Horizons",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "EarlyLeagueInterest",
-          "ChanceBottom",
-          "StackedCurrency"
         ]
       }
     ],
@@ -660,18 +507,6 @@
         ]
       }
     ],
-    "Awakened Sextant": [
-      {
-        "Name": "Awakened Sextant",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest",
-          "StackedCurrency"
-        ]
-      }
-    ],
     "Turbulent Catalyst": [
       {
         "Name": "Turbulent Catalyst",
@@ -737,30 +572,6 @@
         "Aspects": [
           "Handled",
           "Tierable"
-        ]
-      }
-    ],
-    "Prime Regrading Lens": [
-      {
-        "Name": "Prime Regrading Lens",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "EarlyLeagueInterest",
-          "DivineBottom",
-          "Anchor"
-        ]
-      }
-    ],
-    "Secondary Regrading Lens": [
-      {
-        "Name": "Secondary Regrading Lens",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "EarlyLeagueInterest",
-          "DivineBottom",
-          "Anchor"
         ]
       }
     ],
@@ -945,23 +756,6 @@
         ]
       }
     ],
-    "Infused Engineer's Orb": [
-      {
-        "Name": "Infused Engineer's Orb",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      },
-      {
-        "Name": "Infused Engineer's Orb",
-        "BaseType": "Infused Engineer's Orb",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
     "Tainted Chromatic Orb": [
       {
         "Name": "Tainted Chromatic Orb",
@@ -997,15 +791,6 @@
           "Handled",
           "Tierable",
           "AlchemyBottom"
-        ]
-      }
-    ],
-    "Tainted Blessing": [
-      {
-        "Name": "Tainted Blessing",
-        "Aspects": [
-          "Handled",
-          "Anchor"
         ]
       }
     ],
@@ -1086,45 +871,9 @@
         ]
       }
     ],
-    "Kalguuran Delirium Orb": [
-      {
-        "Name": "Kalguuran Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Kalguuran Delirium Orb",
-        "BaseType": "Kalguuran Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Ancient Shard": [
-      {
-        "Name": "Ancient Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable",
-          "SilverBottom"
-        ]
-      }
-    ],
     "Regal Shard": [
       {
         "Name": "Regal Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable"
-        ]
-      }
-    ],
-    "Harbinger's Shard": [
-      {
-        "Name": "Harbinger's Shard",
         "Aspects": [
           "Handled",
           "StackedCurrency",
@@ -1145,16 +894,6 @@
     "Alteration Shard": [
       {
         "Name": "Alteration Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable"
-        ]
-      }
-    ],
-    "Binding Shard": [
-      {
-        "Name": "Binding Shard",
         "Aspects": [
           "Handled",
           "StackedCurrency",
@@ -1188,14 +927,6 @@
         "Aspects": [
           "Handled",
           "Tierable"
-        ]
-      }
-    ],
-    "Charged Compass": [
-      {
-        "Name": "Charged Compass",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -1331,142 +1062,6 @@
         "BaseType": "Prime Sextant",
         "Aspects": [
           "Handled"
-        ]
-      }
-    ],
-    "Otherworldly Scouting Report": [
-      {
-        "Name": "Otherworldly Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Comprehensive Scouting Report": [
-      {
-        "Name": "Comprehensive Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest",
-          "NoValueEarly"
-        ]
-      }
-    ],
-    "Delirious Scouting Report": [
-      {
-        "Name": "Delirious Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Operative's Scouting Report": [
-      {
-        "Name": "Operative's Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      },
-      {
-        "Name": "Operative's Scouting Report",
-        "BaseType": "Operative's Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Blighted Scouting Report": [
-      {
-        "Name": "Blighted Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Influenced Scouting Report": [
-      {
-        "Name": "Influenced Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "ChaosBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Vaal Scouting Report": [
-      {
-        "Name": "Vaal Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "SilverBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Singular Scouting Report": [
-      {
-        "Name": "Singular Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom",
-          "EarlyLeagueInterest"
-        ]
-      }
-    ],
-    "Explorer's Scouting Report": [
-      {
-        "Name": "Explorer's Scouting Report",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "SilverBottom",
-          "EarlyLeagueInterest",
-          "PoorDrop"
-        ]
-      }
-    ],
-    "Silver Coin": [
-      {
-        "Name": "Silver Coin",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Silver Coin",
-        "BaseType": "Silver Coin",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Horizon Shard": [
-      {
-        "Name": "Horizon Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable"
         ]
       }
     ],
@@ -1643,18 +1238,6 @@
         "Aspects": []
       }
     ],
-    "Veiled Orb": [
-      {
-        "Name": "Veiled Orb",
-        "Aspects": [
-          "Handled",
-          "PreventHiding",
-          "EarlyLeagueInterest",
-          "Tierable",
-          "Anchor"
-        ]
-      }
-    ],
     "Blazing Fragment": [
       {
         "Name": "Blazing Fragment",
@@ -1695,12 +1278,6 @@
           "Tierable",
           "AlchemyBottom"
         ]
-      }
-    ],
-    "Oil Extractor": [
-      {
-        "Name": "Oil Extractor",
-        "Aspects": []
       }
     ],
     "Reflecting Mist": [
@@ -1824,39 +1401,6 @@
         ]
       }
     ],
-    "Augmentation Implant": [
-      {
-        "Name": "Augmentation Implant",
-        "BaseType": "Augmentation Implant",
-        "Aspects": [
-          "AlchemyBottom",
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
-    "Unstable Implant": [
-      {
-        "Name": "Unstable Implant",
-        "BaseType": "Unstable Implant",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom"
-        ]
-      }
-    ],
-    "Exalted Implant": [
-      {
-        "Name": "Exalted Implant",
-        "BaseType": "Exalted Implant",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "AlchemyBottom"
-        ]
-      }
-    ],
     "Foulborn Exalted Orb": [
       {
         "Name": "Foulborn Exalted Orb",
@@ -1890,17 +1434,6 @@
         ]
       }
     ],
-    "Regal Implant": [
-      {
-        "Name": "Regal Implant",
-        "BaseType": "Regal Implant",
-        "Aspects": [
-          "AlchemyBottom",
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
     "Chaos Orb": [
       {
         "Name": "Chaos Orb",
@@ -1912,13 +1445,6 @@
       {
         "Name": "Chaos Shard",
         "BaseType": "Chaos Shard",
-        "Aspects": []
-      }
-    ],
-    "Engineer's Shard": [
-      {
-        "Name": "Engineer's Shard",
-        "BaseType": "Engineer's Shard",
         "Aspects": []
       }
     ]
@@ -2030,33 +1556,6 @@
           "FallbackTier": "t2divine"
         }
       ],
-      "Blessing of Tul": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t1",
-            "t3annul"
-          ],
-          "FallbackTier": "t2divine"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2divine"
-        }
-      ],
       "Exceptional Eldritch Ichor": [
         {
           "Settings": {
@@ -2085,48 +1584,6 @@
           "FallbackTier": "t2divine"
         }
       ],
-      "Blessing of Uul-Netol": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t1",
-            "t3annul"
-          ],
-          "FallbackTier": "t2divine"
-        }
-      ],
-      "Blessing of Xoph": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3annul",
-            "t1"
-          ],
-          "FallbackTier": "t2divine"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2divine"
-        }
-      ],
       "Tempering Orb": [
         {
           "Settings": {
@@ -2136,32 +1593,6 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2divine"
-        }
-      ],
-      "Blessing of Esh": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3annul"
-          ],
-          "FallbackTier": "t2divine"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -2318,10 +1749,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Maven's Chisel of Scarabs": [
@@ -2345,10 +1774,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Prismatic Catalyst": [
@@ -2415,10 +1842,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Tainted Orb of Fusing": [
@@ -2522,20 +1947,6 @@
           "FallbackTier": "t3annul"
         }
       ],
-      "Comprehensive Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
-        }
-      ],
       "Ritual Vessel": [
         {
           "Settings": {
@@ -2601,7 +2012,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         }
       ],
       "Tainted Chaos Orb": [
@@ -2661,20 +2072,6 @@
           "FallbackTier": "t2divine"
         }
       ],
-      "Otherworldly Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3annul"
-          ],
-          "FallbackTier": "t2divine"
-        }
-      ],
       "Tempering Catalyst": [
         {
           "Settings": {
@@ -2704,34 +2101,6 @@
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
-        }
-      ],
-      "Singular Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
-        }
-      ],
-      "Influenced Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t3annul"
         }
       ],
       "Tainted Chromatic Orb": [
@@ -2785,34 +2154,7 @@
           "FallbackTier": "t3annul"
         }
       ],
-      "Blighted Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t4chaos"
-        }
-      ],
       "Unstable Catalyst": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t5alchemy",
-            "t3annul"
-          ],
-          "FallbackTier": "t4chaos"
-        }
-      ],
-      "Delirious Scouting Report": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -2865,21 +2207,6 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t4chaos"
-        }
-      ],
-      "Harbinger's Orb": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t5alchemy",
-            "t3annul"
-          ],
           "FallbackTier": "t4chaos"
         }
       ],
@@ -2958,45 +2285,6 @@
           "FallbackTier": "t5alchemy"
         }
       ],
-      "Vaal Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3annul",
-            "t2divine"
-          ],
-          "FallbackTier": "t4chaos"
-        }
-      ],
-      "Operative's Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t4chaos"
-        }
-      ],
-      "Explorer's Scouting Report": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t4chaos"
-        }
-      ],
       "Abrasive Catalyst": [
         {
           "Settings": {
@@ -3055,84 +2343,6 @@
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
-        }
-      ],
-      "Cartographer's Chisel": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t6chrom",
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t5alchemy"
-          ],
-          "FallbackTier": "t6chrom"
-        }
-      ],
-      "Engineer's Orb": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t6chrom"
-          ],
-          "FallbackTier": "t5alchemy"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t6chrom",
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t6chrom"
-          ],
-          "FallbackTier": "t5alchemy"
         }
       ],
       "Tainted Blacksmith's Whetstone": [
@@ -3330,9 +2540,23 @@
             "t4chaos",
             "t6chrom",
             "t7chance",
-            "t8trans"
+            "t8trans",
+            "t3annul"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Orb of Regret": [
@@ -3386,34 +2610,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos"
+            "t3annul"
           ],
-          "FallbackTier": "t5alchemy"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t5alchemy",
-            "t7chance",
-            "t8trans"
-          ],
-          "FallbackTier": "t6chrom"
-        }
-      ],
-      "Orb of Horizons": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
           "FallbackTier": "t4chaos"
         },
         {
@@ -3426,7 +2624,8 @@
           "Tiers": [
             "t5alchemy",
             "t7chance",
-            "t8trans"
+            "t8trans",
+            "t4chaos"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -3439,10 +2638,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -3467,10 +2664,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [],
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -3494,7 +2689,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t4chaos"
         },
         {
@@ -3510,6 +2707,19 @@
             "t8trans"
           ],
           "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5alchemy",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Orb of Fusing": [
@@ -3711,21 +2921,6 @@
           "FallbackTier": "t4chaos"
         }
       ],
-      "Ancient Shard": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t4chaos",
-            "t6chrom"
-          ],
-          "FallbackTier": "t5alchemy"
-        }
-      ],
       "Annulment Shard": [
         {
           "Settings": {
@@ -3739,21 +2934,6 @@
             "t6chrom"
           ],
           "FallbackTier": "t5alchemy"
-        }
-      ],
-      "Harbinger's Shard": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t5alchemy",
-            "t7chance"
-          ],
-          "FallbackTier": "t6chrom"
         }
       ],
       "Exalted Shard": [
@@ -4108,56 +3288,6 @@
           "FallbackTier": "t1"
         }
       ],
-      "Unstable Implant": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t3annul"
-        }
-      ],
-      "Exalted Implant": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3annul"
-          ],
-          "FallbackTier": "t4chaos"
-        }
-      ],
-      "Regal Implant": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t5alchemy"
-        }
-      ],
-      "Augmentation Implant": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t5alchemy"
-        }
-      ],
       "Foulborn Exalted Orb": [
         {
           "Settings": {
@@ -4206,6 +3336,31 @@
           },
           "Tiers": [],
           "FallbackTier": "t2divine"
+        }
+      ],
+      "Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3annul",
+            "t2divine"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ]
     }

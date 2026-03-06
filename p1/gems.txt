@@ -702,20 +702,12 @@
         ]
       }
     ],
-    "Poison Support": [
+    "Conflagration": [
       {
-        "Name": "Poison Support",
-        "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Poison Support",
-        "BaseType": "Poison Support",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Conflagration",
+        "BaseType": "Conflagration",
+        "Special": "21c",
+        "Aspects": []
       }
     ],
     "Split Arrow": [
@@ -1861,10 +1853,10 @@
         ]
       }
     ],
-    "Lesser Multiple Projectiles Support": [
+    "Holy Sweep": [
       {
-        "Name": "Lesser Multiple Projectiles Support",
-        "Special": "20/23c",
+        "Name": "Holy Sweep",
+        "Special": "21/20c",
         "Aspects": [
           "Handled"
         ]
@@ -1928,15 +1920,6 @@
       {
         "Name": "Bane",
         "Special": "20/20c",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Ancestral Protector": [
-      {
-        "Name": "Ancestral Protector",
-        "Special": "21/20c",
         "Aspects": [
           "Handled"
         ]
@@ -2041,20 +2024,12 @@
         ]
       }
     ],
-    "Onslaught Support": [
+    "Windburst Support": [
       {
-        "Name": "Onslaught Support",
+        "Name": "Windburst Support",
+        "BaseType": "Windburst Support",
         "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Onslaught Support",
-        "BaseType": "Onslaught Support",
-        "Aspects": [
-          "Handled"
-        ]
+        "Aspects": []
       }
     ],
     "Cold Penetration Support": [
@@ -2228,20 +2203,12 @@
         ]
       }
     ],
-    "Magma Orb": [
+    "Somatic Shell": [
       {
-        "Name": "Magma Orb",
-        "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Magma Orb",
-        "BaseType": "Magma Orb",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Somatic Shell",
+        "BaseType": "Somatic Shell",
+        "Special": "20/20c",
+        "Aspects": []
       }
     ],
     "Cluster Traps Support": [
@@ -2320,15 +2287,6 @@
       {
         "Name": "Stormbind",
         "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Increased Duration Support": [
-      {
-        "Name": "Increased Duration Support",
-        "Special": "21/23c",
         "Aspects": [
           "Handled"
         ]
@@ -2595,13 +2553,12 @@
         ]
       }
     ],
-    "Reckoning": [
+    "Living Lightning Support": [
       {
-        "Name": "Reckoning",
+        "Name": "Living Lightning Support",
+        "BaseType": "Living Lightning Support",
         "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
+        "Aspects": []
       }
     ],
     "Sigil of Power": [
@@ -2671,15 +2628,6 @@
       {
         "Name": "High-Impact Mine Support",
         "Special": "20/23c",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Ancestral Warchief": [
-      {
-        "Name": "Ancestral Warchief",
-        "Special": "20/20",
         "Aspects": [
           "Handled"
         ]
@@ -3016,13 +2964,12 @@
         ]
       }
     ],
-    "Vengeance": [
+    "Kinetic Instability Support": [
       {
-        "Name": "Vengeance",
-        "Special": "21/20c",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Kinetic Instability Support",
+        "BaseType": "Kinetic Instability Support",
+        "Special": "20c",
+        "Aspects": []
       }
     ],
     "Shockwave Support": [
@@ -3205,10 +3152,10 @@
         ]
       }
     ],
-    "Sweep": [
+    "Multiple Projectiles Support": [
       {
-        "Name": "Sweep",
-        "Special": "21/20c",
+        "Name": "Multiple Projectiles Support",
+        "Special": "20/23c",
         "Aspects": [
           "Handled"
         ]
@@ -3385,20 +3332,12 @@
         ]
       }
     ],
-    "Lesser Poison Support": [
+    "Thunderstorm": [
       {
-        "Name": "Lesser Poison Support",
-        "Special": "20/20",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Lesser Poison Support",
-        "BaseType": "Lesser Poison Support",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Thunderstorm",
+        "BaseType": "Thunderstorm",
+        "Special": "21/20c",
+        "Aspects": []
       }
     ],
     "Summon Lightning Golem": [
@@ -3734,13 +3673,12 @@
         ]
       }
     ],
-    "Riposte": [
+    "Focused Channelling Support": [
       {
-        "Name": "Riposte",
-        "Special": "20/20",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Focused Channelling Support",
+        "BaseType": "Focused Channelling Support",
+        "Special": "21/20c",
+        "Aspects": []
       }
     ],
     "Ancestral Cry": [
@@ -3761,13 +3699,12 @@
         ]
       }
     ],
-    "Vaal Ancestral Warchief": [
+    "Kinetic Rain": [
       {
-        "Name": "Vaal Ancestral Warchief",
+        "Name": "Kinetic Rain",
+        "BaseType": "Kinetic Rain",
         "Special": "20/20c",
-        "Aspects": [
-          "Handled"
-        ]
+        "Aspects": []
       }
     ],
     "Chain Hook": [
@@ -4173,15 +4110,6 @@
         ]
       }
     ],
-    "Earthbreaker Support": [
-      {
-        "Name": "Earthbreaker Support",
-        "Special": "1",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Corrupting Fever": [
       {
         "Name": "Corrupting Fever",
@@ -4338,15 +4266,6 @@
     "Soul Link": [
       {
         "Name": "Soul Link",
-        "Special": "1/20",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Divine Blessing Support": [
-      {
-        "Name": "Divine Blessing Support",
         "Special": "1/20",
         "Aspects": [
           "Handled"
@@ -4871,14 +4790,12 @@
         ]
       }
     ],
-    "Vaal Breach": [
+    "Kinetic Fusillade": [
       {
-        "Name": "Vaal Breach",
-        "BaseType": "Vaal Breach",
-        "Special": "1c",
-        "Aspects": [
-          "Handled"
-        ]
+        "Name": "Kinetic Fusillade",
+        "BaseType": "Kinetic Fusillade",
+        "Special": "21/20c",
+        "Aspects": []
       }
     ],
     "Lancing Steel of Spraying": [
@@ -6465,5 +6382,8 @@
         "Aspects": []
       }
     ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {}
   }
 }

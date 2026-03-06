@@ -106,14 +106,6 @@
         ]
       }
     ],
-    "Perfect Fossil": [
-      {
-        "Name": "Perfect Fossil",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Serrated Fossil": [
       {
         "Name": "Serrated Fossil",

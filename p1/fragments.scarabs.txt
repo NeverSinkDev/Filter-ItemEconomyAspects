@@ -125,10 +125,10 @@
         ]
       }
     ],
-    "Breach Scarab of Snares": [
+    "Breach Scarab of the Incensed Swarm": [
       {
-        "Name": "Breach Scarab of Snares",
-        "BaseType": "Breach Scarab of Snares",
+        "Name": "Breach Scarab of the Incensed Swarm",
+        "BaseType": "Breach Scarab of the Incensed Swarm",
         "Aspects": [
           "Handled"
         ]
@@ -197,10 +197,10 @@
         ]
       }
     ],
-    "Influencing Scarab of Conversion": [
+    "Breach Scarab of the Marshal": [
       {
-        "Name": "Influencing Scarab of Conversion",
-        "BaseType": "Influencing Scarab of Conversion",
+        "Name": "Breach Scarab of the Marshal",
+        "BaseType": "Breach Scarab of the Marshal",
         "Aspects": [
           "Handled"
         ]
@@ -224,19 +224,10 @@
         ]
       }
     ],
-    "Breach Scarab of Lordship": [
+    "Legion Scarab of Treasures": [
       {
-        "Name": "Breach Scarab of Lordship",
-        "BaseType": "Breach Scarab of Lordship",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Harbinger Scarab of Warhoards": [
-      {
-        "Name": "Harbinger Scarab of Warhoards",
-        "BaseType": "Harbinger Scarab of Warhoards",
+        "Name": "Legion Scarab of Treasures",
+        "BaseType": "Legion Scarab of Treasures",
         "Aspects": [
           "Handled"
         ]
@@ -314,15 +305,6 @@
         ]
       }
     ],
-    "Harbinger Scarab of Regency": [
-      {
-        "Name": "Harbinger Scarab of Regency",
-        "BaseType": "Harbinger Scarab of Regency",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Anarchy Scarab of Partnership": [
       {
         "Name": "Anarchy Scarab of Partnership",
@@ -350,15 +332,6 @@
         ]
       }
     ],
-    "Betrayal Scarab of Intelligence": [
-      {
-        "Name": "Betrayal Scarab of Intelligence",
-        "BaseType": "Betrayal Scarab of Intelligence",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Essence Scarab of Stability": [
       {
         "Name": "Essence Scarab of Stability",
@@ -368,10 +341,10 @@
         ]
       }
     ],
-    "Legion Scarab of Command": [
+    "Breach Scarab of Instability": [
       {
-        "Name": "Legion Scarab of Command",
-        "BaseType": "Legion Scarab of Command",
+        "Name": "Breach Scarab of Instability",
+        "BaseType": "Breach Scarab of Instability",
         "Aspects": [
           "Handled"
         ]
@@ -422,15 +395,6 @@
         ]
       }
     ],
-    "Scarab of Hunted Traitors": [
-      {
-        "Name": "Scarab of Hunted Traitors",
-        "BaseType": "Scarab of Hunted Traitors",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Influencing Scarab of Hordes": [
       {
         "Name": "Influencing Scarab of Hordes",
@@ -476,10 +440,10 @@
         ]
       }
     ],
-    "Breach Scarab of Splintering": [
+    "Influencing Scarab of Interference": [
       {
-        "Name": "Breach Scarab of Splintering",
-        "BaseType": "Breach Scarab of Splintering",
+        "Name": "Influencing Scarab of Interference",
+        "BaseType": "Influencing Scarab of Interference",
         "Aspects": [
           "Handled"
         ]
@@ -548,10 +512,10 @@
         ]
       }
     ],
-    "Breach Scarab": [
+    "Scarab of the Sinistral": [
       {
-        "Name": "Breach Scarab",
-        "BaseType": "Breach Scarab",
+        "Name": "Scarab of the Sinistral",
+        "BaseType": "Scarab of the Sinistral",
         "Aspects": [
           "Handled"
         ]
@@ -624,15 +588,6 @@
       {
         "Name": "Scarab of Adversaries",
         "BaseType": "Scarab of Adversaries",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Harbinger Scarab": [
-      {
-        "Name": "Harbinger Scarab",
-        "BaseType": "Harbinger Scarab",
         "Aspects": [
           "Handled"
         ]
@@ -908,15 +863,6 @@
         ]
       }
     ],
-    "Harbinger Scarab of Obelisks": [
-      {
-        "Name": "Harbinger Scarab of Obelisks",
-        "BaseType": "Harbinger Scarab of Obelisks",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Domination Scarab of Apparitions": [
       {
         "Name": "Domination Scarab of Apparitions",
@@ -944,10 +890,10 @@
         ]
       }
     ],
-    "Scarab of Bisection": [
+    "Breach Scarab of the Hive": [
       {
-        "Name": "Scarab of Bisection",
-        "BaseType": "Scarab of Bisection",
+        "Name": "Breach Scarab of the Hive",
+        "BaseType": "Breach Scarab of the Hive",
         "Aspects": [
           "Handled"
         ]
@@ -1197,33 +1143,7 @@
           "FallbackTier": "t3"
         }
       ],
-      "Harbinger Scarab of Regency": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
       "Blight Scarab of Blooming": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t3"
-        }
-      ],
-      "Harbinger Scarab of Warhoards": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1289,7 +1209,7 @@
           "FallbackTier": "t3"
         }
       ],
-      "Breach Scarab": [
+      "Scarab of the Sinistral": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1318,20 +1238,6 @@
         }
       ],
       "Divination Scarab of Plenty": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t4"
-        }
-      ],
-      "Betrayal Scarab of Intelligence": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1487,7 +1393,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Breach Scarab of Lordship": [
+      "Legion Scarab of Treasures": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1541,20 +1447,6 @@
             "t3"
           ],
           "FallbackTier": "t4"
-        }
-      ],
-      "Scarab of Hunted Traitors": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t4"
-          ],
-          "FallbackTier": "t3"
         }
       ],
       "Abyss Scarab of Edifice": [
@@ -1867,7 +1759,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Influencing Scarab of Conversion": [
+      "Breach Scarab of the Marshal": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1876,9 +1768,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t3"
           ],
-          "FallbackTier": "t3"
+          "FallbackTier": "t4"
         }
       ],
       "Cartography Scarab of Escalation": [
@@ -1982,20 +1874,6 @@
           "Tiers": [
             "t3",
             "t2"
-          ],
-          "FallbackTier": "t4"
-        }
-      ],
-      "Harbinger Scarab": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3"
           ],
           "FallbackTier": "t4"
         }
@@ -2132,7 +2010,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Breach Scarab of Snares": [
+      "Breach Scarab of the Incensed Swarm": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -2202,7 +2080,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Scarab of Bisection": [
+      "Breach Scarab of the Hive": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -2216,7 +2094,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Breach Scarab of Splintering": [
+      "Influencing Scarab of Interference": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -2225,23 +2103,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t2"
           ],
-          "FallbackTier": "t4"
-        }
-      ],
-      "Harbinger Scarab of Obelisks": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t4"
+          "FallbackTier": "t3"
         }
       ],
       "Bestiary Scarab": [
@@ -2342,7 +2206,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Legion Scarab of Command": [
+      "Breach Scarab of Instability": [
         {
           "Settings": {
             "IsEnabled": true,

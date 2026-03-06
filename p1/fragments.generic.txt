@@ -20,16 +20,6 @@
         ]
       }
     ],
-    "Chayula's Breachstone": [
-      {
-        "Name": "Chayula's Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "PreventHiding"
-        ]
-      }
-    ],
     "Fragment of Shape": [
       {
         "Name": "Fragment of Shape",
@@ -292,18 +282,6 @@
         ]
       }
     ],
-    "Tul's Breachstone": [
-      {
-        "Name": "Tul's Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "PreventHiding",
-          "EarlyLeagueInterest",
-          "Buff"
-        ]
-      }
-    ],
     "Timeless Eternal Emblem": [
       {
         "Name": "Timeless Eternal Emblem",
@@ -331,18 +309,6 @@
           "Handled",
           "Tierable",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Uul-Netol's Breachstone": [
-      {
-        "Name": "Uul-Netol's Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "PreventHiding",
-          "EarlyLeagueInterest",
-          "Buff"
         ]
       }
     ],
@@ -393,30 +359,6 @@
           "Handled",
           "Tierable",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Xoph's Breachstone": [
-      {
-        "Name": "Xoph's Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "EarlyLeagueInterest",
-          "PreventHiding",
-          "Buff"
-        ]
-      }
-    ],
-    "Esh's Breachstone": [
-      {
-        "Name": "Esh's Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "PreventHiding",
-          "EarlyLeagueInterest",
-          "Buff"
         ]
       }
     ],
@@ -715,51 +657,6 @@
         ]
       }
     ],
-    "Uul-Netol's Flawless Breachstone": [
-      {
-        "Name": "Uul-Netol's Flawless Breachstone",
-        "Aspects": [
-          "Tierable",
-          "Handled"
-        ]
-      }
-    ],
-    "Chayula's Flawless Breachstone": [
-      {
-        "Name": "Chayula's Flawless Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
-    "Xoph's Flawless Breachstone": [
-      {
-        "Name": "Xoph's Flawless Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
-    "Tul's Flawless Breachstone": [
-      {
-        "Name": "Tul's Flawless Breachstone",
-        "Aspects": [
-          "Handled",
-          "Tierable"
-        ]
-      }
-    ],
-    "Esh's Flawless Breachstone": [
-      {
-        "Name": "Esh's Flawless Breachstone",
-        "Aspects": [
-          "Tierable",
-          "Handled"
-        ]
-      }
-    ],
     "Baran's Crest": [
       {
         "Name": "Baran's Crest",
@@ -884,30 +781,6 @@
     "Voidborn Reliquary Key": [
       {
         "Name": "Voidborn Reliquary Key",
-        "Aspects": []
-      }
-    ],
-    "Einhar's Memory": [
-      {
-        "Name": "Einhar's Memory",
-        "Aspects": []
-      }
-    ],
-    "Niko's Memory": [
-      {
-        "Name": "Niko's Memory",
-        "Aspects": []
-      }
-    ],
-    "Alva's Memory": [
-      {
-        "Name": "Alva's Memory",
-        "Aspects": []
-      }
-    ],
-    "Kirac's Memory": [
-      {
-        "Name": "Kirac's Memory",
         "Aspects": []
       }
     ],
@@ -1051,6 +924,50 @@
         "Name": "Reverent Fragment",
         "BaseType": "Reverent Fragment",
         "Aspects": []
+      }
+    ],
+    "Screaming Invitation": [
+      {
+        "Name": "Screaming Invitation",
+        "BaseType": "Screaming Invitation",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Incandescent Invitation": [
+      {
+        "Name": "Incandescent Invitation",
+        "BaseType": "Incandescent Invitation",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Polaric Invitation": [
+      {
+        "Name": "Polaric Invitation",
+        "BaseType": "Polaric Invitation",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Writhing Invitation": [
+      {
+        "Name": "Writhing Invitation",
+        "BaseType": "Writhing Invitation",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
       }
     ]
   },
@@ -1450,6 +1367,58 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
+        }
+      ],
+      "Screaming Invitation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Incandescent Invitation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Polaric Invitation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Writhing Invitation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }
