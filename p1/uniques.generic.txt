@@ -212,8 +212,7 @@
         "Name": "Hezmana's Bloodlust",
         "BaseType": "Vaal Axe",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -1815,8 +1814,7 @@
         "Name": "Apep's Rage",
         "BaseType": "Omen Wand",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -2595,8 +2593,7 @@
         "Name": "Goldwyrm",
         "BaseType": "Nubuck Boots",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -2617,8 +2614,7 @@
         "Name": "Null and Void",
         "BaseType": "Legion Gloves",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -4360,8 +4356,7 @@
         "Name": "Facebreaker",
         "BaseType": "Strapped Mitts",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -4565,8 +4560,7 @@
         "Name": "Darkray Vectors",
         "BaseType": "Dragonscale Boots",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -5181,8 +5175,7 @@
         "Name": "Honourhome",
         "BaseType": "Soldier Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -6549,8 +6542,7 @@
         "Name": "Kaom's Sign",
         "BaseType": "Coral Ring",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -6720,7 +6712,8 @@
         "Name": "Prismweave",
         "BaseType": "Rustic Sash",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -7147,8 +7140,7 @@
         "BaseType": "Vanguard Belt",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "EarlyLeagueInterest"
+          "PreventHiding"
         ]
       },
       {
@@ -7163,7 +7155,8 @@
         "Name": "Binds of Bloody Vengeance",
         "BaseType": "Vanguard Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -7382,7 +7375,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "EarlyLeagueInterest"
+          "PreventHiding"
         ]
       }
     ],
@@ -7903,8 +7896,7 @@
         "Name": "Thrillsteel",
         "BaseType": "Barbute Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -9794,7 +9786,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "earlyleague"
+          "FallbackTier": "t2"
         }
       ],
       "Karui Chopper": [
@@ -10008,7 +10000,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2"
+          ],
           "FallbackTier": "t1"
         }
       ],
@@ -10309,7 +10303,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Jingling Spirit Shield": [
@@ -10398,8 +10392,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
         }
       ],
       "Runic Crown": [
@@ -10913,8 +10909,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Gemstone Sword": [
@@ -11181,7 +11179,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "Murderous Eye Jewel": [
@@ -11501,6 +11499,96 @@
         }
       ],
       "Ironwood Tincture": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Strapped Mitts": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Nubuck Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Amethyst Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Meatgrinder": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Dream Mace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Sharktooth Arrow Quiver": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "hideable"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Baroque Round Shield": [
         {
           "Settings": {
             "IsEnabled": true,

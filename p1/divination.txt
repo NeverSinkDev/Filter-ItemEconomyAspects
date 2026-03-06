@@ -4544,6 +4544,27 @@
           "TimelessResult"
         ]
       }
+    ],
+    "Desecrated Virtue": [
+      {
+        "Name": "Desecrated Virtue",
+        "BaseType": "Desecrated Virtue",
+        "Aspects": []
+      }
+    ],
+    "The Journey": [
+      {
+        "Name": "The Journey",
+        "BaseType": "The Journey",
+        "Aspects": []
+      }
+    ],
+    "The Messenger": [
+      {
+        "Name": "The Messenger",
+        "BaseType": "The Messenger",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
