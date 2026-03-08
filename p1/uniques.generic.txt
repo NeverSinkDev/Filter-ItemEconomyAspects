@@ -465,11 +465,6 @@
         "Aspects": [
           "Handled"
         ]
-      },
-      {
-        "Name": "The Rippling Thoughts",
-        "BaseType": "Legion Sword",
-        "Aspects": []
       }
     ],
     "Imperial Claw": [
@@ -735,11 +730,6 @@
         "Aspects": [
           "Handled"
         ]
-      },
-      {
-        "Name": "The Enmity Divine",
-        "BaseType": "Imperial Staff",
-        "Aspects": []
       }
     ],
     "Ornate Sword": [
@@ -1820,7 +1810,10 @@
       {
         "Name": "Obliteration",
         "BaseType": "Omen Wand",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
       }
     ],
     "Serpentine Staff": [
@@ -1913,7 +1906,9 @@
       {
         "Name": "Ashcaller",
         "BaseType": "Goat's Horn",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Timeworn Claw": [
@@ -2720,11 +2715,6 @@
         "Aspects": [
           "Handled"
         ]
-      },
-      {
-        "Name": "The Tempest's Binding",
-        "BaseType": "Callous Mask",
-        "Aspects": []
       }
     ],
     "Necromancer Circlet": [
@@ -2973,11 +2963,6 @@
         "Aspects": [
           "Handled"
         ]
-      },
-      {
-        "Name": "The Unshattered Will",
-        "BaseType": "Archon Kite Shield",
-        "Aspects": []
       }
     ],
     "Reinforced Greaves": [
@@ -3246,11 +3231,6 @@
         "Aspects": [
           "Handled"
         ]
-      },
-      {
-        "Name": "The Fracturing Spinner",
-        "BaseType": "Blunt Arrow Quiver",
-        "Aspects": []
       }
     ],
     "Pinnacle Tower Shield": [
@@ -6139,6 +6119,22 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Khatal's Weeping",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop
+        ]
+      },
+      {
+        "Name": "Khatal's Geyser",
+        "BaseType": "Lapis Amulet",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
       }
     ],
     "Unset Ring": [
@@ -6308,6 +6304,22 @@
         "BaseType": "Chain Belt",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "Saresh's Darkness",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "Solerai's Radiance",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
         ]
       }
     ],
@@ -6678,11 +6690,6 @@
           "NonWorldDrop",
           "Handled"
         ]
-      },
-      {
-        "Name": "The Flow Untethered",
-        "BaseType": "Cloth Belt",
-        "Aspects": []
       }
     ],
     "Rustic Sash": [
@@ -7957,6 +7964,14 @@
         "Aspects": [
           "Handled",
           "Uncommon",
+          "NonWorldDrop"
+        ]
+      },
+      {
+        "Name": "The Broken Elegy",
+        "BaseType": "Foul Staff",
+        "Aspects": [
+          "Handled",
           "NonWorldDrop"
         ]
       }
@@ -9366,7 +9381,9 @@
       {
         "Name": "Piscator's Vigil",
         "BaseType": "Kinetic Wand",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Ironwood Tincture": [
@@ -9420,7 +9437,62 @@
         "BaseType": "Faun's Horn",
         "Aspects": [
           "Anchor",
+          "Handled",
           "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Maraketh Bow": [
+      {
+        "Name": "The Bane of Hope",
+        "BaseType": "Maraketh Bow",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "The Flame of Hope",
+        "BaseType": "Maraketh Bow",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Exquisite Blade": [
+      {
+        "Name": "Fleshrender",
+        "BaseType": "Exquisite Blade",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "Skysunder",
+        "BaseType": "Exquisite Blade",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Coronal Maul": [
+      {
+        "Name": "The Desecrated Chalice",
+        "BaseType": "Coronal Maul",
+        "Aspects": [
+          "Handled",
+          "Uncommon"
+        ]
+      },
+      {
+        "Name": "The Sacred Chalice",
+        "BaseType": "Coronal Maul",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
         ]
       }
     ]
