@@ -5418,6 +5418,15 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Screams of the Desiccated",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
+        ]
       }
     ],
     "Paua Amulet": [
@@ -5948,6 +5957,13 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Bandit Lord's Band",
+        "BaseType": "Gold Ring",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Sapphire Ring": [
@@ -6125,7 +6141,7 @@
         "BaseType": "Lapis Amulet",
         "Aspects": [
           "Handled",
-          "NonWorldDrop
+          "NonWorldDrop"
         ]
       },
       {
@@ -7219,6 +7235,14 @@
         "BaseType": "Tyrant's Sekhem",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "The Sands of Time",
+        "BaseType": "Tyrant's Sekhem",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -8843,6 +8867,11 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Heroic Tragedy",
+        "BaseType": "Timeless Jewel",
+        "Aspects": []
       }
     ],
     "Medium Cluster Jewel": [
