@@ -4488,7 +4488,10 @@
       {
         "Name": "Last Stand",
         "BaseType": "Last Stand",
-        "Aspects": []
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
       }
     ],
     "One Last Score": [
@@ -4548,21 +4551,112 @@
       {
         "Name": "Desecrated Virtue",
         "BaseType": "Desecrated Virtue",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "HighVariety",
+          "PreventHiding"
+        ]
       }
     ],
     "The Journey": [
       {
         "Name": "The Journey",
         "BaseType": "The Journey",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "CurrencyType",
+          "PreventHiding",
+          "TimelessResult"
+        ]
       }
     ],
     "The Messenger": [
       {
         "Name": "The Messenger",
         "BaseType": "The Messenger",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "The Everlasting": [
+      {
+        "Name": "The Everlasting",
+        "BaseType": "The Everlasting",
+        "Aspects": [
+          "PreventHiding",
+          "TimelessResult",
+          "Handled"
+        ]
+      }
+    ],
+    "Reflection of the Heart": [
+      {
+        "Name": "Reflection of the Heart",
+        "BaseType": "Reflection of the Heart",
+        "Aspects": [
+          "Handled",
+          "TimelessResult",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Apocalypse": [
+      {
+        "Name": "Apocalypse",
+        "BaseType": "Apocalypse",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Silly Boy": [
+      {
+        "Name": "The Silly Boy",
+        "BaseType": "The Silly Boy",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "CurrencyType",
+          "HighVariety"
+        ]
+      }
+    ],
+    "The Eye of Terror": [
+      {
+        "Name": "The Eye of Terror",
+        "BaseType": "The Eye of Terror",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "TimelessResult"
+        ]
+      }
+    ],
+    "The Slumbering Beast": [
+      {
+        "Name": "The Slumbering Beast",
+        "BaseType": "The Slumbering Beast",
+        "Aspects": [
+          "Handled",
+          "Anchor",
+          "PreventHiding",
+          "CurrencyType"
+        ]
+      }
+    ],
+    "The Forbidden Fruit": [
+      {
+        "Name": "The Forbidden Fruit",
+        "BaseType": "The Forbidden Fruit",
+        "Aspects": [
+          "Handled",
+          "TimelessResult"
+        ]
       }
     ]
   },
@@ -5240,6 +5334,18 @@
           "Tiers": [
             "t1",
             "t3"
+          ],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -8150,6 +8256,139 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        }
+      ],
+      "The Pact": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Eye of Terror": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "The Slumbering Beast": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Reflection of the Heart": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Apocalypse": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Desecrated Virtue": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Forbidden Fruit": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "The Journey": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Everlasting": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Silly Boy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4c",
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ]
     }
