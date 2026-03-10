@@ -6381,6 +6381,480 @@
         "Special": "21/20c",
         "Aspects": []
       }
+    ],
+    "Greater Multistrike Support": [
+      {
+        "Name": "Greater Multistrike Support",
+        "BaseType": "Greater Multistrike Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Greater Spell Echo Support": [
+      {
+        "Name": "Greater Spell Echo Support",
+        "BaseType": "Greater Spell Echo Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Congregation Support": [
+      {
+        "Name": "Congregation Support",
+        "BaseType": "Congregation Support",
+        "Special": "4/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bloodsoaked Banner Support": [
+      {
+        "Name": "Bloodsoaked Banner Support",
+        "BaseType": "Bloodsoaked Banner Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Chain Support": [
+      {
+        "Name": "Greater Chain Support",
+        "BaseType": "Greater Chain Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unholy Trinity Support": [
+      {
+        "Name": "Unholy Trinity Support",
+        "BaseType": "Unholy Trinity Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cooldown Recovery Support": [
+      {
+        "Name": "Cooldown Recovery Support",
+        "BaseType": "Cooldown Recovery Support",
+        "Special": "4/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Invert the Rules Support": [
+      {
+        "Name": "Invert the Rules Support",
+        "BaseType": "Invert the Rules Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pyre Support": [
+      {
+        "Name": "Pyre Support",
+        "BaseType": "Pyre Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Fork Support": [
+      {
+        "Name": "Greater Fork Support",
+        "BaseType": "Greater Fork Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Ancestral Call Support": [
+      {
+        "Name": "Greater Ancestral Call Support",
+        "BaseType": "Greater Ancestral Call Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Greater Unleash Support": [
+      {
+        "Name": "Greater Unleash Support",
+        "BaseType": "Greater Unleash Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Greater Spell Cascade Support": [
+      {
+        "Name": "Greater Spell Cascade Support",
+        "BaseType": "Greater Spell Cascade Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frostmage Support": [
+      {
+        "Name": "Frostmage Support",
+        "BaseType": "Frostmage Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Vaal Sacrifice Support": [
+      {
+        "Name": "Vaal Sacrifice Support",
+        "BaseType": "Vaal Sacrifice Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Machinations Support": [
+      {
+        "Name": "Machinations Support",
+        "BaseType": "Machinations Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Temptation Support": [
+      {
+        "Name": "Vaal Temptation Support",
+        "BaseType": "Vaal Temptation Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Companionship Support": [
+      {
+        "Name": "Companionship Support",
+        "BaseType": "Companionship Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Devour Support": [
+      {
+        "Name": "Greater Devour Support",
+        "BaseType": "Greater Devour Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Annihilation Support": [
+      {
+        "Name": "Annihilation Support",
+        "BaseType": "Annihilation Support",
+        "Special": "3/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minion Pact Support": [
+      {
+        "Name": "Minion Pact Support",
+        "BaseType": "Minion Pact Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hextoad Support": [
+      {
+        "Name": "Hextoad Support",
+        "BaseType": "Hextoad Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hiveborn Support": [
+      {
+        "Name": "Hiveborn Support",
+        "BaseType": "Hiveborn Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gluttony Support": [
+      {
+        "Name": "Gluttony Support",
+        "BaseType": "Gluttony Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Invention Support": [
+      {
+        "Name": "Invention Support",
+        "BaseType": "Invention Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lethal Dose Support": [
+      {
+        "Name": "Lethal Dose Support",
+        "BaseType": "Lethal Dose Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scornful Herald Support": [
+      {
+        "Name": "Scornful Herald Support",
+        "BaseType": "Scornful Herald Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Kinetic Instability Support": [
+      {
+        "Name": "Greater Kinetic Instability Support",
+        "BaseType": "Greater Kinetic Instability Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cull the Weak Support": [
+      {
+        "Name": "Cull the Weak Support",
+        "BaseType": "Cull the Weak Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bonespire Support": [
+      {
+        "Name": "Bonespire Support",
+        "BaseType": "Bonespire Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Shockwave Support": [
+      {
+        "Name": "Void Shockwave Support",
+        "BaseType": "Void Shockwave Support",
+        "Special": "1/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast on Ward Break Support": [
+      {
+        "Name": "Cast on Ward Break Support",
+        "BaseType": "Cast on Ward Break Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Transfusion Support": [
+      {
+        "Name": "Transfusion Support",
+        "BaseType": "Transfusion Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eclipse Support": [
+      {
+        "Name": "Eclipse Support",
+        "BaseType": "Eclipse Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fissure Support": [
+      {
+        "Name": "Fissure Support",
+        "BaseType": "Fissure Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Foulgrasp Support": [
+      {
+        "Name": "Foulgrasp Support",
+        "BaseType": "Foulgrasp Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Sentinel Support": [
+      {
+        "Name": "Divine Sentinel Support",
+        "BaseType": "Divine Sentinel Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hexpass Support": [
+      {
+        "Name": "Hexpass Support",
+        "BaseType": "Hexpass Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pacifism Support": [
+      {
+        "Name": "Pacifism Support",
+        "BaseType": "Pacifism Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Voidstorm Support": [
+      {
+        "Name": "Voidstorm Support",
+        "BaseType": "Voidstorm Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Hammers": [
+      {
+        "Name": "Holy Hammers",
+        "BaseType": "Holy Hammers",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Holy Strike": [
+      {
+        "Name": "Holy Strike",
+        "BaseType": "Holy Strike",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Excommunicate Support": [
+      {
+        "Name": "Excommunicate Support",
+        "BaseType": "Excommunicate Support",
+        "Special": "20/23c",
+        "Aspects": []
+      }
+    ],
+    "Divine Blast": [
+      {
+        "Name": "Divine Blast",
+        "BaseType": "Divine Blast",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Exemplar Support": [
+      {
+        "Name": "Exemplar Support",
+        "BaseType": "Exemplar Support",
+        "Special": "20/23c",
+        "Aspects": []
+      }
+    ],
+    "Blessed Call Support": [
+      {
+        "Name": "Blessed Call Support",
+        "BaseType": "Blessed Call Support",
+        "Special": "20/20c",
+        "Aspects": []
+      }
+    ],
+    "Eldritch Blasphemy Support": [
+      {
+        "Name": "Eldritch Blasphemy Support",
+        "BaseType": "Eldritch Blasphemy Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Overloaded Intensity Support": [
+      {
+        "Name": "Overloaded Intensity Support",
+        "BaseType": "Overloaded Intensity Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hallow Support": [
+      {
+        "Name": "Hallow Support",
+        "BaseType": "Hallow Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Overheat Support": [
+      {
+        "Name": "Overheat Support",
+        "BaseType": "Overheat Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {

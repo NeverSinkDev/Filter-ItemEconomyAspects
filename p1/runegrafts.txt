@@ -188,6 +188,96 @@
           "Handled"
         ]
       }
+    ],
+    "Runegraft of Consecration": [
+      {
+        "Name": "Runegraft of Consecration",
+        "BaseType": "Runegraft of Consecration",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Rallying": [
+      {
+        "Name": "Runegraft of Rallying",
+        "BaseType": "Runegraft of Rallying",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Agile": [
+      {
+        "Name": "Runegraft of the Agile",
+        "BaseType": "Runegraft of the Agile",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Imbued": [
+      {
+        "Name": "Runegraft of the Imbued",
+        "BaseType": "Runegraft of the Imbued",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of the Spellbound": [
+      {
+        "Name": "Runegraft of the Spellbound",
+        "BaseType": "Runegraft of the Spellbound",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Connection": [
+      {
+        "Name": "Runegraft of Connection",
+        "BaseType": "Runegraft of Connection",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Fury": [
+      {
+        "Name": "Runegraft of Fury",
+        "BaseType": "Runegraft of Fury",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Resurgence": [
+      {
+        "Name": "Runegraft of Resurgence",
+        "BaseType": "Runegraft of Resurgence",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Rotblood": [
+      {
+        "Name": "Runegraft of Rotblood",
+        "BaseType": "Runegraft of Rotblood",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runegraft of Suffering": [
+      {
+        "Name": "Runegraft of Suffering",
+        "BaseType": "Runegraft of Suffering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -337,6 +427,130 @@
         }
       ],
       "Runegraft of Treachery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Consecration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Rallying": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of the Agile": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of the Imbued": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of the Spellbound": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Connection": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Fury": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Resurgence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Rotblood": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Runegraft of Suffering": [
         {
           "Settings": {
             "IsEnabled": true,

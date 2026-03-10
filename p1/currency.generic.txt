@@ -1452,28 +1452,44 @@
       {
         "Name": "Flesh of Xesht",
         "BaseType": "Flesh of Xesht",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Crystallised Rancour": [
       {
         "Name": "Crystallised Rancour",
         "BaseType": "Crystallised Rancour",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Refracting Fog": [
       {
         "Name": "Refracting Fog",
         "BaseType": "Refracting Fog",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Volatile Vaal Orb": [
       {
         "Name": "Volatile Vaal Orb",
         "BaseType": "Volatile Vaal Orb",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ]
   },
@@ -3407,6 +3423,88 @@
             "t2divine"
           ],
           "FallbackTier": "t4chaos"
+        }
+      ],
+      "Flesh of Xesht": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Crystallised Rancour": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t1",
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Refracting Fog": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4chaos",
+            "t2divine",
+            "t1"
+          ],
+          "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Volatile Vaal Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul"
+          ],
+          "FallbackTier": "t2divine"
         }
       ]
     }

@@ -1015,6 +1015,27 @@
           "Handled"
         ]
       }
+    ],
+    "Anarchy Scarab of the Exceptional": [
+      {
+        "Name": "Anarchy Scarab of the Exceptional",
+        "BaseType": "Anarchy Scarab of the Exceptional",
+        "Aspects": []
+      }
+    ],
+    "Kalguuran Scarab of Enriching": [
+      {
+        "Name": "Kalguuran Scarab of Enriching",
+        "BaseType": "Kalguuran Scarab of Enriching",
+        "Aspects": []
+      }
+    ],
+    "Ritual Scarab of Corpses": [
+      {
+        "Name": "Ritual Scarab of Corpses",
+        "BaseType": "Ritual Scarab of Corpses",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

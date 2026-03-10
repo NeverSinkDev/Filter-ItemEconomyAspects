@@ -197,6 +197,33 @@
           "PreventHiding"
         ]
       }
+    ],
+    "Sacred Incubator": [
+      {
+        "Name": "Sacred Incubator",
+        "BaseType": "Sacred Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Miraged Incubator": [
+      {
+        "Name": "Miraged Incubator",
+        "BaseType": "Miraged Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Honoured Incubator": [
+      {
+        "Name": "Honoured Incubator",
+        "BaseType": "Honoured Incubator",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -281,6 +308,42 @@
             "t3"
           ],
           "FallbackTier": "t4"
+        }
+      ],
+      "Sacred Incubator": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Miraged Incubator": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Honoured Incubator": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }

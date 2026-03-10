@@ -445,6 +445,412 @@
           "Tierable"
         ]
       }
+    ],
+    "Muttering Essence of Anger": [
+      {
+        "Name": "Muttering Essence of Anger",
+        "BaseType": "Muttering Essence of Anger",
+        "Aspects": []
+      }
+    ],
+    "Muttering Essence of Torment": [
+      {
+        "Name": "Muttering Essence of Torment",
+        "BaseType": "Muttering Essence of Torment",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Contempt": [
+      {
+        "Name": "Screaming Essence of Contempt",
+        "BaseType": "Screaming Essence of Contempt",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Dread": [
+      {
+        "Name": "Screaming Essence of Dread",
+        "BaseType": "Screaming Essence of Dread",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Envy": [
+      {
+        "Name": "Screaming Essence of Envy",
+        "BaseType": "Screaming Essence of Envy",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Hatred": [
+      {
+        "Name": "Screaming Essence of Hatred",
+        "BaseType": "Screaming Essence of Hatred",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Loathing": [
+      {
+        "Name": "Screaming Essence of Loathing",
+        "BaseType": "Screaming Essence of Loathing",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Anguish": [
+      {
+        "Name": "Shrieking Essence of Anguish",
+        "BaseType": "Shrieking Essence of Anguish",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Contempt": [
+      {
+        "Name": "Shrieking Essence of Contempt",
+        "BaseType": "Shrieking Essence of Contempt",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Doubt": [
+      {
+        "Name": "Shrieking Essence of Doubt",
+        "BaseType": "Shrieking Essence of Doubt",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Greed": [
+      {
+        "Name": "Shrieking Essence of Greed",
+        "BaseType": "Shrieking Essence of Greed",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Hatred": [
+      {
+        "Name": "Shrieking Essence of Hatred",
+        "BaseType": "Shrieking Essence of Hatred",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Loathing": [
+      {
+        "Name": "Shrieking Essence of Loathing",
+        "BaseType": "Shrieking Essence of Loathing",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Rage": [
+      {
+        "Name": "Shrieking Essence of Rage",
+        "BaseType": "Shrieking Essence of Rage",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Scorn": [
+      {
+        "Name": "Shrieking Essence of Scorn",
+        "BaseType": "Shrieking Essence of Scorn",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Wrath": [
+      {
+        "Name": "Shrieking Essence of Wrath",
+        "BaseType": "Shrieking Essence of Wrath",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Zeal": [
+      {
+        "Name": "Shrieking Essence of Zeal",
+        "BaseType": "Shrieking Essence of Zeal",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Anguish": [
+      {
+        "Name": "Wailing Essence of Anguish",
+        "BaseType": "Wailing Essence of Anguish",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Contempt": [
+      {
+        "Name": "Wailing Essence of Contempt",
+        "BaseType": "Wailing Essence of Contempt",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Doubt": [
+      {
+        "Name": "Wailing Essence of Doubt",
+        "BaseType": "Wailing Essence of Doubt",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Fear": [
+      {
+        "Name": "Wailing Essence of Fear",
+        "BaseType": "Wailing Essence of Fear",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Loathing": [
+      {
+        "Name": "Wailing Essence of Loathing",
+        "BaseType": "Wailing Essence of Loathing",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Sorrow": [
+      {
+        "Name": "Wailing Essence of Sorrow",
+        "BaseType": "Wailing Essence of Sorrow",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Spite": [
+      {
+        "Name": "Wailing Essence of Spite",
+        "BaseType": "Wailing Essence of Spite",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Suffering": [
+      {
+        "Name": "Wailing Essence of Suffering",
+        "BaseType": "Wailing Essence of Suffering",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Torment": [
+      {
+        "Name": "Wailing Essence of Torment",
+        "BaseType": "Wailing Essence of Torment",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Woe": [
+      {
+        "Name": "Wailing Essence of Woe",
+        "BaseType": "Wailing Essence of Woe",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Wrath": [
+      {
+        "Name": "Wailing Essence of Wrath",
+        "BaseType": "Wailing Essence of Wrath",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Anger": [
+      {
+        "Name": "Weeping Essence of Anger",
+        "BaseType": "Weeping Essence of Anger",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Contempt": [
+      {
+        "Name": "Weeping Essence of Contempt",
+        "BaseType": "Weeping Essence of Contempt",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Doubt": [
+      {
+        "Name": "Weeping Essence of Doubt",
+        "BaseType": "Weeping Essence of Doubt",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Fear": [
+      {
+        "Name": "Weeping Essence of Fear",
+        "BaseType": "Weeping Essence of Fear",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Hatred": [
+      {
+        "Name": "Weeping Essence of Hatred",
+        "BaseType": "Weeping Essence of Hatred",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Rage": [
+      {
+        "Name": "Weeping Essence of Rage",
+        "BaseType": "Weeping Essence of Rage",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Sorrow": [
+      {
+        "Name": "Weeping Essence of Sorrow",
+        "BaseType": "Weeping Essence of Sorrow",
+        "Aspects": []
+      }
+    ],
+    "Whispering Essence of Hatred": [
+      {
+        "Name": "Whispering Essence of Hatred",
+        "BaseType": "Whispering Essence of Hatred",
+        "Aspects": []
+      }
+    ],
+    "Whispering Essence of Woe": [
+      {
+        "Name": "Whispering Essence of Woe",
+        "BaseType": "Whispering Essence of Woe",
+        "Aspects": []
+      }
+    ],
+    "Muttering Essence of Fear": [
+      {
+        "Name": "Muttering Essence of Fear",
+        "BaseType": "Muttering Essence of Fear",
+        "Aspects": []
+      }
+    ],
+    "Muttering Essence of Sorrow": [
+      {
+        "Name": "Muttering Essence of Sorrow",
+        "BaseType": "Muttering Essence of Sorrow",
+        "Aspects": []
+      }
+    ],
+    "Muttering Essence of Woe": [
+      {
+        "Name": "Muttering Essence of Woe",
+        "BaseType": "Muttering Essence of Woe",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Doubt": [
+      {
+        "Name": "Screaming Essence of Doubt",
+        "BaseType": "Screaming Essence of Doubt",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Greed": [
+      {
+        "Name": "Screaming Essence of Greed",
+        "BaseType": "Screaming Essence of Greed",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Torment": [
+      {
+        "Name": "Screaming Essence of Torment",
+        "BaseType": "Screaming Essence of Torment",
+        "Aspects": []
+      }
+    ],
+    "Screaming Essence of Zeal": [
+      {
+        "Name": "Screaming Essence of Zeal",
+        "BaseType": "Screaming Essence of Zeal",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Dread": [
+      {
+        "Name": "Shrieking Essence of Dread",
+        "BaseType": "Shrieking Essence of Dread",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Misery": [
+      {
+        "Name": "Shrieking Essence of Misery",
+        "BaseType": "Shrieking Essence of Misery",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Sorrow": [
+      {
+        "Name": "Shrieking Essence of Sorrow",
+        "BaseType": "Shrieking Essence of Sorrow",
+        "Aspects": []
+      }
+    ],
+    "Shrieking Essence of Suffering": [
+      {
+        "Name": "Shrieking Essence of Suffering",
+        "BaseType": "Shrieking Essence of Suffering",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Anger": [
+      {
+        "Name": "Wailing Essence of Anger",
+        "BaseType": "Wailing Essence of Anger",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Hatred": [
+      {
+        "Name": "Wailing Essence of Hatred",
+        "BaseType": "Wailing Essence of Hatred",
+        "Aspects": []
+      }
+    ],
+    "Wailing Essence of Rage": [
+      {
+        "Name": "Wailing Essence of Rage",
+        "BaseType": "Wailing Essence of Rage",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Greed": [
+      {
+        "Name": "Weeping Essence of Greed",
+        "BaseType": "Weeping Essence of Greed",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Suffering": [
+      {
+        "Name": "Weeping Essence of Suffering",
+        "BaseType": "Weeping Essence of Suffering",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Torment": [
+      {
+        "Name": "Weeping Essence of Torment",
+        "BaseType": "Weeping Essence of Torment",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Woe": [
+      {
+        "Name": "Weeping Essence of Woe",
+        "BaseType": "Weeping Essence of Woe",
+        "Aspects": []
+      }
+    ],
+    "Weeping Essence of Wrath": [
+      {
+        "Name": "Weeping Essence of Wrath",
+        "BaseType": "Weeping Essence of Wrath",
+        "Aspects": []
+      }
+    ],
+    "Whispering Essence of Contempt": [
+      {
+        "Name": "Whispering Essence of Contempt",
+        "BaseType": "Whispering Essence of Contempt",
+        "Aspects": []
+      }
+    ],
+    "Whispering Essence of Greed": [
+      {
+        "Name": "Whispering Essence of Greed",
+        "BaseType": "Whispering Essence of Greed",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

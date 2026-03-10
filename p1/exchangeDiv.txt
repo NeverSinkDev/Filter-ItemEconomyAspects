@@ -769,6 +769,1917 @@
         "BaseType": "The Undaunted",
         "Aspects": []
       }
+    ],
+    "Abandoned Wealth": [
+      {
+        "Name": "Abandoned Wealth",
+        "BaseType": "Abandoned Wealth",
+        "Aspects": []
+      }
+    ],
+    "Alone in the Darkness": [
+      {
+        "Name": "Alone in the Darkness",
+        "BaseType": "Alone in the Darkness",
+        "Aspects": []
+      }
+    ],
+    "Arrogance of the Vaal": [
+      {
+        "Name": "Arrogance of the Vaal",
+        "BaseType": "Arrogance of the Vaal",
+        "Aspects": []
+      }
+    ],
+    "A Sea of Blue": [
+      {
+        "Name": "A Sea of Blue",
+        "BaseType": "A Sea of Blue",
+        "Aspects": []
+      }
+    ],
+    "Assassin's Favour": [
+      {
+        "Name": "Assassin's Favour",
+        "BaseType": "Assassin's Favour",
+        "Aspects": []
+      }
+    ],
+    "Atziri's Arsenal": [
+      {
+        "Name": "Atziri's Arsenal",
+        "BaseType": "Atziri's Arsenal",
+        "Aspects": []
+      }
+    ],
+    "Azure Rage": [
+      {
+        "Name": "Azure Rage",
+        "BaseType": "Azure Rage",
+        "Aspects": []
+      }
+    ],
+    "Baited Expectations": [
+      {
+        "Name": "Baited Expectations",
+        "BaseType": "Baited Expectations",
+        "Aspects": []
+      }
+    ],
+    "Bijoux": [
+      {
+        "Name": "Bijoux",
+        "BaseType": "Bijoux",
+        "Aspects": []
+      }
+    ],
+    "Bowyer's Dream": [
+      {
+        "Name": "Bowyer's Dream",
+        "BaseType": "Bowyer's Dream",
+        "Aspects": []
+      }
+    ],
+    "Broken Truce": [
+      {
+        "Name": "Broken Truce",
+        "BaseType": "Broken Truce",
+        "Aspects": []
+      }
+    ],
+    "Brush, Paint and Palette": [
+      {
+        "Name": "Brush, Paint and Palette",
+        "BaseType": "Brush, Paint and Palette",
+        "Aspects": []
+      }
+    ],
+    "A Dab of Ink": [
+      {
+        "Name": "A Dab of Ink",
+        "BaseType": "A Dab of Ink",
+        "Aspects": []
+      }
+    ],
+    "A Dusty Memory": [
+      {
+        "Name": "A Dusty Memory",
+        "BaseType": "A Dusty Memory",
+        "Aspects": []
+      }
+    ],
+    "A Familiar Call": [
+      {
+        "Name": "A Familiar Call",
+        "BaseType": "A Familiar Call",
+        "Aspects": []
+      }
+    ],
+    "Akil's Prophecy": [
+      {
+        "Name": "Akil's Prophecy",
+        "BaseType": "Akil's Prophecy",
+        "Aspects": []
+      }
+    ],
+    "Alluring Bounty": [
+      {
+        "Name": "Alluring Bounty",
+        "BaseType": "Alluring Bounty",
+        "Aspects": []
+      }
+    ],
+    "Altered Perception": [
+      {
+        "Name": "Altered Perception",
+        "BaseType": "Altered Perception",
+        "Aspects": []
+      }
+    ],
+    "A Mother's Parting Gift": [
+      {
+        "Name": "A Mother's Parting Gift",
+        "BaseType": "A Mother's Parting Gift",
+        "Aspects": []
+      }
+    ],
+    "Apocalypse": [
+      {
+        "Name": "Apocalypse",
+        "BaseType": "Apocalypse",
+        "Aspects": []
+      }
+    ],
+    "Assassin's Gift": [
+      {
+        "Name": "Assassin's Gift",
+        "BaseType": "Assassin's Gift",
+        "Aspects": []
+      }
+    ],
+    "Astral Protection": [
+      {
+        "Name": "Astral Protection",
+        "BaseType": "Astral Protection",
+        "Aspects": []
+      }
+    ],
+    "Audacity": [
+      {
+        "Name": "Audacity",
+        "BaseType": "Audacity",
+        "Aspects": []
+      }
+    ],
+    "Azyran's Reward": [
+      {
+        "Name": "Azyran's Reward",
+        "BaseType": "Azyran's Reward",
+        "Aspects": []
+      }
+    ],
+    "Beauty Through Death": [
+      {
+        "Name": "Beauty Through Death",
+        "BaseType": "Beauty Through Death",
+        "Aspects": []
+      }
+    ],
+    "Blind Venture": [
+      {
+        "Name": "Blind Venture",
+        "BaseType": "Blind Venture",
+        "Aspects": []
+      }
+    ],
+    "Boon of the First Ones": [
+      {
+        "Name": "Boon of the First Ones",
+        "BaseType": "Boon of the First Ones",
+        "Aspects": []
+      }
+    ],
+    "Bound by Flame": [
+      {
+        "Name": "Bound by Flame",
+        "BaseType": "Bound by Flame",
+        "Aspects": []
+      }
+    ],
+    "Brotherhood in Exile": [
+      {
+        "Name": "Brotherhood in Exile",
+        "BaseType": "Brotherhood in Exile",
+        "Aspects": []
+      }
+    ],
+    "Brother's Gift": [
+      {
+        "Name": "Brother's Gift",
+        "BaseType": "Brother's Gift",
+        "Aspects": []
+      }
+    ],
+    "Chasing Risk": [
+      {
+        "Name": "Chasing Risk",
+        "BaseType": "Chasing Risk",
+        "Aspects": []
+      }
+    ],
+    "Checkmate": [
+      {
+        "Name": "Checkmate",
+        "BaseType": "Checkmate",
+        "Aspects": []
+      }
+    ],
+    "Council of Cats": [
+      {
+        "Name": "Council of Cats",
+        "BaseType": "Council of Cats",
+        "Aspects": []
+      }
+    ],
+    "Dark Temptation": [
+      {
+        "Name": "Dark Temptation",
+        "BaseType": "Dark Temptation",
+        "Aspects": []
+      }
+    ],
+    "Deadly Joy": [
+      {
+        "Name": "Deadly Joy",
+        "BaseType": "Deadly Joy",
+        "Aspects": []
+      }
+    ],
+    "Death": [
+      {
+        "Name": "Death",
+        "BaseType": "Death",
+        "Aspects": []
+      }
+    ],
+    "Desecrated Virtue": [
+      {
+        "Name": "Desecrated Virtue",
+        "BaseType": "Desecrated Virtue",
+        "Aspects": []
+      }
+    ],
+    "Destined to Crumble": [
+      {
+        "Name": "Destined to Crumble",
+        "BaseType": "Destined to Crumble",
+        "Aspects": []
+      }
+    ],
+    "Divine Justice": [
+      {
+        "Name": "Divine Justice",
+        "BaseType": "Divine Justice",
+        "Aspects": []
+      }
+    ],
+    "Duality": [
+      {
+        "Name": "Duality",
+        "BaseType": "Duality",
+        "Aspects": []
+      }
+    ],
+    "Dying Anguish": [
+      {
+        "Name": "Dying Anguish",
+        "BaseType": "Dying Anguish",
+        "Aspects": []
+      }
+    ],
+    "Eldritch Perfection": [
+      {
+        "Name": "Eldritch Perfection",
+        "BaseType": "Eldritch Perfection",
+        "Aspects": []
+      }
+    ],
+    "Etched in Blood": [
+      {
+        "Name": "Etched in Blood",
+        "BaseType": "Etched in Blood",
+        "Aspects": []
+      }
+    ],
+    "Fateful Meeting": [
+      {
+        "Name": "Fateful Meeting",
+        "BaseType": "Fateful Meeting",
+        "Aspects": []
+      }
+    ],
+    "Gift of Asenath": [
+      {
+        "Name": "Gift of Asenath",
+        "BaseType": "Gift of Asenath",
+        "Aspects": []
+      }
+    ],
+    "Glimmer of Hope": [
+      {
+        "Name": "Glimmer of Hope",
+        "BaseType": "Glimmer of Hope",
+        "Aspects": []
+      }
+    ],
+    "Grave Knowledge": [
+      {
+        "Name": "Grave Knowledge",
+        "BaseType": "Grave Knowledge",
+        "Aspects": []
+      }
+    ],
+    "Her Mask": [
+      {
+        "Name": "Her Mask",
+        "BaseType": "Her Mask",
+        "Aspects": []
+      }
+    ],
+    "Jack in the Box": [
+      {
+        "Name": "Jack in the Box",
+        "BaseType": "Jack in the Box",
+        "Aspects": []
+      }
+    ],
+    "Justified Ambition": [
+      {
+        "Name": "Justified Ambition",
+        "BaseType": "Justified Ambition",
+        "Aspects": []
+      }
+    ],
+    "Left to Fate": [
+      {
+        "Name": "Left to Fate",
+        "BaseType": "Left to Fate",
+        "Aspects": []
+      }
+    ],
+    "Lethean Temptation": [
+      {
+        "Name": "Lethean Temptation",
+        "BaseType": "Lethean Temptation",
+        "Aspects": []
+      }
+    ],
+    "Lingering Remnants": [
+      {
+        "Name": "Lingering Remnants",
+        "BaseType": "Lingering Remnants",
+        "Aspects": []
+      }
+    ],
+    "Love Through Ice": [
+      {
+        "Name": "Love Through Ice",
+        "BaseType": "Love Through Ice",
+        "Aspects": []
+      }
+    ],
+    "Loyalty": [
+      {
+        "Name": "Loyalty",
+        "BaseType": "Loyalty",
+        "Aspects": []
+      }
+    ],
+    "Lysah's Respite": [
+      {
+        "Name": "Lysah's Respite",
+        "BaseType": "Lysah's Respite",
+        "Aspects": []
+      }
+    ],
+    "Merciless Armament": [
+      {
+        "Name": "Merciless Armament",
+        "BaseType": "Merciless Armament",
+        "Aspects": []
+      }
+    ],
+    "Mitts": [
+      {
+        "Name": "Mitts",
+        "BaseType": "Mitts",
+        "Aspects": []
+      }
+    ],
+    "Nook's Crown": [
+      {
+        "Name": "Nook's Crown",
+        "BaseType": "Nook's Crown",
+        "Aspects": []
+      }
+    ],
+    "No Traces": [
+      {
+        "Name": "No Traces",
+        "BaseType": "No Traces",
+        "Aspects": []
+      }
+    ],
+    "Parasitic Passengers": [
+      {
+        "Name": "Parasitic Passengers",
+        "BaseType": "Parasitic Passengers",
+        "Aspects": []
+      }
+    ],
+    "Poisoned Faith": [
+      {
+        "Name": "Poisoned Faith",
+        "BaseType": "Poisoned Faith",
+        "Aspects": []
+      }
+    ],
+    "Reckless Ambition": [
+      {
+        "Name": "Reckless Ambition",
+        "BaseType": "Reckless Ambition",
+        "Aspects": []
+      }
+    ],
+    "Runic Luck": [
+      {
+        "Name": "Runic Luck",
+        "BaseType": "Runic Luck",
+        "Aspects": []
+      }
+    ],
+    "Sambodhi's Wisdom": [
+      {
+        "Name": "Sambodhi's Wisdom",
+        "BaseType": "Sambodhi's Wisdom",
+        "Aspects": []
+      }
+    ],
+    "Society's Remorse": [
+      {
+        "Name": "Society's Remorse",
+        "BaseType": "Society's Remorse",
+        "Aspects": []
+      }
+    ],
+    "Temperance": [
+      {
+        "Name": "Temperance",
+        "BaseType": "Temperance",
+        "Aspects": []
+      }
+    ],
+    "Terrible Secret of Space": [
+      {
+        "Name": "Terrible Secret of Space",
+        "BaseType": "Terrible Secret of Space",
+        "Aspects": []
+      }
+    ],
+    "The Academic": [
+      {
+        "Name": "The Academic",
+        "BaseType": "The Academic",
+        "Aspects": []
+      }
+    ],
+    "The Adventuring Spirit": [
+      {
+        "Name": "The Adventuring Spirit",
+        "BaseType": "The Adventuring Spirit",
+        "Aspects": []
+      }
+    ],
+    "The Aspirant": [
+      {
+        "Name": "The Aspirant",
+        "BaseType": "The Aspirant",
+        "Aspects": []
+      }
+    ],
+    "The Astromancer": [
+      {
+        "Name": "The Astromancer",
+        "BaseType": "The Astromancer",
+        "Aspects": []
+      }
+    ],
+    "The Avenger": [
+      {
+        "Name": "The Avenger",
+        "BaseType": "The Avenger",
+        "Aspects": []
+      }
+    ],
+    "The Bear Woman": [
+      {
+        "Name": "The Bear Woman",
+        "BaseType": "The Bear Woman",
+        "Aspects": []
+      }
+    ],
+    "The Betrayal": [
+      {
+        "Name": "The Betrayal",
+        "BaseType": "The Betrayal",
+        "Aspects": []
+      }
+    ],
+    "The Bones": [
+      {
+        "Name": "The Bones",
+        "BaseType": "The Bones",
+        "Aspects": []
+      }
+    ],
+    "The Cacophony": [
+      {
+        "Name": "The Cacophony",
+        "BaseType": "The Cacophony",
+        "Aspects": []
+      }
+    ],
+    "The Catch": [
+      {
+        "Name": "The Catch",
+        "BaseType": "The Catch",
+        "Aspects": []
+      }
+    ],
+    "The Chains that Bind": [
+      {
+        "Name": "The Chains that Bind",
+        "BaseType": "The Chains that Bind",
+        "Aspects": []
+      }
+    ],
+    "The Chosen": [
+      {
+        "Name": "The Chosen",
+        "BaseType": "The Chosen",
+        "Aspects": []
+      }
+    ],
+    "The Cursed King": [
+      {
+        "Name": "The Cursed King",
+        "BaseType": "The Cursed King",
+        "Aspects": []
+      }
+    ],
+    "The Dapper Prodigy": [
+      {
+        "Name": "The Dapper Prodigy",
+        "BaseType": "The Dapper Prodigy",
+        "Aspects": []
+      }
+    ],
+    "The Deceiver": [
+      {
+        "Name": "The Deceiver",
+        "BaseType": "The Deceiver",
+        "Aspects": []
+      }
+    ],
+    "The Drunken Aristocrat": [
+      {
+        "Name": "The Drunken Aristocrat",
+        "BaseType": "The Drunken Aristocrat",
+        "Aspects": []
+      }
+    ],
+    "The Eldritch Decay": [
+      {
+        "Name": "The Eldritch Decay",
+        "BaseType": "The Eldritch Decay",
+        "Aspects": []
+      }
+    ],
+    "The Endless Darkness": [
+      {
+        "Name": "The Endless Darkness",
+        "BaseType": "The Endless Darkness",
+        "Aspects": []
+      }
+    ],
+    "The Enforcer": [
+      {
+        "Name": "The Enforcer",
+        "BaseType": "The Enforcer",
+        "Aspects": []
+      }
+    ],
+    "The Ethereal": [
+      {
+        "Name": "The Ethereal",
+        "BaseType": "The Ethereal",
+        "Aspects": []
+      }
+    ],
+    "The Eye of the Dragon": [
+      {
+        "Name": "The Eye of the Dragon",
+        "BaseType": "The Eye of the Dragon",
+        "Aspects": []
+      }
+    ],
+    "The Feast": [
+      {
+        "Name": "The Feast",
+        "BaseType": "The Feast",
+        "Aspects": []
+      }
+    ],
+    "The Fiend": [
+      {
+        "Name": "The Fiend",
+        "BaseType": "The Fiend",
+        "Aspects": []
+      }
+    ],
+    "The Fletcher": [
+      {
+        "Name": "The Fletcher",
+        "BaseType": "The Fletcher",
+        "Aspects": []
+      }
+    ],
+    "The Fool": [
+      {
+        "Name": "The Fool",
+        "BaseType": "The Fool",
+        "Aspects": []
+      }
+    ],
+    "The Forbidden Fruit": [
+      {
+        "Name": "The Forbidden Fruit",
+        "BaseType": "The Forbidden Fruit",
+        "Aspects": []
+      }
+    ],
+    "The Fox": [
+      {
+        "Name": "The Fox",
+        "BaseType": "The Fox",
+        "Aspects": []
+      }
+    ],
+    "The Fox in the Brambles": [
+      {
+        "Name": "The Fox in the Brambles",
+        "BaseType": "The Fox in the Brambles",
+        "Aspects": []
+      }
+    ],
+    "The Gambler": [
+      {
+        "Name": "The Gambler",
+        "BaseType": "The Gambler",
+        "Aspects": []
+      }
+    ],
+    "The Gemcutter": [
+      {
+        "Name": "The Gemcutter",
+        "BaseType": "The Gemcutter",
+        "Aspects": []
+      }
+    ],
+    "The Greatest Intentions": [
+      {
+        "Name": "The Greatest Intentions",
+        "BaseType": "The Greatest Intentions",
+        "Aspects": []
+      }
+    ],
+    "The Hale Heart": [
+      {
+        "Name": "The Hale Heart",
+        "BaseType": "The Hale Heart",
+        "Aspects": []
+      }
+    ],
+    "The Hive of Knowledge": [
+      {
+        "Name": "The Hive of Knowledge",
+        "BaseType": "The Hive of Knowledge",
+        "Aspects": []
+      }
+    ],
+    "The Hunger": [
+      {
+        "Name": "The Hunger",
+        "BaseType": "The Hunger",
+        "Aspects": []
+      }
+    ],
+    "The Innocent": [
+      {
+        "Name": "The Innocent",
+        "BaseType": "The Innocent",
+        "Aspects": []
+      }
+    ],
+    "The Jeweller's Boon": [
+      {
+        "Name": "The Jeweller's Boon",
+        "BaseType": "The Jeweller's Boon",
+        "Aspects": []
+      }
+    ],
+    "The King's Blade": [
+      {
+        "Name": "The King's Blade",
+        "BaseType": "The King's Blade",
+        "Aspects": []
+      }
+    ],
+    "The Leviathan": [
+      {
+        "Name": "The Leviathan",
+        "BaseType": "The Leviathan",
+        "Aspects": []
+      }
+    ],
+    "The Lion": [
+      {
+        "Name": "The Lion",
+        "BaseType": "The Lion",
+        "Aspects": []
+      }
+    ],
+    "The Lover": [
+      {
+        "Name": "The Lover",
+        "BaseType": "The Lover",
+        "Aspects": []
+      }
+    ],
+    "The Magma Crab": [
+      {
+        "Name": "The Magma Crab",
+        "BaseType": "The Magma Crab",
+        "Aspects": []
+      }
+    ],
+    "The Mercenary": [
+      {
+        "Name": "The Mercenary",
+        "BaseType": "The Mercenary",
+        "Aspects": []
+      }
+    ],
+    "The Metalsmith's Gift": [
+      {
+        "Name": "The Metalsmith's Gift",
+        "BaseType": "The Metalsmith's Gift",
+        "Aspects": []
+      }
+    ],
+    "The Oath": [
+      {
+        "Name": "The Oath",
+        "BaseType": "The Oath",
+        "Aspects": []
+      }
+    ],
+    "The Old Man": [
+      {
+        "Name": "The Old Man",
+        "BaseType": "The Old Man",
+        "Aspects": []
+      }
+    ],
+    "The Opulent": [
+      {
+        "Name": "The Opulent",
+        "BaseType": "The Opulent",
+        "Aspects": []
+      }
+    ],
+    "The Pack Leader": [
+      {
+        "Name": "The Pack Leader",
+        "BaseType": "The Pack Leader",
+        "Aspects": []
+      }
+    ],
+    "The Pact": [
+      {
+        "Name": "The Pact",
+        "BaseType": "The Pact",
+        "Aspects": []
+      }
+    ],
+    "The Price of Loyalty": [
+      {
+        "Name": "The Price of Loyalty",
+        "BaseType": "The Price of Loyalty",
+        "Aspects": []
+      }
+    ],
+    "The Price of Prescience": [
+      {
+        "Name": "The Price of Prescience",
+        "BaseType": "The Price of Prescience",
+        "Aspects": []
+      }
+    ],
+    "The Price of Protection": [
+      {
+        "Name": "The Price of Protection",
+        "BaseType": "The Price of Protection",
+        "Aspects": []
+      }
+    ],
+    "The Primordial": [
+      {
+        "Name": "The Primordial",
+        "BaseType": "The Primordial",
+        "Aspects": []
+      }
+    ],
+    "The Prince of Darkness": [
+      {
+        "Name": "The Prince of Darkness",
+        "BaseType": "The Prince of Darkness",
+        "Aspects": []
+      }
+    ],
+    "The Professor": [
+      {
+        "Name": "The Professor",
+        "BaseType": "The Professor",
+        "Aspects": []
+      }
+    ],
+    "The Progeny of Lunaris": [
+      {
+        "Name": "The Progeny of Lunaris",
+        "BaseType": "The Progeny of Lunaris",
+        "Aspects": []
+      }
+    ],
+    "The Rabbit's Foot": [
+      {
+        "Name": "The Rabbit's Foot",
+        "BaseType": "The Rabbit's Foot",
+        "Aspects": []
+      }
+    ],
+    "The Risk": [
+      {
+        "Name": "The Risk",
+        "BaseType": "The Risk",
+        "Aspects": []
+      }
+    ],
+    "The Rite of Elements": [
+      {
+        "Name": "The Rite of Elements",
+        "BaseType": "The Rite of Elements",
+        "Aspects": []
+      }
+    ],
+    "The Saint's Treasure": [
+      {
+        "Name": "The Saint's Treasure",
+        "BaseType": "The Saint's Treasure",
+        "Aspects": []
+      }
+    ],
+    "The Scholar": [
+      {
+        "Name": "The Scholar",
+        "BaseType": "The Scholar",
+        "Aspects": []
+      }
+    ],
+    "The Seeker": [
+      {
+        "Name": "The Seeker",
+        "BaseType": "The Seeker",
+        "Aspects": []
+      }
+    ],
+    "The Shepherd's Sandals": [
+      {
+        "Name": "The Shepherd's Sandals",
+        "BaseType": "The Shepherd's Sandals",
+        "Aspects": []
+      }
+    ],
+    "The Side Quest": [
+      {
+        "Name": "The Side Quest",
+        "BaseType": "The Side Quest",
+        "Aspects": []
+      }
+    ],
+    "The Silly Boy": [
+      {
+        "Name": "The Silly Boy",
+        "BaseType": "The Silly Boy",
+        "Aspects": []
+      }
+    ],
+    "The Spark and the Flame": [
+      {
+        "Name": "The Spark and the Flame",
+        "BaseType": "The Spark and the Flame",
+        "Aspects": []
+      }
+    ],
+    "The Spoiled Prince": [
+      {
+        "Name": "The Spoiled Prince",
+        "BaseType": "The Spoiled Prince",
+        "Aspects": []
+      }
+    ],
+    "The Stormcaller": [
+      {
+        "Name": "The Stormcaller",
+        "BaseType": "The Stormcaller",
+        "Aspects": []
+      }
+    ],
+    "The Summoner": [
+      {
+        "Name": "The Summoner",
+        "BaseType": "The Summoner",
+        "Aspects": []
+      }
+    ],
+    "The Thaumaturgist": [
+      {
+        "Name": "The Thaumaturgist",
+        "BaseType": "The Thaumaturgist",
+        "Aspects": []
+      }
+    ],
+    "The Tireless Extractor": [
+      {
+        "Name": "The Tireless Extractor",
+        "BaseType": "The Tireless Extractor",
+        "Aspects": []
+      }
+    ],
+    "The Tower": [
+      {
+        "Name": "The Tower",
+        "BaseType": "The Tower",
+        "Aspects": []
+      }
+    ],
+    "The Transformation": [
+      {
+        "Name": "The Transformation",
+        "BaseType": "The Transformation",
+        "Aspects": []
+      }
+    ],
+    "The Visionary": [
+      {
+        "Name": "The Visionary",
+        "BaseType": "The Visionary",
+        "Aspects": []
+      }
+    ],
+    "The White Knight": [
+      {
+        "Name": "The White Knight",
+        "BaseType": "The White Knight",
+        "Aspects": []
+      }
+    ],
+    "The Wind": [
+      {
+        "Name": "The Wind",
+        "BaseType": "The Wind",
+        "Aspects": []
+      }
+    ],
+    "Time-Lost Relic": [
+      {
+        "Name": "Time-Lost Relic",
+        "BaseType": "Time-Lost Relic",
+        "Aspects": []
+      }
+    ],
+    "Turn the Other Cheek": [
+      {
+        "Name": "Turn the Other Cheek",
+        "BaseType": "Turn the Other Cheek",
+        "Aspects": []
+      }
+    ],
+    "Unchained": [
+      {
+        "Name": "Unchained",
+        "BaseType": "Unchained",
+        "Aspects": []
+      }
+    ],
+    "Choking Guilt": [
+      {
+        "Name": "Choking Guilt",
+        "BaseType": "Choking Guilt",
+        "Aspects": []
+      }
+    ],
+    "Costly Curio": [
+      {
+        "Name": "Costly Curio",
+        "BaseType": "Costly Curio",
+        "Aspects": []
+      }
+    ],
+    "Dark Dreams": [
+      {
+        "Name": "Dark Dreams",
+        "BaseType": "Dark Dreams",
+        "Aspects": []
+      }
+    ],
+    "Deathly Designs": [
+      {
+        "Name": "Deathly Designs",
+        "BaseType": "Deathly Designs",
+        "Aspects": []
+      }
+    ],
+    "Fire Of Unknown Origin": [
+      {
+        "Name": "Fire Of Unknown Origin",
+        "BaseType": "Fire Of Unknown Origin",
+        "Aspects": []
+      }
+    ],
+    "Lucky Bastion": [
+      {
+        "Name": "Lucky Bastion",
+        "BaseType": "Lucky Bastion",
+        "Aspects": []
+      }
+    ],
+    "The Miracle": [
+      {
+        "Name": "The Miracle",
+        "BaseType": "The Miracle",
+        "Aspects": []
+      }
+    ],
+    "Doedre's Madness": [
+      {
+        "Name": "Doedre's Madness",
+        "BaseType": "Doedre's Madness",
+        "Aspects": []
+      }
+    ],
+    "Draped in Dreams": [
+      {
+        "Name": "Draped in Dreams",
+        "BaseType": "Draped in Dreams",
+        "Aspects": []
+      }
+    ],
+    "Dying Light": [
+      {
+        "Name": "Dying Light",
+        "BaseType": "Dying Light",
+        "Aspects": []
+      }
+    ],
+    "Earth Drinker": [
+      {
+        "Name": "Earth Drinker",
+        "BaseType": "Earth Drinker",
+        "Aspects": []
+      }
+    ],
+    "Echoes of Love": [
+      {
+        "Name": "Echoes of Love",
+        "BaseType": "Echoes of Love",
+        "Aspects": []
+      }
+    ],
+    "Emperor of Purity": [
+      {
+        "Name": "Emperor of Purity",
+        "BaseType": "Emperor of Purity",
+        "Aspects": []
+      }
+    ],
+    "Endless Night": [
+      {
+        "Name": "Endless Night",
+        "BaseType": "Endless Night",
+        "Aspects": []
+      }
+    ],
+    "Ever-Changing": [
+      {
+        "Name": "Ever-Changing",
+        "BaseType": "Ever-Changing",
+        "Aspects": []
+      }
+    ],
+    "Father's Love": [
+      {
+        "Name": "Father's Love",
+        "BaseType": "Father's Love",
+        "Aspects": []
+      }
+    ],
+    "Friendship": [
+      {
+        "Name": "Friendship",
+        "BaseType": "Friendship",
+        "Aspects": []
+      }
+    ],
+    "Heterochromia": [
+      {
+        "Name": "Heterochromia",
+        "BaseType": "Heterochromia",
+        "Aspects": []
+      }
+    ],
+    "Hope": [
+      {
+        "Name": "Hope",
+        "BaseType": "Hope",
+        "Aspects": []
+      }
+    ],
+    "Hubris": [
+      {
+        "Name": "Hubris",
+        "BaseType": "Hubris",
+        "Aspects": []
+      }
+    ],
+    "Hunter's Resolve": [
+      {
+        "Name": "Hunter's Resolve",
+        "BaseType": "Hunter's Resolve",
+        "Aspects": []
+      }
+    ],
+    "Hunter's Reward": [
+      {
+        "Name": "Hunter's Reward",
+        "BaseType": "Hunter's Reward",
+        "Aspects": []
+      }
+    ],
+    "Immortal Resolve": [
+      {
+        "Name": "Immortal Resolve",
+        "BaseType": "Immortal Resolve",
+        "Aspects": []
+      }
+    ],
+    "Imperfect Memories": [
+      {
+        "Name": "Imperfect Memories",
+        "BaseType": "Imperfect Memories",
+        "Aspects": []
+      }
+    ],
+    "Imperial Legacy": [
+      {
+        "Name": "Imperial Legacy",
+        "BaseType": "Imperial Legacy",
+        "Aspects": []
+      }
+    ],
+    "Judging Voices": [
+      {
+        "Name": "Judging Voices",
+        "BaseType": "Judging Voices",
+        "Aspects": []
+      }
+    ],
+    "Last Hope": [
+      {
+        "Name": "Last Hope",
+        "BaseType": "Last Hope",
+        "Aspects": []
+      }
+    ],
+    "Last Stand": [
+      {
+        "Name": "Last Stand",
+        "BaseType": "Last Stand",
+        "Aspects": []
+      }
+    ],
+    "Lucky Deck": [
+      {
+        "Name": "Lucky Deck",
+        "BaseType": "Lucky Deck",
+        "Aspects": []
+      }
+    ],
+    "Matryoshka": [
+      {
+        "Name": "Matryoshka",
+        "BaseType": "Matryoshka",
+        "Aspects": []
+      }
+    ],
+    "Misery in Darkness": [
+      {
+        "Name": "Misery in Darkness",
+        "BaseType": "Misery in Darkness",
+        "Aspects": []
+      }
+    ],
+    "Perfection": [
+      {
+        "Name": "Perfection",
+        "BaseType": "Perfection",
+        "Aspects": []
+      }
+    ],
+    "Pride Before the Fall": [
+      {
+        "Name": "Pride Before the Fall",
+        "BaseType": "Pride Before the Fall",
+        "Aspects": []
+      }
+    ],
+    "Pride of the First Ones": [
+      {
+        "Name": "Pride of the First Ones",
+        "BaseType": "Pride of the First Ones",
+        "Aspects": []
+      }
+    ],
+    "Rats": [
+      {
+        "Name": "Rats",
+        "BaseType": "Rats",
+        "Aspects": []
+      }
+    ],
+    "Rebirth": [
+      {
+        "Name": "Rebirth",
+        "BaseType": "Rebirth",
+        "Aspects": []
+      }
+    ],
+    "Remembrance": [
+      {
+        "Name": "Remembrance",
+        "BaseType": "Remembrance",
+        "Aspects": []
+      }
+    ],
+    "Shard of Fate": [
+      {
+        "Name": "Shard of Fate",
+        "BaseType": "Shard of Fate",
+        "Aspects": []
+      }
+    ],
+    "The Admirer": [
+      {
+        "Name": "The Admirer",
+        "BaseType": "The Admirer",
+        "Aspects": []
+      }
+    ],
+    "The Aesthete": [
+      {
+        "Name": "The Aesthete",
+        "BaseType": "The Aesthete",
+        "Aspects": []
+      }
+    ],
+    "The Archmage's Right Hand": [
+      {
+        "Name": "The Archmage's Right Hand",
+        "BaseType": "The Archmage's Right Hand",
+        "Aspects": []
+      }
+    ],
+    "The Army of Blood": [
+      {
+        "Name": "The Army of Blood",
+        "BaseType": "The Army of Blood",
+        "Aspects": []
+      }
+    ],
+    "The Awakened": [
+      {
+        "Name": "The Awakened",
+        "BaseType": "The Awakened",
+        "Aspects": []
+      }
+    ],
+    "The Battle Born": [
+      {
+        "Name": "The Battle Born",
+        "BaseType": "The Battle Born",
+        "Aspects": []
+      }
+    ],
+    "The Beast": [
+      {
+        "Name": "The Beast",
+        "BaseType": "The Beast",
+        "Aspects": []
+      }
+    ],
+    "The Bitter Blossom": [
+      {
+        "Name": "The Bitter Blossom",
+        "BaseType": "The Bitter Blossom",
+        "Aspects": []
+      }
+    ],
+    "The Blessing of Moosh": [
+      {
+        "Name": "The Blessing of Moosh",
+        "BaseType": "The Blessing of Moosh",
+        "Aspects": []
+      }
+    ],
+    "The Body": [
+      {
+        "Name": "The Body",
+        "BaseType": "The Body",
+        "Aspects": []
+      }
+    ],
+    "The Brawny Battle Mage": [
+      {
+        "Name": "The Brawny Battle Mage",
+        "BaseType": "The Brawny Battle Mage",
+        "Aspects": []
+      }
+    ],
+    "The Breach": [
+      {
+        "Name": "The Breach",
+        "BaseType": "The Breach",
+        "Aspects": []
+      }
+    ],
+    "The Cache": [
+      {
+        "Name": "The Cache",
+        "BaseType": "The Cache",
+        "Aspects": []
+      }
+    ],
+    "The Cataclysm": [
+      {
+        "Name": "The Cataclysm",
+        "BaseType": "The Cataclysm",
+        "Aspects": []
+      }
+    ],
+    "The Celestial Justicar": [
+      {
+        "Name": "The Celestial Justicar",
+        "BaseType": "The Celestial Justicar",
+        "Aspects": []
+      }
+    ],
+    "The Craving": [
+      {
+        "Name": "The Craving",
+        "BaseType": "The Craving",
+        "Aspects": []
+      }
+    ],
+    "The Damned": [
+      {
+        "Name": "The Damned",
+        "BaseType": "The Damned",
+        "Aspects": []
+      }
+    ],
+    "The Darkest Dream": [
+      {
+        "Name": "The Darkest Dream",
+        "BaseType": "The Darkest Dream",
+        "Aspects": []
+      }
+    ],
+    "The Dark Mage": [
+      {
+        "Name": "The Dark Mage",
+        "BaseType": "The Dark Mage",
+        "Aspects": []
+      }
+    ],
+    "The Demon": [
+      {
+        "Name": "The Demon",
+        "BaseType": "The Demon",
+        "Aspects": []
+      }
+    ],
+    "The Destination": [
+      {
+        "Name": "The Destination",
+        "BaseType": "The Destination",
+        "Aspects": []
+      }
+    ],
+    "The Dragon": [
+      {
+        "Name": "The Dragon",
+        "BaseType": "The Dragon",
+        "Aspects": []
+      }
+    ],
+    "The Dreamer": [
+      {
+        "Name": "The Dreamer",
+        "BaseType": "The Dreamer",
+        "Aspects": []
+      }
+    ],
+    "The Dungeon Master": [
+      {
+        "Name": "The Dungeon Master",
+        "BaseType": "The Dungeon Master",
+        "Aspects": []
+      }
+    ],
+    "The Easy Stroll": [
+      {
+        "Name": "The Easy Stroll",
+        "BaseType": "The Easy Stroll",
+        "Aspects": []
+      }
+    ],
+    "The Encroaching Darkness": [
+      {
+        "Name": "The Encroaching Darkness",
+        "BaseType": "The Encroaching Darkness",
+        "Aspects": []
+      }
+    ],
+    "The Eternal War": [
+      {
+        "Name": "The Eternal War",
+        "BaseType": "The Eternal War",
+        "Aspects": []
+      }
+    ],
+    "The Everlasting": [
+      {
+        "Name": "The Everlasting",
+        "BaseType": "The Everlasting",
+        "Aspects": []
+      }
+    ],
+    "The Eye of Terror": [
+      {
+        "Name": "The Eye of Terror",
+        "BaseType": "The Eye of Terror",
+        "Aspects": []
+      }
+    ],
+    "The Finishing Touch": [
+      {
+        "Name": "The Finishing Touch",
+        "BaseType": "The Finishing Touch",
+        "Aspects": []
+      }
+    ],
+    "The Flora's Gift": [
+      {
+        "Name": "The Flora's Gift",
+        "BaseType": "The Flora's Gift",
+        "Aspects": []
+      }
+    ],
+    "The Garish Power": [
+      {
+        "Name": "The Garish Power",
+        "BaseType": "The Garish Power",
+        "Aspects": []
+      }
+    ],
+    "The Gladiator": [
+      {
+        "Name": "The Gladiator",
+        "BaseType": "The Gladiator",
+        "Aspects": []
+      }
+    ],
+    "The Golden Era": [
+      {
+        "Name": "The Golden Era",
+        "BaseType": "The Golden Era",
+        "Aspects": []
+      }
+    ],
+    "The Gulf": [
+      {
+        "Name": "The Gulf",
+        "BaseType": "The Gulf",
+        "Aspects": []
+      }
+    ],
+    "The Hermit": [
+      {
+        "Name": "The Hermit",
+        "BaseType": "The Hermit",
+        "Aspects": []
+      }
+    ],
+    "The Hook": [
+      {
+        "Name": "The Hook",
+        "BaseType": "The Hook",
+        "Aspects": []
+      }
+    ],
+    "The Incantation": [
+      {
+        "Name": "The Incantation",
+        "BaseType": "The Incantation",
+        "Aspects": []
+      }
+    ],
+    "The Jester": [
+      {
+        "Name": "The Jester",
+        "BaseType": "The Jester",
+        "Aspects": []
+      }
+    ],
+    "The Journey": [
+      {
+        "Name": "The Journey",
+        "BaseType": "The Journey",
+        "Aspects": []
+      }
+    ],
+    "The Life Thief": [
+      {
+        "Name": "The Life Thief",
+        "BaseType": "The Life Thief",
+        "Aspects": []
+      }
+    ],
+    "The Long Con": [
+      {
+        "Name": "The Long Con",
+        "BaseType": "The Long Con",
+        "Aspects": []
+      }
+    ],
+    "The Master Artisan": [
+      {
+        "Name": "The Master Artisan",
+        "BaseType": "The Master Artisan",
+        "Aspects": []
+      }
+    ],
+    "The Messenger": [
+      {
+        "Name": "The Messenger",
+        "BaseType": "The Messenger",
+        "Aspects": []
+      }
+    ],
+    "The Mountain": [
+      {
+        "Name": "The Mountain",
+        "BaseType": "The Mountain",
+        "Aspects": []
+      }
+    ],
+    "The Offering": [
+      {
+        "Name": "The Offering",
+        "BaseType": "The Offering",
+        "Aspects": []
+      }
+    ],
+    "The Penitent": [
+      {
+        "Name": "The Penitent",
+        "BaseType": "The Penitent",
+        "Aspects": []
+      }
+    ],
+    "The Poet": [
+      {
+        "Name": "The Poet",
+        "BaseType": "The Poet",
+        "Aspects": []
+      }
+    ],
+    "The Polymath": [
+      {
+        "Name": "The Polymath",
+        "BaseType": "The Polymath",
+        "Aspects": []
+      }
+    ],
+    "The Porcupine": [
+      {
+        "Name": "The Porcupine",
+        "BaseType": "The Porcupine",
+        "Aspects": []
+      }
+    ],
+    "Reflection of the Heart": [
+      {
+        "Name": "Reflection of the Heart",
+        "BaseType": "Reflection of the Heart",
+        "Aspects": []
+      }
+    ],
+    "The Road to Power": [
+      {
+        "Name": "The Road to Power",
+        "BaseType": "The Road to Power",
+        "Aspects": []
+      }
+    ],
+    "The Ruthless Ceinture": [
+      {
+        "Name": "The Ruthless Ceinture",
+        "BaseType": "The Ruthless Ceinture",
+        "Aspects": []
+      }
+    ],
+    "The Samurai's Eye": [
+      {
+        "Name": "The Samurai's Eye",
+        "BaseType": "The Samurai's Eye",
+        "Aspects": []
+      }
+    ],
+    "The Shortcut": [
+      {
+        "Name": "The Shortcut",
+        "BaseType": "The Shortcut",
+        "Aspects": []
+      }
+    ],
+    "The Skeleton": [
+      {
+        "Name": "The Skeleton",
+        "BaseType": "The Skeleton",
+        "Aspects": []
+      }
+    ],
+    "The Slumbering Beast": [
+      {
+        "Name": "The Slumbering Beast",
+        "BaseType": "The Slumbering Beast",
+        "Aspects": []
+      }
+    ],
+    "The Standoff": [
+      {
+        "Name": "The Standoff",
+        "BaseType": "The Standoff",
+        "Aspects": []
+      }
+    ],
+    "The Strategist": [
+      {
+        "Name": "The Strategist",
+        "BaseType": "The Strategist",
+        "Aspects": []
+      }
+    ],
+    "The Sun": [
+      {
+        "Name": "The Sun",
+        "BaseType": "The Sun",
+        "Aspects": []
+      }
+    ],
+    "The Surgeon": [
+      {
+        "Name": "The Surgeon",
+        "BaseType": "The Surgeon",
+        "Aspects": []
+      }
+    ],
+    "The Throne": [
+      {
+        "Name": "The Throne",
+        "BaseType": "The Throne",
+        "Aspects": []
+      }
+    ],
+    "The Tinkerer's Table": [
+      {
+        "Name": "The Tinkerer's Table",
+        "BaseType": "The Tinkerer's Table",
+        "Aspects": []
+      }
+    ],
+    "The Traitor": [
+      {
+        "Name": "The Traitor",
+        "BaseType": "The Traitor",
+        "Aspects": []
+      }
+    ],
+    "The Twilight Moon": [
+      {
+        "Name": "The Twilight Moon",
+        "BaseType": "The Twilight Moon",
+        "Aspects": []
+      }
+    ],
+    "The Tyrant": [
+      {
+        "Name": "The Tyrant",
+        "BaseType": "The Tyrant",
+        "Aspects": []
+      }
+    ],
+    "The Undisputed": [
+      {
+        "Name": "The Undisputed",
+        "BaseType": "The Undisputed",
+        "Aspects": []
+      }
+    ],
+    "The Unexpected Prize": [
+      {
+        "Name": "The Unexpected Prize",
+        "BaseType": "The Unexpected Prize",
+        "Aspects": []
+      }
+    ],
+    "The Valkyrie": [
+      {
+        "Name": "The Valkyrie",
+        "BaseType": "The Valkyrie",
+        "Aspects": []
+      }
+    ],
+    "The Warlord": [
+      {
+        "Name": "The Warlord",
+        "BaseType": "The Warlord",
+        "Aspects": []
+      }
+    ],
+    "The Watcher": [
+      {
+        "Name": "The Watcher",
+        "BaseType": "The Watcher",
+        "Aspects": []
+      }
+    ],
+    "The Wedding Gift": [
+      {
+        "Name": "The Wedding Gift",
+        "BaseType": "The Wedding Gift",
+        "Aspects": []
+      }
+    ],
+    "The Wolf's Legacy": [
+      {
+        "Name": "The Wolf's Legacy",
+        "BaseType": "The Wolf's Legacy",
+        "Aspects": []
+      }
+    ],
+    "The Wolf's Shadow": [
+      {
+        "Name": "The Wolf's Shadow",
+        "BaseType": "The Wolf's Shadow",
+        "Aspects": []
+      }
+    ],
+    "Toxic Tidings": [
+      {
+        "Name": "Toxic Tidings",
+        "BaseType": "Toxic Tidings",
+        "Aspects": []
+      }
+    ],
+    "Underground Forest": [
+      {
+        "Name": "Underground Forest",
+        "BaseType": "Underground Forest",
+        "Aspects": []
+      }
+    ],
+    "Vanity": [
+      {
+        "Name": "Vanity",
+        "BaseType": "Vanity",
+        "Aspects": []
+      }
+    ],
+    "Void of the Elements": [
+      {
+        "Name": "Void of the Elements",
+        "BaseType": "Void of the Elements",
+        "Aspects": []
+      }
+    ],
+    "Volatile Power": [
+      {
+        "Name": "Volatile Power",
+        "BaseType": "Volatile Power",
+        "Aspects": []
+      }
+    ],
+    "Who Asked": [
+      {
+        "Name": "Who Asked",
+        "BaseType": "Who Asked",
+        "Aspects": []
+      }
+    ],
+    "Winter's Embrace": [
+      {
+        "Name": "Winter's Embrace",
+        "BaseType": "Winter's Embrace",
+        "Aspects": []
+      }
+    ],
+    "A Note in the Wind": [
+      {
+        "Name": "A Note in the Wind",
+        "BaseType": "A Note in the Wind",
+        "Aspects": []
+      }
+    ],
+    "Silence and Frost": [
+      {
+        "Name": "Silence and Frost",
+        "BaseType": "Silence and Frost",
+        "Aspects": []
+      }
+    ],
+    "The Celestial Stone": [
+      {
+        "Name": "The Celestial Stone",
+        "BaseType": "The Celestial Stone",
+        "Aspects": []
+      }
+    ],
+    "The Long Watch": [
+      {
+        "Name": "The Long Watch",
+        "BaseType": "The Long Watch",
+        "Aspects": []
+      }
+    ],
+    "The Wolf": [
+      {
+        "Name": "The Wolf",
+        "BaseType": "The Wolf",
+        "Aspects": []
+      }
+    ],
+    "Disdain": [
+      {
+        "Name": "Disdain",
+        "BaseType": "Disdain",
+        "Aspects": []
+      }
+    ],
+    "The Forsaken": [
+      {
+        "Name": "The Forsaken",
+        "BaseType": "The Forsaken",
+        "Aspects": []
+      }
+    ],
+    "The King's Heart": [
+      {
+        "Name": "The King's Heart",
+        "BaseType": "The King's Heart",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

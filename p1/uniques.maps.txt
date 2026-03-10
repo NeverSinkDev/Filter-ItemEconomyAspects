@@ -43,6 +43,143 @@
         "BaseType": "Engraved Ultimatum",
         "Aspects": []
       }
+    ],
+    "Map (Tier 14)": [
+      {
+        "Name": "Untainted Paradise",
+        "BaseType": "Map (Tier 14)",
+        "Aspects": []
+      },
+      {
+        "Name": "Doryani's Machinarium",
+        "BaseType": "Map (Tier 14)",
+        "Aspects": []
+      },
+      {
+        "Name": "Poorjoy's Asylum",
+        "BaseType": "Map (Tier 14)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 12)": [
+      {
+        "Name": "The Putrid Cloister",
+        "BaseType": "Map (Tier 12)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 16)": [
+      {
+        "Name": "Vaults of Atziri",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Caer Blaidd, Wolfpack's Den",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Hallowed Ground",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Death and Taxes",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Pillars of Arun",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Whakawairua Tuahu",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 7)": [
+      {
+        "Name": "The Coward's Trial",
+        "BaseType": "Map (Tier 7)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 5)": [
+      {
+        "Name": "The Vinktar Square",
+        "BaseType": "Map (Tier 5)",
+        "Aspects": []
+      },
+      {
+        "Name": "Maelström of Chaos",
+        "BaseType": "Map (Tier 5)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 11)": [
+      {
+        "Name": "Cortex",
+        "BaseType": "Map (Tier 11)",
+        "Aspects": []
+      },
+      {
+        "Name": "Altered Distant Memory",
+        "BaseType": "Map (Tier 11)",
+        "Aspects": []
+      },
+      {
+        "Name": "Augmented Distant Memory",
+        "BaseType": "Map (Tier 11)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 15)": [
+      {
+        "Name": "Twisted Distant Memory",
+        "BaseType": "Map (Tier 15)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 4)": [
+      {
+        "Name": "The Twilight Temple",
+        "BaseType": "Map (Tier 4)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 10)": [
+      {
+        "Name": "Rewritten Distant Memory",
+        "BaseType": "Map (Tier 10)",
+        "Aspects": []
+      },
+      {
+        "Name": "Oba's Cursed Trove",
+        "BaseType": "Map (Tier 10)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 6)": [
+      {
+        "Name": "Mao Kun",
+        "BaseType": "Map (Tier 6)",
+        "Aspects": []
+      },
+      {
+        "Name": "Hall of Grandmasters",
+        "BaseType": "Map (Tier 6)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 1)": [
+      {
+        "Name": "Olmec's Sanctum",
+        "BaseType": "Map (Tier 1)",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
