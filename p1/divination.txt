@@ -5385,7 +5385,7 @@
           "Tiers": [
             "t2"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t3"
         }
       ],
       "Squandered Prosperity": [
