@@ -1,0 +1,5547 @@
+{
+  "Aspects": {
+    "Greater Multistrike Support": [
+      {
+        "Name": "Greater Multistrike Support",
+        "BaseType": "Greater Multistrike Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Awakened Enhance Support": [
+      {
+        "Name": "Awakened Enhance Support",
+        "BaseType": "Awakened Enhance Support",
+        "Special": "5/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Spell Echo Support": [
+      {
+        "Name": "Greater Spell Echo Support",
+        "BaseType": "Greater Spell Echo Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Awakened Enlighten Support": [
+      {
+        "Name": "Awakened Enlighten Support",
+        "BaseType": "Awakened Enlighten Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Congregation Support": [
+      {
+        "Name": "Congregation Support",
+        "BaseType": "Congregation Support",
+        "Special": "4/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Caustic Arrow": [
+      {
+        "Name": "Vaal Caustic Arrow",
+        "BaseType": "Vaal Caustic Arrow",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Awakened Empower Support": [
+      {
+        "Name": "Awakened Empower Support",
+        "BaseType": "Awakened Empower Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Absolution": [
+      {
+        "Name": "Vaal Absolution",
+        "BaseType": "Vaal Absolution",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Summon Skeletons": [
+      {
+        "Name": "Vaal Summon Skeletons",
+        "BaseType": "Vaal Summon Skeletons",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Rejuvenation Totem": [
+      {
+        "Name": "Vaal Rejuvenation Totem",
+        "BaseType": "Vaal Rejuvenation Totem",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Arctic Armour": [
+      {
+        "Name": "Vaal Arctic Armour",
+        "BaseType": "Vaal Arctic Armour",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Righteous Fire": [
+      {
+        "Name": "Vaal Righteous Fire",
+        "BaseType": "Vaal Righteous Fire",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Venom Gyre": [
+      {
+        "Name": "Vaal Venom Gyre",
+        "BaseType": "Vaal Venom Gyre",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bloodsoaked Banner Support": [
+      {
+        "Name": "Bloodsoaked Banner Support",
+        "BaseType": "Bloodsoaked Banner Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Chain Support": [
+      {
+        "Name": "Greater Chain Support",
+        "BaseType": "Greater Chain Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unholy Trinity Support": [
+      {
+        "Name": "Unholy Trinity Support",
+        "BaseType": "Unholy Trinity Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cooldown Recovery Support": [
+      {
+        "Name": "Cooldown Recovery Support",
+        "BaseType": "Cooldown Recovery Support",
+        "Special": "4/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Discipline": [
+      {
+        "Name": "Vaal Discipline",
+        "BaseType": "Vaal Discipline",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Haste": [
+      {
+        "Name": "Vaal Haste",
+        "BaseType": "Vaal Haste",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Invert the Rules Support": [
+      {
+        "Name": "Invert the Rules Support",
+        "BaseType": "Invert the Rules Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Flicker Strike": [
+      {
+        "Name": "Vaal Flicker Strike",
+        "BaseType": "Vaal Flicker Strike",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pyre Support": [
+      {
+        "Name": "Pyre Support",
+        "BaseType": "Pyre Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Enlighten Support": [
+      {
+        "Name": "Enlighten Support",
+        "BaseType": "Enlighten Support",
+        "Special": "4c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Lightning Strike": [
+      {
+        "Name": "Vaal Lightning Strike",
+        "BaseType": "Vaal Lightning Strike",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Fork Support": [
+      {
+        "Name": "Greater Fork Support",
+        "BaseType": "Greater Fork Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Ancestral Call Support": [
+      {
+        "Name": "Greater Ancestral Call Support",
+        "BaseType": "Greater Ancestral Call Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Vaal Reap": [
+      {
+        "Name": "Vaal Reap",
+        "BaseType": "Vaal Reap",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Smite": [
+      {
+        "Name": "Vaal Smite",
+        "BaseType": "Vaal Smite",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flesh Offering": [
+      {
+        "Name": "Flesh Offering",
+        "BaseType": "Flesh Offering",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Unleash Support": [
+      {
+        "Name": "Greater Unleash Support",
+        "BaseType": "Greater Unleash Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Greater Spell Cascade Support": [
+      {
+        "Name": "Greater Spell Cascade Support",
+        "BaseType": "Greater Spell Cascade Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Ground Slam": [
+      {
+        "Name": "Vaal Ground Slam",
+        "BaseType": "Vaal Ground Slam",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Grace": [
+      {
+        "Name": "Vaal Grace",
+        "BaseType": "Vaal Grace",
+        "Special": "21c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Molten Shell": [
+      {
+        "Name": "Vaal Molten Shell",
+        "BaseType": "Vaal Molten Shell",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frostmage Support": [
+      {
+        "Name": "Frostmage Support",
+        "BaseType": "Frostmage Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Empower Support": [
+      {
+        "Name": "Empower Support",
+        "BaseType": "Empower Support",
+        "Special": "4c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Blade Vortex": [
+      {
+        "Name": "Vaal Blade Vortex",
+        "BaseType": "Vaal Blade Vortex",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Haste": [
+      {
+        "Name": "Haste",
+        "BaseType": "Haste",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Sacrifice Support": [
+      {
+        "Name": "Vaal Sacrifice Support",
+        "BaseType": "Vaal Sacrifice Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Machinations Support": [
+      {
+        "Name": "Machinations Support",
+        "BaseType": "Machinations Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Temptation Support": [
+      {
+        "Name": "Vaal Temptation Support",
+        "BaseType": "Vaal Temptation Support",
+        "Special": "4/23c",
+        "Aspects": []
+      }
+    ],
+    "Companionship Support": [
+      {
+        "Name": "Companionship Support",
+        "BaseType": "Companionship Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Devour Support": [
+      {
+        "Name": "Greater Devour Support",
+        "BaseType": "Greater Devour Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Anger": [
+      {
+        "Name": "Anger",
+        "BaseType": "Anger",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Seismic Cry": [
+      {
+        "Name": "Seismic Cry",
+        "BaseType": "Seismic Cry",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Penetration Support": [
+      {
+        "Name": "Elemental Penetration Support",
+        "BaseType": "Elemental Penetration Support",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Annihilation Support": [
+      {
+        "Name": "Annihilation Support",
+        "BaseType": "Annihilation Support",
+        "Special": "3/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minion Pact Support": [
+      {
+        "Name": "Minion Pact Support",
+        "BaseType": "Minion Pact Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hextoad Support": [
+      {
+        "Name": "Hextoad Support",
+        "BaseType": "Hextoad Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Enhance Support": [
+      {
+        "Name": "Enhance Support",
+        "BaseType": "Enhance Support",
+        "Special": "4c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Righteous Fire": [
+      {
+        "Name": "Righteous Fire",
+        "BaseType": "Righteous Fire",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cyclone": [
+      {
+        "Name": "Cyclone",
+        "BaseType": "Cyclone",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Splitting Steel": [
+      {
+        "Name": "Splitting Steel",
+        "BaseType": "Splitting Steel",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hiveborn Support": [
+      {
+        "Name": "Hiveborn Support",
+        "BaseType": "Hiveborn Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gluttony Support": [
+      {
+        "Name": "Gluttony Support",
+        "BaseType": "Gluttony Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Invention Support": [
+      {
+        "Name": "Invention Support",
+        "BaseType": "Invention Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lethal Dose Support": [
+      {
+        "Name": "Lethal Dose Support",
+        "BaseType": "Lethal Dose Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Swift Affliction Support": [
+      {
+        "Name": "Swift Affliction Support",
+        "BaseType": "Swift Affliction Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Animate Guardian": [
+      {
+        "Name": "Animate Guardian",
+        "BaseType": "Animate Guardian",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Discipline": [
+      {
+        "Name": "Discipline",
+        "BaseType": "Discipline",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Volley Support": [
+      {
+        "Name": "Greater Volley Support",
+        "BaseType": "Greater Volley Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tempest Shield": [
+      {
+        "Name": "Tempest Shield",
+        "BaseType": "Tempest Shield",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decoy Totem": [
+      {
+        "Name": "Decoy Totem",
+        "BaseType": "Decoy Totem",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scornful Herald Support": [
+      {
+        "Name": "Scornful Herald Support",
+        "BaseType": "Scornful Herald Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Kinetic Instability Support": [
+      {
+        "Name": "Greater Kinetic Instability Support",
+        "BaseType": "Greater Kinetic Instability Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Raise Spectre": [
+      {
+        "Name": "Raise Spectre",
+        "BaseType": "Raise Spectre",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Clarity": [
+      {
+        "Name": "Vaal Clarity",
+        "BaseType": "Vaal Clarity",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Manipulation Support": [
+      {
+        "Name": "Void Manipulation Support",
+        "BaseType": "Void Manipulation Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Generosity Support": [
+      {
+        "Name": "Generosity Support",
+        "BaseType": "Generosity Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trap and Mine Damage Support": [
+      {
+        "Name": "Trap and Mine Damage Support",
+        "BaseType": "Trap and Mine Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cluster Traps Support": [
+      {
+        "Name": "Cluster Traps Support",
+        "BaseType": "Cluster Traps Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Smite": [
+      {
+        "Name": "Smite",
+        "BaseType": "Smite",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Armageddon Brand": [
+      {
+        "Name": "Armageddon Brand",
+        "BaseType": "Armageddon Brand",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dread Banner": [
+      {
+        "Name": "Dread Banner",
+        "BaseType": "Dread Banner",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vicious Projectiles Support": [
+      {
+        "Name": "Vicious Projectiles Support",
+        "BaseType": "Vicious Projectiles Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dash": [
+      {
+        "Name": "Dash",
+        "BaseType": "Dash",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Domination": [
+      {
+        "Name": "Vaal Domination",
+        "BaseType": "Vaal Domination",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cull the Weak Support": [
+      {
+        "Name": "Cull the Weak Support",
+        "BaseType": "Cull the Weak Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bonespire Support": [
+      {
+        "Name": "Bonespire Support",
+        "BaseType": "Bonespire Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Shockwave Support": [
+      {
+        "Name": "Void Shockwave Support",
+        "BaseType": "Void Shockwave Support",
+        "Special": "1/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast on Ward Break Support": [
+      {
+        "Name": "Cast on Ward Break Support",
+        "BaseType": "Cast on Ward Break Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Transfusion Support": [
+      {
+        "Name": "Transfusion Support",
+        "BaseType": "Transfusion Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eclipse Support": [
+      {
+        "Name": "Eclipse Support",
+        "BaseType": "Eclipse Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flesh and Stone": [
+      {
+        "Name": "Flesh and Stone",
+        "BaseType": "Flesh and Stone",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "More Duration Support": [
+      {
+        "Name": "More Duration Support",
+        "BaseType": "More Duration Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Enduring Cry": [
+      {
+        "Name": "Enduring Cry",
+        "BaseType": "Enduring Cry",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Hit": [
+      {
+        "Name": "Elemental Hit",
+        "BaseType": "Elemental Hit",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fissure Support": [
+      {
+        "Name": "Fissure Support",
+        "BaseType": "Fissure Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Brutality Support": [
+      {
+        "Name": "Brutality Support",
+        "BaseType": "Brutality Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Determination": [
+      {
+        "Name": "Determination",
+        "BaseType": "Determination",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reap": [
+      {
+        "Name": "Reap",
+        "BaseType": "Reap",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Concentrated Effect Support": [
+      {
+        "Name": "Concentrated Effect Support",
+        "BaseType": "Concentrated Effect Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eternal Blessing Support": [
+      {
+        "Name": "Eternal Blessing Support",
+        "BaseType": "Eternal Blessing Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Multistrike Support": [
+      {
+        "Name": "Multistrike Support",
+        "BaseType": "Multistrike Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Damage with Attacks Support": [
+      {
+        "Name": "Elemental Damage with Attacks Support",
+        "BaseType": "Elemental Damage with Attacks Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Arc": [
+      {
+        "Name": "Vaal Arc",
+        "BaseType": "Vaal Arc",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Lightning Trap": [
+      {
+        "Name": "Vaal Lightning Trap",
+        "BaseType": "Vaal Lightning Trap",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Foulgrasp Support": [
+      {
+        "Name": "Foulgrasp Support",
+        "BaseType": "Foulgrasp Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Sentinel Support": [
+      {
+        "Name": "Divine Sentinel Support",
+        "BaseType": "Divine Sentinel Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Less Duration Support": [
+      {
+        "Name": "Less Duration Support",
+        "BaseType": "Less Duration Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blade Vortex": [
+      {
+        "Name": "Blade Vortex",
+        "BaseType": "Blade Vortex",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Temporal Rift": [
+      {
+        "Name": "Temporal Rift",
+        "BaseType": "Temporal Rift",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Petrified Blood": [
+      {
+        "Name": "Petrified Blood",
+        "BaseType": "Petrified Blood",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Burning Arrow": [
+      {
+        "Name": "Vaal Burning Arrow",
+        "BaseType": "Vaal Burning Arrow",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sniper's Mark": [
+      {
+        "Name": "Sniper's Mark",
+        "BaseType": "Sniper's Mark",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Volatility Support": [
+      {
+        "Name": "Volatility Support",
+        "BaseType": "Volatility Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Melee Physical Damage Support": [
+      {
+        "Name": "Melee Physical Damage Support",
+        "BaseType": "Melee Physical Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Siege Ballista": [
+      {
+        "Name": "Siege Ballista",
+        "BaseType": "Siege Ballista",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Molten Strike": [
+      {
+        "Name": "Molten Strike",
+        "BaseType": "Molten Strike",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glacial Hammer": [
+      {
+        "Name": "Glacial Hammer",
+        "BaseType": "Glacial Hammer",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Additional Accuracy Support": [
+      {
+        "Name": "Additional Accuracy Support",
+        "BaseType": "Additional Accuracy Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Penetration Support": [
+      {
+        "Name": "Lightning Penetration Support",
+        "BaseType": "Lightning Penetration Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast when Stunned Support": [
+      {
+        "Name": "Cast when Stunned Support",
+        "BaseType": "Cast when Stunned Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast when Damage Taken Support": [
+      {
+        "Name": "Cast when Damage Taken Support",
+        "BaseType": "Cast when Damage Taken Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tectonic Slam": [
+      {
+        "Name": "Tectonic Slam",
+        "BaseType": "Tectonic Slam",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Siphoning Trap": [
+      {
+        "Name": "Siphoning Trap",
+        "BaseType": "Siphoning Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trap Support": [
+      {
+        "Name": "Trap Support",
+        "BaseType": "Trap Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Despair": [
+      {
+        "Name": "Despair",
+        "BaseType": "Despair",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Malevolence": [
+      {
+        "Name": "Malevolence",
+        "BaseType": "Malevolence",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Phantasm Support": [
+      {
+        "Name": "Summon Phantasm Support",
+        "BaseType": "Summon Phantasm Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Barrage Support": [
+      {
+        "Name": "Barrage Support",
+        "BaseType": "Barrage Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcanist Brand": [
+      {
+        "Name": "Arcanist Brand",
+        "BaseType": "Arcanist Brand",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hexpass Support": [
+      {
+        "Name": "Hexpass Support",
+        "BaseType": "Hexpass Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minion Damage Support": [
+      {
+        "Name": "Minion Damage Support",
+        "BaseType": "Minion Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pulverise Support": [
+      {
+        "Name": "Pulverise Support",
+        "BaseType": "Pulverise Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pacifism Support": [
+      {
+        "Name": "Pacifism Support",
+        "BaseType": "Pacifism Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unbound Ailments Support": [
+      {
+        "Name": "Unbound Ailments Support",
+        "BaseType": "Unbound Ailments Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unearth": [
+      {
+        "Name": "Unearth",
+        "BaseType": "Unearth",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Damage on Full Life Support": [
+      {
+        "Name": "Damage on Full Life Support",
+        "BaseType": "Damage on Full Life Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fire Trap": [
+      {
+        "Name": "Fire Trap",
+        "BaseType": "Fire Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Multiple Projectiles Support": [
+      {
+        "Name": "Greater Multiple Projectiles Support",
+        "BaseType": "Greater Multiple Projectiles Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pride": [
+      {
+        "Name": "Pride",
+        "BaseType": "Pride",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arrogance Support": [
+      {
+        "Name": "Arrogance Support",
+        "BaseType": "Arrogance Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Increased Critical Damage Support": [
+      {
+        "Name": "Increased Critical Damage Support",
+        "BaseType": "Increased Critical Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Voidstorm Support": [
+      {
+        "Name": "Voidstorm Support",
+        "BaseType": "Voidstorm Support",
+        "Special": "4/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Immortal Call": [
+      {
+        "Name": "Immortal Call",
+        "BaseType": "Immortal Call",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Burning Damage Support": [
+      {
+        "Name": "Burning Damage Support",
+        "BaseType": "Burning Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minion Life Support": [
+      {
+        "Name": "Minion Life Support",
+        "BaseType": "Minion Life Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Automation": [
+      {
+        "Name": "Automation",
+        "BaseType": "Automation",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Returning Projectiles Support": [
+      {
+        "Name": "Returning Projectiles Support",
+        "BaseType": "Returning Projectiles Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Inspiration Support": [
+      {
+        "Name": "Inspiration Support",
+        "BaseType": "Inspiration Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Added Chaos Damage Support": [
+      {
+        "Name": "Added Chaos Damage Support",
+        "BaseType": "Added Chaos Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Multiple Traps Support": [
+      {
+        "Name": "Multiple Traps Support",
+        "BaseType": "Multiple Traps Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Efficacy Support": [
+      {
+        "Name": "Efficacy Support",
+        "BaseType": "Efficacy Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Added Cold Damage Support": [
+      {
+        "Name": "Added Cold Damage Support",
+        "BaseType": "Added Cold Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ruthless Support": [
+      {
+        "Name": "Ruthless Support",
+        "BaseType": "Ruthless Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Earthquake": [
+      {
+        "Name": "Vaal Earthquake",
+        "BaseType": "Vaal Earthquake",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Block Chance Reduction Support": [
+      {
+        "Name": "Block Chance Reduction Support",
+        "BaseType": "Block Chance Reduction Support",
+        "Special": "20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Snipe": [
+      {
+        "Name": "Snipe",
+        "BaseType": "Snipe",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Conductivity": [
+      {
+        "Name": "Conductivity",
+        "BaseType": "Conductivity",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Steelskin": [
+      {
+        "Name": "Steelskin",
+        "BaseType": "Steelskin",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ballista Totem Support": [
+      {
+        "Name": "Ballista Totem Support",
+        "BaseType": "Ballista Totem Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Urgent Orders Support": [
+      {
+        "Name": "Urgent Orders Support",
+        "BaseType": "Urgent Orders Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spellblade Support": [
+      {
+        "Name": "Spellblade Support",
+        "BaseType": "Spellblade Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Arrow": [
+      {
+        "Name": "Lightning Arrow",
+        "BaseType": "Lightning Arrow",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mark On Hit Support": [
+      {
+        "Name": "Mark On Hit Support",
+        "BaseType": "Mark On Hit Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Molten Shell": [
+      {
+        "Name": "Molten Shell",
+        "BaseType": "Molten Shell",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Toxic Rain": [
+      {
+        "Name": "Toxic Rain",
+        "BaseType": "Toxic Rain",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ignite Proliferation Support": [
+      {
+        "Name": "Ignite Proliferation Support",
+        "BaseType": "Ignite Proliferation Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Double Strike": [
+      {
+        "Name": "Vaal Double Strike",
+        "BaseType": "Vaal Double Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wrath": [
+      {
+        "Name": "Wrath",
+        "BaseType": "Wrath",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Deadly Ailments Support": [
+      {
+        "Name": "Deadly Ailments Support",
+        "BaseType": "Deadly Ailments Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bone Offering": [
+      {
+        "Name": "Bone Offering",
+        "BaseType": "Bone Offering",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Ice Golem": [
+      {
+        "Name": "Summon Ice Golem",
+        "BaseType": "Summon Ice Golem",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Skitterbots": [
+      {
+        "Name": "Summon Skitterbots",
+        "BaseType": "Summon Skitterbots",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Storm Call": [
+      {
+        "Name": "Storm Call",
+        "BaseType": "Storm Call",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trinity Support": [
+      {
+        "Name": "Trinity Support",
+        "BaseType": "Trinity Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Lightning Arrow": [
+      {
+        "Name": "Vaal Lightning Arrow",
+        "BaseType": "Vaal Lightning Arrow",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kinetic Blast": [
+      {
+        "Name": "Kinetic Blast",
+        "BaseType": "Kinetic Blast",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Cyclone": [
+      {
+        "Name": "Vaal Cyclone",
+        "BaseType": "Vaal Cyclone",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Mark": [
+      {
+        "Name": "Assassin's Mark",
+        "BaseType": "Assassin's Mark",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Explosive Arrow": [
+      {
+        "Name": "Explosive Arrow",
+        "BaseType": "Explosive Arrow",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Infused Channelling Support": [
+      {
+        "Name": "Infused Channelling Support",
+        "BaseType": "Infused Channelling Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Puncture": [
+      {
+        "Name": "Puncture",
+        "BaseType": "Puncture",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Exsanguinate": [
+      {
+        "Name": "Exsanguinate",
+        "BaseType": "Exsanguinate",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Trap": [
+      {
+        "Name": "Ice Trap",
+        "BaseType": "Ice Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fire Penetration Support": [
+      {
+        "Name": "Fire Penetration Support",
+        "BaseType": "Fire Penetration Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hydrosphere": [
+      {
+        "Name": "Hydrosphere",
+        "BaseType": "Hydrosphere",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chance to Poison Support": [
+      {
+        "Name": "Chance to Poison Support",
+        "BaseType": "Chance to Poison Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Power Siphon": [
+      {
+        "Name": "Power Siphon",
+        "BaseType": "Power Siphon",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spectral Shield Throw": [
+      {
+        "Name": "Spectral Shield Throw",
+        "BaseType": "Spectral Shield Throw",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Animate Weapon": [
+      {
+        "Name": "Vaal Animate Weapon",
+        "BaseType": "Vaal Animate Weapon",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zealotry": [
+      {
+        "Name": "Zealotry",
+        "BaseType": "Zealotry",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Second Wind Support": [
+      {
+        "Name": "Second Wind Support",
+        "BaseType": "Second Wind Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Faster Attacks Support": [
+      {
+        "Name": "Faster Attacks Support",
+        "BaseType": "Faster Attacks Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mana Leech Support": [
+      {
+        "Name": "Mana Leech Support",
+        "BaseType": "Mana Leech Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vitality": [
+      {
+        "Name": "Vitality",
+        "BaseType": "Vitality",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lifetap Support": [
+      {
+        "Name": "Lifetap Support",
+        "BaseType": "Lifetap Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacred Wisps Support": [
+      {
+        "Name": "Sacred Wisps Support",
+        "BaseType": "Sacred Wisps Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Eviscerate": [
+      {
+        "Name": "Eviscerate",
+        "BaseType": "Eviscerate",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Impending Doom Support": [
+      {
+        "Name": "Impending Doom Support",
+        "BaseType": "Impending Doom Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Stone Golem": [
+      {
+        "Name": "Summon Stone Golem",
+        "BaseType": "Summon Stone Golem",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Defiance Banner": [
+      {
+        "Name": "Defiance Banner",
+        "BaseType": "Defiance Banner",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kinetic Fusillade": [
+      {
+        "Name": "Kinetic Fusillade",
+        "BaseType": "Kinetic Fusillade",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Summon Flame Golem": [
+      {
+        "Name": "Summon Flame Golem",
+        "BaseType": "Summon Flame Golem",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Meat Shield Support": [
+      {
+        "Name": "Meat Shield Support",
+        "BaseType": "Meat Shield Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Absolution": [
+      {
+        "Name": "Absolution",
+        "BaseType": "Absolution",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pierce Support": [
+      {
+        "Name": "Pierce Support",
+        "BaseType": "Pierce Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Precision": [
+      {
+        "Name": "Precision",
+        "BaseType": "Precision",
+        "Special": "21c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Controlled Destruction Support": [
+      {
+        "Name": "Controlled Destruction Support",
+        "BaseType": "Controlled Destruction Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Caustic Arrow": [
+      {
+        "Name": "Caustic Arrow",
+        "BaseType": "Caustic Arrow",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spell Echo Support": [
+      {
+        "Name": "Spell Echo Support",
+        "BaseType": "Spell Echo Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Volcanic Fissure": [
+      {
+        "Name": "Volcanic Fissure",
+        "BaseType": "Volcanic Fissure",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minefield Support": [
+      {
+        "Name": "Minefield Support",
+        "BaseType": "Minefield Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hypothermia Support": [
+      {
+        "Name": "Hypothermia Support",
+        "BaseType": "Hypothermia Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spirit Offering": [
+      {
+        "Name": "Spirit Offering",
+        "BaseType": "Spirit Offering",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Autoexertion": [
+      {
+        "Name": "Autoexertion",
+        "BaseType": "Autoexertion",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Faster Casting Support": [
+      {
+        "Name": "Faster Casting Support",
+        "BaseType": "Faster Casting Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Molten Strike": [
+      {
+        "Name": "Vaal Molten Strike",
+        "BaseType": "Vaal Molten Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cold Penetration Support": [
+      {
+        "Name": "Cold Penetration Support",
+        "BaseType": "Cold Penetration Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Charged Mines Support": [
+      {
+        "Name": "Charged Mines Support",
+        "BaseType": "Charged Mines Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Increased Critical Strikes Support": [
+      {
+        "Name": "Increased Critical Strikes Support",
+        "BaseType": "Increased Critical Strikes Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shield Charge": [
+      {
+        "Name": "Shield Charge",
+        "BaseType": "Shield Charge",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Flameblast": [
+      {
+        "Name": "Vaal Flameblast",
+        "BaseType": "Vaal Flameblast",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Grace": [
+      {
+        "Name": "Grace",
+        "BaseType": "Grace",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Withering Touch Support": [
+      {
+        "Name": "Withering Touch Support",
+        "BaseType": "Withering Touch Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Reave": [
+      {
+        "Name": "Vaal Reave",
+        "BaseType": "Vaal Reave",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fireball": [
+      {
+        "Name": "Fireball",
+        "BaseType": "Fireball",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Phase Run": [
+      {
+        "Name": "Phase Run",
+        "BaseType": "Phase Run",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Culling Strike Support": [
+      {
+        "Name": "Culling Strike Support",
+        "BaseType": "Culling Strike Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Focus Support": [
+      {
+        "Name": "Elemental Focus Support",
+        "BaseType": "Elemental Focus Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vile Toxins Support": [
+      {
+        "Name": "Vile Toxins Support",
+        "BaseType": "Vile Toxins Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Charged Traps Support": [
+      {
+        "Name": "Charged Traps Support",
+        "BaseType": "Charged Traps Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Power Charge On Critical Support": [
+      {
+        "Name": "Power Charge On Critical Support",
+        "BaseType": "Power Charge On Critical Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flicker Strike": [
+      {
+        "Name": "Flicker Strike",
+        "BaseType": "Flicker Strike",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Lightning Golem": [
+      {
+        "Name": "Summon Lightning Golem",
+        "BaseType": "Summon Lightning Golem",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Firestorm": [
+      {
+        "Name": "Vaal Firestorm",
+        "BaseType": "Vaal Firestorm",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Immolate Support": [
+      {
+        "Name": "Immolate Support",
+        "BaseType": "Immolate Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Weakness": [
+      {
+        "Name": "Elemental Weakness",
+        "BaseType": "Elemental Weakness",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Archmage Support": [
+      {
+        "Name": "Archmage Support",
+        "BaseType": "Archmage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cruelty Support": [
+      {
+        "Name": "Cruelty Support",
+        "BaseType": "Cruelty Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shield Crush": [
+      {
+        "Name": "Shield Crush",
+        "BaseType": "Shield Crush",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decay Support": [
+      {
+        "Name": "Decay Support",
+        "BaseType": "Decay Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "War Banner": [
+      {
+        "Name": "War Banner",
+        "BaseType": "War Banner",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tornado Shot": [
+      {
+        "Name": "Tornado Shot",
+        "BaseType": "Tornado Shot",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Bite Support": [
+      {
+        "Name": "Ice Bite Support",
+        "BaseType": "Ice Bite Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blood Rage": [
+      {
+        "Name": "Blood Rage",
+        "BaseType": "Blood Rage",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Item Rarity Support": [
+      {
+        "Name": "Item Rarity Support",
+        "BaseType": "Item Rarity Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Punishment": [
+      {
+        "Name": "Punishment",
+        "BaseType": "Punishment",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Enfeeble": [
+      {
+        "Name": "Enfeeble",
+        "BaseType": "Enfeeble",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blind Support": [
+      {
+        "Name": "Blind Support",
+        "BaseType": "Blind Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frostblink": [
+      {
+        "Name": "Frostblink",
+        "BaseType": "Frostblink",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flame Wall": [
+      {
+        "Name": "Flame Wall",
+        "BaseType": "Flame Wall",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Momentum Support": [
+      {
+        "Name": "Momentum Support",
+        "BaseType": "Momentum Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expert Retaliation Support": [
+      {
+        "Name": "Expert Retaliation Support",
+        "BaseType": "Expert Retaliation Support",
+        "Special": "20/23c",
+        "Aspects": []
+      }
+    ],
+    "Arcane Surge Support": [
+      {
+        "Name": "Arcane Surge Support",
+        "BaseType": "Arcane Surge Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fortify Support": [
+      {
+        "Name": "Fortify Support",
+        "BaseType": "Fortify Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Close Combat Support": [
+      {
+        "Name": "Close Combat Support",
+        "BaseType": "Close Combat Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "High-Impact Mine Support": [
+      {
+        "Name": "High-Impact Mine Support",
+        "BaseType": "High-Impact Mine Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tornado": [
+      {
+        "Name": "Tornado",
+        "BaseType": "Tornado",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frost Blades": [
+      {
+        "Name": "Frost Blades",
+        "BaseType": "Frost Blades",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Crash": [
+      {
+        "Name": "Ice Crash",
+        "BaseType": "Ice Crash",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spellslinger": [
+      {
+        "Name": "Spellslinger",
+        "BaseType": "Spellslinger",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Guardian's Blessing Support": [
+      {
+        "Name": "Guardian's Blessing Support",
+        "BaseType": "Guardian's Blessing Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Retribution": [
+      {
+        "Name": "Divine Retribution",
+        "BaseType": "Divine Retribution",
+        "Special": "20c",
+        "Aspects": []
+      }
+    ],
+    "Summon Chaos Golem": [
+      {
+        "Name": "Summon Chaos Golem",
+        "BaseType": "Summon Chaos Golem",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Intuitive Link": [
+      {
+        "Name": "Intuitive Link",
+        "BaseType": "Intuitive Link",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arctic Armour": [
+      {
+        "Name": "Arctic Armour",
+        "BaseType": "Arctic Armour",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Withering Step": [
+      {
+        "Name": "Withering Step",
+        "BaseType": "Withering Step",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frenzy": [
+      {
+        "Name": "Frenzy",
+        "BaseType": "Frenzy",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Overcharge Support": [
+      {
+        "Name": "Overcharge Support",
+        "BaseType": "Overcharge Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Volcanic Fissure": [
+      {
+        "Name": "Vaal Volcanic Fissure",
+        "BaseType": "Vaal Volcanic Fissure",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dominating Blow": [
+      {
+        "Name": "Dominating Blow",
+        "BaseType": "Dominating Blow",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast On Critical Strike Support": [
+      {
+        "Name": "Cast On Critical Strike Support",
+        "BaseType": "Cast On Critical Strike Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Physical to Lightning Support": [
+      {
+        "Name": "Physical to Lightning Support",
+        "BaseType": "Physical to Lightning Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast on Death Support": [
+      {
+        "Name": "Cast on Death Support",
+        "BaseType": "Cast on Death Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Explosive Trap": [
+      {
+        "Name": "Explosive Trap",
+        "BaseType": "Explosive Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hatred": [
+      {
+        "Name": "Hatred",
+        "BaseType": "Hatred",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Trap": [
+      {
+        "Name": "Lightning Trap",
+        "BaseType": "Lightning Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcane Cloak": [
+      {
+        "Name": "Arcane Cloak",
+        "BaseType": "Arcane Cloak",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancestral Call Support": [
+      {
+        "Name": "Ancestral Call Support",
+        "BaseType": "Ancestral Call Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Ice Shot": [
+      {
+        "Name": "Vaal Ice Shot",
+        "BaseType": "Vaal Ice Shot",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arc": [
+      {
+        "Name": "Arc",
+        "BaseType": "Arc",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wild Strike": [
+      {
+        "Name": "Wild Strike",
+        "BaseType": "Wild Strike",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Energy Blade": [
+      {
+        "Name": "Energy Blade",
+        "BaseType": "Energy Blade",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Hammers": [
+      {
+        "Name": "Holy Hammers",
+        "BaseType": "Holy Hammers",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Lacerate": [
+      {
+        "Name": "Lacerate",
+        "BaseType": "Lacerate",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Endurance Charge on Melee Stun Support": [
+      {
+        "Name": "Endurance Charge on Melee Stun Support",
+        "BaseType": "Endurance Charge on Melee Stun Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Detonate Dead": [
+      {
+        "Name": "Vaal Detonate Dead",
+        "BaseType": "Vaal Detonate Dead",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Manaforged Arrows Support": [
+      {
+        "Name": "Manaforged Arrows Support",
+        "BaseType": "Manaforged Arrows Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Slower Projectiles Support": [
+      {
+        "Name": "Slower Projectiles Support",
+        "BaseType": "Slower Projectiles Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Venom Gyre": [
+      {
+        "Name": "Venom Gyre",
+        "BaseType": "Venom Gyre",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Warp": [
+      {
+        "Name": "Lightning Warp",
+        "BaseType": "Lightning Warp",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Swift Assembly Support": [
+      {
+        "Name": "Swift Assembly Support",
+        "BaseType": "Swift Assembly Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Swiftbrand Support": [
+      {
+        "Name": "Swiftbrand Support",
+        "BaseType": "Swiftbrand Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Carrion Golem": [
+      {
+        "Name": "Summon Carrion Golem",
+        "BaseType": "Summon Carrion Golem",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Firestorm": [
+      {
+        "Name": "Firestorm",
+        "BaseType": "Firestorm",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Static Strike": [
+      {
+        "Name": "Static Strike",
+        "BaseType": "Static Strike",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Glacial Hammer": [
+      {
+        "Name": "Vaal Glacial Hammer",
+        "BaseType": "Vaal Glacial Hammer",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Voltaxic Burst": [
+      {
+        "Name": "Voltaxic Burst",
+        "BaseType": "Voltaxic Burst",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "General's Cry": [
+      {
+        "Name": "General's Cry",
+        "BaseType": "General's Cry",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Advanced Traps Support": [
+      {
+        "Name": "Advanced Traps Support",
+        "BaseType": "Advanced Traps Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cold to Fire Support": [
+      {
+        "Name": "Cold to Fire Support",
+        "BaseType": "Cold to Fire Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Army Support": [
+      {
+        "Name": "Elemental Army Support",
+        "BaseType": "Elemental Army Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Ice Nova": [
+      {
+        "Name": "Vaal Ice Nova",
+        "BaseType": "Vaal Ice Nova",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Blight": [
+      {
+        "Name": "Vaal Blight",
+        "BaseType": "Vaal Blight",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spectral Helix": [
+      {
+        "Name": "Spectral Helix",
+        "BaseType": "Spectral Helix",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Poisonous Concoction": [
+      {
+        "Name": "Poisonous Concoction",
+        "BaseType": "Poisonous Concoction",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sunder": [
+      {
+        "Name": "Sunder",
+        "BaseType": "Sunder",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Multiple Totems Support": [
+      {
+        "Name": "Multiple Totems Support",
+        "BaseType": "Multiple Totems Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Spark": [
+      {
+        "Name": "Vaal Spark",
+        "BaseType": "Vaal Spark",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bladestorm": [
+      {
+        "Name": "Bladestorm",
+        "BaseType": "Bladestorm",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Detonate Dead": [
+      {
+        "Name": "Detonate Dead",
+        "BaseType": "Detonate Dead",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flammability": [
+      {
+        "Name": "Flammability",
+        "BaseType": "Flammability",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Storm Rain": [
+      {
+        "Name": "Storm Rain",
+        "BaseType": "Storm Rain",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vigilant Strike": [
+      {
+        "Name": "Vigilant Strike",
+        "BaseType": "Vigilant Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Earthshatter": [
+      {
+        "Name": "Earthshatter",
+        "BaseType": "Earthshatter",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vortex": [
+      {
+        "Name": "Vortex",
+        "BaseType": "Vortex",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flame Dash": [
+      {
+        "Name": "Flame Dash",
+        "BaseType": "Flame Dash",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Raging Spirit": [
+      {
+        "Name": "Summon Raging Spirit",
+        "BaseType": "Summon Raging Spirit",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Temporal Chains": [
+      {
+        "Name": "Temporal Chains",
+        "BaseType": "Temporal Chains",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Nova": [
+      {
+        "Name": "Ice Nova",
+        "BaseType": "Ice Nova",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Seismic Trap": [
+      {
+        "Name": "Seismic Trap",
+        "BaseType": "Seismic Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bonechill Support": [
+      {
+        "Name": "Bonechill Support",
+        "BaseType": "Bonechill Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Flame Totem": [
+      {
+        "Name": "Holy Flame Totem",
+        "BaseType": "Holy Flame Totem",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shockwave Support": [
+      {
+        "Name": "Shockwave Support",
+        "BaseType": "Shockwave Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pinpoint Support": [
+      {
+        "Name": "Pinpoint Support",
+        "BaseType": "Pinpoint Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Animate Weapon": [
+      {
+        "Name": "Animate Weapon",
+        "BaseType": "Animate Weapon",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Storm Burst": [
+      {
+        "Name": "Storm Burst",
+        "BaseType": "Storm Burst",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Feeding Frenzy Support": [
+      {
+        "Name": "Feeding Frenzy Support",
+        "BaseType": "Feeding Frenzy Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Spire Trap": [
+      {
+        "Name": "Lightning Spire Trap",
+        "BaseType": "Lightning Spire Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sacrifice Support": [
+      {
+        "Name": "Sacrifice Support",
+        "BaseType": "Sacrifice Support",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Strike": [
+      {
+        "Name": "Holy Strike",
+        "BaseType": "Holy Strike",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Energy Leech Support": [
+      {
+        "Name": "Energy Leech Support",
+        "BaseType": "Energy Leech Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Battlemage's Cry": [
+      {
+        "Name": "Battlemage's Cry",
+        "BaseType": "Battlemage's Cry",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chain Support": [
+      {
+        "Name": "Chain Support",
+        "BaseType": "Chain Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Viper Strike": [
+      {
+        "Name": "Viper Strike",
+        "BaseType": "Viper Strike",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Impale Support": [
+      {
+        "Name": "Impale Support",
+        "BaseType": "Impale Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Discharge": [
+      {
+        "Name": "Discharge",
+        "BaseType": "Discharge",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cold Snap": [
+      {
+        "Name": "Cold Snap",
+        "BaseType": "Cold Snap",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spell Cascade Support": [
+      {
+        "Name": "Spell Cascade Support",
+        "BaseType": "Spell Cascade Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Added Lightning Damage Support": [
+      {
+        "Name": "Added Lightning Damage Support",
+        "BaseType": "Added Lightning Damage Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Galvanic Arrow": [
+      {
+        "Name": "Galvanic Arrow",
+        "BaseType": "Galvanic Arrow",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Holy Sweep": [
+      {
+        "Name": "Holy Sweep",
+        "BaseType": "Holy Sweep",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Added Fire Damage Support": [
+      {
+        "Name": "Added Fire Damage Support",
+        "BaseType": "Added Fire Damage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Shot": [
+      {
+        "Name": "Ice Shot",
+        "BaseType": "Ice Shot",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Double Strike": [
+      {
+        "Name": "Double Strike",
+        "BaseType": "Double Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Devouring Totem": [
+      {
+        "Name": "Devouring Totem",
+        "BaseType": "Devouring Totem",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Whirling Blades": [
+      {
+        "Name": "Whirling Blades",
+        "BaseType": "Whirling Blades",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Combustion Support": [
+      {
+        "Name": "Combustion Support",
+        "BaseType": "Combustion Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crackling Lance": [
+      {
+        "Name": "Crackling Lance",
+        "BaseType": "Crackling Lance",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Predator Support": [
+      {
+        "Name": "Predator Support",
+        "BaseType": "Predator Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flame Link": [
+      {
+        "Name": "Flame Link",
+        "BaseType": "Flame Link",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Alchemist's Mark": [
+      {
+        "Name": "Alchemist's Mark",
+        "BaseType": "Alchemist's Mark",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flamewood Support": [
+      {
+        "Name": "Flamewood Support",
+        "BaseType": "Flamewood Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bear Trap": [
+      {
+        "Name": "Bear Trap",
+        "BaseType": "Bear Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Overexertion Support": [
+      {
+        "Name": "Overexertion Support",
+        "BaseType": "Overexertion Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Shockwave Totem": [
+      {
+        "Name": "Shockwave Totem",
+        "BaseType": "Shockwave Totem",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soul Link": [
+      {
+        "Name": "Soul Link",
+        "BaseType": "Soul Link",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Plague Bearer": [
+      {
+        "Name": "Plague Bearer",
+        "BaseType": "Plague Bearer",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Corrupting Fever": [
+      {
+        "Name": "Corrupting Fever",
+        "BaseType": "Corrupting Fever",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Storm Brand": [
+      {
+        "Name": "Storm Brand",
+        "BaseType": "Storm Brand",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Raise Zombie": [
+      {
+        "Name": "Raise Zombie",
+        "BaseType": "Raise Zombie",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spell Totem Support": [
+      {
+        "Name": "Spell Totem Support",
+        "BaseType": "Spell Totem Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Intimidating Cry": [
+      {
+        "Name": "Intimidating Cry",
+        "BaseType": "Intimidating Cry",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Strike": [
+      {
+        "Name": "Lightning Strike",
+        "BaseType": "Lightning Strike",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Split Arrow": [
+      {
+        "Name": "Split Arrow",
+        "BaseType": "Split Arrow",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rejuvenation Totem": [
+      {
+        "Name": "Rejuvenation Totem",
+        "BaseType": "Rejuvenation Totem",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Contagion": [
+      {
+        "Name": "Contagion",
+        "BaseType": "Contagion",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sadism Support": [
+      {
+        "Name": "Sadism Support",
+        "BaseType": "Sadism Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Nightblade Support": [
+      {
+        "Name": "Nightblade Support",
+        "BaseType": "Nightblade Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast on Melee Kill Support": [
+      {
+        "Name": "Cast on Melee Kill Support",
+        "BaseType": "Cast on Melee Kill Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mirage Archer Support": [
+      {
+        "Name": "Mirage Archer Support",
+        "BaseType": "Mirage Archer Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Intensify Support": [
+      {
+        "Name": "Intensify Support",
+        "BaseType": "Intensify Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shock Nova": [
+      {
+        "Name": "Shock Nova",
+        "BaseType": "Shock Nova",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Skeletons": [
+      {
+        "Name": "Summon Skeletons",
+        "BaseType": "Summon Skeletons",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mirror Arrow": [
+      {
+        "Name": "Mirror Arrow",
+        "BaseType": "Mirror Arrow",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blasphemy Support": [
+      {
+        "Name": "Blasphemy Support",
+        "BaseType": "Blasphemy Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Berserk": [
+      {
+        "Name": "Berserk",
+        "BaseType": "Berserk",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perforate": [
+      {
+        "Name": "Perforate",
+        "BaseType": "Perforate",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frostbite": [
+      {
+        "Name": "Frostbite",
+        "BaseType": "Frostbite",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flame Surge": [
+      {
+        "Name": "Flame Surge",
+        "BaseType": "Flame Surge",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ground Slam": [
+      {
+        "Name": "Ground Slam",
+        "BaseType": "Ground Slam",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Will Support": [
+      {
+        "Name": "Iron Will Support",
+        "BaseType": "Iron Will Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pyroclast Mine": [
+      {
+        "Name": "Pyroclast Mine",
+        "BaseType": "Pyroclast Mine",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frozen Legion": [
+      {
+        "Name": "Frozen Legion",
+        "BaseType": "Frozen Legion",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glacial Shield Swipe": [
+      {
+        "Name": "Glacial Shield Swipe",
+        "BaseType": "Glacial Shield Swipe",
+        "Special": "20c",
+        "Aspects": []
+      }
+    ],
+    "Rallying Cry": [
+      {
+        "Name": "Rallying Cry",
+        "BaseType": "Rallying Cry",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Faster Projectiles Support": [
+      {
+        "Name": "Faster Projectiles Support",
+        "BaseType": "Faster Projectiles Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Explosive Concoction": [
+      {
+        "Name": "Explosive Concoction",
+        "BaseType": "Explosive Concoction",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Cold Snap": [
+      {
+        "Name": "Vaal Cold Snap",
+        "BaseType": "Vaal Cold Snap",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Consecrated Path": [
+      {
+        "Name": "Consecrated Path",
+        "BaseType": "Consecrated Path",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Storm Call": [
+      {
+        "Name": "Vaal Storm Call",
+        "BaseType": "Vaal Storm Call",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frost Shield": [
+      {
+        "Name": "Frost Shield",
+        "BaseType": "Frost Shield",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frostbolt": [
+      {
+        "Name": "Frostbolt",
+        "BaseType": "Frostbolt",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spectral Throw": [
+      {
+        "Name": "Spectral Throw",
+        "BaseType": "Spectral Throw",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kinetic Bolt": [
+      {
+        "Name": "Kinetic Bolt",
+        "BaseType": "Kinetic Bolt",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fork Support": [
+      {
+        "Name": "Fork Support",
+        "BaseType": "Fork Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bane": [
+      {
+        "Name": "Bane",
+        "BaseType": "Bane",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ensnaring Arrow": [
+      {
+        "Name": "Ensnaring Arrow",
+        "BaseType": "Ensnaring Arrow",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cursed Ground Support": [
+      {
+        "Name": "Cursed Ground Support",
+        "BaseType": "Cursed Ground Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Excommunicate Support": [
+      {
+        "Name": "Excommunicate Support",
+        "BaseType": "Excommunicate Support",
+        "Special": "20/23c",
+        "Aspects": []
+      }
+    ],
+    "Clarity": [
+      {
+        "Name": "Clarity",
+        "BaseType": "Clarity",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rolling Magma": [
+      {
+        "Name": "Rolling Magma",
+        "BaseType": "Rolling Magma",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soulrend": [
+      {
+        "Name": "Soulrend",
+        "BaseType": "Soulrend",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cleave": [
+      {
+        "Name": "Cleave",
+        "BaseType": "Cleave",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Minion Speed Support": [
+      {
+        "Name": "Minion Speed Support",
+        "BaseType": "Minion Speed Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scourge Arrow": [
+      {
+        "Name": "Scourge Arrow",
+        "BaseType": "Scourge Arrow",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Forbidden Rite": [
+      {
+        "Name": "Forbidden Rite",
+        "BaseType": "Forbidden Rite",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Holy Relic": [
+      {
+        "Name": "Summon Holy Relic",
+        "BaseType": "Summon Holy Relic",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Conversion Trap": [
+      {
+        "Name": "Conversion Trap",
+        "BaseType": "Conversion Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Desecrate": [
+      {
+        "Name": "Desecrate",
+        "BaseType": "Desecrate",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leap Slam": [
+      {
+        "Name": "Leap Slam",
+        "BaseType": "Leap Slam",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Volatile Dead": [
+      {
+        "Name": "Volatile Dead",
+        "BaseType": "Volatile Dead",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spark": [
+      {
+        "Name": "Spark",
+        "BaseType": "Spark",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blink Arrow": [
+      {
+        "Name": "Blink Arrow",
+        "BaseType": "Blink Arrow",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Innervate Support": [
+      {
+        "Name": "Innervate Support",
+        "BaseType": "Innervate Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blade Flurry": [
+      {
+        "Name": "Blade Flurry",
+        "BaseType": "Blade Flurry",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Maim Support": [
+      {
+        "Name": "Maim Support",
+        "BaseType": "Maim Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vulnerability": [
+      {
+        "Name": "Vulnerability",
+        "BaseType": "Vulnerability",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Melee Splash Support": [
+      {
+        "Name": "Melee Splash Support",
+        "BaseType": "Melee Splash Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Life Gain on Hit Support": [
+      {
+        "Name": "Life Gain on Hit Support",
+        "BaseType": "Life Gain on Hit Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Power Siphon": [
+      {
+        "Name": "Vaal Power Siphon",
+        "BaseType": "Vaal Power Siphon",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ice Spear": [
+      {
+        "Name": "Ice Spear",
+        "BaseType": "Ice Spear",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Charged Dash": [
+      {
+        "Name": "Charged Dash",
+        "BaseType": "Charged Dash",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Winter Orb": [
+      {
+        "Name": "Winter Orb",
+        "BaseType": "Winter Orb",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wintertide Brand": [
+      {
+        "Name": "Wintertide Brand",
+        "BaseType": "Wintertide Brand",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hex Bloom Support": [
+      {
+        "Name": "Hex Bloom Support",
+        "BaseType": "Hex Bloom Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Corrupting Cry Support": [
+      {
+        "Name": "Corrupting Cry Support",
+        "BaseType": "Corrupting Cry Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Windburst Support": [
+      {
+        "Name": "Windburst Support",
+        "BaseType": "Windburst Support",
+        "Special": "20/20c",
+        "Aspects": []
+      }
+    ],
+    "Living Lightning Support": [
+      {
+        "Name": "Living Lightning Support",
+        "BaseType": "Living Lightning Support",
+        "Special": "20c",
+        "Aspects": []
+      }
+    ],
+    "Divine Blast": [
+      {
+        "Name": "Divine Blast",
+        "BaseType": "Divine Blast",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Void Sphere": [
+      {
+        "Name": "Void Sphere",
+        "BaseType": "Void Sphere",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Essence Drain": [
+      {
+        "Name": "Essence Drain",
+        "BaseType": "Essence Drain",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wither": [
+      {
+        "Name": "Wither",
+        "BaseType": "Wither",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dual Strike": [
+      {
+        "Name": "Dual Strike",
+        "BaseType": "Dual Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flamethrower Trap": [
+      {
+        "Name": "Flamethrower Trap",
+        "BaseType": "Flamethrower Trap",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Blade Flurry": [
+      {
+        "Name": "Vaal Blade Flurry",
+        "BaseType": "Vaal Blade Flurry",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Dark Pact": [
+      {
+        "Name": "Dark Pact",
+        "BaseType": "Dark Pact",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Penance Brand": [
+      {
+        "Name": "Penance Brand",
+        "BaseType": "Penance Brand",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hexblast": [
+      {
+        "Name": "Hexblast",
+        "BaseType": "Hexblast",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Infernal Cry": [
+      {
+        "Name": "Infernal Cry",
+        "BaseType": "Infernal Cry",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Volley Support": [
+      {
+        "Name": "Volley Support",
+        "BaseType": "Volley Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Ire": [
+      {
+        "Name": "Divine Ire",
+        "BaseType": "Divine Ire",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Fresh Meat Support": [
+      {
+        "Name": "Fresh Meat Support",
+        "BaseType": "Fresh Meat Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Earthquake": [
+      {
+        "Name": "Earthquake",
+        "BaseType": "Earthquake",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pestilent Strike": [
+      {
+        "Name": "Pestilent Strike",
+        "BaseType": "Pestilent Strike",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shrapnel Ballista": [
+      {
+        "Name": "Shrapnel Ballista",
+        "BaseType": "Shrapnel Ballista",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Searing Bond": [
+      {
+        "Name": "Searing Bond",
+        "BaseType": "Searing Bond",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glacial Cascade": [
+      {
+        "Name": "Glacial Cascade",
+        "BaseType": "Glacial Cascade",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cast while Channelling Support": [
+      {
+        "Name": "Cast while Channelling Support",
+        "BaseType": "Cast while Channelling Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chance to Bleed Support": [
+      {
+        "Name": "Chance to Bleed Support",
+        "BaseType": "Chance to Bleed Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unleash Support": [
+      {
+        "Name": "Unleash Support",
+        "BaseType": "Unleash Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancestral Cry": [
+      {
+        "Name": "Ancestral Cry",
+        "BaseType": "Ancestral Cry",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Behead Support": [
+      {
+        "Name": "Behead Support",
+        "BaseType": "Behead Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Conduit": [
+      {
+        "Name": "Lightning Conduit",
+        "BaseType": "Lightning Conduit",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Multiple Projectiles Support": [
+      {
+        "Name": "Multiple Projectiles Support",
+        "BaseType": "Multiple Projectiles Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cobra Lash": [
+      {
+        "Name": "Cobra Lash",
+        "BaseType": "Cobra Lash",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ambush": [
+      {
+        "Name": "Ambush",
+        "BaseType": "Ambush",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blight": [
+      {
+        "Name": "Blight",
+        "BaseType": "Blight",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Purifying Flame": [
+      {
+        "Name": "Purifying Flame",
+        "BaseType": "Purifying Flame",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Poacher's Mark": [
+      {
+        "Name": "Poacher's Mark",
+        "BaseType": "Poacher's Mark",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Freezing Pulse": [
+      {
+        "Name": "Freezing Pulse",
+        "BaseType": "Freezing Pulse",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Reave": [
+      {
+        "Name": "Reave",
+        "BaseType": "Reave",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ball Lightning": [
+      {
+        "Name": "Ball Lightning",
+        "BaseType": "Ball Lightning",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arrow Nova Support": [
+      {
+        "Name": "Arrow Nova Support",
+        "BaseType": "Arrow Nova Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stormblast Mine": [
+      {
+        "Name": "Stormblast Mine",
+        "BaseType": "Stormblast Mine",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Spectral Throw": [
+      {
+        "Name": "Vaal Spectral Throw",
+        "BaseType": "Vaal Spectral Throw",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blast Rain": [
+      {
+        "Name": "Blast Rain",
+        "BaseType": "Blast Rain",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cremation": [
+      {
+        "Name": "Cremation",
+        "BaseType": "Cremation",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chain Hook": [
+      {
+        "Name": "Chain Hook",
+        "BaseType": "Chain Hook",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rage Vortex": [
+      {
+        "Name": "Rage Vortex",
+        "BaseType": "Rage Vortex",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Destructive Link": [
+      {
+        "Name": "Destructive Link",
+        "BaseType": "Destructive Link",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Convocation": [
+      {
+        "Name": "Convocation",
+        "BaseType": "Convocation",
+        "Special": "1/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frost Bomb": [
+      {
+        "Name": "Frost Bomb",
+        "BaseType": "Frost Bomb",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prismatic Burst Support": [
+      {
+        "Name": "Prismatic Burst Support",
+        "BaseType": "Prismatic Burst Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Infernal Legion Support": [
+      {
+        "Name": "Infernal Legion Support",
+        "BaseType": "Infernal Legion Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lancing Steel": [
+      {
+        "Name": "Lancing Steel",
+        "BaseType": "Lancing Steel",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Brand Recall": [
+      {
+        "Name": "Brand Recall",
+        "BaseType": "Brand Recall",
+        "Special": "6c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blastchain Mine Support": [
+      {
+        "Name": "Blastchain Mine Support",
+        "BaseType": "Blastchain Mine Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Focused Ballista Support": [
+      {
+        "Name": "Focused Ballista Support",
+        "BaseType": "Focused Ballista Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trauma Support": [
+      {
+        "Name": "Trauma Support",
+        "BaseType": "Trauma Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warlord's Mark": [
+      {
+        "Name": "Warlord's Mark",
+        "BaseType": "Warlord's Mark",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Artillery Ballista": [
+      {
+        "Name": "Artillery Ballista",
+        "BaseType": "Artillery Ballista",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Fireball": [
+      {
+        "Name": "Vaal Fireball",
+        "BaseType": "Vaal Fireball",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Barrage": [
+      {
+        "Name": "Barrage",
+        "BaseType": "Barrage",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scorching Ray": [
+      {
+        "Name": "Scorching Ray",
+        "BaseType": "Scorching Ray",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bodyswap": [
+      {
+        "Name": "Bodyswap",
+        "BaseType": "Bodyswap",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ethereal Knives": [
+      {
+        "Name": "Ethereal Knives",
+        "BaseType": "Ethereal Knives",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Infernal Blow": [
+      {
+        "Name": "Infernal Blow",
+        "BaseType": "Infernal Blow",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Frost Wall": [
+      {
+        "Name": "Frost Wall",
+        "BaseType": "Frost Wall",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Burning Arrow": [
+      {
+        "Name": "Burning Arrow",
+        "BaseType": "Burning Arrow",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flameblast": [
+      {
+        "Name": "Flameblast",
+        "BaseType": "Flameblast",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Incinerate": [
+      {
+        "Name": "Incinerate",
+        "BaseType": "Incinerate",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bladefall": [
+      {
+        "Name": "Bladefall",
+        "BaseType": "Bladefall",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lightning Tendrils": [
+      {
+        "Name": "Lightning Tendrils",
+        "BaseType": "Lightning Tendrils",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Point Blank Support": [
+      {
+        "Name": "Point Blank Support",
+        "BaseType": "Point Blank Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Life Leech Support": [
+      {
+        "Name": "Life Leech Support",
+        "BaseType": "Life Leech Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Smoke Mine": [
+      {
+        "Name": "Smoke Mine",
+        "BaseType": "Smoke Mine",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Knockback Support": [
+      {
+        "Name": "Knockback Support",
+        "BaseType": "Knockback Support",
+        "Special": "20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shattering Steel": [
+      {
+        "Name": "Shattering Steel",
+        "BaseType": "Shattering Steel",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rage Support": [
+      {
+        "Name": "Rage Support",
+        "BaseType": "Rage Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Icicle Mine": [
+      {
+        "Name": "Icicle Mine",
+        "BaseType": "Icicle Mine",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blade Blast": [
+      {
+        "Name": "Blade Blast",
+        "BaseType": "Blade Blast",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Creeping Frost": [
+      {
+        "Name": "Creeping Frost",
+        "BaseType": "Creeping Frost",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blazing Salvo": [
+      {
+        "Name": "Blazing Salvo",
+        "BaseType": "Blazing Salvo",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stormbind": [
+      {
+        "Name": "Stormbind",
+        "BaseType": "Stormbind",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bloodthirst Support": [
+      {
+        "Name": "Bloodthirst Support",
+        "BaseType": "Bloodthirst Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Summon Reaper": [
+      {
+        "Name": "Summon Reaper",
+        "BaseType": "Summon Reaper",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boneshatter": [
+      {
+        "Name": "Boneshatter",
+        "BaseType": "Boneshatter",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blade Trap": [
+      {
+        "Name": "Blade Trap",
+        "BaseType": "Blade Trap",
+        "Special": "21/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Manabond": [
+      {
+        "Name": "Manabond",
+        "BaseType": "Manabond",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Protective Link": [
+      {
+        "Name": "Protective Link",
+        "BaseType": "Protective Link",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vampiric Link": [
+      {
+        "Name": "Vampiric Link",
+        "BaseType": "Vampiric Link",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Galvanic Field": [
+      {
+        "Name": "Galvanic Field",
+        "BaseType": "Galvanic Field",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crushing Fist": [
+      {
+        "Name": "Crushing Fist",
+        "BaseType": "Crushing Fist",
+        "Special": "20/20c",
+        "Aspects": []
+      }
+    ],
+    "Vengeful Cry": [
+      {
+        "Name": "Vengeful Cry",
+        "BaseType": "Vengeful Cry",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Focused Channelling Support": [
+      {
+        "Name": "Focused Channelling Support",
+        "BaseType": "Focused Channelling Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Conflagration": [
+      {
+        "Name": "Conflagration",
+        "BaseType": "Conflagration",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Somatic Shell": [
+      {
+        "Name": "Somatic Shell",
+        "BaseType": "Somatic Shell",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Kinetic Rain": [
+      {
+        "Name": "Kinetic Rain",
+        "BaseType": "Kinetic Rain",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Exemplar Support": [
+      {
+        "Name": "Exemplar Support",
+        "BaseType": "Exemplar Support",
+        "Special": "20/23c",
+        "Aspects": []
+      }
+    ],
+    "Blessed Call Support": [
+      {
+        "Name": "Blessed Call Support",
+        "BaseType": "Blessed Call Support",
+        "Special": "20/20c",
+        "Aspects": []
+      }
+    ],
+    "Hextouch Support": [
+      {
+        "Name": "Hextouch Support",
+        "BaseType": "Hextouch Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rupture Support": [
+      {
+        "Name": "Rupture Support",
+        "BaseType": "Rupture Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Heavy Strike": [
+      {
+        "Name": "Heavy Strike",
+        "BaseType": "Heavy Strike",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Locus Mine Support": [
+      {
+        "Name": "Locus Mine Support",
+        "BaseType": "Locus Mine Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Swordstorm": [
+      {
+        "Name": "Swordstorm",
+        "BaseType": "Swordstorm",
+        "Special": "20/20",
+        "Aspects": []
+      }
+    ],
+    "Eldritch Blasphemy Support": [
+      {
+        "Name": "Eldritch Blasphemy Support",
+        "BaseType": "Eldritch Blasphemy Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Overloaded Intensity Support": [
+      {
+        "Name": "Overloaded Intensity Support",
+        "BaseType": "Overloaded Intensity Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Hallow Support": [
+      {
+        "Name": "Hallow Support",
+        "BaseType": "Hallow Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Bloodlust Support": [
+      {
+        "Name": "Bloodlust Support",
+        "BaseType": "Bloodlust Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thunderstorm": [
+      {
+        "Name": "Thunderstorm",
+        "BaseType": "Thunderstorm",
+        "Special": "20/20c",
+        "Aspects": []
+      }
+    ],
+    "Frigid Bond Support": [
+      {
+        "Name": "Frigid Bond Support",
+        "BaseType": "Frigid Bond Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elemental Proliferation Support": [
+      {
+        "Name": "Elemental Proliferation Support",
+        "BaseType": "Elemental Proliferation Support",
+        "Special": "21/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stun Support": [
+      {
+        "Name": "Stun Support",
+        "BaseType": "Stun Support",
+        "Special": "20/20c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Critical Strike Affliction Support": [
+      {
+        "Name": "Critical Strike Affliction Support",
+        "BaseType": "Critical Strike Affliction Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kinetic Instability Support": [
+      {
+        "Name": "Kinetic Instability Support",
+        "BaseType": "Kinetic Instability Support",
+        "Special": "21/20c",
+        "Aspects": []
+      }
+    ],
+    "Overheat Support": [
+      {
+        "Name": "Overheat Support",
+        "BaseType": "Overheat Support",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blood and Sand": [
+      {
+        "Name": "Blood and Sand",
+        "BaseType": "Blood and Sand",
+        "Special": "1/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Iron Grip Support": [
+      {
+        "Name": "Iron Grip Support",
+        "BaseType": "Iron Grip Support",
+        "Special": "1/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Devour Support": [
+      {
+        "Name": "Devour Support",
+        "BaseType": "Devour Support",
+        "Special": "20/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Portal": [
+      {
+        "Name": "Portal",
+        "BaseType": "Portal",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chance to Flee Support": [
+      {
+        "Name": "Chance to Flee Support",
+        "BaseType": "Chance to Flee Support",
+        "Special": "20/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Controlled Blaze Support": [
+      {
+        "Name": "Controlled Blaze Support",
+        "BaseType": "Controlled Blaze Support",
+        "Special": "1/20",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Detonate Mines": [
+      {
+        "Name": "Detonate Mines",
+        "BaseType": "Detonate Mines",
+        "Special": "1",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Cleave": [
+      {
+        "Name": "Vaal Cleave",
+        "BaseType": "Vaal Cleave",
+        "Special": "1c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Congregation Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Eclipse Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Greater Fork Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Invert the Rules Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Void Shockwave Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Bloodsoaked Banner Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Cooldown Recovery Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Awakened Enhance Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Enlighten Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Awakened Empower Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Greater Spell Echo Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Awakened Enlighten Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Greater Multistrike Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Empower Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Greater Spell Cascade Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Greater Unleash Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Vaal Temptation Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Greater Ancestral Call Support": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ]
+    }
+  }
+}
