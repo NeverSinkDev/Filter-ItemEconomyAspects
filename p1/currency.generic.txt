@@ -1491,6 +1491,187 @@
           "Tierable"
         ]
       }
+    ],
+    "Dextral Catalyst": [
+      {
+        "Name": "Dextral Catalyst",
+        "BaseType": "Dextral Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Sinistral Catalyst": [
+      {
+        "Name": "Sinistral Catalyst",
+        "BaseType": "Sinistral Catalyst",
+        "Aspects": []
+      }
+    ],
+    "Transmutation Shard": [
+      {
+        "Name": "Transmutation Shard",
+        "BaseType": "Transmutation Shard",
+        "Aspects": []
+      }
+    ],
+    "Coin of Power": [
+      {
+        "Name": "Coin of Power",
+        "BaseType": "Coin of Power",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Coin of Skill": [
+      {
+        "Name": "Coin of Skill",
+        "BaseType": "Coin of Skill",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Coin of Desecration": [
+      {
+        "Name": "Coin of Desecration",
+        "BaseType": "Coin of Desecration",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Coin of Knowledge": [
+      {
+        "Name": "Coin of Knowledge",
+        "BaseType": "Coin of Knowledge",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Coin of Restoration": [
+      {
+        "Name": "Coin of Restoration",
+        "BaseType": "Coin of Restoration",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Enshrouded Astrolabe": [
+      {
+        "Name": "Enshrouded Astrolabe",
+        "BaseType": "Enshrouded Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fruiting Astrolabe": [
+      {
+        "Name": "Fruiting Astrolabe",
+        "BaseType": "Fruiting Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Grasping Astrolabe": [
+      {
+        "Name": "Grasping Astrolabe",
+        "BaseType": "Grasping Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Lightless Astrolabe": [
+      {
+        "Name": "Lightless Astrolabe",
+        "BaseType": "Lightless Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Timeless Astrolabe": [
+      {
+        "Name": "Timeless Astrolabe",
+        "BaseType": "Timeless Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Chaotic Astrolabe": [
+      {
+        "Name": "Chaotic Astrolabe",
+        "BaseType": "Chaotic Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Fungal Astrolabe": [
+      {
+        "Name": "Fungal Astrolabe",
+        "BaseType": "Fungal Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Nameless Astrolabe": [
+      {
+        "Name": "Nameless Astrolabe",
+        "BaseType": "Nameless Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Runic Astrolabe": [
+      {
+        "Name": "Runic Astrolabe",
+        "BaseType": "Runic Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Templar Astrolabe": [
+      {
+        "Name": "Templar Astrolabe",
+        "BaseType": "Templar Astrolabe",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -3504,6 +3685,216 @@
           "Tiers": [
             "t3annul"
           ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Coin of Power": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Coin of Skill": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Coin of Desecration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3annul",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Coin of Knowledge": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Coin of Restoration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6chrom",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t6chrom",
+            "t7chance",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        }
+      ],
+      "Enshrouded Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Fruiting Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Grasping Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Lightless Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Timeless Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Chaotic Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Fungal Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Nameless Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Runic Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Templar Astrolabe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ]

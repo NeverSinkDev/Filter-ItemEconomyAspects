@@ -463,7 +463,8 @@
         "Name": "The Surging Thoughts",
         "BaseType": "Legion Sword",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -728,7 +729,8 @@
         "Name": "The Yielding Mortality",
         "BaseType": "Imperial Staff",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2713,7 +2715,8 @@
         "Name": "The Tempest's Liberation",
         "BaseType": "Callous Mask",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2961,7 +2964,8 @@
         "Name": "The Immortal Will",
         "BaseType": "Archon Kite Shield",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -3222,7 +3226,8 @@
         "Name": "The Shattered Divinity",
         "BaseType": "Blunt Arrow Quiver",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       },
       {
@@ -6644,7 +6649,8 @@
         "BaseType": "Cloth Belt",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       },
       {
