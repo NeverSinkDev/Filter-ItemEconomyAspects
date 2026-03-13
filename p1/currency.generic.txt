@@ -3535,7 +3535,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t4chaos"
+          ],
           "FallbackTier": "t5alchemy"
         }
       ],
@@ -3547,8 +3549,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t4chaos"
+          "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t3annul"
         }
       ],
       "Orb of Dominance": [

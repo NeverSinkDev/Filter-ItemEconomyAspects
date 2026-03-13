@@ -969,6 +969,34 @@
           "PreventHiding"
         ]
       }
+    ],
+    "Memory of Loneliness": [
+      {
+        "Name": "Memory of Loneliness",
+        "BaseType": "Memory of Loneliness",
+        "Aspects": []
+      }
+    ],
+    "Memory of Reverence": [
+      {
+        "Name": "Memory of Reverence",
+        "BaseType": "Memory of Reverence",
+        "Aspects": []
+      }
+    ],
+    "Memory of Trauma": [
+      {
+        "Name": "Memory of Trauma",
+        "BaseType": "Memory of Trauma",
+        "Aspects": []
+      }
+    ],
+    "The Black Barya": [
+      {
+        "Name": "The Black Barya",
+        "BaseType": "The Black Barya",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

@@ -1036,6 +1036,27 @@
         "BaseType": "Ritual Scarab of Corpses",
         "Aspects": []
       }
+    ],
+    "Abyss Scarab of Descending": [
+      {
+        "Name": "Abyss Scarab of Descending",
+        "BaseType": "Abyss Scarab of Descending",
+        "Aspects": []
+      }
+    ],
+    "Betrayal Scarab of Unbreaking": [
+      {
+        "Name": "Betrayal Scarab of Unbreaking",
+        "BaseType": "Betrayal Scarab of Unbreaking",
+        "Aspects": []
+      }
+    ],
+    "Expedition Scarab of Infusion": [
+      {
+        "Name": "Expedition Scarab of Infusion",
+        "BaseType": "Expedition Scarab of Infusion",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

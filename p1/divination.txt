@@ -122,7 +122,7 @@
         "Aspects": [
           "CurrencyType",
           "Handled",
-          "TimelessResult"
+          "PreventHiding"
         ]
       }
     ],
@@ -207,8 +207,7 @@
         "Name": "The Saint's Treasure",
         "Aspects": [
           "CurrencyType",
-          "Handled",
-          "TimelessResult"
+          "Handled"
         ]
       }
     ],
@@ -2473,7 +2472,7 @@
         "Aspects": [
           "CurrencyType",
           "Handled",
-          "TimelessResult"
+          "PreventHiding"
         ]
       }
     ],
@@ -3613,8 +3612,8 @@
         "Name": "The Scout",
         "Aspects": [
           "Handled",
-          "TimelessResult",
-          "CurrencyType"
+          "CurrencyType",
+          "PreventHiding"
         ]
       }
     ],
@@ -8389,6 +8388,80 @@
             "t2"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "The Saint's Treasure": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4c"
+          ],
+          "FallbackTier": "t5c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4c"
+          ],
+          "FallbackTier": "t5c"
+        }
+      ],
+      "The Hoarder": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4c"
+          ],
+          "FallbackTier": "t5c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t5c"
+        }
+      ],
+      "Abandoned Wealth": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
+        }
+      ],
+      "Alluring Bounty": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4c"
         }
       ]
     }

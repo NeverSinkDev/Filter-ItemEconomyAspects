@@ -851,6 +851,20 @@
         "BaseType": "Whispering Essence of Greed",
         "Aspects": []
       }
+    ],
+    "Muttering Essence of Greed": [
+      {
+        "Name": "Muttering Essence of Greed",
+        "BaseType": "Muttering Essence of Greed",
+        "Aspects": []
+      }
+    ],
+    "Essence of Desolation": [
+      {
+        "Name": "Essence of Desolation",
+        "BaseType": "Essence of Desolation",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

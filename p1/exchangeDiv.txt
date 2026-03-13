@@ -2680,6 +2680,300 @@
         "BaseType": "The King's Heart",
         "Aspects": []
       }
+    ],
+    "Auspicious Ambitions": [
+      {
+        "Name": "Auspicious Ambitions",
+        "BaseType": "Auspicious Ambitions",
+        "Aspects": []
+      }
+    ],
+    "Boon of Justice": [
+      {
+        "Name": "Boon of Justice",
+        "BaseType": "Boon of Justice",
+        "Aspects": []
+      }
+    ],
+    "Cartographer's Delight": [
+      {
+        "Name": "Cartographer's Delight",
+        "BaseType": "Cartographer's Delight",
+        "Aspects": []
+      }
+    ],
+    "Cursed Words": [
+      {
+        "Name": "Cursed Words",
+        "BaseType": "Cursed Words",
+        "Aspects": []
+      }
+    ],
+    "Harmony of Souls": [
+      {
+        "Name": "Harmony of Souls",
+        "BaseType": "Harmony of Souls",
+        "Aspects": []
+      }
+    ],
+    "Keeper's Corruption": [
+      {
+        "Name": "Keeper's Corruption",
+        "BaseType": "Keeper's Corruption",
+        "Aspects": []
+      }
+    ],
+    "Prometheus' Armoury": [
+      {
+        "Name": "Prometheus' Armoury",
+        "BaseType": "Prometheus' Armoury",
+        "Aspects": []
+      }
+    ],
+    "Scholar of the Seas": [
+      {
+        "Name": "Scholar of the Seas",
+        "BaseType": "Scholar of the Seas",
+        "Aspects": []
+      }
+    ],
+    "The Blazing Fire": [
+      {
+        "Name": "The Blazing Fire",
+        "BaseType": "The Blazing Fire",
+        "Aspects": []
+      }
+    ],
+    "The Brittle Emperor": [
+      {
+        "Name": "The Brittle Emperor",
+        "BaseType": "The Brittle Emperor",
+        "Aspects": []
+      }
+    ],
+    "The Carrion Crow": [
+      {
+        "Name": "The Carrion Crow",
+        "BaseType": "The Carrion Crow",
+        "Aspects": []
+      }
+    ],
+    "The Catalyst": [
+      {
+        "Name": "The Catalyst",
+        "BaseType": "The Catalyst",
+        "Aspects": []
+      }
+    ],
+    "The Demoness": [
+      {
+        "Name": "The Demoness",
+        "BaseType": "The Demoness",
+        "Aspects": []
+      }
+    ],
+    "The Dreamland": [
+      {
+        "Name": "The Dreamland",
+        "BaseType": "The Dreamland",
+        "Aspects": []
+      }
+    ],
+    "The Harvester": [
+      {
+        "Name": "The Harvester",
+        "BaseType": "The Harvester",
+        "Aspects": []
+      }
+    ],
+    "The Inoculated": [
+      {
+        "Name": "The Inoculated",
+        "BaseType": "The Inoculated",
+        "Aspects": []
+      }
+    ],
+    "The Insatiable": [
+      {
+        "Name": "The Insatiable",
+        "BaseType": "The Insatiable",
+        "Aspects": []
+      }
+    ],
+    "The Lord of Celebration": [
+      {
+        "Name": "The Lord of Celebration",
+        "BaseType": "The Lord of Celebration",
+        "Aspects": []
+      }
+    ],
+    "The Lunaris Priestess": [
+      {
+        "Name": "The Lunaris Priestess",
+        "BaseType": "The Lunaris Priestess",
+        "Aspects": []
+      }
+    ],
+    "The Return of the Rat": [
+      {
+        "Name": "The Return of the Rat",
+        "BaseType": "The Return of the Rat",
+        "Aspects": []
+      }
+    ],
+    "The Twins": [
+      {
+        "Name": "The Twins",
+        "BaseType": "The Twins",
+        "Aspects": []
+      }
+    ],
+    "The Wolven King's Bite": [
+      {
+        "Name": "The Wolven King's Bite",
+        "BaseType": "The Wolven King's Bite",
+        "Aspects": []
+      }
+    ],
+    "Triskaidekaphobia": [
+      {
+        "Name": "Triskaidekaphobia",
+        "BaseType": "Triskaidekaphobia",
+        "Aspects": []
+      }
+    ],
+    "Damnation": [
+      {
+        "Name": "Damnation",
+        "BaseType": "Damnation",
+        "Aspects": []
+      }
+    ],
+    "Forbidden Power": [
+      {
+        "Name": "Forbidden Power",
+        "BaseType": "Forbidden Power",
+        "Aspects": []
+      }
+    ],
+    "Further Invention": [
+      {
+        "Name": "Further Invention",
+        "BaseType": "Further Invention",
+        "Aspects": []
+      }
+    ],
+    "Light and Truth": [
+      {
+        "Name": "Light and Truth",
+        "BaseType": "Light and Truth",
+        "Aspects": []
+      }
+    ],
+    "Struck by Lightning": [
+      {
+        "Name": "Struck by Lightning",
+        "BaseType": "Struck by Lightning",
+        "Aspects": []
+      }
+    ],
+    "The Arena Champion": [
+      {
+        "Name": "The Arena Champion",
+        "BaseType": "The Arena Champion",
+        "Aspects": []
+      }
+    ],
+    "The Coming Storm": [
+      {
+        "Name": "The Coming Storm",
+        "BaseType": "The Coming Storm",
+        "Aspects": []
+      }
+    ],
+    "The Conduit": [
+      {
+        "Name": "The Conduit",
+        "BaseType": "The Conduit",
+        "Aspects": []
+      }
+    ],
+    "The Explorer": [
+      {
+        "Name": "The Explorer",
+        "BaseType": "The Explorer",
+        "Aspects": []
+      }
+    ],
+    "The Gentleman": [
+      {
+        "Name": "The Gentleman",
+        "BaseType": "The Gentleman",
+        "Aspects": []
+      }
+    ],
+    "The Lord in Black": [
+      {
+        "Name": "The Lord in Black",
+        "BaseType": "The Lord in Black",
+        "Aspects": []
+      }
+    ],
+    "The Sigil": [
+      {
+        "Name": "The Sigil",
+        "BaseType": "The Sigil",
+        "Aspects": []
+      }
+    ],
+    "The Survivalist": [
+      {
+        "Name": "The Survivalist",
+        "BaseType": "The Survivalist",
+        "Aspects": []
+      }
+    ],
+    "The Warden": [
+      {
+        "Name": "The Warden",
+        "BaseType": "The Warden",
+        "Aspects": []
+      }
+    ],
+    "The Whiteout": [
+      {
+        "Name": "The Whiteout",
+        "BaseType": "The Whiteout",
+        "Aspects": []
+      }
+    ],
+    "The Wolverine": [
+      {
+        "Name": "The Wolverine",
+        "BaseType": "The Wolverine",
+        "Aspects": []
+      }
+    ],
+    "Thunderous Skies": [
+      {
+        "Name": "Thunderous Skies",
+        "BaseType": "Thunderous Skies",
+        "Aspects": []
+      }
+    ],
+    "Treasure Hunter": [
+      {
+        "Name": "Treasure Hunter",
+        "BaseType": "Treasure Hunter",
+        "Aspects": []
+      }
+    ],
+    "The Queen": [
+      {
+        "Name": "The Queen",
+        "BaseType": "The Queen",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
