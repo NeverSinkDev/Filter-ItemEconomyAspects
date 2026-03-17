@@ -4657,6 +4657,27 @@
           "TimelessResult"
         ]
       }
+    ],
+    "Lucky Bastion": [
+      {
+        "Name": "Lucky Bastion",
+        "BaseType": "Lucky Bastion",
+        "Aspects": []
+      }
+    ],
+    "The Miracle": [
+      {
+        "Name": "The Miracle",
+        "BaseType": "The Miracle",
+        "Aspects": []
+      }
+    ],
+    "The Side Quest": [
+      {
+        "Name": "The Side Quest",
+        "BaseType": "The Side Quest",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -5357,7 +5378,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         },
         {
@@ -5770,7 +5793,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3"
+          ],
           "FallbackTier": "t4c"
         }
       ],
@@ -5832,7 +5857,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3"
+          ],
           "FallbackTier": "t2"
         },
         {
@@ -5865,7 +5892,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         },
@@ -5926,7 +5954,9 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3"
+          ],
           "FallbackTier": "t2"
         },
         {
@@ -6117,7 +6147,8 @@
           },
           "Tiers": [
             "t2",
-            "t1"
+            "t1",
+            "t4"
           ],
           "FallbackTier": "t3"
         },
@@ -6205,7 +6236,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         }
@@ -8462,6 +8494,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4c"
+        }
+      ],
+      "Avian Pursuit": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }
