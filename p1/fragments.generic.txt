@@ -502,7 +502,8 @@
         "Name": "The Maven's Writ",
         "Aspects": [
           "Handled",
-          "Tierable"
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -995,7 +996,10 @@
       {
         "Name": "The Black Barya",
         "BaseType": "The Black Barya",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ]
   },
