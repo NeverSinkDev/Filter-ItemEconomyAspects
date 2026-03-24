@@ -1496,14 +1496,22 @@
       {
         "Name": "Dextral Catalyst",
         "BaseType": "Dextral Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
       }
     ],
     "Sinistral Catalyst": [
       {
         "Name": "Sinistral Catalyst",
         "BaseType": "Sinistral Catalyst",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "StackedCurrency"
+        ]
       }
     ],
     "Transmutation Shard": [
