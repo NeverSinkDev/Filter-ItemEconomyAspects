@@ -3650,7 +3650,8 @@
         "Name": "The Aspirant",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "TimelessResult"
         ]
       }
     ],
@@ -3977,7 +3978,8 @@
         "Name": "The Dungeon Master",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       }
     ],

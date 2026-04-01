@@ -64,8 +64,7 @@
         "Name": "Omen of Death's Door",
         "BaseType": "Omen of Death's Door",
         "Aspects": [
-          "Handled",
-          "Anchor"
+          "Handled"
         ]
       }
     ],
@@ -94,8 +93,7 @@
         "Name": "Omen of Return",
         "BaseType": "Omen of Return",
         "Aspects": [
-          "Handled",
-          "Anchor"
+          "Handled"
         ]
       }
     ],
@@ -114,8 +112,7 @@
         "Name": "Omen of Adrenaline",
         "BaseType": "Omen of Adrenaline",
         "Aspects": [
-          "Handled",
-          "Anchor"
+          "Handled"
         ]
       }
     ]
