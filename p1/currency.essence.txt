@@ -352,7 +352,8 @@
         "Name": "Muttering Essence of Hatred",
         "BaseType": "Muttering Essence of Hatred",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -569,7 +570,10 @@
       {
         "Name": "Wailing Essence of Anguish",
         "BaseType": "Wailing Essence of Anguish",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Contempt": [
@@ -625,7 +629,10 @@
       {
         "Name": "Wailing Essence of Torment",
         "BaseType": "Wailing Essence of Torment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Woe": [
@@ -681,7 +688,10 @@
       {
         "Name": "Weeping Essence of Rage",
         "BaseType": "Weeping Essence of Rage",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Sorrow": [
@@ -709,7 +719,9 @@
       {
         "Name": "Muttering Essence of Fear",
         "BaseType": "Muttering Essence of Fear",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Muttering Essence of Sorrow": [
@@ -723,7 +735,10 @@
       {
         "Name": "Muttering Essence of Woe",
         "BaseType": "Muttering Essence of Woe",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Screaming Essence of Doubt": [
