@@ -205,7 +205,8 @@
         "Name": "Wailing Essence of Greed",
         "BaseType": "Wailing Essence of Greed",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -214,7 +215,8 @@
         "Name": "Wailing Essence of Zeal",
         "BaseType": "Wailing Essence of Zeal",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -343,7 +345,8 @@
         "Name": "Muttering Essence of Contempt",
         "BaseType": "Muttering Essence of Contempt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -451,119 +454,170 @@
       {
         "Name": "Muttering Essence of Anger",
         "BaseType": "Muttering Essence of Anger",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Muttering Essence of Torment": [
       {
         "Name": "Muttering Essence of Torment",
         "BaseType": "Muttering Essence of Torment",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Contempt": [
       {
         "Name": "Screaming Essence of Contempt",
         "BaseType": "Screaming Essence of Contempt",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Dread": [
       {
         "Name": "Screaming Essence of Dread",
         "BaseType": "Screaming Essence of Dread",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Envy": [
       {
         "Name": "Screaming Essence of Envy",
         "BaseType": "Screaming Essence of Envy",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Hatred": [
       {
         "Name": "Screaming Essence of Hatred",
         "BaseType": "Screaming Essence of Hatred",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Loathing": [
       {
         "Name": "Screaming Essence of Loathing",
         "BaseType": "Screaming Essence of Loathing",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Anguish": [
       {
         "Name": "Shrieking Essence of Anguish",
         "BaseType": "Shrieking Essence of Anguish",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Contempt": [
       {
         "Name": "Shrieking Essence of Contempt",
         "BaseType": "Shrieking Essence of Contempt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Doubt": [
       {
         "Name": "Shrieking Essence of Doubt",
         "BaseType": "Shrieking Essence of Doubt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Greed": [
       {
         "Name": "Shrieking Essence of Greed",
         "BaseType": "Shrieking Essence of Greed",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Hatred": [
       {
         "Name": "Shrieking Essence of Hatred",
         "BaseType": "Shrieking Essence of Hatred",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Loathing": [
       {
         "Name": "Shrieking Essence of Loathing",
         "BaseType": "Shrieking Essence of Loathing",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Rage": [
       {
         "Name": "Shrieking Essence of Rage",
         "BaseType": "Shrieking Essence of Rage",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Scorn": [
       {
         "Name": "Shrieking Essence of Scorn",
         "BaseType": "Shrieking Essence of Scorn",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Wrath": [
       {
         "Name": "Shrieking Essence of Wrath",
         "BaseType": "Shrieking Essence of Wrath",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Zeal": [
       {
         "Name": "Shrieking Essence of Zeal",
         "BaseType": "Shrieking Essence of Zeal",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Anguish": [
@@ -580,49 +634,70 @@
       {
         "Name": "Wailing Essence of Contempt",
         "BaseType": "Wailing Essence of Contempt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Doubt": [
       {
         "Name": "Wailing Essence of Doubt",
         "BaseType": "Wailing Essence of Doubt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Fear": [
       {
         "Name": "Wailing Essence of Fear",
         "BaseType": "Wailing Essence of Fear",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Loathing": [
       {
         "Name": "Wailing Essence of Loathing",
         "BaseType": "Wailing Essence of Loathing",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Sorrow": [
       {
         "Name": "Wailing Essence of Sorrow",
         "BaseType": "Wailing Essence of Sorrow",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Spite": [
       {
         "Name": "Wailing Essence of Spite",
         "BaseType": "Wailing Essence of Spite",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Suffering": [
       {
         "Name": "Wailing Essence of Suffering",
         "BaseType": "Wailing Essence of Suffering",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Torment": [
@@ -639,49 +714,69 @@
       {
         "Name": "Wailing Essence of Woe",
         "BaseType": "Wailing Essence of Woe",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Wrath": [
       {
         "Name": "Wailing Essence of Wrath",
         "BaseType": "Wailing Essence of Wrath",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Anger": [
       {
         "Name": "Weeping Essence of Anger",
         "BaseType": "Weeping Essence of Anger",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Contempt": [
       {
         "Name": "Weeping Essence of Contempt",
         "BaseType": "Weeping Essence of Contempt",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Weeping Essence of Doubt": [
       {
         "Name": "Weeping Essence of Doubt",
         "BaseType": "Weeping Essence of Doubt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Fear": [
       {
         "Name": "Weeping Essence of Fear",
         "BaseType": "Weeping Essence of Fear",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Hatred": [
       {
         "Name": "Weeping Essence of Hatred",
         "BaseType": "Weeping Essence of Hatred",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Rage": [
@@ -698,21 +793,30 @@
       {
         "Name": "Weeping Essence of Sorrow",
         "BaseType": "Weeping Essence of Sorrow",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Whispering Essence of Hatred": [
       {
         "Name": "Whispering Essence of Hatred",
         "BaseType": "Whispering Essence of Hatred",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Whispering Essence of Woe": [
       {
         "Name": "Whispering Essence of Woe",
         "BaseType": "Whispering Essence of Woe",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Muttering Essence of Fear": [
@@ -720,7 +824,8 @@
         "Name": "Muttering Essence of Fear",
         "BaseType": "Muttering Essence of Fear",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -728,7 +833,10 @@
       {
         "Name": "Muttering Essence of Sorrow",
         "BaseType": "Muttering Essence of Sorrow",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Muttering Essence of Woe": [
@@ -745,140 +853,200 @@
       {
         "Name": "Screaming Essence of Doubt",
         "BaseType": "Screaming Essence of Doubt",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Greed": [
       {
         "Name": "Screaming Essence of Greed",
         "BaseType": "Screaming Essence of Greed",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Screaming Essence of Torment": [
       {
         "Name": "Screaming Essence of Torment",
         "BaseType": "Screaming Essence of Torment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Screaming Essence of Zeal": [
       {
         "Name": "Screaming Essence of Zeal",
         "BaseType": "Screaming Essence of Zeal",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Dread": [
       {
         "Name": "Shrieking Essence of Dread",
         "BaseType": "Shrieking Essence of Dread",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Misery": [
       {
         "Name": "Shrieking Essence of Misery",
         "BaseType": "Shrieking Essence of Misery",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Sorrow": [
       {
         "Name": "Shrieking Essence of Sorrow",
         "BaseType": "Shrieking Essence of Sorrow",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Shrieking Essence of Suffering": [
       {
         "Name": "Shrieking Essence of Suffering",
         "BaseType": "Shrieking Essence of Suffering",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Anger": [
       {
         "Name": "Wailing Essence of Anger",
         "BaseType": "Wailing Essence of Anger",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Hatred": [
       {
         "Name": "Wailing Essence of Hatred",
         "BaseType": "Wailing Essence of Hatred",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Wailing Essence of Rage": [
       {
         "Name": "Wailing Essence of Rage",
         "BaseType": "Wailing Essence of Rage",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Greed": [
       {
         "Name": "Weeping Essence of Greed",
         "BaseType": "Weeping Essence of Greed",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Suffering": [
       {
         "Name": "Weeping Essence of Suffering",
         "BaseType": "Weeping Essence of Suffering",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Torment": [
       {
         "Name": "Weeping Essence of Torment",
         "BaseType": "Weeping Essence of Torment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Woe": [
       {
         "Name": "Weeping Essence of Woe",
         "BaseType": "Weeping Essence of Woe",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Weeping Essence of Wrath": [
       {
         "Name": "Weeping Essence of Wrath",
         "BaseType": "Weeping Essence of Wrath",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Whispering Essence of Contempt": [
       {
         "Name": "Whispering Essence of Contempt",
         "BaseType": "Whispering Essence of Contempt",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
       }
     ],
     "Whispering Essence of Greed": [
       {
         "Name": "Whispering Essence of Greed",
         "BaseType": "Whispering Essence of Greed",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Muttering Essence of Greed": [
       {
         "Name": "Muttering Essence of Greed",
         "BaseType": "Muttering Essence of Greed",
-        "Aspects": []
+        "Aspects": [
+          "Tierable",
+          "Handled"
+        ]
       }
     ],
     "Essence of Desolation": [
       {
         "Name": "Essence of Desolation",
         "BaseType": "Essence of Desolation",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
       }
     ]
   },
@@ -1498,6 +1666,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Anguish": [
@@ -1510,6 +1690,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Fear": [
@@ -1522,6 +1714,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Misery": [
@@ -1534,6 +1738,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Rage": [
@@ -1546,6 +1762,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Scorn": [
@@ -1558,6 +1786,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Sorrow": [
@@ -1570,6 +1810,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Spite": [
@@ -1582,6 +1834,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Suffering": [
@@ -1594,6 +1858,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Woe": [
@@ -1606,6 +1882,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Screaming Essence of Wrath": [
@@ -1618,6 +1906,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Shrieking Essence of Anger": [
@@ -1760,6 +2060,966 @@
           },
           "Tiers": [
             "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Weeping Essence of Woe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Sorrow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Rage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Doubt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Anger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t3",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Woe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Wrath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Essence of Desolation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4",
+            "t5",
+            "t6"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Screaming Essence of Zeal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Misery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Sorrow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Torment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Wailing Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t1",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Whispering Essence of Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3",
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Doubt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Weeping Essence of Torment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t3",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Weeping Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Rage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Anger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Shrieking Essence of Dread": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Wailing Essence of Zeal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Whispering Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1",
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Muttering Essence of Anger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t1",
+            "t2"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Torment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Screaming Essence of Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Dread": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Envy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Screaming Essence of Loathing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Anguish": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Doubt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Loathing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Rage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Scorn": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Wrath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Shrieking Essence of Zeal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t6"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Wailing Essence of Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Doubt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Loathing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Sorrow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Spite": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Woe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Wrath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Whispering Essence of Woe": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t4",
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t5"
+        }
+      ],
+      "Wailing Essence of Torment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Muttering Essence of Hatred": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Wailing Essence of Anguish": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Whispering Essence of Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2",
+            "t3",
+            "t4"
           ],
           "FallbackTier": "t5"
         }

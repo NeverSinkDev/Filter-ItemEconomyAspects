@@ -1931,7 +1931,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3annul"
           ],
           "FallbackTier": "t2divine"
         }
@@ -1971,7 +1972,8 @@
           },
           "Tiers": [
             "t2divine",
-            "t4chaos"
+            "t4chaos",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         },
@@ -1996,7 +1998,8 @@
           },
           "Tiers": [
             "t2divine",
-            "t4chaos"
+            "t4chaos",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         },
@@ -2064,7 +2067,8 @@
           },
           "Tiers": [
             "t2divine",
-            "t4chaos"
+            "t4chaos",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         },
@@ -2233,7 +2237,8 @@
           },
           "Tiers": [
             "t2divine",
-            "t4chaos"
+            "t4chaos",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         },
@@ -2372,7 +2377,8 @@
           },
           "Tiers": [
             "t2divine",
-            "t4chaos"
+            "t4chaos",
+            "t1"
           ],
           "FallbackTier": "t3annul"
         },
@@ -2704,7 +2710,9 @@
           },
           "Tiers": [
             "t6chrom",
-            "t7chance"
+            "t7chance",
+            "t4chaos",
+            "t3annul"
           ],
           "FallbackTier": "t5alchemy"
         }
@@ -3416,7 +3424,8 @@
           "Tiers": [
             "t1",
             "t3annul",
-            "t4chaos"
+            "t4chaos",
+            "t5alchemy"
           ],
           "FallbackTier": "t2divine"
         },
