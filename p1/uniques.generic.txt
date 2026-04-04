@@ -6769,7 +6769,7 @@
         "BaseType": "Studded Belt",
         "Aspects": [
           "Handled",
-          "NonDrop"
+          "NonWorldDrop"
         ]
       }
     ],
