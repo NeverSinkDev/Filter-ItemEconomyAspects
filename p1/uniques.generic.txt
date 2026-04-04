@@ -6769,7 +6769,7 @@
         "BaseType": "Studded Belt",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonDrop"
         ]
       }
     ],
@@ -11705,6 +11705,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
+        }
+      ],
+      "Studded Belt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
         }
       ]
     }
