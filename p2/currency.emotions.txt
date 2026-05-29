@@ -1,6 +1,218 @@
 {
-  "Aspects": {},
+  "Aspects": {
+    "Concentrated Liquid Isolation": [
+      {
+        "Name": "Concentrated Liquid Isolation",
+        "BaseType": "Concentrated Liquid Isolation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Concentrated Liquid Suffering": [
+      {
+        "Name": "Concentrated Liquid Suffering",
+        "BaseType": "Concentrated Liquid Suffering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Concentrated Liquid Fear": [
+      {
+        "Name": "Concentrated Liquid Fear",
+        "BaseType": "Concentrated Liquid Fear",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Liquid Despair": [
+      {
+        "Name": "Liquid Despair",
+        "BaseType": "Liquid Despair",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Liquid Disgust": [
+      {
+        "Name": "Liquid Disgust",
+        "BaseType": "Liquid Disgust",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diluted Liquid Greed": [
+      {
+        "Name": "Diluted Liquid Greed",
+        "BaseType": "Diluted Liquid Greed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Liquid Paranoia": [
+      {
+        "Name": "Liquid Paranoia",
+        "BaseType": "Liquid Paranoia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Liquid Envy": [
+      {
+        "Name": "Liquid Envy",
+        "BaseType": "Liquid Envy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diluted Liquid Guilt": [
+      {
+        "Name": "Diluted Liquid Guilt",
+        "BaseType": "Diluted Liquid Guilt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diluted Liquid Ire": [
+      {
+        "Name": "Diluted Liquid Ire",
+        "BaseType": "Diluted Liquid Ire",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
   "TieringRangeList": {
-    "TieringRanges": {}
+    "TieringRanges": {
+      "Concentrated Liquid Isolation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Concentrated Liquid Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Concentrated Liquid Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Liquid Despair": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Liquid Disgust": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Diluted Liquid Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Liquid Paranoia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Liquid Envy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Diluted Liquid Guilt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Diluted Liquid Ire": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "e"
+        }
+      ]
+    }
   }
 }

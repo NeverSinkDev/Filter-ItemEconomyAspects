@@ -204,7 +204,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "c"
+          "FallbackTier": "b"
         }
       ],
       "Chayula's Catalyst": [

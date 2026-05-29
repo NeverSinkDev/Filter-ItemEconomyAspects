@@ -540,7 +540,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Esh's Radiance": [
@@ -552,7 +552,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Brutus' Brain": [
@@ -564,7 +564,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Rigwald's Ferocity": [
@@ -576,7 +576,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Tul's Stillness": [
@@ -588,7 +588,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Uhtred's Exodus": [
@@ -600,7 +600,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Arjun's Medal": [
@@ -623,7 +623,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -636,7 +638,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Ratha's Assault": [
@@ -672,7 +674,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Varashta's Blessing": [
@@ -684,7 +686,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "a"
+          "FallbackTier": "b"
         }
       ],
       "Ailith's Chimes": [
@@ -695,7 +697,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -720,7 +724,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Zarokh's Refrain": [
@@ -732,10 +736,342 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Kulemak's Dominion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Tecrod's Revenge": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Sione's Temper": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Zerphi's Infamy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Kurgal's Leash": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Zarokh's Revolt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Hayoxi's Fulmination": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Kaom's Madness": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Impatience": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Khatal's Rejuvenation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Morgana's Tempest": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Tasalio's Rhythm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Oisín's Oath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ahn's Citadel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Doedre's Undoing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Vilenta's Propulsion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Tawhoa's Tending": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Bhatair's Vengeance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Uruk's Smelting": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Guatelitzi's Ablation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Xibaqua's Rending": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Einhar's Beastrite": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Romira's Requital": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Paquate's Pact": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Arakaali's Lust": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Cirel's Cultivation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Tacati's Ire": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Daresso's Passion": [
         {
           "Settings": {
             "IsEnabled": true,

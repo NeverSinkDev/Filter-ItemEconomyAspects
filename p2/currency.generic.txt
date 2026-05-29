@@ -522,10 +522,10 @@
         ]
       }
     ],
-    "Vaal Infuser": [
+    "Vaal Armourer's Infuser": [
       {
-        "Name": "Vaal Infuser",
-        "BaseType": "Vaal Infuser",
+        "Name": "Vaal Armourer's Infuser",
+        "BaseType": "Vaal Armourer's Infuser",
         "Aspects": [
           "Handled",
           "Tierable"
@@ -810,7 +810,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "d"
+            "d",
+            "b"
           ],
           "FallbackTier": "c"
         },
@@ -999,7 +1000,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ],
@@ -1079,8 +1082,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "b"
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
         }
       ],
       "Preserved Rib": [
@@ -1380,7 +1385,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "d"
+            "d",
+            "b"
           ],
           "FallbackTier": "c"
         },
@@ -1435,7 +1441,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "d"
+            "d",
+            "b"
           ],
           "FallbackTier": "c"
         },
@@ -1620,7 +1627,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "s"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1632,7 +1641,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "b"
+          ],
           "FallbackTier": "a"
         }
       ],
@@ -1658,9 +1669,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a"
-          ],
+          "Tiers": [],
           "FallbackTier": "b"
         }
       ],
@@ -1676,7 +1685,7 @@
           "FallbackTier": "b"
         }
       ],
-      "Vaal Infuser": [
+      "Vaal Armourer's Infuser": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1685,7 +1694,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1699,10 +1708,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c",
-            "a"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Vaal Siphoner": [
@@ -1713,11 +1721,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "a",
-            "b"
-          ],
-          "FallbackTier": "c"
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ]
     }

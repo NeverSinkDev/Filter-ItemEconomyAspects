@@ -45,15 +45,6 @@
         ]
       }
     ],
-    "Omen of Corruption": [
-      {
-        "Name": "Omen of Corruption",
-        "BaseType": "Omen of Corruption",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Omen of Amelioration": [
       {
         "Name": "Omen of Amelioration",
@@ -184,15 +175,6 @@
       {
         "Name": "Omen of Abyssal Echoes",
         "BaseType": "Omen of Abyssal Echoes",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Omen of Recombination": [
-      {
-        "Name": "Omen of Recombination",
-        "BaseType": "Omen of Recombination",
         "Aspects": [
           "Handled"
         ]
@@ -727,9 +709,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "s"
+            "a"
           ],
-          "FallbackTier": "a"
+          "FallbackTier": "s"
         }
       ],
       "Omen of Sanctification": [
@@ -740,8 +722,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "a"
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "s"
         },
         {
           "Settings": {
@@ -779,9 +763,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ],

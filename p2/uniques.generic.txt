@@ -850,7 +850,8 @@
         "Name": "Painter's Servant",
         "BaseType": "Torn Gloves",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1957,7 +1958,8 @@
         "Name": "Keelhaul",
         "BaseType": "Linen Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       },
       {
@@ -2025,7 +2027,8 @@
         "Name": "Coward's Legacy",
         "BaseType": "Mail Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2041,7 +2044,8 @@
         "Name": "Birthright Buckle",
         "BaseType": "Wide Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       },
       {
@@ -2120,7 +2124,8 @@
         "Name": "Goregirdle",
         "BaseType": "Plate Belt",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -3380,8 +3385,7 @@
         "Name": "Slivertongue",
         "BaseType": "Zealot Bow",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -3431,6 +3435,11 @@
           "Handled",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Undying Hate",
+        "BaseType": "Timeless Jewel",
+        "Aspects": []
       }
     ],
     "Ruby": [
@@ -3613,10 +3622,10 @@
         ]
       }
     ],
-    "Verisium Cuffs": [
+    "Kalguuran Cuffs": [
       {
         "Name": "The Prisoner's Manacles",
-        "BaseType": "Verisium Cuffs",
+        "BaseType": "Kalguuran Cuffs",
         "Aspects": [
           "Handled"
         ]
@@ -3945,9 +3954,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4038,10 +4045,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Ultimate Life Flask": [
@@ -4101,7 +4106,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         },
         {
           "Settings": {
@@ -4125,9 +4130,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4201,9 +4204,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4216,24 +4217,12 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
-        }
-      ],
-      "Grand Manchettes": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
             "t1"
           ],
           "FallbackTier": "t2"
-        },
+        }
+      ],
+      "Grand Manchettes": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -4245,6 +4234,16 @@
             "t1"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3boss"
         }
       ],
       "Gold Ring": [
@@ -4292,11 +4291,12 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 0,
+            "RangeType": 1,
             "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t2",
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -4309,10 +4309,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ],
       "Rampart Tower Shield": [
@@ -4402,7 +4400,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "hideable"
+            "hideable",
+            "t1",
+            "t2"
           ],
           "FallbackTier": "t3"
         }
@@ -4415,9 +4415,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4455,9 +4453,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4706,10 +4702,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t3"
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ],
       "Primed Quiver": [
@@ -4729,13 +4723,11 @@
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
-            "RangeType": 1,
+            "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "hideable"
-          ],
-          "FallbackTier": "t3"
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ],
       "Siphoning Wand": [
@@ -4758,9 +4750,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -4796,7 +4786,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -4983,6 +4975,16 @@
           },
           "Tiers": [],
           "FallbackTier": "multispecial"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ],
       "Ruby": [
@@ -5043,10 +5045,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2"
-          ],
-          "FallbackTier": "t1"
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ],
       "Heavy Crown": [
@@ -5084,7 +5084,7 @@
           "Tiers": [
             "t3"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "earlyleague"
         }
       ],
       "Stone Tower Shield": [
@@ -5200,7 +5200,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "earlyleague"
         }
       ],
       "Sacrificial Regalia": [
@@ -5252,6 +5252,516 @@
             "hideable"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "Winged Spear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Ultimate Mana Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Barbed Spear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Spiked Club": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1",
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Garment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Spiral Wraps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Crucible Tower Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Hunting Shoes": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Pyrophyte Staff": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Shortbow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Anchorite Garb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Felt Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Moulded Mitts": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Iron Buckler": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Dualstring Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multispecial"
+        }
+      ],
+      "Antler Focus": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Scale Mail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Vermeil Circlet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Magus Tiara": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Gauze Wraps": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Viper Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Covert Hood": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Scalper's Jacket": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Spired Greathelm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Sacrificial Mantle": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Pilgrim Vestments": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Broadhead Quiver": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Face Mask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Riveted Mitts": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Corvus Mantle": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Velvet Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Fur Plate": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Wrapped Sandals": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "hideable"
+        }
+      ],
+      "Marabout Garb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Pathfinder Coat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t1"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Decorated Helm": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Ancestral Mail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Leaden Greathammer": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Wyrm Quarterstaff": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }
