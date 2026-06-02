@@ -728,6 +728,15 @@
           "Handled"
         ]
       }
+    ],
+    "Essence of the Breach": [
+      {
+        "Name": "Essence of the Breach",
+        "BaseType": "Essence of the Breach",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -1924,6 +1933,20 @@
             "b"
           ],
           "FallbackTier": "a"
+        }
+      ],
+      "Essence of the Breach": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "c"
         }
       ]
     }

@@ -107,6 +107,134 @@
           "Handled"
         ]
       }
+    ],
+    "Breach Splinter": [
+      {
+        "Name": "Breach Splinter",
+        "BaseType": "Breach Splinter",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Breachstone": [
+      {
+        "Name": "Breachstone",
+        "BaseType": "Breachstone",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Refined Carapace Catalyst": [
+      {
+        "Name": "Refined Carapace Catalyst",
+        "BaseType": "Refined Carapace Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Tul's Catalyst": [
+      {
+        "Name": "Refined Tul's Catalyst",
+        "BaseType": "Refined Tul's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Adaptive Catalyst": [
+      {
+        "Name": "Refined Adaptive Catalyst",
+        "BaseType": "Refined Adaptive Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Chayula's Catalyst": [
+      {
+        "Name": "Refined Chayula's Catalyst",
+        "BaseType": "Refined Chayula's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Esh's Catalyst": [
+      {
+        "Name": "Refined Esh's Catalyst",
+        "BaseType": "Refined Esh's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Flesh Catalyst": [
+      {
+        "Name": "Refined Flesh Catalyst",
+        "BaseType": "Refined Flesh Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Neural Catalyst": [
+      {
+        "Name": "Refined Neural Catalyst",
+        "BaseType": "Refined Neural Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Reaver Catalyst": [
+      {
+        "Name": "Refined Reaver Catalyst",
+        "BaseType": "Refined Reaver Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Sibilant Catalyst": [
+      {
+        "Name": "Refined Sibilant Catalyst",
+        "BaseType": "Refined Sibilant Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Skittering Catalyst": [
+      {
+        "Name": "Refined Skittering Catalyst",
+        "BaseType": "Refined Skittering Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Uul-Netol's Catalyst": [
+      {
+        "Name": "Refined Uul-Netol's Catalyst",
+        "BaseType": "Refined Uul-Netol's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Xoph's Catalyst": [
+      {
+        "Name": "Refined Xoph's Catalyst",
+        "BaseType": "Refined Xoph's Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {

@@ -68,15 +68,6 @@
         ]
       }
     ],
-    "Transmutation Shard": [
-      {
-        "Name": "Transmutation Shard",
-        "BaseType": "Transmutation Shard",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Glassblower's Bauble": [
       {
         "Name": "Glassblower's Bauble",
@@ -401,15 +392,6 @@
         ]
       }
     ],
-    "Kulemak's Invitation": [
-      {
-        "Name": "Kulemak's Invitation",
-        "BaseType": "Kulemak's Invitation",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Preserved Cranium": [
       {
         "Name": "Preserved Cranium",
@@ -549,6 +531,61 @@
         "Aspects": [
           "Handled",
           "Tierable"
+        ]
+      }
+    ],
+    "Cryptic Key": [
+      {
+        "Name": "Cryptic Key",
+        "BaseType": "Cryptic Key",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Altered Collarbone": [
+      {
+        "Name": "Altered Collarbone",
+        "BaseType": "Altered Collarbone",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Arcanist's Infuser": [
+      {
+        "Name": "Vaal Arcanist's Infuser",
+        "BaseType": "Vaal Arcanist's Infuser",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Blacksmith's Infuser": [
+      {
+        "Name": "Vaal Blacksmith's Infuser",
+        "BaseType": "Vaal Blacksmith's Infuser",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Vaal Catalysing Infuser": [
+      {
+        "Name": "Vaal Catalysing Infuser",
+        "BaseType": "Vaal Catalysing Infuser",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ]
@@ -1028,10 +1065,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "s"
-          ],
-          "FallbackTier": "a"
+          "Tiers": [],
+          "FallbackTier": "s"
         }
       ],
       "Ancient Jawbone": [
@@ -1200,8 +1235,7 @@
           "Tiers": [
             "a",
             "s",
-            "e",
-            "b"
+            "e"
           ],
           "FallbackTier": "d"
         },
@@ -1239,7 +1273,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "a",
             "s",
             "e"
           ],
@@ -1428,8 +1461,7 @@
           },
           "Tiers": [
             "s",
-            "e",
-            "a"
+            "e"
           ],
           "FallbackTier": "d"
         },
@@ -1714,6 +1746,82 @@
         }
       ],
       "Vaal Siphoner": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Cryptic Key": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "b",
+            "a",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Altered Collarbone": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Vaal Arcanist's Infuser": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vaal Blacksmith's Infuser": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Vaal Catalysing Infuser": [
         {
           "Settings": {
             "IsEnabled": true,

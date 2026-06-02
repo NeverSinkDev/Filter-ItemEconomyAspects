@@ -467,6 +467,204 @@
           "Handled"
         ]
       }
+    ],
+    "Vorana's Siege": [
+      {
+        "Name": "Vorana's Siege",
+        "BaseType": "Vorana's Siege",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Olroth's Conviction": [
+      {
+        "Name": "Olroth's Conviction",
+        "BaseType": "Olroth's Conviction",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breachlord's Amalgam": [
+      {
+        "Name": "Breachlord's Amalgam",
+        "BaseType": "Breachlord's Amalgam",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Catha's Brilliance": [
+      {
+        "Name": "Catha's Brilliance",
+        "BaseType": "Catha's Brilliance",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Her Declaration": [
+      {
+        "Name": "Her Declaration",
+        "BaseType": "Her Declaration",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Constellation": [
+      {
+        "Name": "Uhtred's Constellation",
+        "BaseType": "Uhtred's Constellation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Seraph's Heart": [
+      {
+        "Name": "Seraph's Heart",
+        "BaseType": "Seraph's Heart",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tangmazu's Thurible": [
+      {
+        "Name": "Tangmazu's Thurible",
+        "BaseType": "Tangmazu's Thurible",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breachlord's Rift": [
+      {
+        "Name": "Breachlord's Rift",
+        "BaseType": "Breachlord's Rift",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trickster's Shard": [
+      {
+        "Name": "Trickster's Shard",
+        "BaseType": "Trickster's Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mórrigan's Insight": [
+      {
+        "Name": "Mórrigan's Insight",
+        "BaseType": "Mórrigan's Insight",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Olroth's Hubris": [
+      {
+        "Name": "Olroth's Hubris",
+        "BaseType": "Olroth's Hubris",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Esh's Prowess": [
+      {
+        "Name": "Esh's Prowess",
+        "BaseType": "Esh's Prowess",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Styrn's Ferocity": [
+      {
+        "Name": "Styrn's Ferocity",
+        "BaseType": "Styrn's Ferocity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Rite": [
+      {
+        "Name": "Uhtred's Rite",
+        "BaseType": "Uhtred's Rite",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prototype Seventeen": [
+      {
+        "Name": "Prototype Seventeen",
+        "BaseType": "Prototype Seventeen",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medved's Felling": [
+      {
+        "Name": "Medved's Felling",
+        "BaseType": "Medved's Felling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arbiter's Reach": [
+      {
+        "Name": "Arbiter's Reach",
+        "BaseType": "Arbiter's Reach",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tul's Avalanche": [
+      {
+        "Name": "Tul's Avalanche",
+        "BaseType": "Tul's Avalanche",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Styrn's Mountain": [
+      {
+        "Name": "Styrn's Mountain",
+        "BaseType": "Styrn's Mountain",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vruun's Inevitability": [
+      {
+        "Name": "Vruun's Inevitability",
+        "BaseType": "Vruun's Inevitability",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vruun's Aftermath": [
+      {
+        "Name": "Vruun's Aftermath",
+        "BaseType": "Vruun's Aftermath",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -1080,6 +1278,290 @@
             "ValidTime": 1
           },
           "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vorana's Siege": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Olroth's Conviction": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Breachlord's Amalgam": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Catha's Brilliance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Her Declaration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Uhtred's Constellation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Seraph's Heart": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Tangmazu's Thurible": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Breachlord's Rift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Trickster's Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Mórrigan's Insight": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Olroth's Hubris": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Esh's Prowess": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Styrn's Ferocity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Prototype Seventeen": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Medved's Felling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Arbiter's Reach": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Tul's Avalanche": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Styrn's Mountain": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Uhtred's Rite": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vruun's Inevitability": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vruun's Aftermath": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
           "FallbackTier": "b"
         }
       ]

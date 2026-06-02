@@ -1,0 +1,332 @@
+{
+  "Aspects": {
+    "Adaptive Alloy": [
+      {
+        "Name": "Adaptive Alloy",
+        "BaseType": "Adaptive Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expansive Alloy": [
+      {
+        "Name": "Expansive Alloy",
+        "BaseType": "Expansive Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Protective Alloy": [
+      {
+        "Name": "Protective Alloy",
+        "BaseType": "Protective Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sovereign Alloy": [
+      {
+        "Name": "Sovereign Alloy",
+        "BaseType": "Sovereign Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Verisium": [
+      {
+        "Name": "Verisium",
+        "BaseType": "Verisium",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Cyclonic Alloy": [
+      {
+        "Name": "Cyclonic Alloy",
+        "BaseType": "Cyclonic Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Celestial Alloy": [
+      {
+        "Name": "Celestial Alloy",
+        "BaseType": "Celestial Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Revered Starlit Ore": [
+      {
+        "Name": "Revered Starlit Ore",
+        "BaseType": "Revered Starlit Ore",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Transcendent Alloy": [
+      {
+        "Name": "Transcendent Alloy",
+        "BaseType": "Transcendent Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Venerable Starlit Ore": [
+      {
+        "Name": "Venerable Starlit Ore",
+        "BaseType": "Venerable Starlit Ore",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Veridical Starlit Ore": [
+      {
+        "Name": "Veridical Starlit Ore",
+        "BaseType": "Veridical Starlit Ore",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Runic Alloy": [
+      {
+        "Name": "Runic Alloy",
+        "BaseType": "Runic Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Exceptional Verisium": [
+      {
+        "Name": "Exceptional Verisium",
+        "BaseType": "Exceptional Verisium",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Medved's Crest of the Circle": [
+      {
+        "Name": "Medved's Crest of the Circle",
+        "BaseType": "Medved's Crest of the Circle",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mystic Alloy": [
+      {
+        "Name": "Mystic Alloy",
+        "BaseType": "Mystic Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Olroth's Crest of the Sun": [
+      {
+        "Name": "Olroth's Crest of the Sun",
+        "BaseType": "Olroth's Crest of the Sun",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Prismatic Alloy": [
+      {
+        "Name": "Prismatic Alloy",
+        "BaseType": "Prismatic Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Runebinder's Alloy": [
+      {
+        "Name": "The Runebinder's Alloy",
+        "BaseType": "The Runebinder's Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "The Runefather's Alloy": [
+      {
+        "Name": "The Runefather's Alloy",
+        "BaseType": "The Runefather's Alloy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Crest of the Chalice": [
+      {
+        "Name": "Uhtred's Crest of the Chalice",
+        "BaseType": "Uhtred's Crest of the Chalice",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vorana's Crest of the Scythe": [
+      {
+        "Name": "Vorana's Crest of the Scythe",
+        "BaseType": "Vorana's Crest of the Scythe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Starlit Ore": [
+      {
+        "Name": "Warding Starlit Ore",
+        "BaseType": "Warding Starlit Ore",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cryptic Key": [
+      {
+        "Name": "Cryptic Key",
+        "BaseType": "Cryptic Key",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "The Runebinder's Alloy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Celestial Alloy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Olroth's Crest of the Sun": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Transcendent Alloy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Warding Starlit Ore": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Veridical Starlit Ore": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Revered Starlit Ore": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "The Runefather's Alloy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Cryptic Key": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ]
+    }
+  }
+}

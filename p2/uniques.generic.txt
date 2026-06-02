@@ -625,7 +625,7 @@
     ],
     "Shaman Mantle": [
       {
-        "Name": "Husk of Dreams",
+        "Name": "Reverie",
         "BaseType": "Shaman Mantle",
         "Aspects": [
           "Handled"
@@ -790,15 +790,6 @@
         ]
       }
     ],
-    "Pelage Targe": [
-      {
-        "Name": "Merit of Service",
-        "BaseType": "Pelage Targe",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Covert Hood": [
       {
         "Name": "Myris Uxor",
@@ -875,6 +866,13 @@
       },
       {
         "Name": "Widow's Reign",
+        "BaseType": "Knight Armour",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Sunken Vessel",
         "BaseType": "Knight Armour",
         "Aspects": [
           "Handled"
@@ -1087,22 +1085,6 @@
         ]
       }
     ],
-    "Raider Plate": [
-      {
-        "Name": "The Immortan",
-        "BaseType": "Raider Plate",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "The Road Warrior",
-        "BaseType": "Raider Plate",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Bronze Greaves": [
       {
         "Name": "The Infinite Pursuit",
@@ -1158,28 +1140,10 @@
         ]
       }
     ],
-    "Effigial Tower Shield": [
-      {
-        "Name": "The Wailing Wall",
-        "BaseType": "Effigial Tower Shield",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Woven Focus": [
       {
         "Name": "Threaded Light",
         "BaseType": "Woven Focus",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Steeltoe Boots": [
-      {
-        "Name": "Thunderstep",
-        "BaseType": "Steeltoe Boots",
         "Aspects": [
           "Handled"
         ]
@@ -1530,6 +1494,27 @@
           "Handled",
           "Exclude"
         ]
+      },
+      {
+        "Name": "Safrin's Resolve",
+        "BaseType": "Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Eshtera's Path",
+        "BaseType": "Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Zaida's Longevity",
+        "BaseType": "Ring",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Stellar Amulet": [
@@ -1609,6 +1594,14 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Veilpiercer",
+        "BaseType": "Amethyst Ring",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Heavy Belt": [
@@ -1645,6 +1638,23 @@
           "Handled",
           "NonWorldDrop",
           "EarlyLeagueInterest"
+        ]
+      },
+      {
+        "Name": "Mageblood",
+        "BaseType": "Utility Belt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Uncommon",
+          "HighVariety"
+        ]
+      },
+      {
+        "Name": "Cat O' Nine Tails",
+        "BaseType": "Utility Belt",
+        "Aspects": [
+          "Handled"
         ]
       }
     ],
@@ -1689,6 +1699,14 @@
         "Aspects": [
           "Handled",
           "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Immaculate Adherence",
+        "BaseType": "Solar Amulet",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -2137,6 +2155,13 @@
           "Handled",
           "NonWorldDrop"
         ]
+      },
+      {
+        "Name": "Opportunity",
+        "BaseType": "Ultimate Life Flask",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Ultimate Mana Flask": [
@@ -2196,36 +2221,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Coffer Relic": [
-      {
-        "Name": "The Remembered Tales",
-        "BaseType": "Coffer Relic",
-        "Aspects": [
-          "Handled",
-          "PreventHiding"
-        ]
-      }
-    ],
-    "Glass Shank": [
-      {
-        "Name": "Winter's Bite",
-        "BaseType": "Glass Shank",
-        "Aspects": [
-          "Handled",
-          "Anchor"
-        ]
-      }
-    ],
-    "Charred Shortsword": [
-      {
-        "Name": "INCOMPLETE",
-        "BaseType": "Charred Shortsword",
-        "Aspects": [
-          "Handled",
-          "Anchor"
         ]
       }
     ],
@@ -2537,15 +2532,6 @@
       {
         "Name": "Brain Rattler",
         "BaseType": "Studded Greatclub",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Smithing Hammer": [
-      {
-        "Name": "Wylund's Stake",
-        "BaseType": "Smithing Hammer",
         "Aspects": [
           "Handled"
         ]
@@ -2863,15 +2849,6 @@
           "Handled",
           "EarlyLeagueInterest",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Lamellar Mail": [
-      {
-        "Name": "The Fallen Formation",
-        "BaseType": "Lamellar Mail",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -3450,6 +3427,14 @@
           "Handled",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Split Personality",
+        "BaseType": "Ruby",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
       }
     ],
     "Golden Charm": [
@@ -3472,11 +3457,13 @@
         ]
       }
     ],
-    "Dull Hatchet": [
+    "Exquisite Vest": [
       {
-        "Name": "INCOMPLETE",
-        "BaseType": "Dull Hatchet",
-        "Aspects": []
+        "Name": "The Auspex",
+        "BaseType": "Exquisite Vest",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Primed Quiver": [
@@ -3829,7 +3816,379 @@
       {
         "Name": "Grand Spectrum",
         "BaseType": "Sapphire",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Voices",
+        "BaseType": "Sapphire",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Stocky Mitts": [
+      {
+        "Name": "Facebreaker",
+        "BaseType": "Stocky Mitts",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Leggings": [
+      {
+        "Name": "Decree of Flight",
+        "BaseType": "Ancient Leggings",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Tenebrous Crown": [
+      {
+        "Name": "Vestige of Darkness",
+        "BaseType": "Tenebrous Crown",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Visor": [
+      {
+        "Name": "Decree of Acuity",
+        "BaseType": "Ancient Visor",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Revered Vestments": [
+      {
+        "Name": "Geofri's Sanctuary",
+        "BaseType": "Revered Vestments",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "The Unleashed",
+        "BaseType": "Revered Vestments",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Mail": [
+      {
+        "Name": "Decree of Loyalty",
+        "BaseType": "Ancient Mail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Two-Stone Ring": [
+      {
+        "Name": "Berek's Pass",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Berek's Grip",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Berek's Respite",
+        "BaseType": "Two-Stone Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Transcendent Mana Flask": [
+      {
+        "Name": "Uhtred's Chalice",
+        "BaseType": "Transcendent Mana Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Flanged Mace": [
+      {
+        "Name": "Sadist's Mercy",
+        "BaseType": "Flanged Mace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Trarthan Cannon": [
+      {
+        "Name": "Redemption",
+        "BaseType": "Trarthan Cannon",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Morning Star": [
+      {
+        "Name": "Brutus' Lead Sprinkler",
+        "BaseType": "Morning Star",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warden Bow": [
+      {
+        "Name": "Ironbound",
+        "BaseType": "Warden Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lumbering Talisman": [
+      {
+        "Name": "Surge of the Tide",
+        "BaseType": "Lumbering Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Nettle Talisman": [
+      {
+        "Name": "Spiteful Floret",
+        "BaseType": "Nettle Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Kalguuran Forgehammer": [
+      {
+        "Name": "Serle's Grit",
+        "BaseType": "Kalguuran Forgehammer",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Engraved Bracers": [
+      {
+        "Name": "Horror's Flight",
+        "BaseType": "Engraved Bracers",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Glacial Fortress": [
+      {
+        "Name": "Nightfall",
+        "BaseType": "Glacial Fortress",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Primal Markings": [
+      {
+        "Name": "Forgotten Warden",
+        "BaseType": "Primal Markings",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Venerable Defender": [
+      {
+        "Name": "Eyes of the Runefather",
+        "BaseType": "Venerable Defender",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Veridical Chain": [
+      {
+        "Name": "Eventide Petals",
+        "BaseType": "Veridical Chain",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Perching Staff": [
+      {
+        "Name": "The Raven's Flock",
+        "BaseType": "Perching Staff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Grand Spear": [
+      {
+        "Name": "The Ordained",
+        "BaseType": "Grand Spear",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Twisted Wand": [
+      {
+        "Name": "Liminal Coil",
+        "BaseType": "Twisted Wand",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Stoic Sceptre": [
+      {
+        "Name": "Sylvan's Effigy",
+        "BaseType": "Stoic Sceptre",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Heartwood Shortbow": [
+      {
+        "Name": "Periphery",
+        "BaseType": "Heartwood Shortbow",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Aberrant Sledge": [
+      {
+        "Name": "Twisted Empyrean",
+        "BaseType": "Aberrant Sledge",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Warding Quarterstaff": [
+      {
+        "Name": "Duality",
+        "BaseType": "Warding Quarterstaff",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop"
+        ]
+      }
+    ],
+    "Irradiated Tablet": [
+      {
+        "Name": "Visions of Paradise",
+        "BaseType": "Irradiated Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "The Grand Project",
+        "BaseType": "Irradiated Tablet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Mastered Domain",
+        "BaseType": "Irradiated Tablet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Abyss Tablet": [
+      {
+        "Name": "Unforeseen Consequences",
+        "BaseType": "Abyss Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Anchor"
+        ]
+      }
+    ],
+    "Ritual Tablet": [
+      {
+        "Name": "Freedom of Faith",
+        "BaseType": "Ritual Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Overseer Tablet": [
+      {
+        "Name": "Cruel Hegemony",
+        "BaseType": "Overseer Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      },
+      {
+        "Name": "Season of the Hunt",
+        "BaseType": "Overseer Tablet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Breach Tablet": [
+      {
+        "Name": "Wraeclast Besieged",
+        "BaseType": "Breach Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Delirium Tablet": [
+      {
+        "Name": "Clear Skies",
+        "BaseType": "Delirium Tablet",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       }
     ]
   },
@@ -5761,6 +6120,48 @@
             "ValidTime": 1
           },
           "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Glacial Fortress": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Engraved Bracers": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Revered Vestments": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ]

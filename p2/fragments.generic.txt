@@ -116,6 +116,88 @@
         "BaseType": "Runic Splinter",
         "Aspects": []
       }
+    ],
+    "Azmeri Reliquary Key": [
+      {
+        "Name": "Azmeri Reliquary Key",
+        "BaseType": "Azmeri Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Breachlord Sac": [
+      {
+        "Name": "Breachlord Sac",
+        "BaseType": "Breachlord Sac",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Kulemak's Invitation": [
+      {
+        "Name": "Kulemak's Invitation",
+        "BaseType": "Kulemak's Invitation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Twilight Reliquary Key": [
+      {
+        "Name": "Twilight Reliquary Key",
+        "BaseType": "Twilight Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Zarokh's Reliquary Key: Against the Darkness": [
+      {
+        "Name": "Zarokh's Reliquary Key: Against the Darkness",
+        "BaseType": "Zarokh's Reliquary Key: Against the Darkness",
+        "Aspects": []
+      }
+    ],
+    "Simulacrum": [
+      {
+        "Name": "Simulacrum",
+        "BaseType": "Simulacrum",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Olroth's Reliquary Key": [
+      {
+        "Name": "Olroth's Reliquary Key",
+        "BaseType": "Olroth's Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Ritualistic Reliquary Key": [
+      {
+        "Name": "Ritualistic Reliquary Key",
+        "BaseType": "Ritualistic Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "The Arbiter's Reliquary Key": [
+      {
+        "Name": "The Arbiter's Reliquary Key",
+        "BaseType": "The Arbiter's Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "The Trialmaster's Reliquary Key": [
+      {
+        "Name": "The Trialmaster's Reliquary Key",
+        "BaseType": "The Trialmaster's Reliquary Key",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

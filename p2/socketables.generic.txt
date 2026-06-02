@@ -400,7 +400,9 @@
       {
         "Name": "Fox Idol",
         "BaseType": "Fox Idol",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Idol of Grold": [
@@ -1077,6 +1079,727 @@
           "Handled"
         ]
       }
+    ],
+    "Aldur's Legacy": [
+      {
+        "Name": "Aldur's Legacy",
+        "BaseType": "Aldur's Legacy",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Astrid's Creativity": [
+      {
+        "Name": "Astrid's Creativity",
+        "BaseType": "Astrid's Creativity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Serle's Triumph": [
+      {
+        "Name": "Serle's Triumph",
+        "BaseType": "Serle's Triumph",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Cadigan's Epiphany": [
+      {
+        "Name": "Cadigan's Epiphany",
+        "BaseType": "Cadigan's Epiphany",
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Desert Rune": [
+      {
+        "Name": "Perfect Desert Rune",
+        "BaseType": "Perfect Desert Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Glacial Rune": [
+      {
+        "Name": "Perfect Glacial Rune",
+        "BaseType": "Perfect Glacial Rune",
+        "Aspects": [
+          "Handled",
+          "Anchor"
+        ]
+      }
+    ],
+    "Perfect Storm Rune": [
+      {
+        "Name": "Perfect Storm Rune",
+        "BaseType": "Perfect Storm Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Resolve Rune": [
+      {
+        "Name": "Perfect Resolve Rune",
+        "BaseType": "Perfect Resolve Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Ward Rune": [
+      {
+        "Name": "Perfect Ward Rune",
+        "BaseType": "Perfect Ward Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Robust Rune": [
+      {
+        "Name": "Perfect Robust Rune",
+        "BaseType": "Perfect Robust Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Inspiration Rune": [
+      {
+        "Name": "Perfect Inspiration Rune",
+        "BaseType": "Perfect Inspiration Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Iron Rune": [
+      {
+        "Name": "Perfect Iron Rune",
+        "BaseType": "Perfect Iron Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Body Rune": [
+      {
+        "Name": "Perfect Body Rune",
+        "BaseType": "Perfect Body Rune",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Breath of Aldur": [
+      {
+        "Name": "Breath of Aldur",
+        "BaseType": "Breath of Aldur",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Uhtred's Sidereus": [
+      {
+        "Name": "Uhtred's Sidereus",
+        "BaseType": "Uhtred's Sidereus",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Kolr's Hunt": [
+      {
+        "Name": "Kolr's Hunt",
+        "BaseType": "Kolr's Hunt",
+        "Aspects": [
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Katla's Gloom": [
+      {
+        "Name": "Katla's Gloom",
+        "BaseType": "Katla's Gloom",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Masterwork Rune": [
+      {
+        "Name": "Masterwork Rune",
+        "BaseType": "Masterwork Rune",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Medved's Tending": [
+      {
+        "Name": "Medved's Tending",
+        "BaseType": "Medved's Tending",
+        "Aspects": [
+          "PreventHiding",
+          "Handled"
+        ]
+      }
+    ],
+    "Ire of Aldur": [
+      {
+        "Name": "Ire of Aldur",
+        "BaseType": "Ire of Aldur",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Vorana's Carnage": [
+      {
+        "Name": "Vorana's Carnage",
+        "BaseType": "Vorana's Carnage",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Betrayal of Aldur": [
+      {
+        "Name": "Betrayal of Aldur",
+        "BaseType": "Betrayal of Aldur",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Thrud's Might": [
+      {
+        "Name": "Thrud's Might",
+        "BaseType": "Thrud's Might",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Armature": [
+      {
+        "Name": "Warding Rune of Armature",
+        "BaseType": "Warding Rune of Armature",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of the Prism": [
+      {
+        "Name": "Rune of the Prism",
+        "BaseType": "Rune of the Prism",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Reinforcement": [
+      {
+        "Name": "Warding Rune of Reinforcement",
+        "BaseType": "Warding Rune of Reinforcement",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of the Titan": [
+      {
+        "Name": "Ancient Rune of the Titan",
+        "BaseType": "Ancient Rune of the Titan",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Passion of Aldur": [
+      {
+        "Name": "Passion of Aldur",
+        "BaseType": "Passion of Aldur",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Greater Charging Rune": [
+      {
+        "Name": "Greater Charging Rune",
+        "BaseType": "Greater Charging Rune",
+        "Aspects": []
+      }
+    ],
+    "Ward Rune": [
+      {
+        "Name": "Ward Rune",
+        "BaseType": "Ward Rune",
+        "Aspects": []
+      }
+    ],
+    "Warding Rune of Bodyguards": [
+      {
+        "Name": "Warding Rune of Bodyguards",
+        "BaseType": "Warding Rune of Bodyguards",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Vitality": [
+      {
+        "Name": "Rune of Vitality",
+        "BaseType": "Rune of Vitality",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Dueling": [
+      {
+        "Name": "Ancient Rune of Dueling",
+        "BaseType": "Ancient Rune of Dueling",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Stability": [
+      {
+        "Name": "Warding Rune of Stability",
+        "BaseType": "Warding Rune of Stability",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Discovery": [
+      {
+        "Name": "Ancient Rune of Discovery",
+        "BaseType": "Ancient Rune of Discovery",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Detonation": [
+      {
+        "Name": "Ancient Rune of Detonation",
+        "BaseType": "Ancient Rune of Detonation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Greater Ward Rune": [
+      {
+        "Name": "Greater Ward Rune",
+        "BaseType": "Greater Ward Rune",
+        "Aspects": []
+      }
+    ],
+    "Warding Rune of Equinox": [
+      {
+        "Name": "Warding Rune of Equinox",
+        "BaseType": "Warding Rune of Equinox",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Decay": [
+      {
+        "Name": "Ancient Rune of Decay",
+        "BaseType": "Ancient Rune of Decay",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Accumulation": [
+      {
+        "Name": "Rune of Accumulation",
+        "BaseType": "Rune of Accumulation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Glancing": [
+      {
+        "Name": "Warding Rune of Glancing",
+        "BaseType": "Warding Rune of Glancing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Culmination": [
+      {
+        "Name": "Rune of Culmination",
+        "BaseType": "Rune of Culmination",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Heart": [
+      {
+        "Name": "Warding Rune of Heart",
+        "BaseType": "Warding Rune of Heart",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of the Horde": [
+      {
+        "Name": "Ancient Rune of the Horde",
+        "BaseType": "Ancient Rune of the Horde",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of the Blossom": [
+      {
+        "Name": "Rune of the Blossom",
+        "BaseType": "Rune of the Blossom",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Foundations": [
+      {
+        "Name": "Rune of Foundations",
+        "BaseType": "Rune of Foundations",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Renown": [
+      {
+        "Name": "Rune of Renown",
+        "BaseType": "Rune of Renown",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Shattering": [
+      {
+        "Name": "Ancient Rune of Shattering",
+        "BaseType": "Ancient Rune of Shattering",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Animosity": [
+      {
+        "Name": "Ancient Rune of Animosity",
+        "BaseType": "Ancient Rune of Animosity",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Acrobatics": [
+      {
+        "Name": "Rune of Acrobatics",
+        "BaseType": "Rune of Acrobatics",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Annihilation": [
+      {
+        "Name": "Warding Rune of Annihilation",
+        "BaseType": "Warding Rune of Annihilation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Control": [
+      {
+        "Name": "Ancient Rune of Control",
+        "BaseType": "Ancient Rune of Control",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of the Hunt": [
+      {
+        "Name": "Rune of the Hunt",
+        "BaseType": "Rune of the Hunt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Hollowing": [
+      {
+        "Name": "Warding Rune of Hollowing",
+        "BaseType": "Warding Rune of Hollowing",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Prowess": [
+      {
+        "Name": "Ancient Rune of Prowess",
+        "BaseType": "Ancient Rune of Prowess",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Charging Rune": [
+      {
+        "Name": "Charging Rune",
+        "BaseType": "Charging Rune",
+        "Aspects": []
+      }
+    ],
+    "Rune of Vital Flame": [
+      {
+        "Name": "Rune of Vital Flame",
+        "BaseType": "Rune of Vital Flame",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Disintegration": [
+      {
+        "Name": "Warding Rune of Disintegration",
+        "BaseType": "Warding Rune of Disintegration",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Splinters": [
+      {
+        "Name": "Ancient Rune of Splinters",
+        "BaseType": "Ancient Rune of Splinters",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Retaliation": [
+      {
+        "Name": "Ancient Rune of Retaliation",
+        "BaseType": "Ancient Rune of Retaliation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Protection": [
+      {
+        "Name": "Warding Rune of Protection",
+        "BaseType": "Warding Rune of Protection",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Obsession": [
+      {
+        "Name": "Warding Rune of Obsession",
+        "BaseType": "Warding Rune of Obsession",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Desperation": [
+      {
+        "Name": "Warding Rune of Desperation",
+        "BaseType": "Warding Rune of Desperation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Salvaging": [
+      {
+        "Name": "Warding Rune of Salvaging",
+        "BaseType": "Warding Rune of Salvaging",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Consistency": [
+      {
+        "Name": "Rune of Consistency",
+        "BaseType": "Rune of Consistency",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Reach": [
+      {
+        "Name": "Rune of Reach",
+        "BaseType": "Rune of Reach",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rune of Confrontation": [
+      {
+        "Name": "Rune of Confrontation",
+        "BaseType": "Rune of Confrontation",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Symbiosis": [
+      {
+        "Name": "Warding Rune of Symbiosis",
+        "BaseType": "Warding Rune of Symbiosis",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Warding Rune of Courage": [
+      {
+        "Name": "Warding Rune of Courage",
+        "BaseType": "Warding Rune of Courage",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Rune of Witchcraft": [
+      {
+        "Name": "Ancient Rune of Witchcraft",
+        "BaseType": "Ancient Rune of Witchcraft",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lesser Ward Rune": [
+      {
+        "Name": "Lesser Ward Rune",
+        "BaseType": "Lesser Ward Rune",
+        "Aspects": []
+      }
+    ],
+    "Idol of Alira": [
+      {
+        "Name": "Idol of Alira",
+        "BaseType": "Idol of Alira",
+        "Aspects": []
+      }
+    ],
+    "Idol of Eramir": [
+      {
+        "Name": "Idol of Eramir",
+        "BaseType": "Idol of Eramir",
+        "Aspects": []
+      }
+    ],
+    "Idol of Greust": [
+      {
+        "Name": "Idol of Greust",
+        "BaseType": "Idol of Greust",
+        "Aspects": []
+      }
+    ],
+    "Idol of the Sycophant": [
+      {
+        "Name": "Idol of the Sycophant",
+        "BaseType": "Idol of the Sycophant",
+        "Aspects": []
+      }
+    ],
+    "Idol of Oak": [
+      {
+        "Name": "Idol of Oak",
+        "BaseType": "Idol of Oak",
+        "Aspects": []
+      }
+    ],
+    "Idol of Yeena": [
+      {
+        "Name": "Idol of Yeena",
+        "BaseType": "Idol of Yeena",
+        "Aspects": []
+      }
+    ],
+    "Idol of Kraityn": [
+      {
+        "Name": "Idol of Kraityn",
+        "BaseType": "Idol of Kraityn",
+        "Aspects": []
+      }
+    ],
+    "Idol of Silk": [
+      {
+        "Name": "Idol of Silk",
+        "BaseType": "Idol of Silk",
+        "Aspects": []
+      }
+    ],
+    "Idol of the Martyr": [
+      {
+        "Name": "Idol of the Martyr",
+        "BaseType": "Idol of the Martyr",
+        "Aspects": []
+      }
+    ],
+    "Idol of the Pharisee": [
+      {
+        "Name": "Idol of the Pharisee",
+        "BaseType": "Idol of the Pharisee",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -1148,9 +1871,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "b"
           ],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Estazunti's Soul Core of Convalescence": [
@@ -1162,7 +1885,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "c",
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1176,7 +1900,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "c",
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1218,8 +1943,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -1247,8 +1971,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         },
@@ -1445,7 +2168,8 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "c"
+            "c",
+            "a"
           ],
           "FallbackTier": "b"
         }
@@ -1629,8 +2353,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -1731,8 +2454,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -1950,8 +2672,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -2360,7 +3081,8 @@
           "Tiers": [
             "b",
             "d",
-            "a"
+            "a",
+            "s"
           ],
           "FallbackTier": "c"
         },
@@ -2372,7 +3094,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "b"
+          "FallbackTier": "a"
         }
       ],
       "Saqawal's Rune of Erosion": [
@@ -2473,8 +3195,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "b",
-            "c"
+            "b"
           ],
           "FallbackTier": "a"
         }
@@ -2520,6 +3241,732 @@
           "Tiers": [
             "b"
           ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Aldur's Legacy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Astrid's Creativity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Serle's Triumph": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Breath of Aldur": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Uhtred's Sidereus": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Katla's Gloom": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Masterwork Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Medved's Tending": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ire of Aldur": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Vorana's Carnage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Betrayal of Aldur": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Thrud's Might": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Warding Rune of Armature": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Rune of the Prism": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Warding Rune of Reinforcement": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Rune of the Titan": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Passion of Aldur": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Warding Rune of Bodyguards": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Rune of Vitality": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Rune of Dueling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Warding Rune of Stability": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rune of Discovery": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rune of Detonation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Warding Rune of Equinox": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rune of Decay": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Rune of Accumulation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Warding Rune of Glancing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Rune of Culmination": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Warding Rune of Heart": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rune of the Horde": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Rune of the Blossom": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Rune of Foundations": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Rune of Renown": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Rune of Shattering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Rune of Animosity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of Acrobatics": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Annihilation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Rune of Control": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of the Hunt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Hollowing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Rune of Prowess": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of Vital Flame": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Disintegration": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Rune of Splinters": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Rune of Retaliation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Protection": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Obsession": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Desperation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Salvaging": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of Consistency": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of Reach": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Rune of Confrontation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Symbiosis": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Warding Rune of Courage": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Rune of Witchcraft": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "d"
+        }
+      ],
+      "Cadigan's Epiphany": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Perfect Glacial Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Perfect Desert Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Perfect Iron Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "a"
         }
       ]

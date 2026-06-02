@@ -89,6 +89,160 @@
           "Handled"
         ]
       }
+    ],
+    "Potent Liquid Contempt": [
+      {
+        "Name": "Potent Liquid Contempt",
+        "BaseType": "Potent Liquid Contempt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Potent Liquid Melancholy": [
+      {
+        "Name": "Ancient Potent Liquid Melancholy",
+        "BaseType": "Ancient Potent Liquid Melancholy",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Concentrated Liquid Fear": [
+      {
+        "Name": "Ancient Concentrated Liquid Fear",
+        "BaseType": "Ancient Concentrated Liquid Fear",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Potent Liquid Ferocity": [
+      {
+        "Name": "Potent Liquid Ferocity",
+        "BaseType": "Potent Liquid Ferocity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Potent Liquid Contempt": [
+      {
+        "Name": "Ancient Potent Liquid Contempt",
+        "BaseType": "Ancient Potent Liquid Contempt",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Concentrated Liquid Isolation": [
+      {
+        "Name": "Ancient Concentrated Liquid Isolation",
+        "BaseType": "Ancient Concentrated Liquid Isolation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Concentrated Liquid Suffering": [
+      {
+        "Name": "Ancient Concentrated Liquid Suffering",
+        "BaseType": "Ancient Concentrated Liquid Suffering",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Potent Liquid Ferocity": [
+      {
+        "Name": "Ancient Potent Liquid Ferocity",
+        "BaseType": "Ancient Potent Liquid Ferocity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Liquid Despair": [
+      {
+        "Name": "Ancient Liquid Despair",
+        "BaseType": "Ancient Liquid Despair",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Potent Liquid Melancholy": [
+      {
+        "Name": "Potent Liquid Melancholy",
+        "BaseType": "Potent Liquid Melancholy",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ancient Diluted Liquid Greed": [
+      {
+        "Name": "Ancient Diluted Liquid Greed",
+        "BaseType": "Ancient Diluted Liquid Greed",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Liquid Disgust": [
+      {
+        "Name": "Ancient Liquid Disgust",
+        "BaseType": "Ancient Liquid Disgust",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Liquid Paranoia": [
+      {
+        "Name": "Ancient Liquid Paranoia",
+        "BaseType": "Ancient Liquid Paranoia",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Diluted Liquid Ire": [
+      {
+        "Name": "Ancient Diluted Liquid Ire",
+        "BaseType": "Ancient Diluted Liquid Ire",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Diluted Liquid Guilt": [
+      {
+        "Name": "Ancient Diluted Liquid Guilt",
+        "BaseType": "Ancient Diluted Liquid Guilt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ancient Liquid Envy": [
+      {
+        "Name": "Ancient Liquid Envy",
+        "BaseType": "Ancient Liquid Envy",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -211,6 +365,234 @@
           },
           "Tiers": [],
           "FallbackTier": "e"
+        }
+      ],
+      "Potent Liquid Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Potent Liquid Melancholy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Concentrated Liquid Fear": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Potent Liquid Ferocity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Potent Liquid Contempt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Concentrated Liquid Isolation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Ancient Concentrated Liquid Suffering": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Potent Liquid Ferocity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Liquid Despair": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b",
+            "a",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Potent Liquid Melancholy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Diluted Liquid Greed": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c",
+            "d"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Liquid Disgust": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a",
+            "c",
+            "d"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ancient Liquid Paranoia": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "d",
+            "b"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Diluted Liquid Ire": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "b",
+            "d"
+          ],
+          "FallbackTier": "c"
+        }
+      ],
+      "Ancient Diluted Liquid Guilt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
+        }
+      ],
+      "Ancient Liquid Envy": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "c"
+          ],
+          "FallbackTier": "d"
         }
       ]
     }
