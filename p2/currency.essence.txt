@@ -850,7 +850,11 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "b",
+            "a"
+          ],
           "FallbackTier": "d"
         }
       ],
@@ -1060,7 +1064,11 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "b",
+            "a"
+          ],
           "FallbackTier": "d"
         }
       ],
@@ -1104,7 +1112,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "b"
+          ],
           "FallbackTier": "d"
         }
       ],
@@ -1148,7 +1159,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "b"
+          ],
           "FallbackTier": "d"
         }
       ],
