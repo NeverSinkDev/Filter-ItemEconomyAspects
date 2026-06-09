@@ -207,6 +207,229 @@
           "Handled"
         ]
       }
+    ],
+    "Aldur's Saga": [
+      {
+        "Name": "Aldur's Saga",
+        "BaseType": "Aldur's Saga",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Blazing Flux": [
+      {
+        "Name": "Blazing Flux",
+        "BaseType": "Blazing Flux",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chilling Flux": [
+      {
+        "Name": "Chilling Flux",
+        "BaseType": "Chilling Flux",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crackling Flux": [
+      {
+        "Name": "Crackling Flux",
+        "BaseType": "Crackling Flux",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 13)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 13)",
+        "BaseType": "Thaumaturgic Flux (Level 13)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 15)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 15)",
+        "BaseType": "Thaumaturgic Flux (Level 15)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 16)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 16)",
+        "BaseType": "Thaumaturgic Flux (Level 16)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 17)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 17)",
+        "BaseType": "Thaumaturgic Flux (Level 17)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 18)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 18)",
+        "BaseType": "Thaumaturgic Flux (Level 18)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 19)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 19)",
+        "BaseType": "Thaumaturgic Flux (Level 19)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 20)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 20)",
+        "BaseType": "Thaumaturgic Flux (Level 20)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Flux": [
+      {
+        "Name": "Void Flux",
+        "BaseType": "Void Flux",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Perfect Flux": [
+      {
+        "Name": "Perfect Flux",
+        "BaseType": "Perfect Flux",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 8)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 8)",
+        "BaseType": "Thaumaturgic Flux (Level 8)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Expedition Logbook": [
+      {
+        "Name": "Expedition Logbook",
+        "BaseType": "Expedition Logbook",
+        "Aspects": [
+          "Anchor",
+          "Handled"
+        ]
+      }
+    ],
+    "Medved's Saga": [
+      {
+        "Name": "Medved's Saga",
+        "BaseType": "Medved's Saga",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Olroth's Saga": [
+      {
+        "Name": "Olroth's Saga",
+        "BaseType": "Olroth's Saga",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 10)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 10)",
+        "BaseType": "Thaumaturgic Flux (Level 10)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 11)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 11)",
+        "BaseType": "Thaumaturgic Flux (Level 11)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 12)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 12)",
+        "BaseType": "Thaumaturgic Flux (Level 12)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 14)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 14)",
+        "BaseType": "Thaumaturgic Flux (Level 14)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Thaumaturgic Flux (Level 9)": [
+      {
+        "Name": "Thaumaturgic Flux (Level 9)",
+        "BaseType": "Thaumaturgic Flux (Level 9)",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Uhtred's Saga": [
+      {
+        "Name": "Uhtred's Saga",
+        "BaseType": "Uhtred's Saga",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Vorana's Saga": [
+      {
+        "Name": "Vorana's Saga",
+        "BaseType": "Vorana's Saga",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -325,6 +548,112 @@
             "a"
           ],
           "FallbackTier": "b"
+        }
+      ],
+      "Aldur's Saga": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Perfect Flux": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Vorana's Saga": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Olroth's Saga": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
+        }
+      ],
+      "Medved's Saga": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Uhtred's Saga": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "a"
+          ],
+          "FallbackTier": "b"
+        }
+      ],
+      "Void Flux": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Thaumaturgic Flux (Level 20)": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "s"
+          ],
+          "FallbackTier": "a"
         }
       ]
     }
