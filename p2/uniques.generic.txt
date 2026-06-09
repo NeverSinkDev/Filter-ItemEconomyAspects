@@ -2619,7 +2619,8 @@
         "Name": "Prism of Belief",
         "BaseType": "Diamond",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety"
         ]
       },
       {
@@ -2641,7 +2642,9 @@
       {
         "Name": "Flesh Crucible",
         "BaseType": "Diamond",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Emerald": [
@@ -3099,6 +3102,15 @@
           "EarlyLeagueInterest",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "The Taming",
+        "BaseType": "Prismatic Ring",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "NonDrop"
+        ]
       }
     ],
     "Silver Charm": [
@@ -3410,13 +3422,17 @@
         "BaseType": "Timeless Jewel",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "HighVariety"
         ]
       },
       {
         "Name": "Undying Hate",
         "BaseType": "Timeless Jewel",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "HighVariety"
+        ]
       }
     ],
     "Ruby": [
@@ -4188,6 +4204,45 @@
         "Aspects": [
           "Handled",
           "PreventHiding"
+        ]
+      }
+    ],
+    "Ornate Ringmail": [
+      {
+        "Name": "Loreweave",
+        "BaseType": "Ornate Ringmail",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
+      }
+    ],
+    "Shortsword": [
+      {
+        "Name": "Bluetongue",
+        "BaseType": "Shortsword",
+        "Aspects": []
+      },
+      {
+        "Name": "Redbeak",
+        "BaseType": "Shortsword",
+        "Aspects": []
+      }
+    ],
+    "Glass Shank": [
+      {
+        "Name": "Winter's Bite",
+        "BaseType": "Glass Shank",
+        "Aspects": []
+      }
+    ],
+    "Runic Fork": [
+      {
+        "Name": "Runeseeker's Call",
+        "BaseType": "Runic Fork",
+        "Aspects": [
+          "Handled",
+          "NonDrop"
         ]
       }
     ]
@@ -6158,6 +6213,30 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Runic Fork": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
           },
           "Tiers": [
             "t1"

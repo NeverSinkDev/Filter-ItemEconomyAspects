@@ -198,6 +198,47 @@
         "BaseType": "The Trialmaster's Reliquary Key",
         "Aspects": []
       }
+    ],
+    "Origin Cradle": [
+      {
+        "Name": "Origin Cradle",
+        "BaseType": "Origin Cradle",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Tangmazu's Reliquary Key": [
+      {
+        "Name": "Tangmazu's Reliquary Key",
+        "BaseType": "Tangmazu's Reliquary Key",
+        "Aspects": []
+      }
+    ],
+    "Origin Core": [
+      {
+        "Name": "Origin Core",
+        "BaseType": "Origin Core",
+        "Aspects": []
+      }
+    ],
+    "Origin Spark": [
+      {
+        "Name": "Origin Spark",
+        "BaseType": "Origin Spark",
+        "Aspects": [
+          "Handled",
+          "Tierable"
+        ]
+      }
+    ],
+    "Xesht's Reliquary Key": [
+      {
+        "Name": "Xesht's Reliquary Key",
+        "BaseType": "Xesht's Reliquary Key",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -360,6 +401,30 @@
           ],
           "FallbackTier": "a"
         },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Origin Spark": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Origin Cradle": [
         {
           "Settings": {
             "IsEnabled": true,

@@ -209,7 +209,9 @@
         "Name": "Orb of Transmutation",
         "BaseType": "Orb of Transmutation",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable",
+          "PoorDrop"
         ]
       }
     ],
@@ -1831,6 +1833,33 @@
           },
           "Tiers": [],
           "FallbackTier": "b"
+        }
+      ],
+      "Orb of Transmutation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "e"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "c",
+            "b",
+            "a",
+            "s"
+          ],
+          "FallbackTier": "e"
         }
       ]
     }

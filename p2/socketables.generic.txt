@@ -1800,6 +1800,111 @@
         "BaseType": "Idol of the Pharisee",
         "Aspects": []
       }
+    ],
+    "Perfect Charging Rune": [
+      {
+        "Name": "Perfect Charging Rune",
+        "BaseType": "Perfect Charging Rune",
+        "Aspects": []
+      }
+    ],
+    "Perfect Mind Rune": [
+      {
+        "Name": "Perfect Mind Rune",
+        "BaseType": "Perfect Mind Rune",
+        "Aspects": []
+      }
+    ],
+    "Perfect Stone Rune": [
+      {
+        "Name": "Perfect Stone Rune",
+        "BaseType": "Perfect Stone Rune",
+        "Aspects": []
+      }
+    ],
+    "Perfect Vision Rune": [
+      {
+        "Name": "Perfect Vision Rune",
+        "BaseType": "Perfect Vision Rune",
+        "Aspects": []
+      }
+    ],
+    "Perfect Adept Rune": [
+      {
+        "Name": "Perfect Adept Rune",
+        "BaseType": "Perfect Adept Rune",
+        "Aspects": []
+      }
+    ],
+    "Perfect Rebirth Rune": [
+      {
+        "Name": "Perfect Rebirth Rune",
+        "BaseType": "Perfect Rebirth Rune",
+        "Aspects": []
+      }
+    ],
+    "Carved Cunning": [
+      {
+        "Name": "Carved Cunning",
+        "BaseType": "Carved Cunning",
+        "Aspects": []
+      }
+    ],
+    "Carved Majesty": [
+      {
+        "Name": "Carved Majesty",
+        "BaseType": "Carved Majesty",
+        "Aspects": []
+      }
+    ],
+    "Carved Mischief": [
+      {
+        "Name": "Carved Mischief",
+        "BaseType": "Carved Mischief",
+        "Aspects": []
+      }
+    ],
+    "Carved Tenacity": [
+      {
+        "Name": "Carved Tenacity",
+        "BaseType": "Carved Tenacity",
+        "Aspects": []
+      }
+    ],
+    "Emergent Possibility": [
+      {
+        "Name": "Emergent Possibility",
+        "BaseType": "Emergent Possibility",
+        "Aspects": []
+      }
+    ],
+    "Emergent Instinct": [
+      {
+        "Name": "Emergent Instinct",
+        "BaseType": "Emergent Instinct",
+        "Aspects": []
+      }
+    ],
+    "Emergent Protection": [
+      {
+        "Name": "Emergent Protection",
+        "BaseType": "Emergent Protection",
+        "Aspects": []
+      }
+    ],
+    "Emergent Vigour": [
+      {
+        "Name": "Emergent Vigour",
+        "BaseType": "Emergent Vigour",
+        "Aspects": []
+      }
+    ],
+    "Raven-Touched Shard": [
+      {
+        "Name": "Raven-Touched Shard",
+        "BaseType": "Raven-Touched Shard",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -2212,7 +2317,8 @@
           },
           "Tiers": [
             "b",
-            "c"
+            "c",
+            "s"
           ],
           "FallbackTier": "a"
         }
