@@ -527,7 +527,8 @@
         "Name": "Countess Seske's Rune of Archery",
         "BaseType": "Countess Seske's Rune of Archery",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1905,6 +1906,13 @@
         "BaseType": "Raven-Touched Shard",
         "Aspects": []
       }
+    ],
+    "Warding Rune of Nourishment": [
+      {
+        "Name": "Warding Rune of Nourishment",
+        "BaseType": "Warding Rune of Nourishment",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -2658,22 +2666,10 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "a"
-          ],
-          "FallbackTier": "s"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "s"
+          "FallbackTier": "a"
         }
       ],
       "Farrul's Rune of the Chase": [

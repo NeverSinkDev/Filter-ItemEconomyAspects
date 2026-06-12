@@ -1012,18 +1012,6 @@
           "FallbackTier": "d"
         }
       ],
-      "Essence of Enhancement": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "d"
-        }
-      ],
       "Essence of Insulation": [
         {
           "Settings": {

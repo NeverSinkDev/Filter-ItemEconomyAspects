@@ -33,7 +33,8 @@
         "BaseType": "Deadly Fate",
         "Aspects": [
           "Handled",
-          "Tierable"
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -43,7 +44,8 @@
         "BaseType": "Cowardly Fate",
         "Aspects": [
           "Handled",
-          "Tierable"
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -53,7 +55,8 @@
         "BaseType": "Victorious Fate",
         "Aspects": [
           "Handled",
-          "Tierable"
+          "Tierable",
+          "PreventHiding"
         ]
       }
     ],
@@ -316,28 +319,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -350,28 +331,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -379,28 +338,6 @@
         }
       ],
       "Deadly Fate": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "b"
-          ],
-          "FallbackTier": "a"
-        },
         {
           "Settings": {
             "IsEnabled": true,

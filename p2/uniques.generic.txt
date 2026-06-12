@@ -2230,7 +2230,8 @@
         "BaseType": "Shrine Sceptre",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       },
       {
@@ -4245,25 +4246,18 @@
           "NonDrop"
         ]
       }
+    ],
+    "Scimitar": [
+      {
+        "Name": "The Dancing Dervish",
+        "BaseType": "Scimitar",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
     "TieringRanges": {
       "Lazuli Ring": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1",
-            "t2",
-            "multispecialhigh"
-          ],
-          "FallbackTier": "multispecial"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -4378,7 +4372,7 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [],
           "FallbackTier": "t2"
@@ -4905,19 +4899,6 @@
           },
           "Tiers": [],
           "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1",
-            "t2"
-          ],
-          "FallbackTier": "multispecialhigh"
         }
       ],
       "Hunter Hood": [
@@ -5189,7 +5170,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         },
