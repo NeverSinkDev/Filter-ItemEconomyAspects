@@ -2552,7 +2552,8 @@
         "Name": "Chober Chaber",
         "BaseType": "Leaden Greathammer",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
