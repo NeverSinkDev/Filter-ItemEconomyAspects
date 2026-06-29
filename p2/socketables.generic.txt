@@ -1427,7 +1427,9 @@
       {
         "Name": "Greater Ward Rune",
         "BaseType": "Greater Ward Rune",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Warding Rune of Equinox": [

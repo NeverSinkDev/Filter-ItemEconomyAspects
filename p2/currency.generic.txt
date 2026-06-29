@@ -140,7 +140,8 @@
         "BaseType": "Blacksmith's Whetstone",
         "Aspects": [
           "Handled",
-          "Tierable"
+          "Tierable",
+          "PoorDrop"
         ]
       }
     ],
@@ -1215,8 +1216,7 @@
           },
           "Tiers": [
             "s",
-            "a",
-            "b"
+            "a"
           ],
           "FallbackTier": "c"
         }
@@ -1428,9 +1428,7 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "s",
-            "e",
-            "a"
+            "e"
           ],
           "FallbackTier": "d"
         },
@@ -1442,8 +1440,7 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "s",
-            "a"
+            "e"
           ],
           "FallbackTier": "d"
         }
@@ -1610,7 +1607,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "c",
+            "a"
+          ],
           "FallbackTier": "b"
         },
         {
