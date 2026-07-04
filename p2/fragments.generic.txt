@@ -242,6 +242,13 @@
         "BaseType": "Xesht's Reliquary Key",
         "Aspects": []
       }
+    ],
+    "Call of the Shadows": [
+      {
+        "Name": "Call of the Shadows",
+        "BaseType": "Call of the Shadows",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

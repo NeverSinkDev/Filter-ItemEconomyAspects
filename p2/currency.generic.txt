@@ -538,17 +538,6 @@
         ]
       }
     ],
-    "Cryptic Key": [
-      {
-        "Name": "Cryptic Key",
-        "BaseType": "Cryptic Key",
-        "Aspects": [
-          "Handled",
-          "PreventHiding",
-          "Tierable"
-        ]
-      }
-    ],
     "Altered Collarbone": [
       {
         "Name": "Altered Collarbone",
@@ -598,6 +587,50 @@
         "Name": "Transmutation Shard",
         "BaseType": "Transmutation Shard",
         "Aspects": []
+      }
+    ],
+    "Yaomac's Orb of Sacrifice": [
+      {
+        "Name": "Yaomac's Orb of Sacrifice",
+        "BaseType": "Yaomac's Orb of Sacrifice",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Kopec's Orb of Sacrifice": [
+      {
+        "Name": "Kopec's Orb of Sacrifice",
+        "BaseType": "Kopec's Orb of Sacrifice",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Yugul's Orb of Sacrifice": [
+      {
+        "Name": "Yugul's Orb of Sacrifice",
+        "BaseType": "Yugul's Orb of Sacrifice",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Kamasa's Orb of Sacrifice": [
+      {
+        "Name": "Kamasa's Orb of Sacrifice",
+        "BaseType": "Kamasa's Orb of Sacrifice",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ]
   },
@@ -1855,6 +1888,54 @@
             "s"
           ],
           "FallbackTier": "e"
+        }
+      ],
+      "Kamasa's Orb of Sacrifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Yugul's Orb of Sacrifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Kopec's Orb of Sacrifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Yaomac's Orb of Sacrifice": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ]
     }

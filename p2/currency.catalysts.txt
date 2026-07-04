@@ -235,6 +235,24 @@
           "Handled"
         ]
       }
+    ],
+    "Necrotic Catalyst": [
+      {
+        "Name": "Necrotic Catalyst",
+        "BaseType": "Necrotic Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Refined Necrotic Catalyst": [
+      {
+        "Name": "Refined Necrotic Catalyst",
+        "BaseType": "Refined Necrotic Catalyst",
+        "Aspects": [
+          "Handled"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -372,6 +390,30 @@
         }
       ],
       "Reaver Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Refined Necrotic Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Necrotic Catalyst": [
         {
           "Settings": {
             "IsEnabled": true,

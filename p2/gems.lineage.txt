@@ -665,6 +665,13 @@
           "Handled"
         ]
       }
+    ],
+    "Atziri's Communion": [
+      {
+        "Name": "Atziri's Communion",
+        "BaseType": "Atziri's Communion",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

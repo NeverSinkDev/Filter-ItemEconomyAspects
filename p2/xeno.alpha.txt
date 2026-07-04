@@ -430,6 +430,20 @@
           "PreventHiding"
         ]
       }
+    ],
+    "Liquid Verisium": [
+      {
+        "Name": "Liquid Verisium",
+        "BaseType": "Liquid Verisium",
+        "Aspects": []
+      }
+    ],
+    "Swift Alloy": [
+      {
+        "Name": "Swift Alloy",
+        "BaseType": "Swift Alloy",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

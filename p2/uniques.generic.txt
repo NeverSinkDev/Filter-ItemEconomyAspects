@@ -4254,6 +4254,13 @@
         "BaseType": "Scimitar",
         "Aspects": []
       }
+    ],
+    "Tethering Bands": [
+      {
+        "Name": "The Master's Reach",
+        "BaseType": "Tethering Bands",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

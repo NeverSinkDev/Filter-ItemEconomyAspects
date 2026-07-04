@@ -578,7 +578,8 @@
           "Tiers": [
             "b",
             "c",
-            "d"
+            "d",
+            "s"
           ],
           "FallbackTier": "a"
         }
@@ -592,7 +593,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "a"
           ],
           "FallbackTier": "b"
         },
@@ -667,7 +669,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "c"
+            "c",
+            "b",
+            "a"
           ],
           "FallbackTier": "d"
         },
