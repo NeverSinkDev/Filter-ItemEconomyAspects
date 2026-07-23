@@ -67,17 +67,6 @@
         ]
       }
     ],
-    "Exalted Shard": [
-      {
-        "Name": "Exalted Shard",
-        "Aspects": [
-          "Handled",
-          "Tierable",
-          "StackedCurrency",
-          "AlchemyBottom"
-        ]
-      }
-    ],
     "Stacked Deck": [
       {
         "Name": "Stacked Deck",
@@ -86,32 +75,6 @@
           "Tierable",
           "AlchemyBottom",
           "StackedCurrency"
-        ]
-      }
-    ],
-    "Splinter of Chayula": [
-      {
-        "Name": "Splinter of Chayula",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Splinter of Chayula",
-        "BaseType": "Splinter of Chayula",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Annulment Shard": [
-      {
-        "Name": "Annulment Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable",
-          "AlchemyBottom"
         ]
       }
     ],
@@ -196,21 +159,6 @@
         ]
       }
     ],
-    "Splinter of Uul-Netol": [
-      {
-        "Name": "Splinter of Uul-Netol",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Splinter of Uul-Netol",
-        "BaseType": "Splinter of Uul-Netol",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Orb of Binding": [
       {
         "Name": "Orb of Binding",
@@ -237,21 +185,6 @@
         ]
       }
     ],
-    "Splinter of Tul": [
-      {
-        "Name": "Splinter of Tul",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Splinter of Tul",
-        "BaseType": "Splinter of Tul",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Orb of Alteration": [
       {
         "Name": "Orb of Alteration",
@@ -271,21 +204,6 @@
           "Handled",
           "Tierable",
           "StackedCurrency"
-        ]
-      }
-    ],
-    "Splinter of Xoph": [
-      {
-        "Name": "Splinter of Xoph",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Splinter of Xoph",
-        "BaseType": "Splinter of Xoph",
-        "Aspects": [
-          "Handled"
         ]
       }
     ],
@@ -318,24 +236,9 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChanceBottom",
           "StackedCurrency",
-          "NoValueEarly"
-        ]
-      }
-    ],
-    "Splinter of Esh": [
-      {
-        "Name": "Splinter of Esh",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Splinter of Esh",
-        "BaseType": "Splinter of Esh",
-        "Aspects": [
-          "Handled"
+          "PreventHiding",
+          "AlchemyBottom"
         ]
       }
     ],
@@ -763,7 +666,7 @@
         "Aspects": [
           "Tierable",
           "Handled",
-          "ChanceBottom"
+          "AlchemyBottom"
         ]
       },
       {
@@ -772,7 +675,7 @@
         "Aspects": [
           "Tierable",
           "Handled",
-          "ChanceBottom"
+          "AlchemyBottom"
         ]
       }
     ],
@@ -869,16 +772,6 @@
           "Handled",
           "Tierable",
           "StackedCurrency"
-        ]
-      }
-    ],
-    "Regal Shard": [
-      {
-        "Name": "Regal Shard",
-        "Aspects": [
-          "Handled",
-          "StackedCurrency",
-          "Tierable"
         ]
       }
     ],
@@ -1442,13 +1335,6 @@
         "Aspects": []
       }
     ],
-    "Chaos Shard": [
-      {
-        "Name": "Chaos Shard",
-        "BaseType": "Chaos Shard",
-        "Aspects": []
-      }
-    ],
     "Flesh of Xesht": [
       {
         "Name": "Flesh of Xesht",
@@ -1572,10 +1458,10 @@
         ]
       }
     ],
-    "Enshrouded Astrolabe": [
+    "Deceptive Astrolabe": [
       {
-        "Name": "Enshrouded Astrolabe",
-        "BaseType": "Enshrouded Astrolabe",
+        "Name": "Deceptive Astrolabe",
+        "BaseType": "Deceptive Astrolabe",
         "Aspects": [
           "Handled",
           "Tierable",
@@ -2351,7 +2237,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t3annul"
         },
         {
           "Settings": {
@@ -3001,23 +2887,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t7chance"
+            "t3annul"
           ],
-          "FallbackTier": "t6chrom"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t7chance",
-            "t5alchemy",
-            "t8trans"
-          ],
-          "FallbackTier": "t6chrom"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Jeweller's Orb": [
@@ -3161,35 +3033,6 @@
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
-        }
-      ],
-      "Annulment Shard": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [
-            "t4chaos",
-            "t6chrom"
-          ],
-          "FallbackTier": "t5alchemy"
-        }
-      ],
-      "Exalted Shard": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t4chaos"
-          ],
-          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Remembrance": [
@@ -3800,7 +3643,7 @@
           "FallbackTier": "t5alchemy"
         }
       ],
-      "Enshrouded Astrolabe": [
+      "Deceptive Astrolabe": [
         {
           "Settings": {
             "IsEnabled": true,

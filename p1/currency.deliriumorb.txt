@@ -54,15 +54,6 @@
         ]
       }
     ],
-    "Fossilised Delirium Orb": [
-      {
-        "Name": "Fossilised Delirium Orb",
-        "BaseType": "Fossilised Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Timeless Delirium Orb": [
       {
         "Name": "Timeless Delirium Orb",

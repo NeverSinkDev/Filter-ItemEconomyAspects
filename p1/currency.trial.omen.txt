@@ -21,10 +21,10 @@
         ]
       }
     ],
-    "Omen of Blanching": [
+    "Omen of Trichromatism": [
       {
-        "Name": "Omen of Blanching",
-        "BaseType": "Omen of Blanching",
+        "Name": "Omen of Trichromatism",
+        "BaseType": "Omen of Trichromatism",
         "Aspects": [
           "Handled",
           "PreventHiding"
@@ -119,7 +119,7 @@
   },
   "TieringRangeList": {
     "TieringRanges": {
-      "Omen of Blanching": [
+      "Omen of Trichromatism": [
         {
           "Settings": {
             "IsEnabled": true,

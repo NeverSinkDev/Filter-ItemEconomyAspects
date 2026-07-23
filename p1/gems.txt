@@ -3251,10 +3251,11 @@
         ]
       }
     ],
-    "Dark Pact": [
+    "Communion Support": [
       {
-        "Name": "Dark Pact",
-        "Special": "20/23c",
+        "Name": "Communion Support",
+        "BaseType": "Communion Support",
+        "Special": "4/23c",
         "Aspects": [
           "Handled"
         ]
@@ -6570,11 +6571,10 @@
         ]
       }
     ],
-    "Minion Pact Support": [
+    "Dark Bargain": [
       {
-        "Name": "Minion Pact Support",
-        "BaseType": "Minion Pact Support",
-        "Special": "4/23c",
+        "Name": "Dark Bargain",
+        "Special": "20/23c",
         "Aspects": [
           "Handled"
         ]

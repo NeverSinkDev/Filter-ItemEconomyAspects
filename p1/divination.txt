@@ -7311,6 +7311,18 @@
           },
           "Tiers": [],
           "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "The Coming Storm": [
@@ -8549,6 +8561,32 @@
             "t2"
           ],
           "FallbackTier": "t4"
+        }
+      ],
+      "Imperfect Memories": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Dying Light": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ]
     }

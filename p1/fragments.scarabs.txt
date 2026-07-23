@@ -287,10 +287,10 @@
         ]
       }
     ],
-    "Abyss Scarab of Edifice": [
+    "Abyss Scarab of the Consort": [
       {
-        "Name": "Abyss Scarab of Edifice",
-        "BaseType": "Abyss Scarab of Edifice",
+        "Name": "Abyss Scarab of the Consort",
+        "BaseType": "Abyss Scarab of the Consort",
         "Aspects": [
           "Handled"
         ]
@@ -719,10 +719,10 @@
         ]
       }
     ],
-    "Abyss Scarab of Profound Depth": [
+    "Abyss Scarab of Crystals": [
       {
-        "Name": "Abyss Scarab of Profound Depth",
-        "BaseType": "Abyss Scarab of Profound Depth",
+        "Name": "Abyss Scarab of Crystals",
+        "BaseType": "Abyss Scarab of Crystals",
         "Aspects": [
           "Handled"
         ]
@@ -1020,42 +1020,63 @@
       {
         "Name": "Anarchy Scarab of the Exceptional",
         "BaseType": "Anarchy Scarab of the Exceptional",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Kalguuran Scarab of Enriching": [
       {
         "Name": "Kalguuran Scarab of Enriching",
         "BaseType": "Kalguuran Scarab of Enriching",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Ritual Scarab of Corpses": [
       {
         "Name": "Ritual Scarab of Corpses",
         "BaseType": "Ritual Scarab of Corpses",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Abyss Scarab of Descending": [
       {
         "Name": "Abyss Scarab of Descending",
         "BaseType": "Abyss Scarab of Descending",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Betrayal Scarab of Unbreaking": [
       {
         "Name": "Betrayal Scarab of Unbreaking",
         "BaseType": "Betrayal Scarab of Unbreaking",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Expedition Scarab of Infusion": [
       {
         "Name": "Expedition Scarab of Infusion",
         "BaseType": "Expedition Scarab of Infusion",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Scarab of the Dextral": [
+      {
+        "Name": "Scarab of the Dextral",
+        "BaseType": "Scarab of the Dextral",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },
@@ -1491,7 +1512,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Abyss Scarab of Edifice": [
+      "Abyss Scarab of the Consort": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1500,7 +1521,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t2",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -1874,7 +1897,7 @@
           "FallbackTier": "t4"
         }
       ],
-      "Abyss Scarab of Profound Depth": [
+      "Abyss Scarab of Crystals": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -1883,9 +1906,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3",
-            "t2",
-            "t5"
+            "t3"
           ],
           "FallbackTier": "t4"
         }
@@ -2586,6 +2607,54 @@
             "t3"
           ],
           "FallbackTier": "t2"
+        }
+      ],
+      "Allflame Ember of the Wildwood": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Anarchy Scarab of the Exceptional": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Expedition Scarab of Infusion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Betrayal Scarab of the Allflame": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ]
     }

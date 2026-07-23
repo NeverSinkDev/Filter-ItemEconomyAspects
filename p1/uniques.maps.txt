@@ -66,6 +66,11 @@
         "Name": "The Putrid Cloister",
         "BaseType": "Map (Tier 12)",
         "Aspects": []
+      },
+      {
+        "Name": "Hall of Grandmasters",
+        "BaseType": "Map (Tier 12)",
+        "Aspects": []
       }
     ],
     "Map (Tier 16)": [
@@ -96,6 +101,71 @@
       },
       {
         "Name": "Whakawairua Tuahu",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Doryani's Machinarium",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Cortex",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "The Coward's Trial",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "The Twilight Temple",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Altered Distant Memory",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Rewritten Distant Memory",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Twisted Distant Memory",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Augmented Distant Memory",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Poorjoy's Asylum",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Acton's Nightmare",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Maelström of Chaos",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Oba's Cursed Trove",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
+      },
+      {
+        "Name": "Mao Kun",
         "BaseType": "Map (Tier 16)",
         "Aspects": []
       }
@@ -141,11 +211,21 @@
         "Name": "Twisted Distant Memory",
         "BaseType": "Map (Tier 15)",
         "Aspects": []
+      },
+      {
+        "Name": "Caer Blaidd, Wolfpack's Den",
+        "BaseType": "Map (Tier 15)",
+        "Aspects": []
       }
     ],
     "Map (Tier 4)": [
       {
         "Name": "The Twilight Temple",
+        "BaseType": "Map (Tier 4)",
+        "Aspects": []
+      },
+      {
+        "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 4)",
         "Aspects": []
       }
@@ -158,6 +238,16 @@
       },
       {
         "Name": "Oba's Cursed Trove",
+        "BaseType": "Map (Tier 10)",
+        "Aspects": []
+      },
+      {
+        "Name": "The Vinktar Square",
+        "BaseType": "Map (Tier 10)",
+        "Aspects": []
+      },
+      {
+        "Name": "Whakawairua Tuahu",
         "BaseType": "Map (Tier 10)",
         "Aspects": []
       }
@@ -178,6 +268,18 @@
       {
         "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 1)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 13)": [
+      {
+        "Name": "The Putrid Cloister",
+        "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      },
+      {
+        "Name": "Pillars of Arun",
+        "BaseType": "Map (Tier 13)",
         "Aspects": []
       }
     ]
