@@ -33,7 +33,8 @@
         "BaseType": "Maelström Staff",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Uncommon"
         ]
       },
       {
@@ -41,6 +42,7 @@
         "BaseType": "Maelström Staff",
         "Aspects": [
           "Handled",
+          "Buff",
           "EarlyLeagueInterest"
         ]
       }
@@ -538,7 +540,8 @@
         "BaseType": "Vaal Blade",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -724,7 +727,8 @@
         "BaseType": "Imperial Staff",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "Uncommon"
         ]
       },
       {
@@ -757,7 +761,8 @@
         "Name": "Cane of Unravelling",
         "BaseType": "Ezomyte Staff",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -941,8 +946,7 @@
         "BaseType": "Void Axe",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "EarlyLeagueInterest"
+          "Uncommon"
         ]
       }
     ],
@@ -1019,8 +1023,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding",
-          "Buff"
+          "PreventHiding"
         ]
       },
       {
@@ -1144,8 +1147,7 @@
         "Name": "Vulconus",
         "BaseType": "Demon Dagger",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       },
       {
@@ -1302,8 +1304,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding",
-          "Buff"
+          "PreventHiding"
         ]
       }
     ],
@@ -1415,6 +1416,7 @@
         "BaseType": "Dusk Blade",
         "Aspects": [
           "Handled",
+          "Uncommon",
           "EarlyLeagueInterest"
         ]
       }
@@ -1549,7 +1551,8 @@
         "Name": "Nycta's Lantern",
         "BaseType": "Crystal Sceptre",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -2180,8 +2183,7 @@
         "Name": "Divination Distillate",
         "BaseType": "Large Hybrid Flask",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -2546,7 +2548,6 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding",
           "NonWorldDrop"
         ]
       }
@@ -2565,6 +2566,7 @@
         "BaseType": "Sorcerer Boots",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "NonWorldDrop"
         ]
       },
@@ -2700,7 +2702,8 @@
         "BaseType": "Magistrate Crown",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Nerf"
         ]
       }
     ],
@@ -2894,6 +2897,15 @@
         "Aspects": [
           "Handled",
           "Uncommon"
+        ]
+      },
+      {
+        "Name": "Voidfletcher",
+        "BaseType": "Ornate Quiver",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "Buff"
         ]
       }
     ],
@@ -3094,6 +3106,7 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop",
+          "HighVariety",
           "PreventHiding"
         ]
       },
@@ -3346,8 +3359,7 @@
         "Name": "The Bringer of Rain",
         "BaseType": "Nightmare Bascinet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -3575,8 +3587,7 @@
         "BaseType": "Crusader Gloves",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
-          "Nerf"
+          "NonWorldDrop"
         ]
       },
       {
@@ -3665,6 +3676,7 @@
         "BaseType": "Slink Boots",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "NonWorldDrop"
         ]
       },
@@ -3711,6 +3723,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
+          "Nerf",
           "EarlyLeagueInterest"
         ]
       }
@@ -4080,7 +4093,8 @@
         "BaseType": "Titanium Spirit Shield",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "Nerf"
         ]
       },
       {
@@ -4685,8 +4699,7 @@
         "Name": "Mindspiral",
         "BaseType": "Aventail Helmet",
         "Aspects": [
-          "Handled",
-          "EarlyLeagueInterest"
+          "Handled"
         ]
       }
     ],
@@ -5163,7 +5176,9 @@
         "Name": "Honourhome",
         "BaseType": "Soldier Helmet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "HighVariety"
         ]
       }
     ],
@@ -5432,7 +5447,7 @@
         "BaseType": "Leather Belt",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
+          "NonDrop",
           "HighVariety"
         ]
       }
@@ -5719,7 +5734,9 @@
         "Name": "Valako's Sign",
         "BaseType": "Topaz Ring",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest",
+          "Buff"
         ]
       },
       {
@@ -6145,20 +6162,14 @@
         ]
       },
       {
-        "Name": "Khatal's Weeping",
-        "BaseType": "Lapis Amulet",
-        "Aspects": [
-          "Handled",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "Khatal's Geyser",
         "BaseType": "Lapis Amulet",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
+        "Aspects": []
+      },
+      {
+        "Name": "Khatal's Weeping",
+        "BaseType": "Lapis Amulet",
+        "Aspects": []
       }
     ],
     "Unset Ring": [
@@ -6331,20 +6342,14 @@
         ]
       },
       {
-        "Name": "Saresh's Darkness",
-        "BaseType": "Chain Belt",
-        "Aspects": [
-          "Handled",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "Solerai's Radiance",
         "BaseType": "Chain Belt",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
+        "Aspects": []
+      },
+      {
+        "Name": "Saresh's Darkness",
+        "BaseType": "Chain Belt",
+        "Aspects": []
       }
     ],
     "Heavy Belt": [
@@ -6460,7 +6465,8 @@
         "BaseType": "Gold Amulet",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -6505,7 +6511,7 @@
         "Aspects": [
           "Handled",
           "Anchor",
-          "Uncommon"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -6754,7 +6760,8 @@
         "Name": "The Primordial Chain",
         "BaseType": "Coral Amulet",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -6976,8 +6983,7 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "NonWorldDrop",
-          "Nerf"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -7041,7 +7047,8 @@
         "Name": "Night's Hold",
         "BaseType": "Black Maw Talisman",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -7161,7 +7168,6 @@
         "BaseType": "Vanguard Belt",
         "Aspects": [
           "Handled",
-          "PreventHiding",
           "Uncommon"
         ]
       }
@@ -7225,7 +7231,7 @@
         "BaseType": "Tyrant's Sekhem",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonDrop"
         ]
       }
     ],
@@ -7389,8 +7395,7 @@
         "BaseType": "Two-Toned Boots",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "PreventHiding"
+          "Uncommon"
         ]
       }
     ],
@@ -7499,7 +7504,7 @@
         "BaseType": "Formless Ring",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonDrop"
         ]
       }
     ],
@@ -7803,19 +7808,16 @@
     ],
     "Primal Arrow Quiver": [
       {
-        "Name": "Voidfletcher",
-        "BaseType": "Primal Arrow Quiver",
-        "Aspects": [
-          "Handled",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "The Poised Prism",
         "BaseType": "Primal Arrow Quiver",
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "Voidfletcher",
+        "BaseType": "Primal Arrow Quiver",
+        "Aspects": []
       }
     ],
     "Fingerless Silk Gloves": [
@@ -7981,7 +7983,7 @@
         "BaseType": "Foul Staff",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonDrop"
         ]
       }
     ],
@@ -8017,8 +8019,7 @@
         "BaseType": "Devout Chainmail",
         "Aspects": [
           "Handled",
-          "Uncommon",
-          "EarlyLeagueInterest"
+          "Uncommon"
         ]
       }
     ],
@@ -8057,8 +8058,7 @@
         "BaseType": "Majestic Plate",
         "Aspects": [
           "Handled",
-          "HighVariety",
-          "EarlyLeagueInterest"
+          "HighVariety"
         ]
       }
     ],
@@ -8856,7 +8856,10 @@
       {
         "Name": "Heroic Tragedy",
         "BaseType": "Timeless Jewel",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "NonDrop"
+        ]
       }
     ],
     "Medium Cluster Jewel": [
@@ -9071,8 +9074,7 @@
         "Name": "Nametaker",
         "BaseType": "Graceful Sword",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       }
     ],
@@ -9260,7 +9262,8 @@
         "Name": "Mystic Refractor",
         "BaseType": "Pagan Wand",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -9282,7 +9285,8 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop",
-          "HighVariety"
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -9333,7 +9337,8 @@
         "BaseType": "Vermillion Ring",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -9452,64 +9457,45 @@
         "Name": "Eclipse Solaris",
         "BaseType": "Faun's Horn",
         "Aspects": [
-          "Anchor",
           "Handled",
           "EarlyLeagueInterest"
         ]
       }
     ],
-    "Maraketh Bow": [
+    "Coronal Maul": [
       {
-        "Name": "The Bane of Hope",
-        "BaseType": "Maraketh Bow",
-        "Aspects": [
-          "Handled",
-          "Uncommon"
-        ]
+        "Name": "The Sacred Chalice",
+        "BaseType": "Coronal Maul",
+        "Aspects": []
       },
+      {
+        "Name": "The Desecrated Chalice",
+        "BaseType": "Coronal Maul",
+        "Aspects": []
+      }
+    ],
+    "Maraketh Bow": [
       {
         "Name": "The Flame of Hope",
         "BaseType": "Maraketh Bow",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
+        "Aspects": []
+      },
+      {
+        "Name": "The Bane of Hope",
+        "BaseType": "Maraketh Bow",
+        "Aspects": []
       }
     ],
     "Exquisite Blade": [
       {
-        "Name": "Fleshrender",
-        "BaseType": "Exquisite Blade",
-        "Aspects": [
-          "Handled",
-          "Uncommon"
-        ]
-      },
-      {
         "Name": "Skysunder",
         "BaseType": "Exquisite Blade",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
-      }
-    ],
-    "Coronal Maul": [
-      {
-        "Name": "The Desecrated Chalice",
-        "BaseType": "Coronal Maul",
-        "Aspects": [
-          "Handled",
-          "Uncommon"
-        ]
+        "Aspects": []
       },
       {
-        "Name": "The Sacred Chalice",
-        "BaseType": "Coronal Maul",
-        "Aspects": [
-          "Handled",
-          "NonDrop"
-        ]
+        "Name": "Fleshrender",
+        "BaseType": "Exquisite Blade",
+        "Aspects": []
       }
     ]
   },
