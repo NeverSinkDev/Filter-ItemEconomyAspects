@@ -1579,7 +1579,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         },
         {
@@ -1657,9 +1659,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -1685,9 +1687,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -1712,7 +1714,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -1832,7 +1836,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         },
         {
@@ -1871,7 +1877,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -1897,7 +1905,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -1966,7 +1976,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -1994,8 +2006,7 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3annul",
-            "t4chaos"
+            "t3annul"
           ],
           "FallbackTier": "t2divine"
         }
@@ -2036,10 +2047,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3annul",
             "t4chaos"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t3annul"
         }
       ],
       "Ancient Orb": [
@@ -2051,10 +2061,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine",
+            "t3annul",
             "t4chaos"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -2149,10 +2159,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos",
-            "t2divine"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -2207,7 +2216,6 @@
           },
           "Tiers": [
             "t3annul",
-            "t2divine",
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
@@ -2222,10 +2230,10 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine",
-            "t3annul"
+            "t4chaos",
+            "t2divine"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t3annul"
         }
       ],
       "Tainted Chromatic Orb": [
@@ -2304,7 +2312,6 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t5alchemy",
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
@@ -2435,10 +2442,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t3annul",
-            "t5alchemy"
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t3annul"
         }
       ],
       "Imbued Catalyst": [
@@ -2585,8 +2591,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t5alchemy"
+          "Tiers": [
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         },
         {
           "Settings": {
@@ -3056,7 +3064,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3080,7 +3090,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3227,7 +3239,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t2divine"
+          ],
           "FallbackTier": "t1"
         }
       ],
@@ -3280,7 +3294,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3298,6 +3314,16 @@
             "t1"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Warlord's Exalted Orb": [
@@ -3368,10 +3394,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t2divine"
-          ],
-          "FallbackTier": "t1"
+          "Tiers": [],
+          "FallbackTier": "t2divine"
         }
       ],
       "Foulborn Exalted Orb": [
@@ -3383,9 +3407,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t1"
         }
       ],
       "Foulborn Orb of Augmentation": [
@@ -3397,9 +3421,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos"
+            "t3annul"
           ],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Foulborn Regal Orb": [
@@ -3424,8 +3448,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2divine"
+          "Tiers": [
+            "t2divine"
+          ],
+          "FallbackTier": "t1"
         }
       ],
       "Exalted Orb": [
@@ -3479,7 +3505,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3506,9 +3534,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         }
       ],
       "Refracting Fog": [
@@ -3534,9 +3562,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t2divine"
         }
       ],
       "Volatile Vaal Orb": [
@@ -3561,7 +3589,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3651,7 +3681,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3663,7 +3695,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3675,7 +3709,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3687,7 +3723,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3699,7 +3737,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3711,7 +3751,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3723,7 +3765,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3735,7 +3779,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3747,7 +3793,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3759,7 +3807,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3annul"
+          ],
           "FallbackTier": "t2divine"
         }
       ],
@@ -3803,6 +3853,32 @@
             "t8trans"
           ],
           "FallbackTier": "t6chrom"
+        }
+      ],
+      "Sinistral Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Dextral Catalyst": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ]
     }
