@@ -6806,7 +6806,8 @@
         "Name": "Gifts from Above",
         "BaseType": "Diamond Ring",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -9403,7 +9404,8 @@
         "Name": "Piscator's Vigil",
         "BaseType": "Kinetic Wand",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -11526,7 +11528,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t1"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -11740,6 +11744,48 @@
             "hideable"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "Zodiac Leather": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "multispecial",
+            "t1",
+            "multispecialhigh"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Crystal Sceptre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Faithful Helmet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t1"
         }
       ]
     }
