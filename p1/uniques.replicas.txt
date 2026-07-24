@@ -1,568 +1,1325 @@
 {
-  "Infernal Sword": [
-    {
-      "Name": "Replica Oro's Sacrifice",
-      "BaseType": "Infernal Sword",
-      "Aspects": []
-    }
-  ],
-  "Terror Maul": [
-    {
-      "Name": "Replica Kongor's Undying Rage",
-      "BaseType": "Terror Maul",
-      "Aspects": []
-    }
-  ],
-  "Maelström Staff": [
-    {
-      "Name": "Replica Duskdawn",
-      "BaseType": "Maelström Staff",
-      "Aspects": []
-    }
-  ],
-  "Vaal Claw": [
-    {
-      "Name": "Replica Allure",
-      "BaseType": "Vaal Claw",
-      "Aspects": []
-    }
-  ],
-  "Vaal Rapier": [
-    {
-      "Name": "Replica Paradoxica",
-      "BaseType": "Vaal Rapier",
-      "Aspects": []
-    }
-  ],
-  "Imperial Bow": [
-    {
-      "Name": "Replica Windripper",
-      "BaseType": "Imperial Bow",
-      "Aspects": []
-    }
-  ],
-  "Void Sceptre": [
-    {
-      "Name": "Replica Nebulis",
-      "BaseType": "Void Sceptre",
-      "Aspects": []
-    }
-  ],
-  "Eternal Sword": [
-    {
-      "Name": "Replica Dreamfeather",
-      "BaseType": "Eternal Sword",
-      "Aspects": []
-    }
-  ],
-  "Great Mallet": [
-    {
-      "Name": "Replica Trypanon",
-      "BaseType": "Great Mallet",
-      "Aspects": []
-    }
-  ],
-  "Opal Wand": [
-    {
-      "Name": "Replica Tulfall",
-      "BaseType": "Opal Wand",
-      "Aspects": []
-    }
-  ],
-  "Ezomyte Dagger": [
-    {
-      "Name": "Replica Cold Iron Point",
-      "BaseType": "Ezomyte Dagger",
-      "Aspects": []
-    }
-  ],
-  "Ornate Mace": [
-    {
-      "Name": "Replica Frostbreath",
-      "BaseType": "Ornate Mace",
-      "Aspects": []
-    }
-  ],
-  "Sage Wand": [
-    {
-      "Name": "Replica Twyzel",
-      "BaseType": "Sage Wand",
-      "Aspects": []
-    }
-  ],
-  "Shadow Sceptre": [
-    {
-      "Name": "Replica Bitterdream",
-      "BaseType": "Shadow Sceptre",
-      "Aspects": []
-    }
-  ],
-  "Engraved Wand": [
-    {
-      "Name": "Replica Midnight Bargain",
-      "BaseType": "Engraved Wand",
-      "Aspects": []
-    }
-  ],
-  "Nailed Fist": [
-    {
-      "Name": "Replica Last Resort",
-      "BaseType": "Nailed Fist",
-      "Aspects": []
-    }
-  ],
-  "Death Bow": [
-    {
-      "Name": "Replica Iron Commander",
-      "BaseType": "Death Bow",
-      "Aspects": []
-    }
-  ],
-  "Jasper Chopper": [
-    {
-      "Name": "Replica Harvest",
-      "BaseType": "Jasper Chopper",
-      "Aspects": []
-    }
-  ],
-  "Gnarled Branch": [
-    {
-      "Name": "Replica Fencoil",
-      "BaseType": "Gnarled Branch",
-      "Aspects": []
-    },
-    {
-      "Name": "Replica Blood Thorn",
-      "BaseType": "Gnarled Branch",
-      "Aspects": []
-    }
-  ],
-  "Grinning Fetish": [
-    {
-      "Name": "Replica Earendel's Embrace",
-      "BaseType": "Grinning Fetish",
-      "Aspects": []
-    }
-  ],
-  "Ezomyte Axe": [
-    {
-      "Name": "Replica Wings of Entropy",
-      "BaseType": "Ezomyte Axe",
-      "Aspects": []
-    }
-  ],
-  "Royal Skean": [
-    {
-      "Name": "Replica Heartbreaker",
-      "BaseType": "Royal Skean",
-      "Aspects": []
-    }
-  ],
-  "Gut Ripper": [
-    {
-      "Name": "Replica Advancing Fortress",
-      "BaseType": "Gut Ripper",
-      "Aspects": []
-    }
-  ],
-  "Stiletto": [
-    {
-      "Name": "Replica Bloodplay",
-      "BaseType": "Stiletto",
-      "Aspects": []
-    }
-  ],
-  "Elder Sword": [
-    {
-      "Name": "Replica Innsbury Edge",
-      "BaseType": "Elder Sword",
-      "Aspects": []
-    }
-  ],
-  "Short Bow": [
-    {
-      "Name": "Replica Quill Rain",
-      "BaseType": "Short Bow",
-      "Aspects": []
-    }
-  ],
-  "Boot Knife": [
-    {
-      "Name": "Replica Ungil's Gauche",
-      "BaseType": "Boot Knife",
-      "Aspects": []
-    }
-  ],
-  "War Sword": [
-    {
-      "Name": "Replica Tempestuous Steel",
-      "BaseType": "War Sword",
-      "Aspects": []
-    }
-  ],
-  "Decimation Bow": [
-    {
-      "Name": "Replica Infractem",
-      "BaseType": "Decimation Bow",
-      "Aspects": []
-    }
-  ],
-  "Sulphur Flask": [
-    {
-      "Name": "Replica Sorrow of the Divine",
-      "BaseType": "Sulphur Flask",
-      "Aspects": []
-    }
-  ],
-  "Granite Flask": [
-    {
-      "Name": "Replica Rumi's Concoction",
-      "BaseType": "Granite Flask",
-      "Aspects": []
-    }
-  ],
-  "Sanctified Mana Flask": [
-    {
-      "Name": "Replica Lavianga's Spirit",
-      "BaseType": "Sanctified Mana Flask",
-      "Aspects": []
-    }
-  ],
-  "Carnal Armour": [
-    {
-      "Name": "Replica Shroud of the Lightless",
-      "BaseType": "Carnal Armour",
-      "Aspects": []
-    },
-    {
-      "Name": "Replica Restless Ward",
-      "BaseType": "Carnal Armour",
-      "Aspects": []
-    }
-  ],
-  "Triumphant Lamellar": [
-    {
-      "Name": "Replica Farrul's Fur",
-      "BaseType": "Triumphant Lamellar",
-      "Aspects": []
-    }
-  ],
-  "Soldier Boots": [
-    {
-      "Name": "Replica Alberon's Warpath",
-      "BaseType": "Soldier Boots",
-      "Aspects": []
-    }
-  ],
-  "Zodiac Leather": [
-    {
-      "Name": "Replica Perfect Form",
-      "BaseType": "Zodiac Leather",
-      "Aspects": []
-    }
-  ],
-  "Murder Boots": [
-    {
-      "Name": "Replica Voidwalker",
-      "BaseType": "Murder Boots",
-      "Aspects": []
-    }
-  ],
-  "Ornate Quiver": [
-    {
-      "Name": "Replica Maloney's Mechanism",
-      "BaseType": "Ornate Quiver",
-      "Aspects": []
-    }
-  ],
-  "Ebony Tower Shield": [
-    {
-      "Name": "Replica Tukohama's Fortress",
-      "BaseType": "Ebony Tower Shield",
-      "Aspects": []
-    }
-  ],
-  "Titan Greaves": [
-    {
-      "Name": "Replica Red Trail",
-      "BaseType": "Titan Greaves",
-      "Aspects": []
-    }
-  ],
-  "Lacquered Buckler": [
-    {
-      "Name": "Replica Mistwall",
-      "BaseType": "Lacquered Buckler",
-      "Aspects": []
-    }
-  ],
-  "Assassin's Boots": [
-    {
-      "Name": "Replica Stampede",
-      "BaseType": "Assassin's Boots",
-      "Aspects": []
-    }
-  ],
-  "Blood Raiment": [
-    {
-      "Name": "Replica Eternity Shroud",
-      "BaseType": "Blood Raiment",
-      "Aspects": []
-    }
-  ],
-  "Vaal Gauntlets": [
-    {
-      "Name": "Replica Atziri's Acuity",
-      "BaseType": "Vaal Gauntlets",
-      "Aspects": []
-    }
-  ],
-  "Ezomyte Burgonet": [
-    {
-      "Name": "Replica Abyssus",
-      "BaseType": "Ezomyte Burgonet",
-      "Aspects": []
-    }
-  ],
-  "Great Helmet": [
-    {
-      "Name": "Replica Veil of the Night",
-      "BaseType": "Great Helmet",
-      "Aspects": []
-    }
-  ],
-  "Laminated Kite Shield": [
-    {
-      "Name": "Replica Victario's Charity",
-      "BaseType": "Laminated Kite Shield",
-      "Aspects": []
-    }
-  ],
-  "Elegant Ringmail": [
-    {
-      "Name": "Replica Loreweave",
-      "BaseType": "Elegant Ringmail",
-      "Aspects": []
-    }
-  ],
-  "Zealot Gloves": [
-    {
-      "Name": "Replica Volkuur's Guidance",
-      "BaseType": "Zealot Gloves",
-      "Aspects": []
-    }
-  ],
-  "Shagreen Boots": [
-    {
-      "Name": "Replica Three-step Assault",
-      "BaseType": "Shagreen Boots",
-      "Aspects": []
-    }
-  ],
-  "Glorious Plate": [
-    {
-      "Name": "Replica Kaom's Heart",
-      "BaseType": "Glorious Plate",
-      "Aspects": []
-    }
-  ],
-  "Samite Gloves": [
-    {
-      "Name": "Replica Kalisa's Grace",
-      "BaseType": "Samite Gloves",
-      "Aspects": []
-    }
-  ],
-  "Arcanist Slippers": [
-    {
-      "Name": "Replica Inya's Epiphany",
-      "BaseType": "Arcanist Slippers",
-      "Aspects": []
-    }
-  ],
-  "Crusader Chainmail": [
-    {
-      "Name": "Replica Ambu's Charge",
-      "BaseType": "Crusader Chainmail",
-      "Aspects": []
-    }
-  ],
-  "Spike-Point Arrow Quiver": [
-    {
-      "Name": "Replica Soul Strike",
-      "BaseType": "Spike-Point Arrow Quiver",
-      "Aspects": []
-    }
-  ],
-  "Sinner Tricorne": [
-    {
-      "Name": "Replica Alpha's Howl",
-      "BaseType": "Sinner Tricorne",
-      "Aspects": []
-    }
-  ],
-  "Satin Gloves": [
-    {
-      "Name": "Replica Allelopathy",
-      "BaseType": "Satin Gloves",
-      "Aspects": []
-    }
-  ],
-  "Bronzescale Boots": [
-    {
-      "Name": "Replica Lioneye's Paws",
-      "BaseType": "Bronzescale Boots",
-      "Aspects": []
-    }
-  ],
-  "Silk Slippers": [
-    {
-      "Name": "Replica Bones of Ullr",
-      "BaseType": "Silk Slippers",
-      "Aspects": []
-    }
-  ],
-  "Arcanist Gloves": [
-    {
-      "Name": "Replica Grip of the Council",
-      "BaseType": "Arcanist Gloves",
-      "Aspects": []
-    }
-  ],
-  "Festival Mask": [
-    {
-      "Name": "Replica Leer Cast",
-      "BaseType": "Festival Mask",
-      "Aspects": []
-    }
-  ],
-  "Heavy Belt": [
-    {
-      "Name": "Replica Siegebreaker",
-      "BaseType": "Heavy Belt",
-      "Aspects": []
-    }
-  ],
-  "Leather Belt": [
-    {
-      "Name": "Replica Headhunter",
-      "BaseType": "Leather Belt",
-      "Aspects": []
-    }
-  ],
-  "Chain Belt": [
-    {
-      "Name": "Replica Bated Breath",
-      "BaseType": "Chain Belt",
-      "Aspects": []
-    }
-  ],
-  "Cloth Belt": [
-    {
-      "Name": "Replica Soul Tether",
-      "BaseType": "Cloth Belt",
-      "Aspects": []
-    }
-  ],
-  "Paua Amulet": [
-    {
-      "Name": "Replica Atziri's Foible",
-      "BaseType": "Paua Amulet",
-      "Aspects": []
-    }
-  ],
-  "Jade Amulet": [
-    {
-      "Name": "Replica Karui Ward",
-      "BaseType": "Jade Amulet",
-      "Aspects": []
-    },
-    {
-      "Name": "Replica Hyrri's Truth",
-      "BaseType": "Jade Amulet",
-      "Aspects": []
-    }
-  ],
-  "Sapphire Ring": [
-    {
-      "Name": "Replica Tasalio's Sign",
-      "BaseType": "Sapphire Ring",
-      "Aspects": []
-    }
-  ],
-  "Ruby Ring": [
-    {
-      "Name": "Replica Emberwake",
-      "BaseType": "Ruby Ring",
-      "Aspects": []
-    }
-  ],
-  "Unset Ring": [
-    {
-      "Name": "Replica Malachai's Artifice",
-      "BaseType": "Unset Ring",
-      "Aspects": []
-    },
-    {
-      "Name": "Replica Voideye",
-      "BaseType": "Unset Ring",
-      "Aspects": []
-    }
-  ],
-  "Paua Ring": [
-    {
-      "Name": "Replica Doedre's Damning",
-      "BaseType": "Paua Ring",
-      "Aspects": []
-    }
-  ],
-  "Rustic Sash": [
-    {
-      "Name": "Replica Prismweave",
-      "BaseType": "Rustic Sash",
-      "Aspects": []
-    }
-  ],
-  "Gold Amulet": [
-    {
-      "Name": "Replica Winterheart",
-      "BaseType": "Gold Amulet",
-      "Aspects": []
-    }
-  ],
-  "Crimson Jewel": [
-    {
-      "Name": "Replica Primordial Might",
-      "BaseType": "Crimson Jewel",
-      "Aspects": []
-    }
-  ],
-  "Cobalt Jewel": [
-    {
-      "Name": "Replica Reckless Defence",
-      "BaseType": "Cobalt Jewel",
-      "Aspects": []
-    }
-  ],
-  "Temple Map": [
-    {
-      "Name": "Replica Poorjoy's Asylum",
-      "BaseType": "Temple Map",
-      "Aspects": []
-    }
-  ],
-  "Synthesised Map": [
-    {
-      "Name": "Replica Cortex",
-      "BaseType": "Synthesised Map",
-      "Aspects": []
-    }
-  ],
-  "Dunes Map": [
-    {
-      "Name": "Replica Pillars of Arun",
-      "BaseType": "Dunes Map",
-      "Aspects": []
-    }
-  ]
+  "Aspects": {
+    "Infernal Sword": [
+      {
+        "Name": "Replica Oro's Sacrifice",
+        "BaseType": "Infernal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Terror Maul": [
+      {
+        "Name": "Replica Kongor's Undying Rage",
+        "BaseType": "Terror Maul",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Opal Wand": [
+      {
+        "Name": "Replica Tulfall",
+        "BaseType": "Opal Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Imperial Bow": [
+      {
+        "Name": "Replica Windripper",
+        "BaseType": "Imperial Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Claw": [
+      {
+        "Name": "Replica Allure",
+        "BaseType": "Vaal Claw",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Rapier": [
+      {
+        "Name": "Replica Paradoxica",
+        "BaseType": "Vaal Rapier",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gnarled Branch": [
+      {
+        "Name": "Replica Fencoil",
+        "BaseType": "Gnarled Branch",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Replica Blood Thorn",
+        "BaseType": "Gnarled Branch",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Decimation Bow": [
+      {
+        "Name": "Replica Infractem",
+        "BaseType": "Decimation Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Void Sceptre": [
+      {
+        "Name": "Replica Nebulis",
+        "BaseType": "Void Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shadow Sceptre": [
+      {
+        "Name": "Replica Bitterdream",
+        "BaseType": "Shadow Sceptre",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Calling Wand": [
+      {
+        "Name": "Replica Midnight Bargain",
+        "BaseType": "Calling Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Eternal Sword": [
+      {
+        "Name": "Replica Dreamfeather",
+        "BaseType": "Eternal Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ornate Mace": [
+      {
+        "Name": "Replica Frostbreath",
+        "BaseType": "Ornate Mace",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Boot Knife": [
+      {
+        "Name": "Replica Ungil's Gauche",
+        "BaseType": "Boot Knife",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jasper Chopper": [
+      {
+        "Name": "Replica Harvest",
+        "BaseType": "Jasper Chopper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Dagger": [
+      {
+        "Name": "Replica Cold Iron Point",
+        "BaseType": "Ezomyte Dagger",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Short Bow": [
+      {
+        "Name": "Replica Quill Rain",
+        "BaseType": "Short Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Death Bow": [
+      {
+        "Name": "Replica Iron Commander",
+        "BaseType": "Death Bow",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Grinning Fetish": [
+      {
+        "Name": "Replica Earendel's Embrace",
+        "BaseType": "Grinning Fetish",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Nailed Fist": [
+      {
+        "Name": "Replica Last Resort",
+        "BaseType": "Nailed Fist",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Axe": [
+      {
+        "Name": "Replica Wings of Entropy",
+        "BaseType": "Ezomyte Axe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stiletto": [
+      {
+        "Name": "Replica Bloodplay",
+        "BaseType": "Stiletto",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "War Sword": [
+      {
+        "Name": "Replica Tempestuous Steel",
+        "BaseType": "War Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gut Ripper": [
+      {
+        "Name": "Replica Advancing Fortress",
+        "BaseType": "Gut Ripper",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Royal Skean": [
+      {
+        "Name": "Replica Heartbreaker",
+        "BaseType": "Royal Skean",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blasting Wand": [
+      {
+        "Name": "Replica Twyzel",
+        "BaseType": "Blasting Wand",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elder Sword": [
+      {
+        "Name": "Replica Innsbury Edge",
+        "BaseType": "Elder Sword",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sulphur Flask": [
+      {
+        "Name": "Replica Sorrow of the Divine",
+        "BaseType": "Sulphur Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Stibnite Flask": [
+      {
+        "Name": "Replica Witchfire Brew",
+        "BaseType": "Stibnite Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Granite Flask": [
+      {
+        "Name": "Replica Rumi's Concoction",
+        "BaseType": "Granite Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sanctified Mana Flask": [
+      {
+        "Name": "Replica Lavianga's Spirit",
+        "BaseType": "Sanctified Mana Flask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Soldier Boots": [
+      {
+        "Name": "Replica Alberon's Warpath",
+        "BaseType": "Soldier Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sinner Tricorne": [
+      {
+        "Name": "Replica Alpha's Howl",
+        "BaseType": "Sinner Tricorne",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Titan Greaves": [
+      {
+        "Name": "Replica Red Trail",
+        "BaseType": "Titan Greaves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Carnal Armour": [
+      {
+        "Name": "Replica Restless Ward",
+        "BaseType": "Carnal Armour",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Assassin's Boots": [
+      {
+        "Name": "Replica Stampede",
+        "BaseType": "Assassin's Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Triumphant Lamellar": [
+      {
+        "Name": "Replica Farrul's Fur",
+        "BaseType": "Triumphant Lamellar",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crusader Chainmail": [
+      {
+        "Name": "Replica Ambu's Charge",
+        "BaseType": "Crusader Chainmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zodiac Leather": [
+      {
+        "Name": "Replica Hyrri's Ire",
+        "BaseType": "Zodiac Leather",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Replica Perfect Form",
+        "BaseType": "Zodiac Leather",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ezomyte Burgonet": [
+      {
+        "Name": "Replica Abyssus",
+        "BaseType": "Ezomyte Burgonet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Murder Boots": [
+      {
+        "Name": "Replica Voidwalker",
+        "BaseType": "Murder Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Spidersilk Robe": [
+      {
+        "Name": "Replica Covenant",
+        "BaseType": "Spidersilk Robe",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Satin Gloves": [
+      {
+        "Name": "Replica Allelopathy",
+        "BaseType": "Satin Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Blood Raiment": [
+      {
+        "Name": "Replica Eternity Shroud",
+        "BaseType": "Blood Raiment",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Samite Gloves": [
+      {
+        "Name": "Replica Kalisa's Grace",
+        "BaseType": "Samite Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Bronzescale Boots": [
+      {
+        "Name": "Replica Lioneye's Paws",
+        "BaseType": "Bronzescale Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ornate Quiver": [
+      {
+        "Name": "Replica Maloney's Mechanism",
+        "BaseType": "Ornate Quiver",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Glorious Plate": [
+      {
+        "Name": "Replica Kaom's Heart",
+        "BaseType": "Glorious Plate",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Vaal Gauntlets": [
+      {
+        "Name": "Replica Atziri's Acuity",
+        "BaseType": "Vaal Gauntlets",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Zealot Gloves": [
+      {
+        "Name": "Replica Volkuur's Guidance",
+        "BaseType": "Zealot Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leather Hood": [
+      {
+        "Name": "Replica Heatshiver",
+        "BaseType": "Leather Hood",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Elegant Ringmail": [
+      {
+        "Name": "Replica Loreweave",
+        "BaseType": "Elegant Ringmail",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Festival Mask": [
+      {
+        "Name": "Replica Leer Cast",
+        "BaseType": "Festival Mask",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Lacquered Buckler": [
+      {
+        "Name": "Replica Mistwall",
+        "BaseType": "Lacquered Buckler",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Laminated Kite Shield": [
+      {
+        "Name": "Replica Victario's Charity",
+        "BaseType": "Laminated Kite Shield",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcanist Slippers": [
+      {
+        "Name": "Replica Inya's Epiphany",
+        "BaseType": "Arcanist Slippers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Great Helmet": [
+      {
+        "Name": "Replica Veil of the Night",
+        "BaseType": "Great Helmet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Arcanist Gloves": [
+      {
+        "Name": "Replica Grip of the Council",
+        "BaseType": "Arcanist Gloves",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Shagreen Boots": [
+      {
+        "Name": "Replica Three-step Assault",
+        "BaseType": "Shagreen Boots",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Silk Slippers": [
+      {
+        "Name": "Replica Bones of Ullr",
+        "BaseType": "Silk Slippers",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Leather Belt": [
+      {
+        "Name": "Replica Headhunter",
+        "BaseType": "Leather Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Heavy Belt": [
+      {
+        "Name": "Replica Siegebreaker",
+        "BaseType": "Heavy Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Onyx Amulet": [
+      {
+        "Name": "Replica Hinekora's Sight",
+        "BaseType": "Onyx Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Turquoise Amulet": [
+      {
+        "Name": "Replica Badge of the Brotherhood",
+        "BaseType": "Turquoise Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Jade Amulet": [
+      {
+        "Name": "Replica Karui Ward",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Replica Hyrri's Truth",
+        "BaseType": "Jade Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cloth Belt": [
+      {
+        "Name": "Replica Soul Tether",
+        "BaseType": "Cloth Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Paua Amulet": [
+      {
+        "Name": "Replica Atziri's Foible",
+        "BaseType": "Paua Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Sapphire Ring": [
+      {
+        "Name": "Replica Tasalio's Sign",
+        "BaseType": "Sapphire Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Chain Belt": [
+      {
+        "Name": "Replica Bated Breath",
+        "BaseType": "Chain Belt",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Diamond Ring": [
+      {
+        "Name": "Replica Gifts from Above",
+        "BaseType": "Diamond Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Unset Ring": [
+      {
+        "Name": "Replica Voideye",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Replica Malachai's Artifice",
+        "BaseType": "Unset Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Ruby Ring": [
+      {
+        "Name": "Replica Emberwake",
+        "BaseType": "Ruby Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Paua Ring": [
+      {
+        "Name": "Replica Doedre's Damning",
+        "BaseType": "Paua Ring",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Rustic Sash": [
+      {
+        "Name": "Replica Prismweave",
+        "BaseType": "Rustic Sash",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Gold Amulet": [
+      {
+        "Name": "Replica Winterheart",
+        "BaseType": "Gold Amulet",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Viridian Jewel": [
+      {
+        "Name": "Replica Pacifism",
+        "BaseType": "Viridian Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Cobalt Jewel": [
+      {
+        "Name": "Replica Powerlessness",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      },
+      {
+        "Name": "Replica Reckless Defence",
+        "BaseType": "Cobalt Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Crimson Jewel": [
+      {
+        "Name": "Replica Primordial Might",
+        "BaseType": "Crimson Jewel",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Infernal Sword": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Stibnite Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Soldier Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Carnal Armour": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Triumphant Lamellar": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Bronzescale Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Cobalt Jewel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Blood Raiment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Cloth Belt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Paua Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Chain Belt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Terror Maul": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t1"
+        }
+      ],
+      "Opal Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Imperial Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Vaal Claw": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Vaal Rapier": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Decimation Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Void Sceptre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Eternal Sword": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Calling Wand": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Boot Knife": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Ornate Mace": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Satin Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Elegant Ringmail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Sapphire Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Laminated Kite Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Lacquered Buckler": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Viridian Jewel": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Arcanist Slippers": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Heavy Belt": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Samite Gloves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Ruby Ring": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Zodiac Leather": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multi"
+        }
+      ],
+      "Ezomyte Burgonet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Murder Boots": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Grinning Fetish": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Short Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Ezomyte Dagger": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Shadow Sceptre": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Sulphur Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Jasper Chopper": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Gnarled Branch": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "multi"
+        }
+      ],
+      "Sinner Tricorne": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Titan Greaves": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Crusader Chainmail": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Granite Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Gold Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Nailed Fist": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ]
+    }
+  }
 }

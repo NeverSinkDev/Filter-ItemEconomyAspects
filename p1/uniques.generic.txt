@@ -175,7 +175,8 @@
         "Name": "Grelwood Shank",
         "BaseType": "Eternal Sword",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -9873,10 +9874,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ],
       "Solaris Circlet": [
@@ -10382,10 +10381,8 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
+          "Tiers": [],
+          "FallbackTier": "t1"
         }
       ],
       "Jingling Spirit Shield": [
@@ -10460,9 +10457,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -10736,7 +10731,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "earlyleague"
         }
       ],
       "Deicide Mask": [
@@ -11120,9 +11115,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t1"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2"
         }
       ],
@@ -11146,8 +11139,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "multispecialhigh"
+          ],
+          "FallbackTier": "multispecial"
         }
       ],
       "Vaal Claw": [
@@ -11770,7 +11765,11 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "earlyleague",
+            "multispecial",
+            "multispecialhigh"
+          ],
           "FallbackTier": "t2"
         }
       ],
@@ -11786,6 +11785,114 @@
             "t2"
           ],
           "FallbackTier": "t1"
+        }
+      ],
+      "Amethyst Flask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Blue Pearl Amulet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Painted Tower Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Rawhide Tower Shield": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Festival Mask": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Leather Cap": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Bone Helmet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Serpentscale Gauntlets": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
+        }
+      ],
+      "Short Bow": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "earlyleague"
         }
       ]
     }
