@@ -7774,7 +7774,8 @@
         "BaseType": "Elegant Round Shield",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "Anchor"
         ]
       },
       {
