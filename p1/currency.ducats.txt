@@ -1,0 +1,248 @@
+{
+  "Aspects": {
+    "Brinehook's Ducat": [
+      {
+        "Name": "Brinehook's Ducat",
+        "BaseType": "Brinehook's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Katakohi's Ducat": [
+      {
+        "Name": "Katakohi's Ducat",
+        "BaseType": "Katakohi's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Kishara's Ducat": [
+      {
+        "Name": "Kishara's Ducat",
+        "BaseType": "Kishara's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Merrick's Ducat": [
+      {
+        "Name": "Merrick's Ducat",
+        "BaseType": "Merrick's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Rotmother's Ducat": [
+      {
+        "Name": "Rotmother's Ducat",
+        "BaseType": "Rotmother's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Changeling's Ducat": [
+      {
+        "Name": "The Changeling's Ducat",
+        "BaseType": "The Changeling's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Tzamoto's Ducat": [
+      {
+        "Name": "Tzamoto's Ducat",
+        "BaseType": "Tzamoto's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Cyaxan's Ducat": [
+      {
+        "Name": "Cyaxan's Ducat",
+        "BaseType": "Cyaxan's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Telesia's Ducat": [
+      {
+        "Name": "Telesia's Ducat",
+        "BaseType": "Telesia's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "The Genteel's Ducat": [
+      {
+        "Name": "The Genteel's Ducat",
+        "BaseType": "The Genteel's Ducat",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Kishara's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Tzamoto's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Telesia's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Brinehook's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Changeling's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Rotmother's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Merrick's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Katakohi's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Cyaxan's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ],
+      "The Genteel's Ducat": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 1,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t5"
+          ],
+          "FallbackTier": "t4"
+        }
+      ]
+    }
+  }
+}

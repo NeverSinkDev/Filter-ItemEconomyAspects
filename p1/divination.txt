@@ -4663,21 +4663,55 @@
       {
         "Name": "Lucky Bastion",
         "BaseType": "Lucky Bastion",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "The Miracle": [
       {
         "Name": "The Miracle",
         "BaseType": "The Miracle",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "The Side Quest": [
       {
         "Name": "The Side Quest",
         "BaseType": "The Side Quest",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Pearls Before Swine": [
+      {
+        "Name": "Pearls Before Swine",
+        "BaseType": "Pearls Before Swine",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Divine Shard": [
+      {
+        "Name": "Divine Shard",
+        "BaseType": "Divine Shard",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Energy Sword": [
+      {
+        "Name": "Energy Sword",
+        "BaseType": "Energy Sword",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       }
     ]
   },
@@ -8666,6 +8700,30 @@
             "t2"
           ],
           "FallbackTier": "t3"
+        }
+      ],
+      "Energy Sword": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Divine Shard": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ]
     }

@@ -1567,6 +1567,13 @@
           "PreventHiding"
         ]
       }
+    ],
+    "Dead Man's Sulphur": [
+      {
+        "Name": "Dead Man's Sulphur",
+        "BaseType": "Dead Man's Sulphur",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

@@ -7378,6 +7378,14 @@
           "Uncommon",
           "PreventHiding"
         ]
+      },
+      {
+        "Name": "Waxen Soul",
+        "BaseType": "Saint's Hauberk",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
       }
     ],
     "Mesh Gloves": [
@@ -9397,12 +9405,16 @@
       {
         "Name": "Reefbane",
         "BaseType": "Fishing Rod",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       },
       {
         "Name": "Song of the Sirens",
         "BaseType": "Fishing Rod",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Pagan Wand": [
@@ -9645,6 +9657,34 @@
         "Name": "Fleshrender",
         "BaseType": "Exquisite Blade",
         "Aspects": []
+      }
+    ],
+    "Rhex Talisman": [
+      {
+        "Name": "Natural Hierarchy",
+        "BaseType": "Rhex Talisman",
+        "Aspects": [
+          "Handled",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Shield Crab Talisman": [
+      {
+        "Name": "Blightwell",
+        "BaseType": "Shield Crab Talisman",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Wolf Alpha Talisman": [
+      {
+        "Name": "Rigwald's Curse",
+        "BaseType": "Wolf Alpha Talisman",
+        "Aspects": [
+          "Handled"
+        ]
       }
     ]
   },
@@ -10910,7 +10950,7 @@
           "FallbackTier": "t2"
         }
       ],
-      "Waxed Garb": [
+      "Fishing Rod": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -10919,7 +10959,7 @@
             "ValidTime": 0
           },
           "Tiers": [],
-          "FallbackTier": "multispecialhigh"
+          "FallbackTier": "t1"
         }
       ],
       "Ornate Quiver": [
@@ -12039,6 +12079,20 @@
           },
           "Tiers": [],
           "FallbackTier": "earlyleague"
+        }
+      ],
+      "Rhex Talisman": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "earlyleague"
+          ],
+          "FallbackTier": "t2"
         }
       ]
     }
