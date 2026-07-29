@@ -950,7 +950,8 @@
         "BaseType": "Zorath's Eye of the Endless",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "Tierable"
         ]
       }
     ],
@@ -967,7 +968,8 @@
         "BaseType": "Zorath's Eye of Authority",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "Tierable"
         ]
       }
     ],
@@ -977,7 +979,8 @@
         "BaseType": "Zorath's Eye of Malevolence",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "Tierable"
         ]
       }
     ],
@@ -987,7 +990,8 @@
         "BaseType": "Zorath's Eye of the Inevitable",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "Tierable"
         ]
       }
     ]
