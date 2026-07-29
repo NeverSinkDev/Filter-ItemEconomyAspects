@@ -690,7 +690,11 @@
     "Reality Fragment": [
       {
         "Name": "Reality Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Valdo's Puzzle Box": [
@@ -702,7 +706,11 @@
     "Devouring Fragment": [
       {
         "Name": "Devouring Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "An Audience With The King": [
@@ -717,31 +725,51 @@
     "Blazing Fragment": [
       {
         "Name": "Blazing Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Cosmic Fragment": [
       {
         "Name": "Cosmic Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Awakening Fragment": [
       {
         "Name": "Awakening Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Decaying Fragment": [
       {
         "Name": "Decaying Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Synthesising Fragment": [
       {
         "Name": "Synthesising Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Syndicate Medallion": [
@@ -812,21 +840,33 @@
       {
         "Name": "Traumatic Fragment",
         "BaseType": "Traumatic Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Lonely Fragment": [
       {
         "Name": "Lonely Fragment",
         "BaseType": "Lonely Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Reverent Fragment": [
       {
         "Name": "Reverent Fragment",
         "BaseType": "Reverent Fragment",
-        "Aspects": []
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
       }
     ],
     "Screaming Invitation": [
@@ -901,6 +941,53 @@
         "Aspects": [
           "Handled",
           "Tierable"
+        ]
+      }
+    ],
+    "Zorath's Eye of the Endless": [
+      {
+        "Name": "Zorath's Eye of the Endless",
+        "BaseType": "Zorath's Eye of the Endless",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Message in a Bottle": [
+      {
+        "Name": "Message in a Bottle",
+        "BaseType": "Message in a Bottle",
+        "Aspects": []
+      }
+    ],
+    "Zorath's Eye of Authority": [
+      {
+        "Name": "Zorath's Eye of Authority",
+        "BaseType": "Zorath's Eye of Authority",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Zorath's Eye of Malevolence": [
+      {
+        "Name": "Zorath's Eye of Malevolence",
+        "BaseType": "Zorath's Eye of Malevolence",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Zorath's Eye of the Inevitable": [
+      {
+        "Name": "Zorath's Eye of the Inevitable",
+        "BaseType": "Zorath's Eye of the Inevitable",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
         ]
       }
     ]
@@ -1353,6 +1440,138 @@
           },
           "Tiers": [],
           "FallbackTier": "t3"
+        }
+      ],
+      "Zorath's Eye of the Inevitable": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Zorath's Eye of the Endless": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Zorath's Eye of Malevolence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Zorath's Eye of Authority": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Synthesising Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Reality Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Reverent Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Awakening Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Blazing Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Cosmic Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
+        }
+      ],
+      "Decaying Fragment": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2"
         }
       ]
     }

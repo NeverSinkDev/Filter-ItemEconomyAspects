@@ -6855,6 +6855,22 @@
           "Handled"
         ]
       }
+    ],
+    "Crystalfall Support": [
+      {
+        "Name": "Crystalfall Support",
+        "Special": "1/23c",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Mana-Infused Staff": [
+      {
+        "Name": "Mana-Infused Staff",
+        "Special": "20/20c",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {

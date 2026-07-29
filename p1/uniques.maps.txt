@@ -59,6 +59,11 @@
         "Name": "Poorjoy's Asylum",
         "BaseType": "Map (Tier 14)",
         "Aspects": []
+      },
+      {
+        "Name": "Rewritten Distant Memory",
+        "BaseType": "Map (Tier 14)",
+        "Aspects": []
       }
     ],
     "Map (Tier 12)": [
@@ -69,6 +74,11 @@
       },
       {
         "Name": "Hall of Grandmasters",
+        "BaseType": "Map (Tier 12)",
+        "Aspects": []
+      },
+      {
+        "Name": "Death and Taxes",
         "BaseType": "Map (Tier 12)",
         "Aspects": []
       }
@@ -168,6 +178,11 @@
         "Name": "Mao Kun",
         "BaseType": "Map (Tier 16)",
         "Aspects": []
+      },
+      {
+        "Name": "Hall of Grandmasters",
+        "BaseType": "Map (Tier 16)",
+        "Aspects": []
       }
     ],
     "Map (Tier 7)": [
@@ -204,6 +219,11 @@
         "Name": "Augmented Distant Memory",
         "BaseType": "Map (Tier 11)",
         "Aspects": []
+      },
+      {
+        "Name": "Hallowed Ground",
+        "BaseType": "Map (Tier 11)",
+        "Aspects": []
       }
     ],
     "Map (Tier 15)": [
@@ -228,6 +248,11 @@
         "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 4)",
         "Aspects": []
+      },
+      {
+        "Name": "Vaults of Atziri",
+        "BaseType": "Map (Tier 4)",
+        "Aspects": []
       }
     ],
     "Map (Tier 10)": [
@@ -250,6 +275,11 @@
         "Name": "Whakawairua Tuahu",
         "BaseType": "Map (Tier 10)",
         "Aspects": []
+      },
+      {
+        "Name": "Cortex",
+        "BaseType": "Map (Tier 10)",
+        "Aspects": []
       }
     ],
     "Map (Tier 6)": [
@@ -269,6 +299,11 @@
         "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 1)",
         "Aspects": []
+      },
+      {
+        "Name": "The Coward's Trial",
+        "BaseType": "Map (Tier 1)",
+        "Aspects": []
       }
     ],
     "Map (Tier 13)": [
@@ -280,6 +315,33 @@
       {
         "Name": "Pillars of Arun",
         "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      },
+      {
+        "Name": "The Twilight Temple",
+        "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      },
+      {
+        "Name": "Oba's Cursed Trove",
+        "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      },
+      {
+        "Name": "Poorjoy's Asylum",
+        "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      },
+      {
+        "Name": "Whakawairua Tuahu",
+        "BaseType": "Map (Tier 13)",
+        "Aspects": []
+      }
+    ],
+    "Map (Tier 8)": [
+      {
+        "Name": "Maelström of Chaos",
+        "BaseType": "Map (Tier 8)",
         "Aspects": []
       }
     ]

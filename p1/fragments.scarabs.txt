@@ -1078,6 +1078,34 @@
           "Handled"
         ]
       }
+    ],
+    "Trarthan Scarab": [
+      {
+        "Name": "Trarthan Scarab",
+        "BaseType": "Trarthan Scarab",
+        "Aspects": []
+      }
+    ],
+    "Trarthan Scarab of Renown": [
+      {
+        "Name": "Trarthan Scarab of Renown",
+        "BaseType": "Trarthan Scarab of Renown",
+        "Aspects": []
+      }
+    ],
+    "Trarthan Scarab of Infamy": [
+      {
+        "Name": "Trarthan Scarab of Infamy",
+        "BaseType": "Trarthan Scarab of Infamy",
+        "Aspects": []
+      }
+    ],
+    "Trarthan Scarab of Surprising Alliances": [
+      {
+        "Name": "Trarthan Scarab of Surprising Alliances",
+        "BaseType": "Trarthan Scarab of Surprising Alliances",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
