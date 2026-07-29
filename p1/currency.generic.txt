@@ -1574,6 +1574,61 @@
         "BaseType": "Dead Man's Sulphur",
         "Aspects": []
       }
+    ],
+    "Imperial Enshrouding Crystal": [
+      {
+        "Name": "Imperial Enshrouding Crystal",
+        "BaseType": "Imperial Enshrouding Crystal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Karui Enshrouding Crystal": [
+      {
+        "Name": "Karui Enshrouding Crystal",
+        "BaseType": "Karui Enshrouding Crystal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Vaal Enshrouding Crystal": [
+      {
+        "Name": "Vaal Enshrouding Crystal",
+        "BaseType": "Vaal Enshrouding Crystal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Maraketh Enshrouding Crystal": [
+      {
+        "Name": "Maraketh Enshrouding Crystal",
+        "BaseType": "Maraketh Enshrouding Crystal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
+    ],
+    "Templar Enshrouding Crystal": [
+      {
+        "Name": "Templar Enshrouding Crystal",
+        "BaseType": "Templar Enshrouding Crystal",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "Tierable"
+        ]
+      }
     ]
   },
   "TieringRangeList": {
@@ -3885,6 +3940,66 @@
           "Tiers": [
             "t1"
           ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Imperial Enshrouding Crystal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Karui Enshrouding Crystal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3annul"
+        }
+      ],
+      "Vaal Enshrouding Crystal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Maraketh Enshrouding Crystal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Templar Enshrouding Crystal": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t2divine"
         }
       ]
