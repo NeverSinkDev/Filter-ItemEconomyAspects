@@ -6,7 +6,8 @@
         "BaseType": "Prophecy Wand",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       },
       {
@@ -3226,7 +3227,8 @@
         "BaseType": "Zodiac Leather",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       },
       {
@@ -4122,7 +4124,8 @@
         "BaseType": "Titanium Spirit Shield",
         "Aspects": [
           "Handled",
-          "Uncommon"
+          "Uncommon",
+          "PreventHiding"
         ]
       },
       {
@@ -9415,6 +9418,11 @@
         "Aspects": [
           "Handled"
         ]
+      },
+      {
+        "Name": "The Wellhook",
+        "BaseType": "Fishing Rod",
+        "Aspects": []
       }
     ],
     "Pagan Wand": [

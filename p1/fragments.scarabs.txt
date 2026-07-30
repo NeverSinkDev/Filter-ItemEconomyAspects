@@ -958,7 +958,8 @@
         "Name": "Allflame Ember of the Gilded",
         "BaseType": "Allflame Ember of the Gilded",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -967,7 +968,8 @@
         "Name": "Allflame Ember of Kulemak",
         "BaseType": "Allflame Ember of Kulemak",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -2401,22 +2403,11 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t1"
-          ],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [
-            "t1"
+            "t1",
+            "t3"
           ],
           "FallbackTier": "t2"
         }
@@ -2474,19 +2465,19 @@
           "FallbackTier": "t2"
         }
       ],
-      "Allflame Ember of Propagation": [
+      "Allflame Ember of Flesh": [
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [
-            "t3",
-            "t1"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Ambush Scarab of Containment": [
@@ -2645,8 +2636,11 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t4"
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Anarchy Scarab of the Exceptional": [
@@ -2683,6 +2677,51 @@
           },
           "Tiers": [],
           "FallbackTier": "t4"
+        }
+      ],
+      "Allflame Ember of Propagation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Allflame Ember of Resplendence": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Allflame Ember of Toads": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4",
+            "t2"
+          ],
+          "FallbackTier": "t3"
         }
       ]
     }
