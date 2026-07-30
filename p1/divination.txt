@@ -8283,7 +8283,7 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -11372,11 +11372,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
-          "FallbackTier": "t3"
+          "FallbackTier": "t5"
         }
       ],
       "Reckless Ambition": [
