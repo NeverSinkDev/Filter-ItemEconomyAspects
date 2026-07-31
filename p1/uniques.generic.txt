@@ -9451,8 +9451,9 @@
         "BaseType": "Pagan Wand",
         "Aspects": [
           "Handled",
-          "HighVariety",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "PreventHiding",
+          "HighVariety"
         ]
       }
     ],
