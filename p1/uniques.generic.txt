@@ -7,7 +7,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "HighVariety"
         ]
       },
       {
@@ -2432,8 +2432,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "EarlyLeagueInterest",
-          "PreventHiding"
+          "PreventHiding",
+          "EarlyLeagueInterest"
         ]
       }
     ],
@@ -2587,20 +2587,22 @@
         ]
       },
       {
-        "Name": "Doryani's Delusion",
-        "BaseType": "Sorcerer Boots",
-        "Aspects": [
-          "Handled",
-          "HighVariety",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "Steppan Eard",
         "BaseType": "Sorcerer Boots",
         "Aspects": [
           "Handled",
           "Uncommon"
+        ]
+      }
+    ],
+    "Warlock Boots": [
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Warlock Boots",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3124,16 +3126,6 @@
         ]
       },
       {
-        "Name": "Doryani's Delusion",
-        "BaseType": "Titan Greaves",
-        "Aspects": [
-          "Handled",
-          "NonWorldDrop",
-          "HighVariety",
-          "PreventHiding"
-        ]
-      },
-      {
         "Name": "Kaom's Roots",
         "BaseType": "Titan Greaves",
         "Aspects": [
@@ -3146,6 +3138,17 @@
         "Aspects": [
           "Handled",
           "NonWorldDrop"
+        ]
+      }
+    ],
+    "Leviathan Greaves": [
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Leviathan Greaves",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
         ]
       }
     ],
@@ -3228,7 +3231,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "HighVariety"
         ]
       },
       {
@@ -3468,6 +3471,7 @@
         "BaseType": "Lacquered Garb",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "Uncommon"
         ]
       },
@@ -3704,21 +3708,23 @@
         ]
       },
       {
-        "Name": "Doryani's Delusion",
-        "BaseType": "Slink Boots",
-        "Aspects": [
-          "Handled",
-          "HighVariety",
-          "NonWorldDrop"
-        ]
-      },
-      {
         "Name": "Atziri's Step",
         "BaseType": "Slink Boots",
         "Aspects": [
           "NonWorldDrop",
           "HighVariety",
           "Handled"
+        ]
+      }
+    ],
+    "Velour Boots": [
+      {
+        "Name": "Doryani's Delusion",
+        "BaseType": "Velour Boots",
+        "Aspects": [
+          "Handled",
+          "HighVariety",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -3765,7 +3771,8 @@
         "Name": "Belly of the Beast",
         "BaseType": "Full Wyrmscale",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety"
         ]
       }
     ],
@@ -3784,6 +3791,7 @@
         "BaseType": "Leather Cap",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "EarlyLeagueInterest"
         ]
       }
@@ -3931,6 +3939,15 @@
         "BaseType": "Ancient Spirit Shield",
         "Aspects": [
           "Handled"
+        ]
+      },
+      {
+        "Name": "The Draugur's Lantern",
+        "BaseType": "Ancient Spirit Shield",
+        "Aspects": [
+          "Handled",
+          "NonWorldDrop",
+          "HighVariety"
         ]
       }
     ],
@@ -4125,7 +4142,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "PreventHiding"
+          "HighVariety"
         ]
       },
       {
@@ -4620,9 +4637,7 @@
         "Name": "Empire's Grasp",
         "BaseType": "Goliath Gauntlets",
         "Aspects": [
-          "Handled",
-          "HighVariety",
-          "Uncommon"
+          "Handled"
         ]
       },
       {
@@ -4630,7 +4645,9 @@
         "BaseType": "Goliath Gauntlets",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "Uncommon",
+          "HighVariety"
         ]
       }
     ],
@@ -4948,8 +4965,7 @@
         "BaseType": "Murder Mitts",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
-          "PreventHiding"
+          "NonWorldDrop"
         ]
       },
       {
@@ -5308,6 +5324,7 @@
         "BaseType": "Scholar's Robe",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "EarlyLeagueInterest"
         ]
       }
@@ -5371,8 +5388,7 @@
         "Name": "Stormcharger",
         "BaseType": "Plated Greaves",
         "Aspects": [
-          "Handled",
-          "HighVariety"
+          "Handled"
         ]
       }
     ],
@@ -5892,7 +5908,9 @@
         "Name": "Berek's Respite",
         "BaseType": "Two-Stone Ring",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety",
+          "EarlyLeagueInterest"
         ]
       },
       {
@@ -6034,7 +6052,8 @@
         "Name": "The Bandit Lord's Band",
         "BaseType": "Gold Ring",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "NonWorldDrop"
         ]
       }
     ],
@@ -6746,7 +6765,8 @@
         "Name": "Unholy Accomplice",
         "BaseType": "Cloth Belt",
         "Aspects": [
-          "NonWorldDrop",
+          "Uncommon",
+          "PreventHiding",
           "Handled"
         ]
       }
@@ -7218,8 +7238,7 @@
         "Name": "Perseverance",
         "BaseType": "Vanguard Belt",
         "Aspects": [
-          "Handled",
-          "PreventHiding"
+          "Handled"
         ]
       },
       {
@@ -7252,8 +7271,7 @@
         "BaseType": "Marble Amulet",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
-          "HighVariety"
+          "NonWorldDrop"
         ]
       }
     ],
@@ -7387,7 +7405,7 @@
         "BaseType": "Saint's Hauberk",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "NonDrop"
         ]
       }
     ],
@@ -7470,6 +7488,7 @@
         "BaseType": "Two-Toned Boots",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "Uncommon"
         ]
       }
@@ -7707,6 +7726,7 @@
         "BaseType": "Bone Helmet",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "EarlyLeagueInterest"
         ]
       }
@@ -9431,6 +9451,7 @@
         "BaseType": "Pagan Wand",
         "Aspects": [
           "Handled",
+          "HighVariety",
           "EarlyLeagueInterest"
         ]
       }
@@ -9691,7 +9712,8 @@
         "Name": "Rigwald's Curse",
         "BaseType": "Wolf Alpha Talisman",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "HighVariety"
         ]
       }
     ]
