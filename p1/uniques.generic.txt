@@ -2432,6 +2432,7 @@
         "Aspects": [
           "Handled",
           "Uncommon",
+          "PreventHiding",
           "EarlyLeagueInterest"
         ]
       }
@@ -3941,7 +3942,7 @@
         ]
       },
       {
-        "Name": "Kongming's Stratagem",
+        "Name": "The Draugur's Lantern",
         "BaseType": "Ancient Spirit Shield",
         "Aspects": [
           "Handled",
@@ -6586,7 +6587,6 @@
         "BaseType": "Moonstone Ring",
         "Aspects": [
           "Handled",
-          "PreventHiding",
           "Uncommon"
         ]
       },
