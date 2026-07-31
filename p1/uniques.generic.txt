@@ -7,7 +7,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       },
       {
@@ -15,8 +16,8 @@
         "BaseType": "Prophecy Wand",
         "Aspects": [
           "Handled",
-          "NonWorldDrop",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       }
     ],
@@ -3231,7 +3232,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       },
       {
@@ -4142,7 +4144,8 @@
         "Aspects": [
           "Handled",
           "Uncommon",
-          "HighVariety"
+          "HighVariety",
+          "PreventHiding"
         ]
       },
       {
