@@ -121,8 +121,7 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "StackedCurrency",
-          "SilverBottom"
+          "StackedCurrency"
         ]
       }
     ],
