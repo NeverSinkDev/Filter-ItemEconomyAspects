@@ -3898,7 +3898,8 @@
           "Tiers": [
             "t5alchemy",
             "t7chance",
-            "t4chaos"
+            "t4chaos",
+            "t8trans"
           ],
           "FallbackTier": "t6chrom"
         },

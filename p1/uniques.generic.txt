@@ -11843,6 +11843,19 @@
           },
           "Tiers": [],
           "FallbackTier": "multispecial"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "multispecialhigh",
+            "t2"
+          ],
+          "FallbackTier": "multispecial"
         }
       ],
       "Meatgrinder": [

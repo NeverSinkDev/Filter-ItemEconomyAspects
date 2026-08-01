@@ -351,7 +351,6 @@
         "Name": "The Celestial Justicar",
         "Aspects": [
           "Handled",
-          "CurrencyType",
           "EarlyLeagueInterest"
         ]
       }
@@ -555,7 +554,8 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "EarlyLeagueInterest"
+          "EarlyLeagueInterest",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -1188,7 +1188,8 @@
         "Name": "The Traitor",
         "Aspects": [
           "HighVariety",
-          "Handled"
+          "Handled",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -1531,7 +1532,8 @@
       {
         "Name": "The Pact",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "PreventHiding"
         ]
       }
     ],
@@ -1617,8 +1619,7 @@
           "Handled",
           "LateLeagueValueLoss",
           "EarlyLeagueInterest",
-          "MediumValue",
-          "PreventHiding"
+          "MediumValue"
         ]
       }
     ],
@@ -1692,8 +1693,9 @@
       {
         "Name": "Assassin's Favour",
         "Aspects": [
-          "HighVariety",
-          "Handled"
+          "Handled",
+          "LateLeagueValueLoss",
+          "HighVariety"
         ]
       }
     ],
@@ -2028,7 +2030,8 @@
         "Name": "The Gentleman",
         "Aspects": [
           "Handled",
-          "HighVariety"
+          "HighVariety",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -2998,7 +3001,6 @@
         "Name": "Gift of Asenath",
         "Aspects": [
           "Handled",
-          "TimelessResult",
           "HighVariety",
           "EarlyLeagueInterest"
         ]
@@ -4124,7 +4126,8 @@
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest",
-          "MediumValue"
+          "MediumValue",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -4134,7 +4137,8 @@
         "Aspects": [
           "Handled",
           "EarlyLeagueInterest",
-          "PreventHiding"
+          "PreventHiding",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -4266,7 +4270,8 @@
       {
         "Name": "A Chilling Wind",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -4543,7 +4548,9 @@
         "Name": "Bound by Flame",
         "BaseType": "Bound by Flame",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "MediumValue",
+          "LateLeagueValueLoss"
         ]
       }
     ],
@@ -4851,9 +4858,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Auspicious Ambitions": [
@@ -4977,7 +4985,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -5208,9 +5217,7 @@
             "RangeType": 0,
             "ValidTime": 2
           },
-          "Tiers": [
-            "t2"
-          ],
+          "Tiers": [],
           "FallbackTier": "t1"
         }
       ],
@@ -5464,25 +5471,25 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
+            "ValidTime": 0
           },
           "Tiers": [
-            "t3",
-            "t1"
+            "t1",
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
           "Tiers": [
-            "t2"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2"
         }
       ],
       "The Samurai's Eye": [
@@ -5710,7 +5717,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t4",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -5723,8 +5732,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -5734,9 +5745,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4c"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Squandered Prosperity": [
@@ -5854,9 +5866,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Last Supper": [
@@ -5878,7 +5891,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -5968,9 +5982,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Pride of the First Ones": [
@@ -6009,7 +6024,8 @@
           },
           "Tiers": [
             "t2",
-            "t4"
+            "t4",
+            "t5"
           ],
           "FallbackTier": "t3"
         },
@@ -6020,8 +6036,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -6031,9 +6049,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "One Last Score": [
@@ -6069,7 +6088,9 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3"
+          ],
           "FallbackTier": "t2"
         },
         {
@@ -6080,9 +6101,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4c"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Last Laugh": [
@@ -6105,8 +6127,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6120,18 +6141,6 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t3"
-          ],
           "FallbackTier": "t2"
         }
       ],
@@ -6192,9 +6201,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Tireless Extractor": [
@@ -6242,7 +6252,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5c"
           ],
           "FallbackTier": "t4c"
         },
@@ -6461,7 +6472,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -6500,8 +6512,11 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "t1"
+          "Tiers": [
+            "t1",
+            "t3"
+          ],
+          "FallbackTier": "t2"
         },
         {
           "Settings": {
@@ -6511,8 +6526,20 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t2"
+            "t1",
+            "t2",
+            "t4"
           ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
           "FallbackTier": "t1"
         }
       ],
@@ -6538,9 +6565,7 @@
             "t3"
           ],
           "FallbackTier": "t2"
-        }
-      ],
-      "The Leviathan": [
+        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -6549,10 +6574,14 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4",
+            "t5"
           ],
-          "FallbackTier": "t2"
-        },
+          "FallbackTier": "t3"
+        }
+      ],
+      "The Leviathan": [
         {
           "Settings": {
             "IsEnabled": true,
@@ -6571,9 +6600,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t1",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Judging Voices": [
@@ -6595,9 +6626,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Queen": [
@@ -6633,10 +6666,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
+            "t2",
             "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Winter's Embrace": [
@@ -6806,9 +6839,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "Magnum Opus": [
@@ -6947,8 +6982,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -7201,7 +7235,7 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c"
+            "t5"
           ],
           "FallbackTier": "t3"
         }
@@ -7311,10 +7345,20 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t4",
+            "t5",
             "t3"
           ],
-          "FallbackTier": "t5"
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ],
       "The Explorer": [
@@ -7369,16 +7413,6 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [],
-          "FallbackTier": "t5"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
             "ValidTime": 1
           },
           "Tiers": [],
@@ -7392,7 +7426,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -7574,8 +7609,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -7597,18 +7631,6 @@
             "ImpactType": 0,
             "RangeType": 0,
             "ValidTime": 0
-          },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t4"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
           },
           "Tiers": [
             "t3",
@@ -7646,7 +7668,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -7680,7 +7703,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -7865,8 +7889,30 @@
             "RangeType": 0,
             "ValidTime": 0
           },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
           "Tiers": [],
           "FallbackTier": "t5"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
         }
       ],
       "Three Voices": [
@@ -7934,7 +7980,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -7981,7 +8028,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -8005,7 +8053,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -8054,7 +8103,34 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t5",
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t4"
+          ],
           "FallbackTier": "t5"
         }
       ],
@@ -8136,22 +8212,13 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
       ],
       "Azure Rage": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [],
-          "FallbackTier": "t5"
-        },
         {
           "Settings": {
             "IsEnabled": true,
@@ -8170,7 +8237,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -8228,7 +8296,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t4",
+            "t5"
           ],
           "FallbackTier": "t2"
         }
@@ -8839,10 +8909,22 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "Costly Curio": [
@@ -9024,16 +9106,6 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
           "Tiers": [
             "t3"
           ],
@@ -9143,7 +9215,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -9216,9 +9289,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Silly Boy": [
@@ -9394,8 +9469,8 @@
             "ValidTime": 0
           },
           "Tiers": [
+            "t5c",
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -9555,9 +9630,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t1",
+            "t4c"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Spark and the Flame": [
@@ -9645,9 +9722,9 @@
           },
           "Tiers": [
             "t1",
-            "t3"
+            "t2"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -9718,11 +9795,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2",
-            "t4",
-            "t4c"
+            "t3",
+            "t5"
           ],
-          "FallbackTier": "t3"
+          "FallbackTier": "t4"
         }
       ],
       "Arrogance of the Vaal": [
@@ -9956,10 +10032,22 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "Brush, Paint and Palette": [
@@ -10072,6 +10160,19 @@
             "t4c"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "Akil's Prophecy": [
@@ -10286,6 +10387,33 @@
           },
           "Tiers": [
             "t2"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2",
+            "t4"
+          ],
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2",
+            "t4",
+            "t5"
           ],
           "FallbackTier": "t3"
         }
@@ -10520,10 +10648,23 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t2",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "Cursed Words": [
@@ -10632,7 +10773,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4c"
         },
@@ -10670,8 +10812,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -10798,8 +10939,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -10809,9 +10952,24 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2",
+            "t4",
+            "t5"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "Gift of the Gemling Queen": [
@@ -11417,7 +11575,8 @@
           },
           "Tiers": [
             "t3",
-            "t2"
+            "t2",
+            "t1"
           ],
           "FallbackTier": "t4"
         },
@@ -11431,7 +11590,8 @@
           "Tiers": [
             "t3",
             "t5",
-            "t2"
+            "t2",
+            "t1"
           ],
           "FallbackTier": "t4"
         }
@@ -11941,9 +12101,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4c"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Enforcer": [
@@ -12183,6 +12344,20 @@
             "t3"
           ],
           "FallbackTier": "t2"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2",
+            "t4",
+            "t5"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "The Gemcutter": [
@@ -12261,6 +12436,19 @@
             "t4c"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "The Innocent": [
@@ -12496,7 +12684,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -12598,10 +12787,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
-            "t4"
+            "t4",
+            "t2",
+            "t5"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Return of the Rat": [
@@ -12802,7 +12992,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -12950,9 +13141,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Void": [
@@ -13000,7 +13192,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -13111,9 +13304,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t1"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Wrath": [
@@ -13272,7 +13466,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -13498,7 +13693,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -13510,8 +13706,7 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t5",
-            "t5c"
+            "t5"
           ],
           "FallbackTier": "t4"
         }
@@ -13711,7 +13906,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -13898,8 +14094,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t3"
+          "Tiers": [
+            "t3"
+          ],
+          "FallbackTier": "t4"
         },
         {
           "Settings": {
@@ -13914,6 +14112,19 @@
             "t4c"
           ],
           "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t3",
+            "t5"
+          ],
+          "FallbackTier": "t4"
         }
       ],
       "Lucky Connections": [
@@ -14026,7 +14237,7 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c"
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -14304,8 +14515,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14430,8 +14640,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14566,7 +14775,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5c"
           ],
           "FallbackTier": "t4c"
         },
@@ -14655,7 +14865,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
+          "Tiers": [
+            "t3",
+            "t2"
+          ],
           "FallbackTier": "t4"
         },
         {
@@ -14756,7 +14969,7 @@
             "ValidTime": 1
           },
           "Tiers": [],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -14766,9 +14979,24 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "t2",
+            "t4",
+            "t5"
+          ],
+          "FallbackTier": "t3"
         }
       ],
       "The Finishing Touch": [
@@ -14791,7 +15019,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14868,7 +15095,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t4"
           ],
           "FallbackTier": "t2"
         }
@@ -14930,7 +15158,10 @@
             "RangeType": 0,
             "ValidTime": 0
           },
-          "Tiers": [],
+          "Tiers": [
+            "t4",
+            "t3"
+          ],
           "FallbackTier": "t5"
         }
       ],
@@ -14981,7 +15212,8 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c"
+            "t4c",
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -15194,8 +15426,10 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
@@ -15205,9 +15439,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t2",
+            "t4"
           ],
-          "FallbackTier": "t2"
+          "FallbackTier": "t3"
         }
       ],
       "The Throne": [
@@ -15303,7 +15538,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
@@ -15532,7 +15768,8 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c"
+            "t4c",
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -15777,22 +16014,23 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 1
+            "ValidTime": 0
           },
-          "Tiers": [],
-          "FallbackTier": "t2"
+          "Tiers": [
+            "t2",
+            "t4c"
+          ],
+          "FallbackTier": "t3"
         },
         {
           "Settings": {
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 0
+            "ValidTime": 1
           },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t2"
+          "Tiers": [],
+          "FallbackTier": "t3"
         }
       ],
       "Vanity": [
@@ -16075,7 +16313,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t5"
           ],
           "FallbackTier": "t4"
         },
