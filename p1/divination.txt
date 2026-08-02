@@ -760,7 +760,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest"
         ]
       },
@@ -770,7 +769,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "CurrencyType",
           "EarlyLeagueInterest"
         ]
       }
@@ -869,7 +867,8 @@
         "Aspects": [
           "HighVariety",
           "Handled",
-          "LateLeagueValueLoss"
+          "LateLeagueValueLoss",
+          "CurrencyType"
         ]
       }
     ],
@@ -3465,7 +3464,8 @@
         "Name": "Brush, Paint and Palette",
         "Aspects": [
           "Handled",
-          "PreventHiding"
+          "PreventHiding",
+          "CurrencyType"
         ]
       }
     ],
@@ -3571,8 +3571,7 @@
         "Name": "The Price of Prescience",
         "Aspects": [
           "Handled",
-          "PreventHiding",
-          "CurrencyType"
+          "PreventHiding"
         ]
       }
     ],
@@ -3920,8 +3919,7 @@
       {
         "Name": "Altered Perception",
         "Aspects": [
-          "Handled",
-          "CurrencyType"
+          "Handled"
         ]
       }
     ],
@@ -4468,7 +4466,8 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "PreventHiding"
+          "PreventHiding",
+          "CurrencyType"
         ]
       }
     ],
@@ -4539,7 +4538,9 @@
         "Aspects": [
           "Handled",
           "HighVariety",
-          "TimelessResult"
+          "TimelessResult",
+          "PreventHiding",
+          "NoResolution"
         ]
       }
     ],
@@ -4675,7 +4676,8 @@
         "BaseType": "The Forbidden Fruit",
         "Aspects": [
           "Handled",
-          "TimelessResult"
+          "TimelessResult",
+          "CurrencyType"
         ]
       }
     ],
@@ -4704,7 +4706,8 @@
         "Name": "The Side Quest",
         "BaseType": "The Side Quest",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "CurrencyType"
         ]
       }
     ],
@@ -4762,7 +4765,7 @@
           "Tiers": [
             "t3"
           ],
-          "FallbackTier": "t4c"
+          "FallbackTier": "t4"
         },
         {
           "Settings": {
@@ -4884,8 +4887,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -4960,8 +4962,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -5035,7 +5036,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -5920,7 +5920,6 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c",
             "t1"
           ],
           "FallbackTier": "t3"
@@ -6164,8 +6163,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6302,7 +6300,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t1"
           ],
           "FallbackTier": "t2"
         }
@@ -6435,8 +6434,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6498,8 +6496,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6814,8 +6811,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6878,8 +6874,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6904,8 +6899,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6930,8 +6924,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -6956,8 +6949,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -7008,7 +7000,7 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c"
+            "t1"
           ],
           "FallbackTier": "t3"
         }
@@ -8408,8 +8400,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -8959,8 +8950,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -9007,8 +8997,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -9240,7 +9229,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t4c"
           ],
           "FallbackTier": "t2"
         }
@@ -9316,7 +9306,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -9354,7 +9343,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c",
             "t5c"
           ],
@@ -9444,7 +9432,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -9510,7 +9497,7 @@
           "Tiers": [
             "t3"
           ],
-          "FallbackTier": "t4c"
+          "FallbackTier": "t4"
         }
       ],
       "Imperfect Memories": [
@@ -9706,8 +9693,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -9969,8 +9955,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -9994,7 +9979,8 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3"
+            "t3",
+            "t4c"
           ],
           "FallbackTier": "t4"
         },
@@ -10156,8 +10142,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         },
@@ -10195,8 +10180,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -10221,8 +10205,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -10247,8 +10230,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -10273,8 +10255,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -10736,7 +10717,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -10837,8 +10817,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -10900,8 +10879,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -11066,8 +11044,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -11166,8 +11143,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -11690,8 +11666,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -11716,8 +11691,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -11754,8 +11728,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12127,8 +12100,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12179,8 +12151,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12205,8 +12176,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12406,8 +12376,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12432,8 +12401,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         },
@@ -12509,8 +12477,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12535,8 +12502,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12598,8 +12564,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12710,8 +12675,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12736,8 +12700,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12762,8 +12725,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -12863,7 +12825,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -12889,7 +12850,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -12915,7 +12875,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -12941,7 +12900,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -12967,7 +12925,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -13167,7 +13124,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -13404,8 +13360,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -13505,7 +13460,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -13531,7 +13485,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -13557,8 +13510,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -13583,8 +13535,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -13780,8 +13731,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -13855,8 +13805,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -13881,8 +13830,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14044,7 +13992,7 @@
           "Tiers": [
             "t3"
           ],
-          "FallbackTier": "t4c"
+          "FallbackTier": "t4"
         },
         {
           "Settings": {
@@ -14080,7 +14028,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14108,8 +14055,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         },
@@ -14184,7 +14130,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14210,7 +14155,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14262,7 +14206,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14288,7 +14231,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -14314,8 +14256,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14377,8 +14318,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14403,8 +14343,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14614,8 +14553,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -14852,9 +14790,9 @@
           },
           "Tiers": [
             "t3",
-            "t5c"
+            "t5"
           ],
-          "FallbackTier": "t4c"
+          "FallbackTier": "t4"
         }
       ],
       "The Dragon": [
@@ -14917,8 +14855,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15044,7 +14981,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -15185,8 +15121,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15212,7 +15147,6 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c",
             "t1"
           ],
           "FallbackTier": "t3"
@@ -15238,8 +15172,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15375,8 +15308,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15614,8 +15546,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15677,8 +15608,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -15703,7 +15633,6 @@
           },
           "Tiers": [
             "t2",
-            "t4",
             "t4c"
           ],
           "FallbackTier": "t3"
@@ -15768,7 +15697,6 @@
           "Tiers": [
             "t2",
             "t4",
-            "t4c",
             "t1"
           ],
           "FallbackTier": "t3"
@@ -16116,10 +16044,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t5",
-            "t4"
+            "t5"
           ],
-          "FallbackTier": "t5c"
+          "FallbackTier": "t4"
         }
       ],
       "Harmony of Souls": [
@@ -16535,8 +16462,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
@@ -16561,8 +16487,7 @@
           },
           "Tiers": [
             "t2",
-            "t4",
-            "t4c"
+            "t4"
           ],
           "FallbackTier": "t3"
         }
