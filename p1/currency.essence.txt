@@ -2074,8 +2074,7 @@
           },
           "Tiers": [
             "t1",
-            "t2",
-            "t3"
+            "t2"
           ],
           "FallbackTier": "t4"
         }
@@ -2153,7 +2152,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
             "t2",
             "t1"
           ],
@@ -2170,10 +2168,21 @@
           },
           "Tiers": [
             "t2",
-            "t1",
-            "t3"
+            "t1"
           ],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Weeping Essence of Anger": [
@@ -2201,7 +2210,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
             "t2",
             "t1"
           ],
@@ -2807,11 +2815,22 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
             "t2",
             "t1"
           ],
           "FallbackTier": "t4"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [
+            "t4"
+          ],
+          "FallbackTier": "t5"
         }
       ],
       "Wailing Essence of Fear": [
@@ -2823,7 +2842,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t3",
             "t2",
             "t1"
           ],
@@ -2920,8 +2938,7 @@
           },
           "Tiers": [
             "t2",
-            "t1",
-            "t3"
+            "t1"
           ],
           "FallbackTier": "t4"
         }
@@ -2951,8 +2968,6 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t4",
-            "t3",
             "t2",
             "t1"
           ],
