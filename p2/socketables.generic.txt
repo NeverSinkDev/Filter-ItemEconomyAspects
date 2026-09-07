@@ -1915,6 +1915,157 @@
         "BaseType": "Warding Rune of Nourishment",
         "Aspects": []
       }
+    ],
+    "Atziri's Soul Core of Alacrity": [
+      {
+        "Name": "Atziri's Soul Core of Alacrity",
+        "BaseType": "Atziri's Soul Core of Alacrity",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Atziri's Soul Core of Devotion": [
+      {
+        "Name": "Atziri's Soul Core of Devotion",
+        "BaseType": "Atziri's Soul Core of Devotion",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Automation": [
+      {
+        "Name": "Jiquani's Soul Core of Automation",
+        "BaseType": "Jiquani's Soul Core of Automation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Atziri's Soul Core of Inoculation": [
+      {
+        "Name": "Atziri's Soul Core of Inoculation",
+        "BaseType": "Atziri's Soul Core of Inoculation",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Atziri's Soul Core of Vitality": [
+      {
+        "Name": "Atziri's Soul Core of Vitality",
+        "BaseType": "Atziri's Soul Core of Vitality",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Abundance": [
+      {
+        "Name": "Jiquani's Soul Core of Abundance",
+        "BaseType": "Jiquani's Soul Core of Abundance",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Munitions": [
+      {
+        "Name": "Jiquani's Soul Core of Munitions",
+        "BaseType": "Jiquani's Soul Core of Munitions",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Quaking": [
+      {
+        "Name": "Jiquani's Soul Core of Quaking",
+        "BaseType": "Jiquani's Soul Core of Quaking",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Radiance": [
+      {
+        "Name": "Jiquani's Soul Core of Radiance",
+        "BaseType": "Jiquani's Soul Core of Radiance",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Rippling": [
+      {
+        "Name": "Jiquani's Soul Core of Rippling",
+        "BaseType": "Jiquani's Soul Core of Rippling",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Severing": [
+      {
+        "Name": "Jiquani's Soul Core of Severing",
+        "BaseType": "Jiquani's Soul Core of Severing",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Squalls": [
+      {
+        "Name": "Jiquani's Soul Core of Squalls",
+        "BaseType": "Jiquani's Soul Core of Squalls",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Jiquani's Soul Core of Thundering": [
+      {
+        "Name": "Jiquani's Soul Core of Thundering",
+        "BaseType": "Jiquani's Soul Core of Thundering",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Stoat Idol": [
+      {
+        "Name": "Stoat Idol",
+        "BaseType": "Stoat Idol",
+        "Aspects": []
+      }
+    ],
+    "Hawk Idol": [
+      {
+        "Name": "Hawk Idol",
+        "BaseType": "Hawk Idol",
+        "Aspects": []
+      }
+    ],
+    "Panther Idol": [
+      {
+        "Name": "Panther Idol",
+        "BaseType": "Panther Idol",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -4063,6 +4214,162 @@
         }
       ],
       "Perfect Iron Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Soul Core of Alacrity": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Soul Core of Devotion": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Jiquani's Soul Core of Automation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Soul Core of Inoculation": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Atziri's Soul Core of Vitality": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Jiquani's Soul Core of Abundance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Munitions": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Quaking": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Radiance": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Rippling": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Severing": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "s"
+        }
+      ],
+      "Jiquani's Soul Core of Squalls": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "a"
+        }
+      ],
+      "Jiquani's Soul Core of Thundering": [
         {
           "Settings": {
             "IsEnabled": true,
