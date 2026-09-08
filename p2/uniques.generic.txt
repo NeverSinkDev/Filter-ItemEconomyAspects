@@ -3082,7 +3082,8 @@
         "BaseType": "Unset Ring",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -4074,7 +4075,8 @@
         "BaseType": "Grand Spear",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -4094,7 +4096,8 @@
         "BaseType": "Stoic Sceptre",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
@@ -4114,7 +4117,8 @@
         "BaseType": "Aberrant Sledge",
         "Aspects": [
           "Handled",
-          "NonWorldDrop"
+          "NonWorldDrop",
+          "PreventHiding"
         ]
       }
     ],
