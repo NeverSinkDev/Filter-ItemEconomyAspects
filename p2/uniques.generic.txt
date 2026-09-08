@@ -1647,7 +1647,8 @@
           "Handled",
           "PreventHiding",
           "Uncommon",
-          "HighVariety"
+          "HighVariety",
+          "Anchor"
         ]
       },
       {
