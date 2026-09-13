@@ -249,6 +249,115 @@
         "BaseType": "Call of the Shadows",
         "Aspects": []
       }
+    ],
+    "Abyss Tablet": [
+      {
+        "Name": "Abyss Tablet",
+        "BaseType": "Abyss Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Breach Tablet": [
+      {
+        "Name": "Breach Tablet",
+        "BaseType": "Breach Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Delirium Tablet": [
+      {
+        "Name": "Delirium Tablet",
+        "BaseType": "Delirium Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Expedition Tablet": [
+      {
+        "Name": "Expedition Tablet",
+        "BaseType": "Expedition Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Irradiated Tablet": [
+      {
+        "Name": "Irradiated Tablet",
+        "BaseType": "Irradiated Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Overseer Tablet": [
+      {
+        "Name": "Overseer Tablet",
+        "BaseType": "Overseer Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Ritual Tablet": [
+      {
+        "Name": "Ritual Tablet",
+        "BaseType": "Ritual Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Temple Tablet": [
+      {
+        "Name": "Temple Tablet",
+        "BaseType": "Temple Tablet",
+        "Aspects": [
+          "Handled",
+          "Tierable",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Raven's Reflection": [
+      {
+        "Name": "Raven's Reflection",
+        "BaseType": "Raven's Reflection",
+        "Aspects": []
+      }
+    ],
+    "The Triskelion Reforged": [
+      {
+        "Name": "The Triskelion Reforged",
+        "BaseType": "The Triskelion Reforged",
+        "Aspects": []
+      }
+    ],
+    "Shattered Triskelion": [
+      {
+        "Name": "Shattered Triskelion",
+        "BaseType": "Shattered Triskelion",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -378,6 +487,102 @@
           },
           "Tiers": [],
           "FallbackTier": "a"
+        }
+      ],
+      "Overseer Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Breach Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Irradiated Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Ritual Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Delirium Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Expedition Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Temple Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
+        }
+      ],
+      "Abyss Tablet": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "b"
         }
       ]
     }
