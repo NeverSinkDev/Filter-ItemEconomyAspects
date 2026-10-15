@@ -1,0 +1,91 @@
+{
+  "Aspects": {
+    "Ancient Wombgift": [
+      {
+        "Name": "Ancient Wombgift",
+        "Aspects": [
+          "Handled",
+          "PreventHiding",
+          "EarlyLeagueInterest"
+        ]
+      }
+    ],
+    "Lavish Wombgift": [
+      {
+        "Name": "Lavish Wombgift",
+        "Aspects": [
+          "Handled",
+          "PreventHiding"
+        ]
+      }
+    ],
+    "Mysterious Wombgift": [
+      {
+        "Name": "Mysterious Wombgift",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Provisioning Wombgift": [
+      {
+        "Name": "Provisioning Wombgift",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ]
+  },
+  "TieringRangeList": {
+    "TieringRanges": {
+      "Ancient Wombgift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t3"
+        }
+      ],
+      "Lavish Wombgift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Mysterious Wombgift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ],
+      "Provisioning Wombgift": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "t4"
+        }
+      ]
+    }
+  }
+}

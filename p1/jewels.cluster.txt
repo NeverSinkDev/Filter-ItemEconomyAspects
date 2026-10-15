@@ -508,10 +508,10 @@
         ]
       }
     ],
-    "Small Cluster Jewel:Suppres": [
+    "Small Cluster Jewel:Chance to Suppress Spell Damage": [
       {
-        "Name": "Suppres",
-        "BaseType": "Small Cluster Jewel:Suppres",
+        "Name": "Chance to Suppress Spell Damage",
+        "BaseType": "Small Cluster Jewel:Chance to Suppress Spell Damage",
         "Special": "2",
         "Aspects": [
           "Handled"

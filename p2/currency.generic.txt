@@ -111,7 +111,8 @@
         "Name": "Exalted Orb",
         "BaseType": "Exalted Orb",
         "Aspects": [
-          "Handled"
+          "Handled",
+          "Tierable"
         ]
       }
     ],
@@ -1936,6 +1937,41 @@
           },
           "Tiers": [],
           "FallbackTier": "b"
+        }
+      ],
+      "Exalted Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 2
+          },
+          "Tiers": [
+            "d",
+            "b"
+          ],
+          "FallbackTier": "c"
         }
       ]
     }
