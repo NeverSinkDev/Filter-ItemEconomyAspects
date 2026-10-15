@@ -3408,15 +3408,6 @@
         ]
       }
     ],
-    "Broken Promises": [
-      {
-        "Name": "Broken Promises",
-        "Aspects": [
-          "Handled",
-          "TimelessResult"
-        ]
-      }
-    ],
     "The Enthusiasts": [
       {
         "Name": "The Enthusiasts",
@@ -3864,15 +3855,6 @@
           "HighVariety",
           "CurrencyType",
           "PreventHiding"
-        ]
-      }
-    ],
-    "Parasitic Passengers": [
-      {
-        "Name": "Parasitic Passengers",
-        "Aspects": [
-          "Handled",
-          "HighVariety"
         ]
       }
     ],
@@ -16465,68 +16447,6 @@
             "t4"
           ],
           "FallbackTier": "t3"
-        }
-      ],
-      "Broken Promises": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t3"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t2",
-            "t4"
-          ],
-          "FallbackTier": "t3"
-        }
-      ],
-      "Parasitic Passengers": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t4"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 0
-          },
-          "Tiers": [
-            "t3"
-          ],
-          "FallbackTier": "t4"
-        },
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 2
-          },
-          "Tiers": [
-            "t3",
-            "t5"
-          ],
-          "FallbackTier": "t4"
         }
       ],
       "Further Invention": [

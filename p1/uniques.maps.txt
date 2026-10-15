@@ -1,42 +1,5 @@
 {
   "Aspects": {
-    "Synthesised Map": [
-      {
-        "Name": "Cortex",
-        "BaseType": "Synthesised Map",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Altered Distant Memory",
-        "BaseType": "Synthesised Map",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Twisted Distant Memory",
-        "BaseType": "Synthesised Map",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Rewritten Distant Memory",
-        "BaseType": "Synthesised Map",
-        "Aspects": [
-          "Handled"
-        ]
-      },
-      {
-        "Name": "Augmented Distant Memory",
-        "BaseType": "Synthesised Map",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Engraved Ultimatum": [
       {
         "Name": "The Tower of Ordeals",
@@ -347,19 +310,6 @@
     ]
   },
   "TieringRangeList": {
-    "TieringRanges": {
-      "Synthesised Map": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "t2"
-        }
-      ]
-    }
+    "TieringRanges": {}
   }
 }

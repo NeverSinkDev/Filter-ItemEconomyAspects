@@ -7,13 +7,6 @@
         "Aspects": []
       }
     ],
-    "Broken Promises": [
-      {
-        "Name": "Broken Promises",
-        "BaseType": "Broken Promises",
-        "Aspects": []
-      }
-    ],
     "Acclimatisation": [
       {
         "Name": "Acclimatisation",
@@ -1187,13 +1180,6 @@
       {
         "Name": "No Traces",
         "BaseType": "No Traces",
-        "Aspects": []
-      }
-    ],
-    "Parasitic Passengers": [
-      {
-        "Name": "Parasitic Passengers",
-        "BaseType": "Parasitic Passengers",
         "Aspects": []
       }
     ],

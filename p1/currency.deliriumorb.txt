@@ -54,15 +54,6 @@
         ]
       }
     ],
-    "Timeless Delirium Orb": [
-      {
-        "Name": "Timeless Delirium Orb",
-        "BaseType": "Timeless Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
     "Fragmented Delirium Orb": [
       {
         "Name": "Fragmented Delirium Orb",
@@ -85,15 +76,6 @@
       {
         "Name": "Jeweller's Delirium Orb",
         "BaseType": "Jeweller's Delirium Orb",
-        "Aspects": [
-          "Handled"
-        ]
-      }
-    ],
-    "Abyssal Delirium Orb": [
-      {
-        "Name": "Abyssal Delirium Orb",
-        "BaseType": "Abyssal Delirium Orb",
         "Aspects": [
           "Handled"
         ]

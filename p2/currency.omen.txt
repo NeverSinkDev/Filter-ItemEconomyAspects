@@ -307,16 +307,6 @@
         ]
       }
     ],
-    "Petition Splinter": [
-      {
-        "Name": "Petition Splinter",
-        "BaseType": "Petition Splinter",
-        "Aspects": [
-          "Anchor",
-          "Handled"
-        ]
-      }
-    ],
     "Omen of the Liege": [
       {
         "Name": "Omen of the Liege",
@@ -789,18 +779,6 @@
         }
       ],
       "Omen of Abyssal Echoes": [
-        {
-          "Settings": {
-            "IsEnabled": true,
-            "ImpactType": 0,
-            "RangeType": 0,
-            "ValidTime": 1
-          },
-          "Tiers": [],
-          "FallbackTier": "a"
-        }
-      ],
-      "Omen of Recombination": [
         {
           "Settings": {
             "IsEnabled": true,
