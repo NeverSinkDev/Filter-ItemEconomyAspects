@@ -5,6 +5,7 @@
         "Name": "Foulborn Doomsower",
         "BaseType": "Lion Sword",
         "Special": "Red Recoup, Red Immortal",
+        "Dust": 25194,
         "Aspects": [
           "Handled"
         ]
@@ -15,6 +16,7 @@
         "Name": "Foulborn Severed in Sleep",
         "BaseType": "Cutlass",
         "Special": "Minion Unholy, Minion Crit",
+        "Dust": 1102,
         "Aspects": [
           "Handled"
         ]
@@ -23,6 +25,7 @@
         "Name": "Foulborn United in Dream",
         "BaseType": "Cutlass",
         "Special": "Minion Unholy, Minion Quality",
+        "Dust": 5947,
         "Aspects": [
           "Handled"
         ]
@@ -33,6 +36,7 @@
         "Name": "Foulborn The Consuming Dark",
         "BaseType": "Fiend Dagger",
         "Special": "Chaos Ignite",
+        "Dust": 11039,
         "Aspects": [
           "Handled"
         ]
@@ -43,6 +47,7 @@
         "Name": "Foulborn Xoph's Inception",
         "BaseType": "Citadel Bow",
         "Special": "Returning Projectiles, Fast Ignite",
+        "Dust": 2869,
         "Aspects": [
           "Handled"
         ]
@@ -51,6 +56,7 @@
         "Name": "Foulborn Xoph's Nurture",
         "BaseType": "Citadel Bow",
         "Special": "Immolate, All Ignite",
+        "Dust": 1976,
         "Aspects": [
           "Handled"
         ]
@@ -61,6 +67,7 @@
         "Name": "Foulborn Razor of the Seventh Sun",
         "BaseType": "Midnight Blade",
         "Special": "Weapon Ignite",
+        "Dust": 35929,
         "Aspects": [
           "Handled"
         ]
@@ -69,6 +76,7 @@
         "Name": "Foulborn Rigwald's Command",
         "BaseType": "Midnight Blade",
         "Special": "Dual Wield Block",
+        "Dust": 22458,
         "Aspects": [
           "Handled"
         ]
@@ -79,6 +87,7 @@
         "Name": "Foulborn Chin Sol",
         "BaseType": "Assassin Bow",
         "Special": "Far Shot",
+        "Dust": 11533,
         "Aspects": [
           "Handled"
         ]
@@ -87,6 +96,7 @@
         "Name": "Foulborn Darkscorn",
         "BaseType": "Assassin Bow",
         "Special": "Crit Unholy Might",
+        "Dust": 69179,
         "Aspects": [
           "Handled"
         ]
@@ -97,6 +107,7 @@
         "Name": "Foulborn Void Battery",
         "BaseType": "Prophecy Wand",
         "Special": "Power AoE",
+        "Dust": 107787,
         "Aspects": [
           "Handled"
         ]
@@ -107,6 +118,7 @@
         "Name": "Foulborn Ngamahu's Flame",
         "BaseType": "Abyssal Axe",
         "Special": "Extra Projectiles",
+        "Dust": 18753,
         "Aspects": [
           "Handled"
         ]
@@ -117,6 +129,7 @@
         "Name": "Foulborn Kongor's Undying Rage",
         "BaseType": "Terror Maul",
         "Special": "Battlemage",
+        "Dust": 16701,
         "Aspects": [
           "Handled"
         ]
@@ -127,6 +140,7 @@
         "Name": "Foulborn Mjölner",
         "BaseType": "Gavel",
         "Special": "Area",
+        "Dust": 65208,
         "Aspects": [
           "Handled"
         ]
@@ -137,6 +151,7 @@
         "Name": "Foulborn Doon Cuebiyari",
         "BaseType": "Vaal Sceptre",
         "Special": "Mainhand Mana",
+        "Dust": 32870,
         "Aspects": [
           "Handled"
         ]
@@ -147,6 +162,7 @@
         "Name": "Foulborn Tulfall",
         "BaseType": "Opal Wand",
         "Special": "Cold Multi, Mana Power",
+        "Dust": 2223,
         "Aspects": [
           "Handled"
         ]
@@ -155,6 +171,7 @@
         "Name": "Foulborn Tulborn",
         "BaseType": "Opal Wand",
         "Special": "Cold Spell Level, Mana Power",
+        "Dust": 3249,
         "Aspects": [
           "Handled"
         ]
@@ -165,6 +182,7 @@
         "Name": "Foulborn The Poet's Pen",
         "BaseType": "Somatic Wand",
         "Special": "Physical Spell Damage",
+        "Dust": 15789,
         "Aspects": [
           "Handled"
         ]
@@ -175,6 +193,7 @@
         "Name": "Foulborn Reverberation Rod",
         "BaseType": "Spiraled Wand",
         "Special": "Awakened Cascade",
+        "Dust": 7505,
         "Aspects": [
           "Handled"
         ]
@@ -185,6 +204,7 @@
         "Name": "Foulborn Kaom's Primacy",
         "BaseType": "Karui Chopper",
         "Special": "Max Endurance",
+        "Dust": 61465,
         "Aspects": [
           "Handled"
         ]
@@ -195,6 +215,7 @@
         "Name": "Foulborn Uul-Netol's Kiss",
         "BaseType": "Vaal Axe",
         "Special": "Cooldown, Exert",
+        "Dust": 4503,
         "Aspects": [
           "Handled"
         ]
@@ -203,6 +224,7 @@
         "Name": "Foulborn Uul-Netol's Embrace",
         "BaseType": "Vaal Axe",
         "Special": "Fast Bleed",
+        "Dust": 12844,
         "Aspects": [
           "Handled"
         ]
@@ -213,6 +235,7 @@
         "Name": "Foulborn Rebuke of the Vaal",
         "BaseType": "Vaal Blade",
         "Special": "Trap Speed",
+        "Dust": 24472,
         "Aspects": [
           "Handled"
         ]
@@ -223,6 +246,7 @@
         "Name": "Foulborn Cospri's Malice",
         "BaseType": "Jewelled Foil",
         "Special": "Elemental Attack",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -233,6 +257,7 @@
         "Name": "Foulborn Hand of Thought and Motion",
         "BaseType": "Imperial Claw",
         "Special": "Strength, Int Accuracy",
+        "Dust": 3876,
         "Aspects": [
           "Handled"
         ]
@@ -241,6 +266,7 @@
         "Name": "Foulborn Hand of Wisdom and Action",
         "BaseType": "Imperial Claw",
         "Special": "Strength, Dex Multi",
+        "Dust": 2660,
         "Aspects": [
           "Handled"
         ]
@@ -251,6 +277,7 @@
         "Name": "Foulborn Singularity",
         "BaseType": "Platinum Sceptre",
         "Special": "Cold Multi",
+        "Dust": 14421,
         "Aspects": [
           "Handled"
         ]
@@ -261,6 +288,7 @@
         "Name": "Foulborn The Sacred Chalice",
         "BaseType": "Coronal Maul",
         "Special": "Physical as Fire",
+        "Dust": 17727,
         "Aspects": [
           "Handled"
         ]
@@ -269,6 +297,7 @@
         "Name": "Foulborn The Desecrated Chalice",
         "BaseType": "Coronal Maul",
         "Special": "Attack Speed",
+        "Dust": 17727,
         "Aspects": [
           "Handled"
         ]
@@ -279,6 +308,7 @@
         "Name": "Foulborn The Flame of Hope",
         "BaseType": "Maraketh Bow",
         "Special": "Crit Chance",
+        "Dust": 18810,
         "Aspects": [
           "Handled"
         ]
@@ -287,6 +317,7 @@
         "Name": "Foulborn The Bane of Hope",
         "BaseType": "Maraketh Bow",
         "Special": "Attack Speed",
+        "Dust": 18810,
         "Aspects": [
           "Handled"
         ]
@@ -297,6 +328,7 @@
         "Name": "Foulborn Sire of Shards",
         "BaseType": "Serpentine Staff",
         "Special": "Chain",
+        "Dust": 9823,
         "Aspects": [
           "Handled"
         ]
@@ -307,6 +339,7 @@
         "Name": "Foulborn Maata's Teaching",
         "BaseType": "Karui Sceptre",
         "Special": "Minion Crit Multi",
+        "Dust": 57931,
         "Aspects": [
           "Handled"
         ]
@@ -315,6 +348,7 @@
         "Name": "Foulborn Death's Hand",
         "BaseType": "Karui Sceptre",
         "Special": "Chaotic Might",
+        "Dust": 15504,
         "Aspects": [
           "Handled"
         ]
@@ -325,6 +359,7 @@
         "Name": "Foulborn Midnight Bargain",
         "BaseType": "Calling Wand",
         "Special": "Golems, Minion Drain",
+        "Dust": 7524,
         "Aspects": [
           "Handled"
         ]
@@ -335,6 +370,7 @@
         "Name": "Foulborn Doomfletch",
         "BaseType": "Royal Bow",
         "Special": "Prismatic Burst",
+        "Dust": 8436,
         "Aspects": [
           "Handled"
         ]
@@ -345,6 +381,7 @@
         "Name": "Foulborn Dreamfeather",
         "BaseType": "Eternal Sword",
         "Special": "Accuracy Attack Speed",
+        "Dust": 25954,
         "Aspects": [
           "Handled"
         ]
@@ -355,6 +392,7 @@
         "Name": "Foulborn Frostbreath",
         "BaseType": "Ornate Mace",
         "Special": "Crit Chance",
+        "Dust": 10108,
         "Aspects": [
           "Handled"
         ]
@@ -365,6 +403,7 @@
         "Name": "Foulborn Null's Inclination",
         "BaseType": "Ranger Bow",
         "Special": "Summon Phantasm",
+        "Dust": 21736,
         "Aspects": [
           "Handled"
         ]
@@ -375,6 +414,7 @@
         "Name": "Foulborn The Dancing Dervish",
         "BaseType": "Reaver Sword",
         "Special": "Lightning",
+        "Dust": 13186,
         "Aspects": [
           "Handled"
         ]
@@ -385,6 +425,7 @@
         "Name": "Foulborn Moonbender's Wing",
         "BaseType": "Tomahawk",
         "Special": "Attack Speed",
+        "Dust": 7296,
         "Aspects": [
           "Handled"
         ]
@@ -395,6 +436,7 @@
         "Name": "Foulborn The Harvest",
         "BaseType": "Jasper Chopper",
         "Special": "Spell Damage",
+        "Dust": 6878,
         "Aspects": [
           "Handled"
         ]
@@ -405,6 +447,7 @@
         "Name": "Foulborn Rive",
         "BaseType": "Terror Claw",
         "Special": "Physical Duration, Crush",
+        "Dust": 14611,
         "Aspects": [
           "Handled"
         ]
@@ -415,6 +458,7 @@
         "Name": "Foulborn Quill Rain",
         "BaseType": "Short Bow",
         "Special": "Area, Mana Bow",
+        "Dust": 2679,
         "Aspects": [
           "Handled"
         ]
@@ -425,6 +469,7 @@
         "Name": "Foulborn Death's Harp",
         "BaseType": "Death Bow",
         "Special": "Physical as Chaos",
+        "Dust": 9500,
         "Aspects": [
           "Handled"
         ]
@@ -435,6 +480,7 @@
         "Name": "Foulborn Jorrhast's Blacksteel",
         "BaseType": "Steelhead",
         "Special": "Minion Hit",
+        "Dust": 8474,
         "Aspects": [
           "Handled"
         ]
@@ -445,6 +491,7 @@
         "Name": "Foulborn Cybil's Paw",
         "BaseType": "Thresher Claw",
         "Special": "Block Shield Recovery",
+        "Dust": 5510,
         "Aspects": [
           "Handled"
         ]
@@ -455,6 +502,7 @@
         "Name": "Foulborn Rigwald's Savagery",
         "BaseType": "Royal Axe",
         "Special": "Sword Cannot Evade",
+        "Dust": 22458,
         "Aspects": [
           "Handled"
         ]
@@ -465,6 +513,7 @@
         "Name": "Foulborn Ashcaller",
         "BaseType": "Goat's Horn",
         "Special": "Minion Fire",
+        "Dust": 3287,
         "Aspects": [
           "Handled"
         ]
@@ -475,6 +524,7 @@
         "Name": "Foulborn Piscator's Vigil",
         "BaseType": "Kinetic Wand",
         "Special": "Fish",
+        "Dust": 13186,
         "Aspects": [
           "Handled"
         ]
@@ -485,6 +535,7 @@
         "Name": "Foulborn Tremor Rod",
         "BaseType": "Military Staff",
         "Special": "Mine Auras",
+        "Dust": 12388,
         "Aspects": [
           "Handled"
         ]
@@ -495,6 +546,7 @@
         "Name": "Foulborn Al Dhih",
         "BaseType": "Timeworn Claw",
         "Special": "Chaos Damage",
+        "Dust": 4978,
         "Aspects": [
           "Handled"
         ]
@@ -505,6 +557,7 @@
         "Name": "Foulborn The Searing Touch",
         "BaseType": "Lathi",
         "Special": "Searing Bond Totems",
+        "Dust": 23066,
         "Aspects": [
           "Handled"
         ]
@@ -515,6 +568,7 @@
         "Name": "Foulborn The Whispering Ice",
         "BaseType": "Vile Staff",
         "Special": "Int AoE",
+        "Dust": 9785,
         "Aspects": [
           "Handled"
         ]
@@ -525,6 +579,7 @@
         "Name": "Foulborn Edge of Madness",
         "BaseType": "Etched Greatsword",
         "Special": "Accuracy per Level",
+        "Dust": 4427,
         "Aspects": [
           "Handled"
         ]
@@ -535,6 +590,7 @@
         "Name": "Foulborn Rathpith Globe",
         "BaseType": "Titanium Spirit Shield",
         "Special": "DOT per Life, Ailment per Life",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -545,6 +601,7 @@
         "Name": "Foulborn The Squire",
         "BaseType": "Elegant Round Shield",
         "Special": "No Requirements",
+        "Dust": 1460568,
         "Aspects": [
           "Handled"
         ]
@@ -553,6 +610,7 @@
         "Name": "Foulborn The Oppressor",
         "BaseType": "Elegant Round Shield",
         "Special": "Spell Block, Avoid Damage",
+        "Dust": 14611,
         "Aspects": [
           "Handled"
         ]
@@ -563,6 +621,7 @@
         "Name": "Foulborn Alberon's Warpath",
         "BaseType": "Soldier Boots",
         "Special": "Intelligence",
+        "Dust": 9823,
         "Aspects": [
           "Handled"
         ]
@@ -573,6 +632,7 @@
         "Name": "Foulborn Alpha's Howl",
         "BaseType": "Sinner Tricorne",
         "Special": "Minion Level, Life Reservation",
+        "Dust": 24472,
         "Aspects": [
           "Handled"
         ]
@@ -583,6 +643,7 @@
         "Name": "Foulborn Kaom's Spirit",
         "BaseType": "Titan Gauntlets",
         "Special": "Rage Delay",
+        "Dust": 28367,
         "Aspects": [
           "Handled"
         ]
@@ -591,6 +652,7 @@
         "Name": "Foulborn Veruso's Battering Rams",
         "BaseType": "Titan Gauntlets",
         "Special": "Ignite Immune",
+        "Dust": 14174,
         "Aspects": [
           "Handled"
         ]
@@ -601,6 +663,7 @@
         "Name": "Foulborn Seven-League Step",
         "BaseType": "Rawhide Boots",
         "Special": "Action Speed",
+        "Dust": 101593,
         "Aspects": [
           "Handled"
         ]
@@ -611,6 +674,7 @@
         "Name": "Foulborn The Formless Inferno",
         "BaseType": "Royal Burgonet",
         "Special": "Minion Life, Fire to Physical",
+        "Dust": 13224,
         "Aspects": [
           "Handled"
         ]
@@ -619,6 +683,7 @@
         "Name": "Foulborn The Formless Flame",
         "BaseType": "Royal Burgonet",
         "Special": "Fire to Physical",
+        "Dust": 4636,
         "Aspects": [
           "Handled"
         ]
@@ -629,6 +694,7 @@
         "Name": "Foulborn Aegis Aurora",
         "BaseType": "Champion Kite Shield",
         "Special": "No Reflect",
+        "Dust": 95760,
         "Aspects": [
           "Handled"
         ]
@@ -639,6 +705,7 @@
         "Name": "Foulborn The Iron Fortress",
         "BaseType": "Crusader Plate",
         "Special": "Str Spell Block",
+        "Dust": 63308,
         "Aspects": [
           "Handled"
         ]
@@ -647,6 +714,7 @@
         "Name": "Foulborn Lioneye's Vision",
         "BaseType": "Crusader Plate",
         "Special": "Projectile Avoidance",
+        "Dust": 18810,
         "Aspects": [
           "Handled"
         ]
@@ -657,6 +725,7 @@
         "Name": "Foulborn The Gull",
         "BaseType": "Raven Mask",
         "Special": "Life Converted",
+        "Dust": 34029,
         "Aspects": [
           "Handled"
         ]
@@ -667,6 +736,7 @@
         "Name": "Foulborn The Infinite Pursuit",
         "BaseType": "Titan Greaves",
         "Special": "Bleed Armour, Bleed Immune",
+        "Dust": 3876,
         "Aspects": [
           "Handled"
         ]
@@ -675,6 +745,7 @@
         "Name": "Foulborn Kaom's Roots",
         "BaseType": "Titan Greaves",
         "Special": "Strength",
+        "Dust": 27531,
         "Aspects": [
           "Handled"
         ]
@@ -683,6 +754,7 @@
         "Name": "Foulborn The Red Trail",
         "BaseType": "Titan Greaves",
         "Special": "Stationary Endurance, Bleed Power",
+        "Dust": 2660,
         "Aspects": [
           "Handled"
         ]
@@ -693,6 +765,7 @@
         "Name": "Foulborn Emperor's Vigilance",
         "BaseType": "Steel Kite Shield",
         "Special": "Max Quality",
+        "Dust": 43111,
         "Aspects": [
           "Handled"
         ]
@@ -703,6 +776,7 @@
         "Name": "Foulborn Rime Gaze",
         "BaseType": "Mind Cage",
         "Special": "Frigid Bond",
+        "Dust": 25194,
         "Aspects": [
           "Handled"
         ]
@@ -711,6 +785,7 @@
         "Name": "Foulborn Scold's Bridle",
         "BaseType": "Mind Cage",
         "Special": "Mana Cost",
+        "Dust": 25194,
         "Aspects": [
           "Handled"
         ]
@@ -721,6 +796,7 @@
         "Name": "Foulborn Cherrubim's Maleficence",
         "BaseType": "Triumphant Lamellar",
         "Special": "Physical to Chaos",
+        "Dust": 17727,
         "Aspects": [
           "Handled"
         ]
@@ -731,6 +807,7 @@
         "Name": "Foulborn The Fourth Vow",
         "BaseType": "Devout Chainmail",
         "Special": "Bypass ES",
+        "Dust": 56240,
         "Aspects": [
           "Handled"
         ]
@@ -741,6 +818,7 @@
         "Name": "Foulborn Null and Void",
         "BaseType": "Legion Gloves",
         "Special": "Life Regen",
+        "Dust": 12426,
         "Aspects": [
           "Handled"
         ]
@@ -751,6 +829,7 @@
         "Name": "Foulborn The Coming Calamity",
         "BaseType": "Destroyer Regalia",
         "Special": "Herald Effect, Lone Messenger",
+        "Dust": 11039,
         "Aspects": [
           "Handled"
         ]
@@ -761,6 +840,7 @@
         "Name": "Foulborn Ambu's Charge",
         "BaseType": "Crusader Chainmail",
         "Special": "Max Endurance",
+        "Dust": 8227,
         "Aspects": [
           "Handled"
         ]
@@ -771,6 +851,7 @@
         "Name": "Foulborn The Perfect Form",
         "BaseType": "Zodiac Leather",
         "Special": "Life Evasion, Ghost Dance",
+        "Dust": 13224,
         "Aspects": [
           "Handled"
         ]
@@ -779,6 +860,7 @@
         "Name": "Foulborn Hyrri's Ire",
         "BaseType": "Zodiac Leather",
         "Special": "Prevent Suppressed",
+        "Dust": 75601,
         "Aspects": [
           "Handled"
         ]
@@ -787,6 +869,7 @@
         "Name": "Foulborn The Snowblind Grace",
         "BaseType": "Zodiac Leather",
         "Special": "Life Evasion, Purity of Ice",
+        "Dust": 4636,
         "Aspects": [
           "Handled"
         ]
@@ -797,6 +880,7 @@
         "Name": "Foulborn Abyssus",
         "BaseType": "Ezomyte Burgonet",
         "Special": "Bleed Multi",
+        "Dust": 21736,
         "Aspects": [
           "Handled"
         ]
@@ -807,6 +891,7 @@
         "Name": "Foulborn Zahndethus' Cassock",
         "BaseType": "Sage's Robe",
         "Special": "Profane Ground",
+        "Dust": 5510,
         "Aspects": [
           "Handled"
         ]
@@ -817,6 +902,7 @@
         "Name": "Foulborn Ylfeban's Trickery",
         "BaseType": "Hubris Circlet",
         "Special": "Retaliation Spell",
+        "Dust": 28367,
         "Aspects": [
           "Handled"
         ]
@@ -827,6 +913,7 @@
         "Name": "Foulborn Skyforth",
         "BaseType": "Sorcerer Boots",
         "Special": "Crit Multi",
+        "Dust": 132563,
         "Aspects": [
           "Handled"
         ]
@@ -837,6 +924,7 @@
         "Name": "Foulborn The Baron",
         "BaseType": "Close Helmet",
         "Special": "Zombies per Int, Zombie ES Leech",
+        "Dust": 4978,
         "Aspects": [
           "Handled"
         ]
@@ -847,6 +935,7 @@
         "Name": "Foulborn The Bringer of Rain",
         "BaseType": "Nightmare Bascinet",
         "Special": "Sadism",
+        "Dust": 26733,
         "Aspects": [
           "Handled"
         ]
@@ -855,6 +944,7 @@
         "Name": "Foulborn Devoto's Devotion",
         "BaseType": "Nightmare Bascinet",
         "Special": "Suppress, Movement Attack",
+        "Dust": 16435,
         "Aspects": [
           "Handled"
         ]
@@ -865,6 +955,7 @@
         "Name": "Foulborn Darkray Vectors",
         "BaseType": "Dragonscale Boots",
         "Special": "Frenzy Accuracy",
+        "Dust": 15751,
         "Aspects": [
           "Handled"
         ]
@@ -875,6 +966,7 @@
         "Name": "Foulborn Soul Mantle",
         "BaseType": "Spidersilk Robe",
         "Special": "Flamewood",
+        "Dust": 9823,
         "Aspects": [
           "Handled"
         ]
@@ -885,6 +977,7 @@
         "Name": "Foulborn Ghostwrithe",
         "BaseType": "Silken Vest",
         "Special": "Life to Shield",
+        "Dust": 3192,
         "Aspects": [
           "Handled"
         ]
@@ -895,6 +988,7 @@
         "Name": "Foulborn Deidbell",
         "BaseType": "Gilded Sallet",
         "Special": "Cooldown, Warcry Buff",
+        "Dust": 9785,
         "Aspects": [
           "Handled"
         ]
@@ -905,6 +999,7 @@
         "Name": "Foulborn Lightning Coil",
         "BaseType": "Desert Brigandine",
         "Special": "Chaos as Lightning",
+        "Dust": 21736,
         "Aspects": [
           "Handled"
         ]
@@ -915,6 +1010,7 @@
         "Name": "Foulborn The Surrender",
         "BaseType": "Ezomyte Tower Shield",
         "Special": "Block Shield, Max Block",
+        "Dust": 73397,
         "Aspects": [
           "Handled"
         ]
@@ -923,6 +1019,7 @@
         "Name": "Foulborn The Anticipation",
         "BaseType": "Ezomyte Tower Shield",
         "Special": "Armour Elemental",
+        "Dust": 24472,
         "Aspects": [
           "Handled"
         ]
@@ -933,6 +1030,7 @@
         "Name": "Foulborn Esh's Mirror",
         "BaseType": "Vaal Spirit Shield",
         "Special": "Shock Low Life, No Reflect",
+        "Dust": 4256,
         "Aspects": [
           "Handled"
         ]
@@ -941,6 +1039,7 @@
         "Name": "Foulborn Esh's Visage",
         "BaseType": "Vaal Spirit Shield",
         "Special": "Chaos Shield, No Reflect",
+        "Dust": 12103,
         "Aspects": [
           "Handled"
         ]
@@ -951,6 +1050,7 @@
         "Name": "Foulborn The Embalmer",
         "BaseType": "Carnal Mitts",
         "Special": "Fast Poison",
+        "Dust": 8094,
         "Aspects": [
           "Handled"
         ]
@@ -961,6 +1061,7 @@
         "Name": "Foulborn The Brass Dome",
         "BaseType": "Gladiator Plate",
         "Special": "Transcendence",
+        "Dust": 107787,
         "Aspects": [
           "Handled"
         ]
@@ -971,6 +1072,7 @@
         "Name": "Foulborn Starkonja's Head",
         "BaseType": "Silken Hood",
         "Special": "Max Mana",
+        "Dust": 13585,
         "Aspects": [
           "Handled"
         ]
@@ -981,6 +1083,7 @@
         "Name": "Foulborn Matua Tupuna",
         "BaseType": "Tarnished Spirit Shield",
         "Special": "Aura Level",
+        "Dust": 4560,
         "Aspects": [
           "Handled"
         ]
@@ -991,6 +1094,7 @@
         "Name": "Foulborn Kalisa's Grace",
         "BaseType": "Samite Gloves",
         "Special": "Channelling, Mana Reduction",
+        "Dust": 7410,
         "Aspects": [
           "Handled"
         ]
@@ -1001,6 +1105,7 @@
         "Name": "Foulborn Infernal Mantle",
         "BaseType": "Widowsilk Robe",
         "Special": "Mana Shield",
+        "Dust": 25194,
         "Aspects": [
           "Handled"
         ]
@@ -1011,6 +1116,7 @@
         "Name": "Foulborn Cloak of Flame",
         "BaseType": "Scholar's Robe",
         "Special": "Fire Leech, Ignited Damage",
+        "Dust": 6289,
         "Aspects": [
           "Handled"
         ]
@@ -1021,6 +1127,7 @@
         "Name": "Foulborn Maloney's Mechanism",
         "BaseType": "Ornate Quiver",
         "Special": "Arrow Nova",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -1031,6 +1138,7 @@
         "Name": "Foulborn Thunderfist",
         "BaseType": "Murder Mitts",
         "Special": "Herald Thunder",
+        "Dust": 80199,
         "Aspects": [
           "Handled"
         ]
@@ -1041,6 +1149,7 @@
         "Name": "Foulborn Sadima's Touch",
         "BaseType": "Wool Gloves",
         "Special": "Gold",
+        "Dust": 2527,
         "Aspects": [
           "Handled"
         ]
@@ -1051,6 +1160,7 @@
         "Name": "Foulborn Voll's Vision",
         "BaseType": "Praetor Crown",
         "Special": "Uncorrupted Shield, Uncorrupted Regen",
+        "Dust": 27531,
         "Aspects": [
           "Handled"
         ]
@@ -1061,6 +1171,7 @@
         "Name": "Foulborn Cloak of Defiance",
         "BaseType": "Lacquered Garb",
         "Special": "Mana Shield, Eldritch Battery",
+        "Dust": 51471,
         "Aspects": [
           "Handled"
         ]
@@ -1069,6 +1180,7 @@
         "Name": "Foulborn Victario's Influence",
         "BaseType": "Lacquered Garb",
         "Special": "Aura Duration",
+        "Dust": 10716,
         "Aspects": [
           "Handled"
         ]
@@ -1079,6 +1191,7 @@
         "Name": "Foulborn Doryani's Fist",
         "BaseType": "Vaal Gauntlets",
         "Special": "Sap",
+        "Dust": 85082,
         "Aspects": [
           "Handled"
         ]
@@ -1089,6 +1202,7 @@
         "Name": "Foulborn Inpulsa's Broken Heart",
         "BaseType": "Sadist Garb",
         "Special": "Purity of Lightning",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -1097,6 +1211,7 @@
         "Name": "Foulborn Tinkerskin",
         "BaseType": "Sadist Garb",
         "Special": "Trap Cooldown",
+        "Dust": 27531,
         "Aspects": [
           "Handled"
         ]
@@ -1107,6 +1222,7 @@
         "Name": "Foulborn Solaris Lorica",
         "BaseType": "Copper Plate",
         "Special": "Elemental to Chaos",
+        "Dust": 3819,
         "Aspects": [
           "Handled"
         ]
@@ -1117,6 +1233,7 @@
         "Name": "Foulborn Snakebite",
         "BaseType": "Assassin's Mitts",
         "Special": "Max Shield",
+        "Dust": 12806,
         "Aspects": [
           "Handled"
         ]
@@ -1127,6 +1244,7 @@
         "Name": "Foulborn Soul Strike",
         "BaseType": "Spike-Point Arrow Quiver",
         "Special": "Shield Recharge",
+        "Dust": 15295,
         "Aspects": [
           "Handled"
         ]
@@ -1137,6 +1255,7 @@
         "Name": "Foulborn Death's Oath",
         "BaseType": "Astral Plate",
         "Special": "Withered Effect",
+        "Dust": 23066,
         "Aspects": [
           "Handled"
         ]
@@ -1147,6 +1266,7 @@
         "Name": "Foulborn Kintsugi",
         "BaseType": "Exquisite Leather",
         "Special": "Prevent Suppressed, Suppress Chance",
+        "Dust": 69179,
         "Aspects": [
           "Handled"
         ]
@@ -1157,6 +1277,7 @@
         "Name": "Foulborn Asenath's Mark",
         "BaseType": "Iron Circlet",
         "Special": "Cooldown Recovery",
+        "Dust": 14022,
         "Aspects": [
           "Handled"
         ]
@@ -1167,6 +1288,7 @@
         "Name": "Foulborn Prism Guardian",
         "BaseType": "Archon Kite Shield",
         "Special": "Gem Quality",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -1177,6 +1299,7 @@
         "Name": "Foulborn Fleshcrafter",
         "BaseType": "Necromancer Silks",
         "Special": "Minion ES Leech",
+        "Dust": 63308,
         "Aspects": [
           "Handled"
         ]
@@ -1185,6 +1308,7 @@
         "Name": "Foulborn Vis Mortis",
         "BaseType": "Necromancer Silks",
         "Special": "Unholy Might",
+        "Dust": 15751,
         "Aspects": [
           "Handled"
         ]
@@ -1195,6 +1319,7 @@
         "Name": "Foulborn Victario's Flight",
         "BaseType": "Goathide Boots",
         "Special": "Action Speed",
+        "Dust": 3287,
         "Aspects": [
           "Handled"
         ]
@@ -1205,6 +1330,7 @@
         "Name": "Foulborn Saffell's Frame",
         "BaseType": "Branded Kite Shield",
         "Special": "ES from Chaos Res",
+        "Dust": 21109,
         "Aspects": [
           "Handled"
         ]
@@ -1215,6 +1341,7 @@
         "Name": "Foulborn Queen of the Forest",
         "BaseType": "Destiny Leather",
         "Special": "Damage Taken",
+        "Dust": 21109,
         "Aspects": [
           "Handled"
         ]
@@ -1225,6 +1352,7 @@
         "Name": "Foulborn Heatshiver",
         "BaseType": "Leather Hood",
         "Special": "Cold to Fire",
+        "Dust": 6669,
         "Aspects": [
           "Handled"
         ]
@@ -1235,6 +1363,7 @@
         "Name": "Foulborn Mind of the Council",
         "BaseType": "Harlequin Mask",
         "Special": "MoM",
+        "Dust": 19893,
         "Aspects": [
           "Handled"
         ]
@@ -1245,6 +1374,7 @@
         "Name": "Foulborn Doedre's Scorn",
         "BaseType": "Lunaris Circlet",
         "Special": "Impending Doom",
+        "Dust": 7296,
         "Aspects": [
           "Handled"
         ]
@@ -1255,6 +1385,7 @@
         "Name": "Foulborn The Three Dragons",
         "BaseType": "Golden Mask",
         "Special": "Chaos Freeze, Chaos Shock",
+        "Dust": 5187,
         "Aspects": [
           "Handled"
         ]
@@ -1265,6 +1396,7 @@
         "Name": "Foulborn Carcass Jack",
         "BaseType": "Varnished Coat",
         "Special": "Aura Effect",
+        "Dust": 23066,
         "Aspects": [
           "Handled"
         ]
@@ -1275,6 +1407,7 @@
         "Name": "Foulborn Incandescent Heart",
         "BaseType": "Saintly Chainmail",
         "Special": "Light to Accuracy",
+        "Dust": 29203,
         "Aspects": [
           "Handled"
         ]
@@ -1285,6 +1418,7 @@
         "Name": "Foulborn Maligaro's Virtuosity",
         "BaseType": "Deerskin Gloves",
         "Special": "Action Speed, Crit Ailment",
+        "Dust": 33858,
         "Aspects": [
           "Handled"
         ]
@@ -1295,6 +1429,7 @@
         "Name": "Foulborn Repentance",
         "BaseType": "Crusader Gloves",
         "Special": "Intelligence",
+        "Dust": 25954,
         "Aspects": [
           "Handled"
         ]
@@ -1305,6 +1440,7 @@
         "Name": "Foulborn Greed's Embrace",
         "BaseType": "Golden Plate",
         "Special": "Experience",
+        "Dust": 12065,
         "Aspects": [
           "Handled"
         ]
@@ -1315,6 +1451,7 @@
         "Name": "Foulborn Asenath's Gentle Touch",
         "BaseType": "Silk Gloves",
         "Special": "Punishment",
+        "Dust": 33858,
         "Aspects": [
           "Handled"
         ]
@@ -1325,6 +1462,7 @@
         "Name": "Foulborn Kitava's Thirst",
         "BaseType": "Zealot Helmet",
         "Special": "Life Trigger",
+        "Dust": 8474,
         "Aspects": [
           "Handled"
         ]
@@ -1335,6 +1473,7 @@
         "Name": "Foulborn Shavronne's Wrappings",
         "BaseType": "Occultist's Vestment",
         "Special": "Living Lightning",
+        "Dust": 69179,
         "Aspects": [
           "Handled"
         ]
@@ -1345,6 +1484,7 @@
         "Name": "Foulborn Rigwald's Quills",
         "BaseType": "Two-Point Arrow Quiver",
         "Special": "Aggravate Bleed",
+        "Dust": 107787,
         "Aspects": [
           "Handled"
         ]
@@ -1355,6 +1495,7 @@
         "Name": "Foulborn Meginord's Vise",
         "BaseType": "Steel Gauntlets",
         "Special": "Triple Damage",
+        "Dust": 10374,
         "Aspects": [
           "Handled"
         ]
@@ -1365,6 +1506,7 @@
         "Name": "Foulborn Aurseize",
         "BaseType": "Steelscale Gauntlets",
         "Special": "Gold",
+        "Dust": 10697,
         "Aspects": [
           "Handled"
         ]
@@ -1375,6 +1517,7 @@
         "Name": "Foulborn Utula's Hunger",
         "BaseType": "Majestic Plate",
         "Special": "No Defence ES",
+        "Dust": 53029,
         "Aspects": [
           "Handled"
         ]
@@ -1385,6 +1528,7 @@
         "Name": "Foulborn Kiloava's Bluster",
         "BaseType": "Ironwood Buckler",
         "Special": "DOT Reduction, Inverse Resist",
+        "Dust": 12426,
         "Aspects": [
           "Handled"
         ]
@@ -1395,6 +1539,7 @@
         "Name": "Foulborn Rise of the Phoenix",
         "BaseType": "Mosaic Kite Shield",
         "Special": "Low Life Cast",
+        "Dust": 15751,
         "Aspects": [
           "Handled"
         ]
@@ -1405,6 +1550,7 @@
         "Name": "Foulborn Shadows and Dust",
         "BaseType": "Clasped Mitts",
         "Special": "Blind Effect",
+        "Dust": 5757,
         "Aspects": [
           "Handled"
         ]
@@ -1415,6 +1561,7 @@
         "Name": "Foulborn Crown of the Pale King",
         "BaseType": "Regicide Mask",
         "Special": "Retaliation Cooldown",
+        "Dust": 10716,
         "Aspects": [
           "Handled"
         ]
@@ -1425,6 +1572,7 @@
         "Name": "Foulborn Goldrim",
         "BaseType": "Leather Cap",
         "Special": "Chaos Resist",
+        "Dust": 2527,
         "Aspects": [
           "Handled"
         ]
@@ -1435,6 +1583,7 @@
         "Name": "Foulborn Rearguard",
         "BaseType": "Blunt Arrow Quiver",
         "Special": "Bow Stun",
+        "Dust": 5757,
         "Aspects": [
           "Handled"
         ]
@@ -1445,6 +1594,7 @@
         "Name": "Foulborn Wyrmsign",
         "BaseType": "Wyrmscale Gauntlets",
         "Special": "Manaforged Arrows",
+        "Dust": 9823,
         "Aspects": [
           "Handled"
         ]
@@ -1455,6 +1605,7 @@
         "Name": "Foulborn Veil of the Night",
         "BaseType": "Great Helmet",
         "Special": "Max Life",
+        "Dust": 4427,
         "Aspects": [
           "Handled"
         ]
@@ -1465,6 +1616,7 @@
         "Name": "Foulborn Chalice of Horrors",
         "BaseType": "War Buckler",
         "Special": "Chaos Multi",
+        "Dust": 5434,
         "Aspects": [
           "Handled"
         ]
@@ -1475,6 +1627,7 @@
         "Name": "Foulborn Cospri's Will",
         "BaseType": "Assassin's Garb",
         "Special": "Wither on Hit",
+        "Dust": 27531,
         "Aspects": [
           "Handled"
         ]
@@ -1485,6 +1638,7 @@
         "Name": "Foulborn Gang's Momentum",
         "BaseType": "Legion Boots",
         "Special": "Ignited Speed",
+        "Dust": 10241,
         "Aspects": [
           "Handled"
         ]
@@ -1495,6 +1649,7 @@
         "Name": "Foulborn Lioneye's Remorse",
         "BaseType": "Pinnacle Tower Shield",
         "Special": "Life as Armour",
+        "Dust": 29203,
         "Aspects": [
           "Handled"
         ]
@@ -1505,6 +1660,7 @@
         "Name": "Foulborn Belly of the Beast",
         "BaseType": "Full Wyrmscale",
         "Special": "Max Rage",
+        "Dust": 14364,
         "Aspects": [
           "Handled"
         ]
@@ -1515,6 +1671,7 @@
         "Name": "Foulborn Goldwyrm",
         "BaseType": "Nubuck Boots",
         "Special": "Gold",
+        "Dust": 6308,
         "Aspects": [
           "Handled"
         ]
@@ -1525,6 +1682,7 @@
         "Name": "Foulborn Bramblejack",
         "BaseType": "Plate Vest",
         "Special": "Armour",
+        "Dust": 2375,
         "Aspects": [
           "Handled"
         ]
@@ -1535,6 +1693,7 @@
         "Name": "Foulborn Shackles of the Wretched",
         "BaseType": "Chain Gloves",
         "Special": "Curse on You",
+        "Dust": 2831,
         "Aspects": [
           "Handled"
         ]
@@ -1545,6 +1704,7 @@
         "Name": "Foulborn Vaal Caress",
         "BaseType": "Bronzescale Gauntlets",
         "Special": "Adrenaline",
+        "Dust": 8189,
         "Aspects": [
           "Handled"
         ]
@@ -1555,6 +1715,7 @@
         "Name": "Foulborn Voll's Protector",
         "BaseType": "Holy Chainmail",
         "Special": "Chaos Resist",
+        "Dust": 10374,
         "Aspects": [
           "Handled"
         ]
@@ -1565,6 +1726,7 @@
         "Name": "Foulborn Malachai's Loop",
         "BaseType": "Harmonic Spirit Shield",
         "Special": "Power Suppress",
+        "Dust": 15751,
         "Aspects": [
           "Handled"
         ]
@@ -1575,6 +1737,7 @@
         "Name": "Foulborn Flesh and Spirit",
         "BaseType": "Ironscale Gauntlets",
         "Special": "Vaal Duration",
+        "Dust": 3591,
         "Aspects": [
           "Handled"
         ]
@@ -1585,6 +1748,7 @@
         "Name": "Foulborn Facebreaker",
         "BaseType": "Strapped Mitts",
         "Special": "Unarmed Area",
+        "Dust": 3705,
         "Aspects": [
           "Handled"
         ]
@@ -1595,6 +1759,7 @@
         "Name": "Foulborn Bronn's Lithe",
         "BaseType": "Cutthroat's Garb",
         "Special": "Movement Cooldown",
+        "Dust": 11039,
         "Aspects": [
           "Handled"
         ]
@@ -1605,6 +1770,7 @@
         "Name": "Foulborn Drillneck",
         "BaseType": "Penetrating Arrow Quiver",
         "Special": "Impale",
+        "Dust": 4826,
         "Aspects": [
           "Handled"
         ]
@@ -1615,6 +1781,7 @@
         "Name": "Foulborn Great Old One's Ward",
         "BaseType": "Corrugated Buckler",
         "Special": "Impale Chance",
+        "Dust": 8987,
         "Aspects": [
           "Handled"
         ]
@@ -1625,6 +1792,7 @@
         "Name": "Foulborn Voidbringer",
         "BaseType": "Conjurer Gloves",
         "Special": "Corrupted Chaos",
+        "Dust": 11723,
         "Aspects": [
           "Handled"
         ]
@@ -1635,6 +1803,7 @@
         "Name": "Foulborn Kongming's Stratagem",
         "BaseType": "Ancient Spirit Shield",
         "Special": "Blind Crit",
+        "Dust": 8721,
         "Aspects": [
           "Handled"
         ]
@@ -1645,6 +1814,7 @@
         "Name": "Foulborn Ashrend",
         "BaseType": "Buckskin Tunic",
         "Special": "Melee Fire",
+        "Dust": 3819,
         "Aspects": [
           "Handled"
         ]
@@ -1655,6 +1825,7 @@
         "Name": "Foulborn Headhunter",
         "BaseType": "Leather Belt",
         "Special": "Culling Strike, Minimap Icons",
+        "Dust": 1693204,
         "Aspects": [
           "Handled"
         ]
@@ -1663,6 +1834,7 @@
         "Name": "Foulborn Umbilicus Immortalis",
         "BaseType": "Leather Belt",
         "Special": "Charge Cost, Flask Charge",
+        "Dust": 8949,
         "Aspects": [
           "Handled"
         ]
@@ -1673,6 +1845,7 @@
         "Name": "Foulborn Mageblood",
         "BaseType": "Heavy Belt",
         "Special": "4 Flasks",
+        "Dust": 1693204,
         "Aspects": [
           "Handled"
         ]
@@ -1681,6 +1854,7 @@
         "Name": "Foulborn Dyadian Dawn",
         "BaseType": "Heavy Belt",
         "Special": "Chill Recovery",
+        "Dust": 21736,
         "Aspects": [
           "Handled"
         ]
@@ -1689,6 +1863,7 @@
         "Name": "Foulborn Belt of the Deceiver",
         "BaseType": "Heavy Belt",
         "Special": "Curse Reduction, Unnerve",
+        "Dust": 4161,
         "Aspects": [
           "Handled"
         ]
@@ -1697,6 +1872,7 @@
         "Name": "Foulborn Meginord's Girdle",
         "BaseType": "Heavy Belt",
         "Special": "Strength",
+        "Dust": 4161,
         "Aspects": [
           "Handled"
         ]
@@ -1707,6 +1883,7 @@
         "Name": "Foulborn Death Rush",
         "BaseType": "Amethyst Ring",
         "Special": "Vaal Soul",
+        "Dust": 43111,
         "Aspects": [
           "Handled"
         ]
@@ -1715,6 +1892,7 @@
         "Name": "Foulborn Ming's Heart",
         "BaseType": "Amethyst Ring",
         "Special": "No Other Rings",
+        "Dust": 25194,
         "Aspects": [
           "Handled"
         ]
@@ -1725,6 +1903,7 @@
         "Name": "Foulborn Choir of the Storm",
         "BaseType": "Lapis Amulet",
         "Special": "Max Lightning",
+        "Dust": 13604,
         "Aspects": [
           "Handled"
         ]
@@ -1733,6 +1912,7 @@
         "Name": "Foulborn Khatal's Weeping",
         "BaseType": "Lapis Amulet",
         "Special": "Max Life",
+        "Dust": 10716,
         "Aspects": [
           "Handled"
         ]
@@ -1741,6 +1921,7 @@
         "Name": "Foulborn Khatal's Geyser",
         "BaseType": "Lapis Amulet",
         "Special": "Max Mana",
+        "Dust": 10716,
         "Aspects": [
           "Handled"
         ]
@@ -1749,6 +1930,7 @@
         "Name": "Foulborn Voice of the Storm",
         "BaseType": "Lapis Amulet",
         "Special": "Max Lightning, Unlucky Damage",
+        "Dust": 12027,
         "Aspects": [
           "Handled"
         ]
@@ -1759,6 +1941,7 @@
         "Name": "Foulborn Presence of Chayula",
         "BaseType": "Onyx Amulet",
         "Special": "Chaos Recoup, Shield Recoup",
+        "Dust": 23180,
         "Aspects": [
           "Handled"
         ]
@@ -1767,6 +1950,7 @@
         "Name": "Foulborn Eye of Chayula",
         "BaseType": "Onyx Amulet",
         "Special": "Reduced Mana",
+        "Dust": 7733,
         "Aspects": [
           "Handled"
         ]
@@ -1775,6 +1959,7 @@
         "Name": "Foulborn Astramentis",
         "BaseType": "Onyx Amulet",
         "Special": "Chaos Resist",
+        "Dust": 23180,
         "Aspects": [
           "Handled"
         ]
@@ -1783,6 +1968,7 @@
         "Name": "Foulborn Hinekora's Sight",
         "BaseType": "Onyx Amulet",
         "Special": "Light Radius",
+        "Dust": 13547,
         "Aspects": [
           "Handled"
         ]
@@ -1793,6 +1979,7 @@
         "Name": "Foulborn Astral Projector",
         "BaseType": "Topaz Ring",
         "Special": "Reduced ES",
+        "Dust": 101593,
         "Aspects": [
           "Handled"
         ]
@@ -1801,6 +1988,7 @@
         "Name": "Foulborn Kikazaru",
         "BaseType": "Topaz Ring",
         "Special": "Mana per Level",
+        "Dust": 4161,
         "Aspects": [
           "Handled"
         ]
@@ -1811,6 +1999,7 @@
         "Name": "Foulborn The Magnate",
         "BaseType": "Studded Belt",
         "Special": "Flask Effect",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -1821,6 +2010,7 @@
         "Name": "Foulborn Xoph's Blood",
         "BaseType": "Amber Amulet",
         "Special": "Fire, Elemental Overload",
+        "Dust": 13604,
         "Aspects": [
           "Handled"
         ]
@@ -1829,6 +2019,7 @@
         "Name": "Foulborn Xoph's Heart",
         "BaseType": "Amber Amulet",
         "Special": "Fire, Debilitate",
+        "Dust": 10374,
         "Aspects": [
           "Handled"
         ]
@@ -1839,6 +2030,7 @@
         "Name": "Foulborn Badge of the Brotherhood",
         "BaseType": "Turquoise Amulet",
         "Special": "Frenzy Speed",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -1847,6 +2039,7 @@
         "Name": "Foulborn Warped Timepiece",
         "BaseType": "Turquoise Amulet",
         "Special": "Temporal Chains",
+        "Dust": 10108,
         "Aspects": [
           "Handled"
         ]
@@ -1857,6 +2050,7 @@
         "Name": "Foulborn The Halcyon",
         "BaseType": "Jade Amulet",
         "Special": "Freeze Immune, Cold",
+        "Dust": 10374,
         "Aspects": [
           "Handled"
         ]
@@ -1865,6 +2059,7 @@
         "Name": "Foulborn The Pandemonius",
         "BaseType": "Jade Amulet",
         "Special": "Cold",
+        "Dust": 13604,
         "Aspects": [
           "Handled"
         ]
@@ -1875,6 +2070,7 @@
         "Name": "Foulborn Sunblast",
         "BaseType": "Cloth Belt",
         "Special": "Trap Area",
+        "Dust": 33041,
         "Aspects": [
           "Handled"
         ]
@@ -1883,6 +2079,7 @@
         "Name": "Foulborn Soul Tether",
         "BaseType": "Cloth Belt",
         "Special": "Instant Leech, Everlasting Sacrifice",
+        "Dust": 15238,
         "Aspects": [
           "Handled"
         ]
@@ -1891,6 +2088,7 @@
         "Name": "Foulborn Soulthirst",
         "BaseType": "Cloth Belt",
         "Special": "Mana Recovery",
+        "Dust": 13946,
         "Aspects": [
           "Handled"
         ]
@@ -1901,6 +2099,7 @@
         "Name": "Foulborn Defiance of Destiny",
         "BaseType": "Paua Amulet",
         "Special": "Gain Missing Mana",
+        "Dust": 1693204,
         "Aspects": [
           "Handled"
         ]
@@ -1911,6 +2110,7 @@
         "Name": "Foulborn Berek's Respite",
         "BaseType": "Two-Stone Ring",
         "Special": "Shock Explosion",
+        "Dust": 6669,
         "Aspects": [
           "Handled"
         ]
@@ -1919,6 +2119,7 @@
         "Name": "Foulborn Berek's Grip",
         "BaseType": "Two-Stone Ring",
         "Special": "Shock Debilitate, Freeze Damage",
+        "Dust": 4161,
         "Aspects": [
           "Handled"
         ]
@@ -1927,6 +2128,7 @@
         "Name": "Foulborn Berek's Pass",
         "BaseType": "Two-Stone Ring",
         "Special": "Ignited Speed, Frozen Recoup",
+        "Dust": 4161,
         "Aspects": [
           "Handled"
         ]
@@ -1935,6 +2137,7 @@
         "Name": "Foulborn Call of the Brotherhood",
         "BaseType": "Two-Stone Ring",
         "Special": "Freeze Power",
+        "Dust": 12027,
         "Aspects": [
           "Handled"
         ]
@@ -1945,6 +2148,7 @@
         "Name": "Foulborn Le Heup of All",
         "BaseType": "Iron Ring",
         "Special": "Global Multi, Global Defences",
+        "Dust": 4693,
         "Aspects": [
           "Handled"
         ]
@@ -1955,6 +2159,7 @@
         "Name": "Foulborn Shavronne's Revelation",
         "BaseType": "Moonstone Ring",
         "Special": "Left Evasion",
+        "Dust": 87628,
         "Aspects": [
           "Handled"
         ]
@@ -1963,6 +2168,7 @@
         "Name": "Foulborn Anathema",
         "BaseType": "Moonstone Ring",
         "Special": "Curse Duration",
+        "Dust": 47101,
         "Aspects": [
           "Handled"
         ]
@@ -1971,6 +2177,7 @@
         "Name": "Foulborn Heartbound Loop",
         "BaseType": "Moonstone Ring",
         "Special": "Minion Mana Cost",
+        "Dust": 10108,
         "Aspects": [
           "Handled"
         ]
@@ -1978,6 +2185,7 @@
       {
         "Name": "Foulborn Timeclasp",
         "BaseType": "Moonstone Ring",
+        "Dust": 4826,
         "Aspects": [
           "Handled"
         ]
@@ -1988,6 +2196,7 @@
         "Name": "Foulborn Dream Fragments",
         "BaseType": "Sapphire Ring",
         "Special": "Stun Recovery",
+        "Dust": 7505,
         "Aspects": [
           "Handled"
         ]
@@ -1996,6 +2205,7 @@
         "Name": "Foulborn Pyre",
         "BaseType": "Sapphire Ring",
         "Special": "Cold as Fire",
+        "Dust": 4674,
         "Aspects": [
           "Handled"
         ]
@@ -2006,6 +2216,7 @@
         "Name": "Foulborn Saresh's Darkness",
         "BaseType": "Chain Belt",
         "Special": "Avoid Poison",
+        "Dust": 3743,
         "Aspects": [
           "Handled"
         ]
@@ -2014,6 +2225,7 @@
         "Name": "Foulborn Solerai's Radiance",
         "BaseType": "Chain Belt",
         "Special": "Ignite Duration",
+        "Dust": 3743,
         "Aspects": [
           "Handled"
         ]
@@ -2022,6 +2234,7 @@
         "Name": "Foulborn Maligaro's Restraint",
         "BaseType": "Chain Belt",
         "Special": "Lightning to Chaos",
+        "Dust": 8474,
         "Aspects": [
           "Handled"
         ]
@@ -2032,6 +2245,7 @@
         "Name": "Foulborn Voll's Devotion",
         "BaseType": "Agate Amulet",
         "Special": "Loss, Gain",
+        "Dust": 87628,
         "Aspects": [
           "Handled"
         ]
@@ -2040,6 +2254,7 @@
         "Name": "Foulborn The Aylardex",
         "BaseType": "Agate Amulet",
         "Special": "Eldritch Battery",
+        "Dust": 5947,
         "Aspects": [
           "Handled"
         ]
@@ -2050,6 +2265,7 @@
         "Name": "Foulborn Romira's Banquet",
         "BaseType": "Diamond Ring",
         "Special": "Max Power",
+        "Dust": 13585,
         "Aspects": [
           "Handled"
         ]
@@ -2058,6 +2274,7 @@
         "Name": "Foulborn Gifts from Above",
         "BaseType": "Diamond Ring",
         "Special": "Consecrated",
+        "Dust": 5282,
         "Aspects": [
           "Handled"
         ]
@@ -2068,6 +2285,7 @@
         "Name": "Foulborn Lori's Lantern",
         "BaseType": "Prismatic Ring",
         "Special": "Low Life Lucky",
+        "Dust": 5605,
         "Aspects": [
           "Handled"
         ]
@@ -2076,6 +2294,7 @@
         "Name": "Foulborn Thief's Torment",
         "BaseType": "Prismatic Ring",
         "Special": "Ailment Reduction",
+        "Dust": 5605,
         "Aspects": [
           "Handled"
         ]
@@ -2086,6 +2305,7 @@
         "Name": "Foulborn Warrior's Legacy",
         "BaseType": "Ruby Ring",
         "Special": "Reduced Life",
+        "Dust": 101593,
         "Aspects": [
           "Handled"
         ]
@@ -2094,6 +2314,7 @@
         "Name": "Foulborn Mokou's Embrace",
         "BaseType": "Ruby Ring",
         "Special": "Max Fire Resist",
+        "Dust": 3705,
         "Aspects": [
           "Handled"
         ]
@@ -2104,6 +2325,7 @@
         "Name": "Foulborn Ventor's Gamble",
         "BaseType": "Gold Ring",
         "Special": "Max Shield, Max Mana",
+        "Dust": 15751,
         "Aspects": [
           "Handled"
         ]
@@ -2114,6 +2336,7 @@
         "Name": "Foulborn Auxium",
         "BaseType": "Crystal Belt",
         "Special": "ES per Power",
+        "Dust": 31920,
         "Aspects": [
           "Handled"
         ]
@@ -2124,6 +2347,7 @@
         "Name": "Foulborn Unnatural Instinct",
         "BaseType": "Viridian Jewel",
         "Special": "No Notables",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -2140,6 +2364,7 @@
         "Name": "Foulborn The Green Nightmare",
         "BaseType": "Viridian Jewel",
         "Special": "Cold Lucky, Cold to Chaos",
+        "Dust": 41648,
         "Aspects": [
           "Handled"
         ]
@@ -2148,6 +2373,7 @@
         "Name": "Foulborn The Green Dream",
         "BaseType": "Viridian Jewel",
         "Special": "Cold Lucky, Cold to Mana",
+        "Dust": 3496,
         "Aspects": [
           "Handled"
         ]
@@ -2156,6 +2382,7 @@
         "Name": "Foulborn Intuitive Leap",
         "BaseType": "Viridian Jewel",
         "Special": "Keystone Allocate",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -2164,6 +2391,7 @@
         "Name": "Foulborn Stormshroud",
         "BaseType": "Viridian Jewel",
         "Special": "Shock Duration",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -2174,6 +2402,7 @@
         "Name": "Foulborn The Blue Dream",
         "BaseType": "Cobalt Jewel",
         "Special": "Crit Multi, Lightning to Shield",
+        "Dust": 3496,
         "Aspects": [
           "Handled"
         ]
@@ -2182,6 +2411,7 @@
         "Name": "Foulborn The Blue Nightmare",
         "BaseType": "Cobalt Jewel",
         "Special": "Lightning Lucky, Lightning to Chaos",
+        "Dust": 41648,
         "Aspects": [
           "Handled"
         ]
@@ -2190,6 +2420,7 @@
         "Name": "Foulborn Witchbane",
         "BaseType": "Cobalt Jewel",
         "Special": "Curse Explosion, Curse Duration",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -2208,6 +2439,7 @@
         "Name": "Foulborn The Red Dream",
         "BaseType": "Crimson Jewel",
         "Special": "Endurance Chaos, Fire Life",
+        "Dust": 3496,
         "Aspects": [
           "Handled"
         ]
@@ -2216,6 +2448,7 @@
         "Name": "Foulborn The Red Nightmare",
         "BaseType": "Crimson Jewel",
         "Special": "Endurance Chaos, Fire to Chaos",
+        "Dust": 41648,
         "Aspects": [
           "Handled"
         ]
@@ -2224,6 +2457,7 @@
         "Name": "Foulborn Firesong",
         "BaseType": "Crimson Jewel",
         "Special": "Fire Multi, Ignite Duration",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -2232,6 +2466,7 @@
         "Name": "Foulborn Might of the Meek",
         "BaseType": "Crimson Jewel",
         "Special": "Medium Effect",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]

@@ -4,6 +4,7 @@
       {
         "Name": "Replica Oro's Sacrifice",
         "BaseType": "Infernal Sword",
+        "Dust": 26733,
         "Aspects": [
           "Handled"
         ]
@@ -13,6 +14,7 @@
       {
         "Name": "Replica Kongor's Undying Rage",
         "BaseType": "Terror Maul",
+        "Dust": 1336631,
         "Aspects": [
           "Handled"
         ]
@@ -22,6 +24,7 @@
       {
         "Name": "Replica Tulfall",
         "BaseType": "Opal Wand",
+        "Dust": 69179,
         "Aspects": [
           "Handled"
         ]
@@ -31,6 +34,7 @@
       {
         "Name": "Replica Windripper",
         "BaseType": "Imperial Bow",
+        "Dust": 324425,
         "Aspects": [
           "Handled"
         ]
@@ -40,6 +44,7 @@
       {
         "Name": "Replica Allure",
         "BaseType": "Vaal Claw",
+        "Dust": 77862,
         "Aspects": [
           "Handled"
         ]
@@ -49,6 +54,7 @@
       {
         "Name": "Replica Paradoxica",
         "BaseType": "Vaal Rapier",
+        "Dust": 77862,
         "Aspects": [
           "Handled"
         ]
@@ -58,6 +64,7 @@
       {
         "Name": "Replica Fencoil",
         "BaseType": "Gnarled Branch",
+        "Dust": 2603,
         "Aspects": [
           "Handled"
         ]
@@ -65,6 +72,7 @@
       {
         "Name": "Replica Blood Thorn",
         "BaseType": "Gnarled Branch",
+        "Dust": 2603,
         "Aspects": [
           "Handled"
         ]
@@ -74,6 +82,7 @@
       {
         "Name": "Replica Infractem",
         "BaseType": "Decimation Bow",
+        "Dust": 17670,
         "Aspects": [
           "Handled"
         ]
@@ -83,6 +92,7 @@
       {
         "Name": "Replica Nebulis",
         "BaseType": "Void Sceptre",
+        "Dust": 344185,
         "Aspects": [
           "Handled"
         ]
@@ -92,6 +102,7 @@
       {
         "Name": "Replica Bitterdream",
         "BaseType": "Shadow Sceptre",
+        "Dust": 5947,
         "Aspects": [
           "Handled"
         ]
@@ -101,6 +112,7 @@
       {
         "Name": "Replica Midnight Bargain",
         "BaseType": "Calling Wand",
+        "Dust": 36100,
         "Aspects": [
           "Handled"
         ]
@@ -110,6 +122,7 @@
       {
         "Name": "Replica Dreamfeather",
         "BaseType": "Eternal Sword",
+        "Dust": 25954,
         "Aspects": [
           "Handled"
         ]
@@ -119,6 +132,7 @@
       {
         "Name": "Replica Frostbreath",
         "BaseType": "Ornate Mace",
+        "Dust": 48526,
         "Aspects": [
           "Handled"
         ]
@@ -128,6 +142,7 @@
       {
         "Name": "Replica Ungil's Gauche",
         "BaseType": "Boot Knife",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -137,6 +152,7 @@
       {
         "Name": "Replica Harvest",
         "BaseType": "Jasper Chopper",
+        "Dust": 11020,
         "Aspects": [
           "Handled"
         ]
@@ -146,6 +162,7 @@
       {
         "Name": "Replica Cold Iron Point",
         "BaseType": "Ezomyte Dagger",
+        "Dust": 69179,
         "Aspects": [
           "Handled"
         ]
@@ -155,6 +172,7 @@
       {
         "Name": "Replica Quill Rain",
         "BaseType": "Short Bow",
+        "Dust": 2679,
         "Aspects": [
           "Handled"
         ]
@@ -164,6 +182,7 @@
       {
         "Name": "Replica Iron Commander",
         "BaseType": "Death Bow",
+        "Dust": 9500,
         "Aspects": [
           "Handled"
         ]
@@ -173,6 +192,7 @@
       {
         "Name": "Replica Earendel's Embrace",
         "BaseType": "Grinning Fetish",
+        "Dust": 10374,
         "Aspects": [
           "Handled"
         ]
@@ -182,6 +202,7 @@
       {
         "Name": "Replica Last Resort",
         "BaseType": "Nailed Fist",
+        "Dust": 2527,
         "Aspects": [
           "Handled"
         ]
@@ -191,6 +212,7 @@
       {
         "Name": "Replica Wings of Entropy",
         "BaseType": "Ezomyte Axe",
+        "Dust": 23066,
         "Aspects": [
           "Handled"
         ]
@@ -200,6 +222,7 @@
       {
         "Name": "Replica Bloodplay",
         "BaseType": "Stiletto",
+        "Dust": 3591,
         "Aspects": [
           "Handled"
         ]
@@ -209,6 +232,7 @@
       {
         "Name": "Replica Tempestuous Steel",
         "BaseType": "War Sword",
+        "Dust": 6669,
         "Aspects": [
           "Handled"
         ]
@@ -218,6 +242,7 @@
       {
         "Name": "Replica Advancing Fortress",
         "BaseType": "Gut Ripper",
+        "Dust": 8987,
         "Aspects": [
           "Handled"
         ]
@@ -227,6 +252,7 @@
       {
         "Name": "Replica Heartbreaker",
         "BaseType": "Royal Skean",
+        "Dust": 16169,
         "Aspects": [
           "Handled"
         ]
@@ -236,6 +262,7 @@
       {
         "Name": "Replica Twyzel",
         "BaseType": "Blasting Wand",
+        "Dust": 5605,
         "Aspects": [
           "Handled"
         ]
@@ -245,6 +272,7 @@
       {
         "Name": "Replica Innsbury Edge",
         "BaseType": "Elder Sword",
+        "Dust": 14801,
         "Aspects": [
           "Handled"
         ]
@@ -290,6 +318,7 @@
       {
         "Name": "Replica Alberon's Warpath",
         "BaseType": "Soldier Boots",
+        "Dust": 196289,
         "Aspects": [
           "Handled"
         ]
@@ -299,6 +328,7 @@
       {
         "Name": "Replica Alpha's Howl",
         "BaseType": "Sinner Tricorne",
+        "Dust": 24472,
         "Aspects": [
           "Handled"
         ]
@@ -308,6 +338,7 @@
       {
         "Name": "Replica Red Trail",
         "BaseType": "Titan Greaves",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -317,6 +348,7 @@
       {
         "Name": "Replica Restless Ward",
         "BaseType": "Carnal Armour",
+        "Dust": 30096,
         "Aspects": [
           "Handled"
         ]
@@ -326,6 +358,7 @@
       {
         "Name": "Replica Stampede",
         "BaseType": "Assassin's Boots",
+        "Dust": 71250,
         "Aspects": [
           "Handled"
         ]
@@ -335,6 +368,7 @@
       {
         "Name": "Replica Farrul's Fur",
         "BaseType": "Triumphant Lamellar",
+        "Dust": 354502,
         "Aspects": [
           "Handled"
         ]
@@ -344,6 +378,7 @@
       {
         "Name": "Replica Ambu's Charge",
         "BaseType": "Crusader Chainmail",
+        "Dust": 8227,
         "Aspects": [
           "Handled"
         ]
@@ -353,6 +388,7 @@
       {
         "Name": "Replica Hyrri's Ire",
         "BaseType": "Zodiac Leather",
+        "Dust": 75601,
         "Aspects": [
           "Handled"
         ]
@@ -360,6 +396,7 @@
       {
         "Name": "Replica Perfect Form",
         "BaseType": "Zodiac Leather",
+        "Dust": 75601,
         "Aspects": [
           "Handled"
         ]
@@ -369,6 +406,7 @@
       {
         "Name": "Replica Abyssus",
         "BaseType": "Ezomyte Burgonet",
+        "Dust": 65208,
         "Aspects": [
           "Handled"
         ]
@@ -378,6 +416,7 @@
       {
         "Name": "Replica Voidwalker",
         "BaseType": "Murder Boots",
+        "Dust": 28367,
         "Aspects": [
           "Handled"
         ]
@@ -387,6 +426,7 @@
       {
         "Name": "Replica Covenant",
         "BaseType": "Spidersilk Robe",
+        "Dust": 47101,
         "Aspects": [
           "Handled"
         ]
@@ -396,6 +436,7 @@
       {
         "Name": "Replica Allelopathy",
         "BaseType": "Satin Gloves",
+        "Dust": 12388,
         "Aspects": [
           "Handled"
         ]
@@ -405,6 +446,7 @@
       {
         "Name": "Replica Eternity Shroud",
         "BaseType": "Blood Raiment",
+        "Dust": 314982,
         "Aspects": [
           "Handled"
         ]
@@ -414,6 +456,7 @@
       {
         "Name": "Replica Kalisa's Grace",
         "BaseType": "Samite Gloves",
+        "Dust": 14801,
         "Aspects": [
           "Handled"
         ]
@@ -423,6 +466,7 @@
       {
         "Name": "Replica Lioneye's Paws",
         "BaseType": "Bronzescale Boots",
+        "Dust": 8949,
         "Aspects": [
           "Handled"
         ]
@@ -432,6 +476,7 @@
       {
         "Name": "Replica Maloney's Mechanism",
         "BaseType": "Ornate Quiver",
+        "Dust": 174401,
         "Aspects": [
           "Handled"
         ]
@@ -441,6 +486,7 @@
       {
         "Name": "Replica Kaom's Heart",
         "BaseType": "Glorious Plate",
+        "Dust": 82612,
         "Aspects": [
           "Handled"
         ]
@@ -450,6 +496,7 @@
       {
         "Name": "Replica Atziri's Acuity",
         "BaseType": "Vaal Gauntlets",
+        "Dust": 296894,
         "Aspects": [
           "Handled"
         ]
@@ -459,6 +506,7 @@
       {
         "Name": "Replica Volkuur's Guidance",
         "BaseType": "Zealot Gloves",
+        "Dust": 13148,
         "Aspects": [
           "Handled"
         ]
@@ -468,6 +516,7 @@
       {
         "Name": "Replica Heatshiver",
         "BaseType": "Leather Hood",
+        "Dust": 6669,
         "Aspects": [
           "Handled"
         ]
@@ -477,6 +526,7 @@
       {
         "Name": "Replica Loreweave",
         "BaseType": "Elegant Ringmail",
+        "Dust": 73397,
         "Aspects": [
           "Handled"
         ]
@@ -486,6 +536,7 @@
       {
         "Name": "Replica Leer Cast",
         "BaseType": "Festival Mask",
+        "Dust": 5282,
         "Aspects": [
           "Handled"
         ]
@@ -495,6 +546,7 @@
       {
         "Name": "Replica Mistwall",
         "BaseType": "Lacquered Buckler",
+        "Dust": 65208,
         "Aspects": [
           "Handled"
         ]
@@ -504,6 +556,7 @@
       {
         "Name": "Replica Victario's Charity",
         "BaseType": "Laminated Kite Shield",
+        "Dust": 16169,
         "Aspects": [
           "Handled"
         ]
@@ -513,6 +566,7 @@
       {
         "Name": "Replica Inya's Epiphany",
         "BaseType": "Arcanist Slippers",
+        "Dust": 22382,
         "Aspects": [
           "Handled"
         ]
@@ -522,6 +576,7 @@
       {
         "Name": "Replica Veil of the Night",
         "BaseType": "Great Helmet",
+        "Dust": 4427,
         "Aspects": [
           "Handled"
         ]
@@ -531,6 +586,7 @@
       {
         "Name": "Replica Grip of the Council",
         "BaseType": "Arcanist Gloves",
+        "Dust": 21736,
         "Aspects": [
           "Handled"
         ]
@@ -540,6 +596,7 @@
       {
         "Name": "Replica Three-step Assault",
         "BaseType": "Shagreen Boots",
+        "Dust": 18753,
         "Aspects": [
           "Handled"
         ]
@@ -549,6 +606,7 @@
       {
         "Name": "Replica Bones of Ullr",
         "BaseType": "Silk Slippers",
+        "Dust": 7068,
         "Aspects": [
           "Handled"
         ]
@@ -558,6 +616,7 @@
       {
         "Name": "Replica Headhunter",
         "BaseType": "Leather Belt",
+        "Dust": 601730,
         "Aspects": [
           "Handled"
         ]
@@ -567,6 +626,7 @@
       {
         "Name": "Replica Siegebreaker",
         "BaseType": "Heavy Belt",
+        "Dust": 14877,
         "Aspects": [
           "Handled"
         ]
@@ -576,6 +636,7 @@
       {
         "Name": "Replica Hinekora's Sight",
         "BaseType": "Onyx Amulet",
+        "Dust": 13547,
         "Aspects": [
           "Handled"
         ]
@@ -585,6 +646,7 @@
       {
         "Name": "Replica Badge of the Brotherhood",
         "BaseType": "Turquoise Amulet",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -594,6 +656,7 @@
       {
         "Name": "Replica Karui Ward",
         "BaseType": "Jade Amulet",
+        "Dust": 4541,
         "Aspects": [
           "Handled"
         ]
@@ -601,6 +664,7 @@
       {
         "Name": "Replica Hyrri's Truth",
         "BaseType": "Jade Amulet",
+        "Dust": 13604,
         "Aspects": [
           "Handled"
         ]
@@ -610,6 +674,7 @@
       {
         "Name": "Replica Soul Tether",
         "BaseType": "Cloth Belt",
+        "Dust": 19988,
         "Aspects": [
           "Handled"
         ]
@@ -619,6 +684,7 @@
       {
         "Name": "Replica Atziri's Foible",
         "BaseType": "Paua Amulet",
+        "Dust": 12103,
         "Aspects": [
           "Handled"
         ]
@@ -628,6 +694,7 @@
       {
         "Name": "Replica Tasalio's Sign",
         "BaseType": "Sapphire Ring",
+        "Dust": 4674,
         "Aspects": [
           "Handled"
         ]
@@ -637,6 +704,7 @@
       {
         "Name": "Replica Bated Breath",
         "BaseType": "Chain Belt",
+        "Dust": 391400,
         "Aspects": [
           "Handled"
         ]
@@ -646,6 +714,7 @@
       {
         "Name": "Replica Gifts from Above",
         "BaseType": "Diamond Ring",
+        "Dust": 5282,
         "Aspects": [
           "Handled"
         ]
@@ -655,6 +724,7 @@
       {
         "Name": "Replica Voideye",
         "BaseType": "Unset Ring",
+        "Dust": 13946,
         "Aspects": [
           "Handled"
         ]
@@ -662,6 +732,7 @@
       {
         "Name": "Replica Malachai's Artifice",
         "BaseType": "Unset Ring",
+        "Dust": 13946,
         "Aspects": [
           "Handled"
         ]
@@ -671,6 +742,7 @@
       {
         "Name": "Replica Emberwake",
         "BaseType": "Ruby Ring",
+        "Dust": 17765,
         "Aspects": [
           "Handled"
         ]
@@ -680,6 +752,7 @@
       {
         "Name": "Replica Doedre's Damning",
         "BaseType": "Paua Ring",
+        "Dust": 4275,
         "Aspects": [
           "Handled"
         ]
@@ -689,6 +762,7 @@
       {
         "Name": "Replica Prismweave",
         "BaseType": "Rustic Sash",
+        "Dust": 2451,
         "Aspects": [
           "Handled"
         ]
@@ -698,6 +772,7 @@
       {
         "Name": "Replica Winterheart",
         "BaseType": "Gold Amulet",
+        "Dust": 5757,
         "Aspects": [
           "Handled"
         ]

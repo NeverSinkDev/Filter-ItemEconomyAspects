@@ -4,6 +4,7 @@
       {
         "Name": "The Tower of Ordeals",
         "BaseType": "Engraved Ultimatum",
+        "Dust": 536218,
         "Aspects": []
       }
     ],
@@ -11,16 +12,19 @@
       {
         "Name": "Untainted Paradise",
         "BaseType": "Map (Tier 14)",
+        "Dust": 10868,
         "Aspects": []
       },
       {
         "Name": "Doryani's Machinarium",
         "BaseType": "Map (Tier 14)",
+        "Dust": 92967,
         "Aspects": []
       },
       {
         "Name": "Poorjoy's Asylum",
         "BaseType": "Map (Tier 14)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
@@ -33,16 +37,19 @@
       {
         "Name": "The Putrid Cloister",
         "BaseType": "Map (Tier 12)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "Hall of Grandmasters",
         "BaseType": "Map (Tier 12)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Death and Taxes",
         "BaseType": "Map (Tier 12)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -50,51 +57,62 @@
       {
         "Name": "Vaults of Atziri",
         "BaseType": "Map (Tier 16)",
+        "Dust": 13775,
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "Caer Blaidd, Wolfpack's Den",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Hallowed Ground",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Death and Taxes",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Pillars of Arun",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Whakawairua Tuahu",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Doryani's Machinarium",
         "BaseType": "Map (Tier 16)",
+        "Dust": 92967,
         "Aspects": []
       },
       {
         "Name": "Cortex",
         "BaseType": "Map (Tier 16)",
+        "Dust": 40432,
         "Aspects": []
       },
       {
         "Name": "The Coward's Trial",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "The Twilight Temple",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
@@ -120,31 +138,37 @@
       {
         "Name": "Poorjoy's Asylum",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Acton's Nightmare",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Maelström of Chaos",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Oba's Cursed Trove",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Mao Kun",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Hall of Grandmasters",
         "BaseType": "Map (Tier 16)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -152,6 +176,7 @@
       {
         "Name": "The Coward's Trial",
         "BaseType": "Map (Tier 7)",
+        "RarityTier": 3,
         "Aspects": []
       }
     ],
@@ -159,11 +184,13 @@
       {
         "Name": "The Vinktar Square",
         "BaseType": "Map (Tier 5)",
+        "Dust": 117781,
         "Aspects": []
       },
       {
         "Name": "Maelström of Chaos",
         "BaseType": "Map (Tier 5)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -171,6 +198,7 @@
       {
         "Name": "Cortex",
         "BaseType": "Map (Tier 11)",
+        "Dust": 40432,
         "Aspects": []
       },
       {
@@ -186,6 +214,7 @@
       {
         "Name": "Hallowed Ground",
         "BaseType": "Map (Tier 11)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -198,6 +227,7 @@
       {
         "Name": "Caer Blaidd, Wolfpack's Den",
         "BaseType": "Map (Tier 15)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -205,16 +235,20 @@
       {
         "Name": "The Twilight Temple",
         "BaseType": "Map (Tier 4)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 4)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Vaults of Atziri",
         "BaseType": "Map (Tier 4)",
+        "Dust": 13775,
+        "RarityTier": 3,
         "Aspects": []
       }
     ],
@@ -227,21 +261,25 @@
       {
         "Name": "Oba's Cursed Trove",
         "BaseType": "Map (Tier 10)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "The Vinktar Square",
         "BaseType": "Map (Tier 10)",
+        "Dust": 117781,
         "Aspects": []
       },
       {
         "Name": "Whakawairua Tuahu",
         "BaseType": "Map (Tier 10)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Cortex",
         "BaseType": "Map (Tier 10)",
+        "Dust": 40432,
         "Aspects": []
       }
     ],
@@ -249,11 +287,13 @@
       {
         "Name": "Mao Kun",
         "BaseType": "Map (Tier 6)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Hall of Grandmasters",
         "BaseType": "Map (Tier 6)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -261,11 +301,13 @@
       {
         "Name": "Olmec's Sanctum",
         "BaseType": "Map (Tier 1)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "The Coward's Trial",
         "BaseType": "Map (Tier 1)",
+        "RarityTier": 3,
         "Aspects": []
       }
     ],
@@ -273,31 +315,37 @@
       {
         "Name": "The Putrid Cloister",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "Pillars of Arun",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "The Twilight Temple",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 3,
         "Aspects": []
       },
       {
         "Name": "Oba's Cursed Trove",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Poorjoy's Asylum",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 5,
         "Aspects": []
       },
       {
         "Name": "Whakawairua Tuahu",
         "BaseType": "Map (Tier 13)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ],
@@ -305,6 +353,7 @@
       {
         "Name": "Maelström of Chaos",
         "BaseType": "Map (Tier 8)",
+        "RarityTier": 5,
         "Aspects": []
       }
     ]
