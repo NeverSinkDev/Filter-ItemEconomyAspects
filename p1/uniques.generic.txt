@@ -3648,7 +3648,6 @@
         "RarityTier": 3,
         "Aspects": [
           "Handled",
-          "VaalTarget",
           "EarlyLeagueInterest"
         ]
       }
@@ -3755,7 +3754,6 @@
         "RarityTier": 3,
         "Aspects": [
           "Handled",
-          "VaalTarget",
           "EarlyLeagueInterest"
         ]
       },
@@ -5033,7 +5031,6 @@
         "RarityTier": 3,
         "Aspects": [
           "Handled",
-          "VaalTarget",
           "EarlyLeagueInterest"
         ]
       }

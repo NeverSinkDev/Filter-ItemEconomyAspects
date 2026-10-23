@@ -115,10 +115,10 @@ This documentation provides general information about what each aspect does. Thi
 - Function: Some tierlists use a white-listing approach. Instead of tiering *everything*, they only tier items that are listed as tierable. This has proven itself to a be a more stable approach. These aspects also perform some technical tasks to correctly handle itemtypes.
 > Example: 'Vaal Orbs' are tierable. 'Alchemy Orbs' are not.
 
-### Aspects: DivineBottom, ChaosBottom, AlchemyButtom, SilverBottom, ChanceBottom
+### Currency floors (formerly DivineBottom, ChaosBottom, AlchemyBottom, SilverBottom, ChanceBottom)
 - Used in Currency
-- Function: Marks the lowest allowed tier for a specific currency. Usually used as a bottom 'safety' layer.
-> Example: 'Astramentis' currencies are not allowed to drop below the alchemy tier
+- Function: The lowest allowed tier for a specific currency is now a positive safeguard in the file's `TieringRangeList`: a whitelist of the allowed top tiers plus a `FallbackTier` that acts as the floor. The old floor aspects are removed on load.
+> Example: 'Astramentis' currencies are not allowed to drop below the alchemy tier: their safeguard allows t1 to t4chaos and falls back to t5alchemy.
 
 ----
 

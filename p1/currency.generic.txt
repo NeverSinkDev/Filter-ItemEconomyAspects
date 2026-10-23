@@ -38,7 +38,6 @@
         "Name": "Ancient Orb",
         "Aspects": [
           "Handled",
-          "ChaosBottom",
           "Tierable",
           "StackedCurrency"
         ]
@@ -51,8 +50,7 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "StackedCurrency",
-          "ChaosBottom"
+          "StackedCurrency"
         ]
       }
     ],
@@ -61,7 +59,6 @@
         "Name": "Divine Orb",
         "Aspects": [
           "Handled",
-          "DivineBottom",
           "Tierable",
           "Anchor"
         ]
@@ -73,7 +70,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "AlchemyBottom",
           "StackedCurrency"
         ]
       }
@@ -85,8 +81,7 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "StackedCurrency",
-          "AlchemyBottom"
+          "StackedCurrency"
         ]
       }
     ],
@@ -97,7 +92,6 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "SilverBottom",
           "StackedCurrency"
         ]
       }
@@ -108,7 +102,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChanceBottom",
           "EarlyLeagueInterest",
           "StackedCurrency"
         ]
@@ -132,8 +125,7 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "StackedCurrency",
-          "SilverBottom"
+          "StackedCurrency"
         ]
       }
     ],
@@ -142,7 +134,6 @@
         "Name": "Regal Orb",
         "Aspects": [
           "Handled",
-          "ChanceBottom",
           "EarlyLeagueInterest",
           "Tierable",
           "StackedCurrency"
@@ -189,7 +180,6 @@
         "Name": "Orb of Alteration",
         "Aspects": [
           "Handled",
-          "ChanceBottom",
           "Tierable",
           "StackedCurrency",
           "NoValueEarly"
@@ -212,7 +202,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChanceBottom",
           "StackedCurrency"
         ]
       }
@@ -223,7 +212,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChanceBottom",
           "StackedCurrency",
           "Anchor"
         ]
@@ -236,8 +224,7 @@
           "Handled",
           "Tierable",
           "StackedCurrency",
-          "PreventHiding",
-          "AlchemyBottom"
+          "PreventHiding"
         ]
       }
     ],
@@ -330,8 +317,7 @@
         "Name": "Hunter's Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -340,8 +326,7 @@
         "Name": "Warlord's Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -350,8 +335,7 @@
         "Name": "Awakener's Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -360,7 +344,6 @@
         "Name": "Crusader's Exalted Orb",
         "Aspects": [
           "Handled",
-          "DivineBottom",
           "Tierable"
         ]
       }
@@ -370,8 +353,7 @@
         "Name": "Redeemer's Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -381,7 +363,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "AlchemyBottom",
           "StackedCurrency",
           "NoValueEarly"
         ]
@@ -393,7 +374,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "AlchemyBottom",
           "StackedCurrency",
           "NoValueEarly"
         ]
@@ -405,7 +385,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "AlchemyBottom",
           "StackedCurrency"
         ]
       }
@@ -416,7 +395,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChanceBottom",
           "EarlyLeagueInterest",
           "StackedCurrency",
           "NoValueEarly"
@@ -430,7 +408,6 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "ChanceBottom",
           "StackedCurrency"
         ]
       }
@@ -442,7 +419,6 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "ChanceBottom",
           "StackedCurrency"
         ]
       }
@@ -454,7 +430,6 @@
           "Handled",
           "Tierable",
           "EarlyLeagueInterest",
-          "ChanceBottom",
           "StackedCurrency"
         ]
       }
@@ -464,8 +439,7 @@
         "Name": "Tempering Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -514,7 +488,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "Anchor"
         ]
       }
@@ -534,8 +507,7 @@
         "Name": "Ritual Vessel",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -575,8 +547,7 @@
         "Name": "Tainted Divine Teardrop",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       },
       {
@@ -584,8 +555,7 @@
         "BaseType": "Tainted Divine Teardrop",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -594,8 +564,7 @@
         "Name": "Tainted Mythic Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       },
       {
@@ -603,8 +572,7 @@
         "BaseType": "Tainted Mythic Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -614,7 +582,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "DivineBottom",
           "NoValueEarly"
         ]
       }
@@ -625,7 +592,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "EarlyLeagueInterest"
         ]
       },
@@ -635,7 +601,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -645,8 +610,7 @@
         "Name": "Tainted Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       },
       {
@@ -654,8 +618,7 @@
         "BaseType": "Tainted Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -664,8 +627,7 @@
         "Name": "Tainted Chromatic Orb",
         "Aspects": [
           "Tierable",
-          "Handled",
-          "AlchemyBottom"
+          "Handled"
         ]
       },
       {
@@ -673,8 +635,7 @@
         "BaseType": "Tainted Chromatic Orb",
         "Aspects": [
           "Tierable",
-          "Handled",
-          "AlchemyBottom"
+          "Handled"
         ]
       }
     ],
@@ -683,8 +644,7 @@
         "Name": "Tainted Chaos Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       },
       {
@@ -692,8 +652,7 @@
         "BaseType": "Tainted Chaos Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -702,8 +661,7 @@
         "Name": "Tainted Blacksmith's Whetstone",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       },
       {
@@ -711,8 +669,7 @@
         "BaseType": "Tainted Blacksmith's Whetstone",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       }
     ],
@@ -721,8 +678,7 @@
         "Name": "Tainted Jeweller's Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       },
       {
@@ -730,8 +686,7 @@
         "BaseType": "Tainted Jeweller's Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       }
     ],
@@ -740,8 +695,7 @@
         "Name": "Tainted Armourer's Scrap",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       },
       {
@@ -749,8 +703,7 @@
         "BaseType": "Tainted Armourer's Scrap",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChanceBottom"
+          "Tierable"
         ]
       }
     ],
@@ -799,8 +752,7 @@
         "Name": "Orb of Dominance",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -809,7 +761,6 @@
         "Name": "Eldritch Chaos Orb",
         "Aspects": [
           "Handled",
-          "ChaosBottom",
           "Tierable"
         ]
       }
@@ -828,7 +779,6 @@
         "Name": "Eldritch Exalted Orb",
         "Aspects": [
           "Handled",
-          "ChaosBottom",
           "Tierable"
         ]
       }
@@ -840,7 +790,6 @@
           "Handled",
           "StackedCurrency",
           "Tierable",
-          "ChaosBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -850,8 +799,7 @@
         "Name": "Exceptional Eldritch Ember",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -871,7 +819,6 @@
           "Handled",
           "StackedCurrency",
           "Tierable",
-          "SilverBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -883,7 +830,6 @@
           "Handled",
           "StackedCurrency",
           "Tierable",
-          "AlchemyBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -895,7 +841,6 @@
           "Handled",
           "StackedCurrency",
           "Tierable",
-          "SilverBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -907,7 +852,6 @@
           "Handled",
           "StackedCurrency",
           "Tierable",
-          "AlchemyBottom",
           "EarlyLeagueInterest"
         ]
       }
@@ -918,7 +862,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "StackedCurrency",
           "EarlyLeagueInterest"
         ]
@@ -929,8 +872,7 @@
         "Name": "Exceptional Eldritch Ichor",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "ChaosBottom"
+          "Tierable"
         ]
       }
     ],
@@ -938,8 +880,7 @@
       {
         "Name": "Surveyor's Compass",
         "Aspects": [
-          "Handled",
-          "ChanceBottom"
+          "Handled"
         ]
       }
     ],
@@ -963,7 +904,6 @@
         "Name": "Burial Medallion",
         "Aspects": [
           "Handled",
-          "AlchemyBottom",
           "StackedCurrency",
           "Tierable"
         ]
@@ -974,7 +914,6 @@
         "Name": "Exotic Coinage",
         "Aspects": [
           "Handled",
-          "AlchemyBottom",
           "Tierable",
           "StackedCurrency"
         ]
@@ -986,8 +925,7 @@
         "Aspects": [
           "Handled",
           "StackedCurrency",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -997,8 +935,7 @@
         "Aspects": [
           "Handled",
           "StackedCurrency",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1052,7 +989,6 @@
         "Name": "Sacred Crystallised Lifeforce",
         "Aspects": [
           "Handled",
-          "ChaosBottom",
           "Tierable"
         ]
       }
@@ -1087,7 +1023,6 @@
         "Aspects": [
           "Handled",
           "PreventHiding",
-          "DivineBottom",
           "Tierable"
         ]
       }
@@ -1098,7 +1033,6 @@
         "Aspects": [
           "Handled",
           "Tierable",
-          "ChaosBottom",
           "StackedCurrency"
         ]
       }
@@ -1168,8 +1102,7 @@
           "Handled",
           "PreventHiding",
           "EarlyLeagueInterest",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1177,7 +1110,6 @@
       {
         "Name": "Reflecting Mist",
         "Aspects": [
-          "DivineBottom",
           "Tierable"
         ]
       }
@@ -1187,7 +1119,6 @@
         "Name": "Maven's Chisel of Proliferation",
         "Aspects": [
           "Handled",
-          "AlchemyBottom",
           "Tierable"
         ]
       }
@@ -1197,8 +1128,7 @@
         "Name": "Maven's Chisel of Scarabs",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1207,8 +1137,7 @@
         "Name": "Maven's Chisel of Divination",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1217,8 +1146,7 @@
         "Name": "Maven's Chisel of Avarice",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "AlchemyBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1227,7 +1155,6 @@
         "Name": "Maven's Chisel of Procurement",
         "Aspects": [
           "Handled",
-          "AlchemyBottom",
           "Tierable"
         ]
       }
@@ -1300,8 +1227,7 @@
         "BaseType": "Foulborn Exalted Orb",
         "Aspects": [
           "Handled",
-          "Tierable",
-          "DivineBottom"
+          "Tierable"
         ]
       }
     ],
@@ -1311,7 +1237,6 @@
         "BaseType": "Foulborn Orb of Augmentation",
         "Aspects": [
           "Handled",
-          "ChanceBottom",
           "Tierable"
         ]
       }
@@ -1322,7 +1247,6 @@
         "BaseType": "Foulborn Regal Orb",
         "Aspects": [
           "Handled",
-          "AlchemyBottom",
           "Tierable"
         ]
       }
@@ -1628,6 +1552,57 @@
           "Tierable"
         ]
       }
+    ],
+    "Memory of Loneliness": [
+      {
+        "Name": "Memory of Loneliness",
+        "BaseType": "Memory of Loneliness",
+        "Aspects": []
+      }
+    ],
+    "Memory of Reverence": [
+      {
+        "Name": "Memory of Reverence",
+        "BaseType": "Memory of Reverence",
+        "Aspects": []
+      }
+    ],
+    "Ritual Splinter": [
+      {
+        "Name": "Ritual Splinter",
+        "BaseType": "Ritual Splinter",
+        "Aspects": []
+      }
+    ],
+    "Crescent Splinter": [
+      {
+        "Name": "Crescent Splinter",
+        "BaseType": "Crescent Splinter",
+        "Aspects": [
+          "Handled"
+        ]
+      }
+    ],
+    "Valdo's Puzzle Box": [
+      {
+        "Name": "Valdo's Puzzle Box",
+        "BaseType": "Valdo's Puzzle Box",
+        "Aspects": []
+      }
+    ],
+    "Memory of Trauma": [
+      {
+        "Name": "Memory of Trauma",
+        "BaseType": "Memory of Trauma",
+        "Aspects": []
+      }
+    ],
+    "Message in a Bottle": [
+      {
+        "Name": "Message in a Bottle",
+        "BaseType": "Message in a Bottle",
+        "Aspects": []
+      }
     ]
   },
   "TieringRangeList": {
@@ -1734,9 +1709,9 @@
           "Tiers": [
             "t1",
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Exceptional Eldritch Ichor": [
@@ -1762,9 +1737,9 @@
           "Tiers": [
             "t1",
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Tempering Orb": [
@@ -1779,6 +1754,20 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Eldritch Chaos Orb": [
@@ -1897,9 +1886,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t3annul"
-          ],
+          "Tiers": [],
           "FallbackTier": "t2divine"
         },
         {
@@ -1910,8 +1897,7 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t1",
-            "t3annul"
+            "t1"
           ],
           "FallbackTier": "t2divine"
         }
@@ -1984,6 +1970,21 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Eldritch Exalted Orb": [
@@ -1996,9 +1997,9 @@
           },
           "Tiers": [
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -2010,9 +2011,9 @@
           "Tiers": [
             "t1",
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Maven's Chisel of Avarice": [
@@ -2056,6 +2057,20 @@
             "t1"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Fertile Catalyst": [
@@ -2070,6 +2085,21 @@
             "t3annul"
           ],
           "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Tainted Mythic Orb": [
@@ -2108,9 +2138,23 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos"
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Ancient Orb": [
@@ -2123,9 +2167,9 @@
           },
           "Tiers": [
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         },
         {
           "Settings": {
@@ -2135,11 +2179,11 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t4chaos",
             "t2divine",
-            "t1"
+            "t1",
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Ritual Vessel": [
@@ -2155,6 +2199,21 @@
             "t2divine"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Tainted Catalyst": [
@@ -2262,9 +2321,9 @@
           "Tiers": [
             "t1",
             "t3annul",
-            "t4chaos"
+            "t2divine"
           ],
-          "FallbackTier": "t2divine"
+          "FallbackTier": "t4chaos"
         }
       ],
       "Tempering Catalyst": [
@@ -2277,9 +2336,24 @@
           },
           "Tiers": [
             "t3annul",
-            "t5alchemy"
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Grand Eldritch Ichor": [
@@ -2291,10 +2365,24 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t4chaos",
-            "t2divine"
+            "t2divine",
+            "t3annul"
           ],
-          "FallbackTier": "t3annul"
+          "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
         }
       ],
       "Tainted Chromatic Orb": [
@@ -2386,8 +2474,7 @@
           },
           "Tiers": [
             "t4chaos",
-            "t3annul",
-            "t6chrom"
+            "t3annul"
           ],
           "FallbackTier": "t5alchemy"
         }
@@ -2402,6 +2489,22 @@
           },
           "Tiers": [],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Gemcutter's Prism": [
@@ -2414,9 +2517,23 @@
           },
           "Tiers": [
             "t3annul",
-            "t5alchemy"
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Turbulent Catalyst": [
@@ -2432,6 +2549,21 @@
             "t3annul"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Intrinsic Catalyst": [
@@ -2447,6 +2579,21 @@
             "t3annul"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Noxious Catalyst": [
@@ -2492,6 +2639,21 @@
             "t3annul"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Greater Eldritch Ember": [
@@ -2506,6 +2668,21 @@
             "t4chaos"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Imbued Catalyst": [
@@ -2521,6 +2698,21 @@
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Tainted Jeweller's Orb": [
@@ -2536,6 +2728,20 @@
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Tainted Blacksmith's Whetstone": [
@@ -2550,6 +2756,22 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Regal Orb": [
@@ -2607,12 +2829,13 @@
             "IsEnabled": true,
             "ImpactType": 0,
             "RangeType": 0,
-            "ValidTime": 2
+            "ValidTime": 0
           },
           "Tiers": [
-            "t5alchemy",
             "t7chance",
-            "t8trans"
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -2692,10 +2915,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t5alchemy",
-            "t3annul"
+            "t3annul",
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Scouring": [
@@ -2719,10 +2942,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t6chrom",
-            "t4chaos"
+            "t4chaos",
+            "t5alchemy"
           ],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t6chrom"
         }
       ],
       "Orb of Unmaking": [
@@ -2737,7 +2960,6 @@
             "t4chaos",
             "t6chrom",
             "t7chance",
-            "t8trans",
             "t3annul"
           ],
           "FallbackTier": "t5alchemy"
@@ -2768,6 +2990,20 @@
             "t5alchemy"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Orb of Alteration": [
@@ -2778,9 +3014,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t7chance"
-          ],
+          "Tiers": [],
           "FallbackTier": "t6chrom"
         },
         {
@@ -2791,9 +3025,23 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t5alchemy",
-            "t7chance",
-            "t8trans"
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
           ],
           "FallbackTier": "t6chrom"
         }
@@ -2847,10 +3095,9 @@
           },
           "Tiers": [
             "t4chaos",
-            "t6chrom",
-            "t7chance"
+            "t5alchemy"
           ],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t6chrom"
         }
       ],
       "Lesser Eldritch Ichor": [
@@ -2872,10 +3119,10 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t6chrom",
-            "t4chaos"
+            "t4chaos",
+            "t5alchemy"
           ],
-          "FallbackTier": "t5alchemy"
+          "FallbackTier": "t6chrom"
         }
       ],
       "Instilling Orb": [
@@ -2959,6 +3206,20 @@
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Jeweller's Orb": [
@@ -2969,9 +3230,7 @@
             "RangeType": 0,
             "ValidTime": 1
           },
-          "Tiers": [
-            "t7chance"
-          ],
+          "Tiers": [],
           "FallbackTier": "t6chrom"
         },
         {
@@ -2982,8 +3241,22 @@
             "ValidTime": 2
           },
           "Tiers": [
-            "t7chance",
-            "t8trans",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos",
             "t5alchemy"
           ],
           "FallbackTier": "t6chrom"
@@ -3057,6 +3330,21 @@
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Scrap Metal": [
@@ -3068,6 +3356,21 @@
             "ValidTime": 1
           },
           "Tiers": [
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
             "t4chaos"
           ],
           "FallbackTier": "t5alchemy"
@@ -3083,9 +3386,23 @@
           },
           "Tiers": [
             "t3annul",
-            "t5alchemy"
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Exotic Coinage": [
@@ -3099,9 +3416,23 @@
           "Tiers": [
             "t3annul",
             "t2divine",
-            "t5alchemy"
+            "t4chaos"
           ],
-          "FallbackTier": "t4chaos"
+          "FallbackTier": "t5alchemy"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Remembrance": [
@@ -3289,9 +3620,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -3301,9 +3632,9 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         }
       ],
       "Veiled Exalted Orb": [
@@ -3420,9 +3751,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -3444,9 +3775,9 @@
             "ValidTime": 0
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
         },
         {
           "Settings": {
@@ -3468,9 +3799,21 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Foulborn Orb of Augmentation": [
@@ -3485,6 +3828,21 @@
             "t3annul"
           ],
           "FallbackTier": "t4chaos"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
         }
       ],
       "Foulborn Regal Orb": [
@@ -3499,6 +3857,21 @@
             "t4chaos"
           ],
           "FallbackTier": "t3annul"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ],
       "Orb of Dominance": [
@@ -3510,9 +3883,21 @@
             "ValidTime": 1
           },
           "Tiers": [
-            "t2divine"
+            "t1"
           ],
-          "FallbackTier": "t1"
+          "FallbackTier": "t2divine"
+        },
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
         }
       ],
       "Exalted Orb": [
@@ -4001,6 +4386,85 @@
           },
           "Tiers": [],
           "FallbackTier": "t2divine"
+        }
+      ],
+      "Divine Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Elevated Sextant": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul"
+          ],
+          "FallbackTier": "t4chaos"
+        }
+      ],
+      "Surveyor's Compass": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos",
+            "t5alchemy"
+          ],
+          "FallbackTier": "t6chrom"
+        }
+      ],
+      "Fracturing Orb": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1"
+          ],
+          "FallbackTier": "t2divine"
+        }
+      ],
+      "Veiled Scarab": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 0
+          },
+          "Tiers": [
+            "t1",
+            "t2divine",
+            "t3annul",
+            "t4chaos"
+          ],
+          "FallbackTier": "t5alchemy"
         }
       ]
     }
