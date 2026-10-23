@@ -1731,7 +1731,9 @@
       {
         "Name": "Lesser Ward Rune",
         "BaseType": "Lesser Ward Rune",
-        "Aspects": []
+        "Aspects": [
+          "Handled"
+        ]
       }
     ],
     "Idol of Alira": [
@@ -2064,6 +2066,13 @@
       {
         "Name": "Panther Idol",
         "BaseType": "Panther Idol",
+        "Aspects": []
+      }
+    ],
+    "Jiquani's Soul Core of Rallying": [
+      {
+        "Name": "Jiquani's Soul Core of Rallying",
+        "BaseType": "Jiquani's Soul Core of Rallying",
         "Aspects": []
       }
     ]
@@ -4379,6 +4388,18 @@
           },
           "Tiers": [],
           "FallbackTier": "a"
+        }
+      ],
+      "Lesser Ward Rune": [
+        {
+          "Settings": {
+            "IsEnabled": true,
+            "ImpactType": 0,
+            "RangeType": 0,
+            "ValidTime": 1
+          },
+          "Tiers": [],
+          "FallbackTier": "c"
         }
       ]
     }
